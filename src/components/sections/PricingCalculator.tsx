@@ -183,7 +183,7 @@ export default function PricingCalculator({ matchesFilter, isNewEntry }: Props) 
               <BarChart data={chartData} layout="vertical">
                 <XAxis type="number" tickFormatter={(v) => formatCurrency(v, currency)} tick={{ fill: '#86868b', fontSize: 12 }} />
                 <YAxis type="category" dataKey="name" width={140} tick={{ fill: '#1d1d1f', fontSize: 13 }} />
-                <Tooltip formatter={(value: number) => [formatCurrency(value, currency), 'Monthly Cost']} />
+                <Tooltip formatter={(value) => [formatCurrency(Number(value), currency), 'Monthly Cost']} />
                 <Bar dataKey="cost" radius={[0, 6, 6, 0]}>
                   {chartData.map((_, i) => (
                     <Cell key={i} fill={CHART_COLORS[i % CHART_COLORS.length]} />

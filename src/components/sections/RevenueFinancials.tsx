@@ -100,7 +100,7 @@ export default function RevenueFinancials({ matchesFilter, isNewEntry }: Props) 
                 tick={{ fill: '#86868b', fontSize: 12 }}
               />
               <YAxis type="category" dataKey="name" width={140} tick={{ fill: '#1d1d1f', fontSize: 13 }} />
-              <Tooltip formatter={(value: number) => [formatUSD(value), 'Revenue (USD)']} />
+              <Tooltip formatter={(value) => [formatUSD(Number(value)), 'Revenue (USD)']} />
               <Bar dataKey="revenueUSD" radius={[0, 6, 6, 0]}>
                 {chartData.map((_, i) => (
                   <Cell key={i} fill={CHART_COLORS[i % CHART_COLORS.length]} />

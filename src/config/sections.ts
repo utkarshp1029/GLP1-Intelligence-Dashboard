@@ -15,14 +15,14 @@ import {
   Heart,
   Newspaper,
 } from 'lucide-react';
-import type { ComponentType } from 'react';
+import type { ComponentType, CSSProperties } from 'react';
 
 export interface SectionConfig {
   id: string;
   title: string;
   shortTitle: string;
   description: string;
-  icon: ComponentType<{ className?: string; size?: number }>;
+  icon: ComponentType<{ className?: string; size?: number; style?: CSSProperties }>;
   dataFile: string;
   color: string;
 }
