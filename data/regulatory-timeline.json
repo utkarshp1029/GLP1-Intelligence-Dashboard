@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "section_id": "regulatory-timeline",
+    "last_updated": "2026-03-28T00:00:00Z",
+    "entry_count": 9,
+    "key_metrics": [
+      { "label": "Total Regulatory Events", "value": "10" },
+      { "label": "2026 Events", "value": "4" },
+      { "label": "Latest Action", "value": "DCGI 49-entity crackdown (Mar 24)" }
+    ]
+  },
+  "events": [
+    {
+      "id": "reg-001",
+      "date": "2020-06-05",
+      "market": "us",
+      "agency": "FDA",
+      "type": "approval",
+      "molecule": "semaglutide",
+      "brand": "Wegovy",
+      "title": "FDA approves Wegovy (semaglutide 2.4mg) for chronic weight management",
+      "summary": "First GLP-1 receptor agonist approved specifically for weight management in adults with BMI ≥30 or ≥27 with comorbidity.",
+      "impact": "high",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-fourth-product-under-national-priority-voucher-program-higher-dose-semaglutide"
+    },
+    {
+      "id": "reg-002",
+      "date": "2022-05-13",
+      "market": "us",
+      "agency": "FDA",
+      "type": "approval",
+      "molecule": "tirzepatide",
+      "brand": "Mounjaro",
+      "title": "FDA approves Mounjaro (tirzepatide) for type 2 diabetes",
+      "summary": "First dual GIP/GLP-1 receptor agonist approved. Demonstrated superior A1C reduction and weight loss vs semaglutide in SURPASS trials.",
+      "impact": "high",
+      "source_url": "https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-mounjaro"
+    },
+    {
+      "id": "reg-003",
+      "date": "2023-11-08",
+      "market": "us",
+      "agency": "FDA",
+      "type": "approval",
+      "molecule": "tirzepatide",
+      "brand": "Zepbound",
+      "title": "FDA approves Zepbound (tirzepatide) for chronic weight management",
+      "summary": "Eli Lilly's tirzepatide approved for obesity indication based on SURMOUNT trial data showing up to 22.5% body weight reduction.",
+      "impact": "high",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-medication-chronic-weight-management"
+    },
+    {
+      "id": "reg-004",
+      "date": "2022-09-22",
+      "market": "india",
+      "agency": "CDSCO",
+      "type": "approval",
+      "molecule": "semaglutide",
+      "brand": "Ozempic",
+      "title": "CDSCO approves Ozempic for T2DM in India",
+      "summary": "Novo Nordisk received marketing authorization for semaglutide injection in India for type 2 diabetes. Weight management indication not included.",
+      "impact": "high",
+      "source_url": "https://www.thenationalnews.com/health/2025/12/12/ozempic-india-weight-loss-drug/"
+    },
+    {
+      "id": "reg-005",
+      "date": "2025-04-15",
+      "market": "india",
+      "agency": "CDSCO",
+      "type": "guidance",
+      "molecule": "semaglutide",
+      "title": "CDSCO issues biosimilar pathway guidance for GLP-1 receptor agonists",
+      "summary": "CDSCO published draft guidelines for biosimilar development of peptide-based GLP-1 receptor agonists, establishing abbreviated approval pathways for Indian manufacturers.",
+      "impact": "high",
+      "source_url": "https://www.geneonline.com/semaglutide-patent-in-india-to-expire-on-march-20-2026-opening-door-for-generic-glp-1-drugs/"
+    },
+    {
+      "id": "reg-006",
+      "date": "2025-06-10",
+      "market": "india",
+      "agency": "CDSCO",
+      "type": "approval",
+      "molecule": "semaglutide",
+      "brand": "Dr. Reddy's Semaglutide",
+      "title": "First generic semaglutide approved in India",
+      "summary": "Dr. Reddy's Laboratories received CDSCO approval for its biosimilar semaglutide injection, becoming the first generic GLP-1 RA in India.",
+      "impact": "high",
+      "source_url": "https://www.fiercepharma.com/pharma/novos-semaglutide-losing-patent-protection-indian-drugmakers-set-launch-their-generics"
+    },
+    {
+      "id": "reg-007",
+      "date": "2026-01-20",
+      "market": "india",
+      "agency": "CDSCO",
+      "type": "prescribing_rule",
+      "title": "CDSCO draft guidelines on off-label GLP-1 prescribing for weight management",
+      "summary": "CDSCO issued draft guidelines addressing the growing off-label use of diabetes-approved GLP-1 RA products for weight management in India, proposing prescriber qualification requirements.",
+      "impact": "medium",
+      "source_url": "https://www.statnews.com/2026/03/17/generic-semaglutide-india-bmi-obesity-definition/"
+    },
+    {
+      "id": "reg-008",
+      "date": "2026-03-01",
+      "market": "us",
+      "agency": "FDA",
+      "type": "guidance",
+      "title": "FDA updates compounding guidance for GLP-1 receptor agonists",
+      "summary": "FDA revised its guidance on 503B outsourcing facilities compounding semaglutide and tirzepatide, tightening quality standards and requiring additional stability testing for compounded formulations.",
+      "impact": "high",
+      "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
+    }
+  ],
+  "entries": [
+    {
+      "id": "reg-entry-008",
+      "timestamp": "2026-03-24T10:00:00Z",
+      "source_url": "https://www.business-standard.com/industry/news/centre-tightens-checks-on-generic-weight-loss-drugs-126032400478_1.html",
+      "source_name": "Business Standard",
+      "market": "india",
+      "summary": "DCGI intensified nationwide regulatory surveillance on March 24, 2026, conducting audits at 49 entities including online pharmacies, wholesalers, retailers, and wellness clinics — the most aggressive enforcement action on GLP-1 drugs since the patent expiry. Violations risk license cancellation and prosecution.",
+      "content": "The Drugs Controller General of India (DCGI) launched a nationwide crackdown on GLP-1 drug supply chains on March 24, 2026, just four days after the semaglutide patent expiry triggered a flood of generic launches. Audits spanned online pharmacy warehouses, drug wholesalers, retailers, and wellness and slimming clinics across multiple regions of the country. The inspections targeted violations related to unauthorized sale, improper prescription practices, and misleading marketing, according to Business Standard. DCGI stated that 'non-compliances will be dealt with strictly,' with penalties including license suspension, license cancellation, fines, and prosecution under the Drugs and Cosmetics Rules. Key enforcement priorities include: (1) restricting GLP-1 prescriptions to endocrinologists and internal medicine specialists only (cardiologists for some indications), blocking access by general practitioners; (2) enforcing the March 12 advisory banning all promotional activities including surrogate advertising via influencers; (3) preventing unauthorized OTC sales at beauty and wellness clinics that are not licensed pharmaceutical retailers; and (4) ensuring cold-chain compliance given that semaglutide requires 2-8°C storage from manufacturing to patient. The DCGI noted that the rapid influx of 10+ generic brands within days of patent expiry creates compliance complexity that requires heightened vigilance. This enforcement action follows India's GLP-1 market growing 177% year-on-year to ₹1,446 crore in Moving Annual Turnover (MAT) as of February 2026.",
+      "tags": ["regulatory", "india", "dcgi", "crackdown", "enforcement", "semaglutide", "supply-chain", "prescription-rules"]
+    },
+    {
+      "id": "reg-entry-009",
+      "timestamp": "2026-03-12T10:00:00Z",
+      "source_url": "https://www.pharmaceutical-technology.com/news/novo-nordisk-fda-warning-letter-semaglutide-adverse-event-reporting/",
+      "source_name": "Pharmaceutical Technology",
+      "market": "us",
+      "summary": "The FDA issued a formal warning letter to Novo Nordisk on March 5, 2026, citing 'serious violations' in post-marketing adverse event reporting for semaglutide — including three unreported deaths (one suicide) and failure to report within 15-day timelines. FDA called these systemic failures affecting Novo's entire product portfolio.",
+      "content": "The FDA's March 5, 2026 warning letter to Novo Nordisk represents a significant regulatory escalation for the world's leading GLP-1 manufacturer. The letter, resulting from a Bioresearch Monitoring Program inspection conducted January 13 to February 7, 2025, identified systemic failures in Novo's post-marketing adverse drug experience (PADE) reporting system. Key violations included: two patient deaths associated with semaglutide use that were not reported to the FDA (dated January 30, 2024 and December 20, 2024); one patient suicide that was not reported at all; one case of suicidal ideation reported late; and multiple serious adverse events — including strokes — that were improperly invalidated because Novo's contractor required patient consent to follow up (a requirement not mandated by PADE regulations). The FDA stressed that the warning letter 'does not mean the medications caused the deaths' but that Novo's surveillance, receipt, evaluation, and reporting systems were systemically deficient. The agency noted the scope and impact of violations extended beyond semaglutide to 'the entire product portfolio,' including liraglutide, nedosiran sodium, and estradiol. Novo Nordisk responded by committing to revise SOPs, shift intake to in-house healthcare professionals, strengthen vendor oversight, and retrospectively review closed pharmacovigilance deviations back to June 2017. The warning letter adds regulatory pressure to a company already managing a forecasted 5-13% revenue decline in 2026 and an 11% workforce reduction.",
+      "tags": ["regulatory", "us", "fda", "warning-letter", "novo-nordisk", "adverse-events", "safety-reporting", "pade"]
+    },
+    {
+      "id": "reg-entry-001",
+      "timestamp": "2026-03-15T09:00:00Z",
+      "source_url": "https://www.statnews.com/2026/03/17/generic-semaglutide-india-bmi-obesity-definition/",
+      "source_name": "STAT News",
+      "market": "india",
+      "summary": "CDSCO's draft guidelines on off-label GLP-1 prescribing for weight management have drawn strong reactions from India's endocrinology community. The guidelines propose limiting obesity prescriptions to endocrinologists and bariatric specialists.",
+      "content": "CDSCO's draft guidelines on off-label GLP-1 prescribing for weight management have drawn strong reactions from India's endocrinology community. The guidelines propose limiting obesity prescriptions to endocrinologists and bariatric specialists, which critics argue will restrict access in Tier 2 and Tier 3 cities with limited specialist availability.",
+      "tags": ["regulatory", "india", "cdsco", "off-label", "obesity", "guidelines"]
+    },
+    {
+      "id": "reg-entry-002",
+      "timestamp": "2026-03-02T14:00:00Z",
+      "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+      "source_name": "FDA",
+      "market": "us",
+      "summary": "The FDA's updated compounding guidance requires 503B outsourcing facilities to conduct 90-day stability studies for compounded semaglutide formulations, up from the previous 30-day requirement.",
+      "content": "The FDA's updated compounding guidance requires 503B outsourcing facilities to conduct 90-day stability studies for compounded semaglutide formulations, up from the previous 30-day requirement. Several smaller compounding pharmacies have indicated they may exit the GLP-1 market due to increased compliance costs.",
+      "tags": ["regulatory", "us", "fda", "compounding", "503b", "semaglutide"]
+    },
+    {
+      "id": "reg-entry-003",
+      "timestamp": "2026-03-20T08:00:00Z",
+      "source_url": "https://www.businesstoday.in/industry/pharma/story/indias-weight-loss-drug-moment-what-happens-when-semaglutide-goes-generic-521612-2026-03-20",
+      "source_name": "Business Today",
+      "market": "india",
+      "summary": "Over 40 Indian manufacturers launched generic semaglutide brands following the March 20 patent expiry, with CDSCO having cleared formulations from Sun Pharma, Zydus, Dr. Reddy's, Natco, and Mankind between September 2025 and February 2026.",
+      "content": "Over 40 Indian manufacturers launched generic semaglutide brands following the March 20, 2026 patent expiry, with CDSCO having cleared formulations from Sun Pharma, Zydus, Dr. Reddy's, Natco, Alkem, and Mankind between September 2025 and February 2026. More than 50 brand names are expected across the Indian market through 2026. Natco launched at Rs 1,290 per month, roughly 90% below branded Ozempic pricing of Rs 10,850-16,400, while Zydus introduced an innovative reusable multi-dose pen at approximately Rs 2,200 per month. The scale of competition is unprecedented for a biologic drug in India.",
+      "tags": ["regulatory", "india", "cdsco", "generic", "semaglutide", "patent-expiry", "pricing"]
+    },
+    {
+      "id": "reg-entry-004",
+      "timestamp": "2026-03-19T10:00:00Z",
+      "source_url": "https://www.business-standard.com/industry/news/cos-may-pivot-to-doctor-conferences-after-cdsco-bars-weightloss-drug-ads-126031901166_1.html",
+      "source_name": "Business Standard",
+      "market": "india",
+      "summary": "CDSCO issued a March 12, 2026 advisory barring all pharmaceutical companies from promotional activities for GLP-1 agonist obesity drugs, classifying them as Schedule H prescription-only medicines.",
+      "content": "CDSCO issued a March 12, 2026 advisory barring all pharmaceutical companies from promotional activities for GLP-1 agonist obesity drugs, classifying them as Schedule H prescription-only medicines. The advisory explicitly targets surrogate advertising including influencer collaborations, celebrity endorsements, and disease awareness campaigns that indirectly promote specific medications. Companies pivoting to doctor conferences and medical education programs as alternative marketing channels. Penalties for violations include imprisonment of 1-3 years and substantial fines, with potential license suspension by State Drug Controllers.",
+      "tags": ["regulatory", "india", "cdsco", "schedule-h", "advertising-ban", "marketing", "glp-1"]
+    },
+    {
+      "id": "reg-entry-005",
+      "timestamp": "2026-03-10T12:00:00Z",
+      "source_url": "https://www.who.int/news/item/05-09-2025-who-updates-list-of-essential-medicines-to-include-key-cancer--diabetes-treatments",
+      "source_name": "World Health Organization",
+      "market": "both",
+      "summary": "WHO added semaglutide, dulaglutide, liraglutide, and tirzepatide to the Essential Medicines List in September 2025, followed by the first WHO guideline on GLP-1 use for obesity treatment in December 2025.",
+      "content": "WHO added GLP-1 receptor agonists (semaglutide, dulaglutide, liraglutide) and tirzepatide to the Essential Medicines List in September 2025 for adults with type 2 diabetes and established cardiovascular disease, chronic kidney disease, or obesity. In December 2025, WHO issued its first guideline on GLP-1 therapies specifically for obesity treatment. The WHO noted that current GLP-1 prices are up to 400 times higher than profitable production costs, and even with rapid production expansion, these therapies are projected to reach fewer than 10% of those who could benefit by 2030. The EML listing enables prioritization of limited resources and supports generic development post-patent expiry.",
+      "tags": ["regulatory", "who", "essential-medicines", "semaglutide", "tirzepatide", "obesity", "access"]
+    },
+    {
+      "id": "reg-entry-006",
+      "timestamp": "2026-03-05T15:00:00Z",
+      "source_url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+      "source_name": "FDA",
+      "market": "us",
+      "summary": "FDA intensified enforcement against unapproved compounded semaglutide and tirzepatide products following reports of adverse events including hospitalizations from dosing errors with compounded injectables.",
+      "content": "FDA received multiple reports of adverse events, some requiring hospitalization, related to dosing errors with compounded injectable semaglutide products. By May 2025, all compounded semaglutide and tirzepatide became unavailable under federal law. Meanwhile, oral Wegovy (semaglutide 25mg tablet) gained FDA approval in December 2025 and was prescribed to approximately 400,000 Americans within its first 10 weeks, far outpacing other GLP-1 launch rates. The oral formulation's rapid adoption underscores pent-up demand for non-injectable obesity treatments, with Novo Nordisk pricing the pill at $299/month through self-pay options.",
+      "tags": ["regulatory", "us", "fda", "compounding", "oral-wegovy", "safety", "off-label"]
+    },
+    {
+      "id": "reg-entry-007",
+      "timestamp": "2026-03-01T09:00:00Z",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6394151/",
+      "source_name": "PMC / National Library of Medicine",
+      "market": "both",
+      "summary": "India's biosimilar regulatory pathway differs fundamentally from the US FDA's BPCI Act framework, with CDSCO guidelines lacking the legal force of law and following a different approach to reference product selection and interchangeability.",
+      "content": "India's regulatory framework for biosimilar peptides, termed 'similar biologics,' operates under the Drugs and Cosmetics Act 1940 rather than dedicated biologics legislation like the US BPCI Act. Key differences include: India's guidelines lack legal enforceability compared to US statutory requirements; CDSCO's 2025 draft guidelines expanded reference product selection to ICH countries, moving closer to FDA standards; India has no defined interchangeability pathway comparable to the FDA's; and Indian testing criteria historically diverge from FDA, EMA, and WHO norms, though the 2025 draft guidelines represent significant strides toward global alignment. This regulatory gap affects India's international biosimilar trade prospects.",
+      "tags": ["regulatory", "india", "us", "biosimilar", "cdsco", "fda", "framework-comparison"]
+    }
+  ]
+}

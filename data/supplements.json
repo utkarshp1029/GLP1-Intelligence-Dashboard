@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "section_id": "supplements",
+    "last_updated": "2026-03-17T10:00:00Z",
+    "entry_count": 8,
+    "key_metrics": [
+      {
+        "label": "Tracked Supplements",
+        "value": "5"
+      },
+      {
+        "label": "Berberine Sales Growth (India)",
+        "value": "3x YoY",
+        "delta_direction": "up"
+      },
+      {
+        "label": "FDA Warning Letters Issued",
+        "value": "4"
+      }
+    ]
+  },
+  "supplements": [
+    {
+      "id": "supp-001",
+      "name": "Berberine",
+      "brand": "Himalaya / Thorne",
+      "manufacturer": "Various",
+      "market": "both",
+      "type": "glp1_mimic",
+      "key_ingredients": [
+        "Berberine HCl"
+      ],
+      "platforms": [
+        "Amazon India",
+        "Amazon US",
+        "iHerb",
+        "1mg"
+      ],
+      "price_range": "$15/month (US), ₹400/month (India)",
+      "avg_rating": 4.2,
+      "review_count": 12500,
+      "source_url": "https://www.aipalette.com/berberine-trend-vs-ozempic-functional-supplements-future/"
+    },
+    {
+      "id": "supp-002",
+      "name": "Psyllium Husk (Isabgol)",
+      "brand": "Sat-Isabgol / Metamucil",
+      "manufacturer": "Various",
+      "market": "both",
+      "type": "glp1_support",
+      "key_ingredients": [
+        "Psyllium husk fiber"
+      ],
+      "platforms": [
+        "Amazon India",
+        "Amazon US",
+        "Local pharmacies"
+      ],
+      "price_range": "$12/month (US), ₹150/month (India)",
+      "avg_rating": 4.5,
+      "review_count": 28000,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/20147463/"
+    },
+    {
+      "id": "supp-003",
+      "name": "Chromium Picolinate",
+      "brand": "NOW Foods / Nature Made",
+      "manufacturer": "Various",
+      "market": "us",
+      "type": "weight_loss",
+      "key_ingredients": [
+        "Chromium picolinate"
+      ],
+      "platforms": [
+        "Amazon US",
+        "Walmart",
+        "iHerb"
+      ],
+      "price_range": "$8/month",
+      "avg_rating": 3.9,
+      "review_count": 8500,
+      "source_url": "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/"
+    },
+    {
+      "id": "supp-004",
+      "name": "Inulin (Chicory Root Fiber)",
+      "brand": "Jarrow Formulas / Nutriwish",
+      "manufacturer": "Various",
+      "market": "both",
+      "type": "glp1_support",
+      "key_ingredients": [
+        "Inulin",
+        "Fructooligosaccharides (FOS)"
+      ],
+      "platforms": [
+        "Amazon India",
+        "Amazon US",
+        "iHerb"
+      ],
+      "price_range": "$18/month (US), ₹600/month (India)",
+      "avg_rating": 4.1,
+      "review_count": 6200,
+      "source_url": "https://jn.nutrition.org/article/S0022-3166(23)01864-3/fulltext"
+    },
+    {
+      "id": "supp-005",
+      "name": "Fenugreek (Methi)",
+      "brand": "Patanjali / Organic India",
+      "manufacturer": "Various",
+      "market": "india",
+      "type": "glp1_support",
+      "key_ingredients": [
+        "Fenugreek seed extract",
+        "4-hydroxyisoleucine",
+        "Galactomannan fiber"
+      ],
+      "platforms": [
+        "Amazon India",
+        "1mg",
+        "Local pharmacies"
+      ],
+      "price_range": "₹100/month",
+      "avg_rating": 4.3,
+      "review_count": 15000,
+      "source_url": "#"
+    }
+  ],
+  "entries": [
+    {
+      "id": "supp-entry-001",
+      "timestamp": "2026-03-14T09:00:00Z",
+      "source_url": "https://www.accio.com/business/trends-of-berberine-supplements",
+      "source_name": "Accio Market Intelligence",
+      "market": "india",
+      "summary": "Berberine supplement sales in India have tripled year-over-year, driven by social media content positioning it as a natural alternative to Ozempic.",
+      "content": "Berberine supplement sales in India have tripled year-over-year, driven by social media content positioning it as a natural alternative to Ozempic. Indian supplement brands report that berberine is now their fastest-growing SKU, though endocrinologists caution that the weight-loss effects are minimal compared to prescription GLP-1 receptor agonists.",
+      "tags": [
+        "supplements",
+        "berberine",
+        "india",
+        "social-media",
+        "ozempic-alternative"
+      ]
+    },
+    {
+      "id": "supp-entry-002",
+      "timestamp": "2026-03-06T15:00:00Z",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+      "source_name": "FDA",
+      "market": "us",
+      "summary": "The FDA issued warning letters to four supplement companies making unauthorized claims that their products replicate GLP-1 receptor agonist effects.",
+      "content": "The FDA issued warning letters to four supplement companies making unauthorized claims that their products replicate GLP-1 receptor agonist effects. The agency emphasized that no dietary supplement has been shown to produce weight loss comparable to approved GLP-1 medications and that such claims are misleading to consumers.",
+      "tags": [
+        "supplements",
+        "us",
+        "fda",
+        "warning",
+        "claims",
+        "regulation"
+      ]
+    },
+    {
+      "id": "supp-entry-003",
+      "timestamp": "2026-03-10T11:00:00Z",
+      "source_url": "https://www.uclahealth.org/news/article/what-know-about-berberine-so-called-natures-ozempic",
+      "source_name": "UCLA Health",
+      "market": "us",
+      "content": "TikTok videos about berberine have accumulated over 127 million views, branding it as a cheap alternative to Ozempic at $10 vs $900+. However, clinical evidence shows berberine produces weight loss of only 5-10 pounds compared to 30-50 pounds for GLP-1 medications like Wegovy and Mounjaro. Harvard Medical School experts confirm berberine activates AMPK rather than directly mimicking GLP-1 receptor agonism, making the comparison fundamentally flawed. While berberine shows genuine benefits for cholesterol and blood sugar management, UCLA Health researchers emphasize that more gold-standard randomized controlled trials are needed before any meaningful weight-loss claims can be supported.",
+      "tags": [
+        "supplements",
+        "berberine",
+        "tiktok",
+        "us",
+        "scientific-evidence",
+        "ozempic-alternative"
+      ],
+      "summary": "Berberine as 'Nature's Ozempic': TikTok hype vs scientific reality"
+    },
+    {
+      "id": "supp-entry-004",
+      "timestamp": "2026-03-08T14:00:00Z",
+      "source_url": "https://www.futuremarketinsights.com/reports/glp-1-nutritional-support-market",
+      "source_name": "Future Market Insights",
+      "market": "both",
+      "content": "The global GLP-1 nutritional support market is projected to grow from $4.1 billion in 2025 to $13 billion by 2035, at a CAGR of 12.2%. Protein and macronutrient blends dominate the product segment with a 43% share, as GLP-1 drug users seek supplements to address muscle loss and nutritional deficiencies caused by reduced appetite. Prescription supplements account for 72% of the channel segment, indicating physician-guided supplement use is outpacing direct-to-consumer sales. With polling suggesting one in eight US adults is now taking GLP-1 medications, the adjacent supplement market represents a massive and rapidly expanding opportunity for both US and Indian manufacturers.",
+      "tags": [
+        "supplements",
+        "market-size",
+        "glp1-support",
+        "growth",
+        "both"
+      ],
+      "summary": "GLP-1 nutritional support supplement market projected to reach $13B by 2035"
+    },
+    {
+      "id": "supp-entry-005",
+      "timestamp": "2026-03-05T10:00:00Z",
+      "source_url": "https://www.nutritionaloutlook.com/view/glp-1-support-takes-over-supplyside-global-2025",
+      "source_name": "Nutritional Outlook",
+      "market": "us",
+      "content": "GLP-1 was the most prominent trend at the SupplySide Global 2025 trade show, with ingredient manufacturers showcasing two distinct supplement categories: nutritional support for people already on GLP-1 drugs and products claiming to naturally increase GLP-1 production in the body. Key ingredients being marketed include berberine, probiotics, curcumin, chromium, green tea extract, and inulin. The show highlighted how 30 to 50 million Americans are potentially in the market for GLP-1 drugs, creating a parallel demand for companion supplements targeting side effects like digestive issues, nutrient deficiencies, and muscle loss.",
+      "tags": [
+        "supplements",
+        "us",
+        "trade-show",
+        "glp1-support",
+        "market-trends",
+        "ingredients"
+      ],
+      "summary": "GLP-1 support dominates SupplySide Global 2025 trade show"
+    },
+    {
+      "id": "supp-entry-006",
+      "timestamp": "2026-03-03T09:00:00Z",
+      "source_url": "https://www.nutraingredients.com/Article/2025/09/15/glp-1s-and-supplement-weight-management-claims/",
+      "source_name": "NutraIngredients",
+      "market": "us",
+      "content": "The FDA has escalated enforcement against supplements making GLP-1-adjacent claims, issuing over 50 warning letters to compounders and manufacturers in September 2025 alone, followed by 30 more to telehealth companies in early 2026. While supplements can reference GLP-1 as part of structure/function claims since it is a naturally occurring hormone, products claiming to replace or serve as alternatives to approved GLP-1 drugs cross into unlawful drug claims territory. Healthcare professionals report increased liver toxicity cases in patients taking GLP-1-related supplements, with symptoms sometimes not appearing until patients present with jaundice or liver failure. The crackdown signals a broader regulatory tightening around the supplement-pharma boundary.",
+      "tags": [
+        "supplements",
+        "us",
+        "regulation",
+        "fda",
+        "warning-letters",
+        "health-risks",
+        "compounding"
+      ],
+      "summary": "Regulatory risks intensify for supplements making GLP-1 weight management claims"
+    },
+    {
+      "id": "supp-entry-007",
+      "timestamp": "2026-03-01T16:00:00Z",
+      "source_url": "https://www.business-standard.com/industry/news/indian-cdmos-gear-up-for-postsemaglutide-peptide-market-boom-125072000141_1.html",
+      "source_name": "Business Standard",
+      "market": "india",
+      "content": "Indian CDMOs and nutraceutical companies are rapidly positioning themselves for the post-semaglutide-patent market, with the GLP-1 therapy market expected to surpass $150 billion globally by 2030. Companies like Himalaya, Organic India, and Patanjali are expanding their berberine, fenugreek, and fiber-based product lines marketed as metabolic health support. Indian CDMOs are also investing in peptide API capabilities to serve both the generic drug and supplement-ingredient supply chains. The convergence of India's traditional Ayurvedic ingredient expertise with modern peptide manufacturing positions the country uniquely in the global GLP-1 ecosystem.",
+      "tags": [
+        "supplements",
+        "india",
+        "cdmo",
+        "nutraceutical",
+        "glp1-adjacent",
+        "ayurvedic"
+      ],
+      "summary": "Indian supplement and nutraceutical companies pivot toward GLP-1 adjacent products"
+    },
+    {
+      "id": "supp-entry-008",
+      "timestamp": "2026-02-28T12:00:00Z",
+      "source_url": "https://health.usnews.com/otc/rankings/weight-loss-supplements",
+      "source_name": "U.S. News & World Report",
+      "market": "us",
+      "content": "The Amazon marketplace has seen an explosion of GLP-1 support supplements, with brands like Lemme GLP-1 Daily Support, ColonBroom GLP-1, and various pharmacist-formulated products competing for consumer attention. Most products feature combinations of berberine, inulin, probiotics, and green tea extract, priced between $25-60 per month. Consumer reviews are polarized, with many reporting modest appetite reduction but medical experts cautioning that no supplement can replicate the 15-20% body weight loss seen with prescription GLP-1 medications. U.S. News rankings highlight that over-the-counter weight loss supplements may have limited short-term effects and lack strong scientific evidence for long-term efficacy.",
+      "tags": [
+        "supplements",
+        "us",
+        "amazon",
+        "consumer-reviews",
+        "e-commerce",
+        "glp1-support"
+      ],
+      "summary": "GLP-1 support supplements flood Amazon marketplace with mixed consumer reviews"
+    }
+  ]
+}

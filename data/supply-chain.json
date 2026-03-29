@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "section_id": "supply-chain",
+    "last_updated": "2026-03-28T00:00:00Z",
+    "entry_count": 9,
+    "key_metrics": [
+      {
+        "label": "Active Shortages",
+        "value": "Saxenda/Victoza (liraglutide only)"
+      },
+      {
+        "label": "Semaglutide/Tirzepatide",
+        "value": "Available — no active shortage"
+      },
+      {
+        "label": "Most Reliable Supply",
+        "value": "Oral Wegovy pill (Jan 2026)"
+      }
+    ]
+  },
+  "shortages": [
+    {
+      "id": "sc-001",
+      "drug": "Wegovy",
+      "manufacturer": "Novo Nordisk",
+      "market": "us",
+      "status": "resolved",
+      "start_date": "2024-03-01",
+      "resolved_date": "2025-12-15",
+      "reason": "Demand surge post-approval for cardiovascular indication outpaced fill-finish capacity",
+      "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
+    },
+    {
+      "id": "sc-002",
+      "drug": "Mounjaro / Zepbound",
+      "manufacturer": "Eli Lilly",
+      "market": "us",
+      "status": "resolved",
+      "start_date": "2025-06-01",
+      "resolved_date": "2026-03-01",
+      "reason": "Unprecedented demand for higher maintenance doses exceeding manufacturing forecasts",
+      "estimated_resolution": "Resolved — FDA removed from shortage list. LEAP facility Q3 2026 completion will add further capacity.",
+      "source_url": "https://allglp1.com/shortage"
+    },
+    {
+      "id": "sc-003",
+      "drug": "Ozempic",
+      "manufacturer": "Novo Nordisk",
+      "market": "india",
+      "status": "resolved",
+      "start_date": "2025-09-01",
+      "resolved_date": "2026-01-15",
+      "reason": "Import logistics delays and regulatory clearance bottleneck at Indian ports",
+      "source_url": "https://www.businesstoday.in/industry/pharma/story/only-200000-of-250-million-obese-on-glp-1-says-novo-nordisk-as-semaglutide-patent-expires-521679-2026-03-20"
+    }
+  ],
+  "entries": [
+    {
+      "id": "sc-entry-009",
+      "timestamp": "2026-03-28T00:00:00Z",
+      "source_url": "https://allglp1.com/shortage",
+      "source_name": "AllGLP1 Shortage Tracker / GoodRx",
+      "market": "us",
+      "summary": "As of late March 2026: Ozempic, Wegovy, Mounjaro, Zepbound, and Rybelsus all available with no active shortages. Saxenda (liraglutide) and Victoza remain in shortage — FDA database shows 9 shortage records including limited Victoza availability as of March 16, 2026. Oral Wegovy pill (launched January 2026) has never experienced a shortage.",
+      "content": "The GLP-1 supply chain has largely normalized by March 2026. All major semaglutide products (Ozempic, Wegovy injectable, Rybelsus, Wegovy pill) and tirzepatide products (Mounjaro, Zepbound) are available without active FDA shortage listings. Localized stock-outs still occur at individual pharmacies due to distribution timing, but medications are generally findable within 24-48 hours at alternative locations. The notable exception: liraglutide products remain in shortage. The FDA database shows 9 shortage records including limited availability of Victoza (1.8mg/3mL pen), with Saxenda (obesity indication) also experiencing constrained supply as of March 16, 2026. Novo Nordisk increased manufacturing capacity at facilities in Denmark, France, and North Carolina, now producing enough semaglutide to meet 15-20 million prescriptions annually plus projected growth. The December 2024 Catalent acquisition (three fill-finish sites in Italy, Belgium, and Indiana) significantly expanded fill-finish capacity. Eli Lilly's LEAP Innovation Park in Lebanon, Indiana is on track for Q3 2026 completion, which should further resolve any residual tirzepatide supply constraints at higher maintenance doses. The oral Wegovy pill (launched January 2026) has emerged as the most supply-stable GLP-1 option due to tablet manufacturing's inherently simpler supply chain vs injectables.",
+      "tags": ["supply-chain", "us", "shortage-resolved", "liraglutide-shortage", "saxenda", "victoza", "novo-nordisk", "lilly-leap"]
+    },
+    {
+      "id": "sc-entry-001",
+      "timestamp": "2026-03-12T10:00:00Z",
+      "source_url": "https://www.biopharmadive.com/news/fda-tirzepatide-shortage-resolved-lilly-zepbound-compounding/736020/",
+      "source_name": "BioPharma Dive",
+      "market": "us",
+      "summary": "The FDA updated its tirzepatide shortage listing, noting that higher-dose Mounjaro and Zepbound pens remain in intermittent shortage.",
+      "content": "The FDA updated its tirzepatide shortage listing, noting that higher-dose Mounjaro and Zepbound pens (7.5mg through 15mg) remain in intermittent shortage. Eli Lilly's direct-to-consumer vial program has partially offset retail pharmacy shortages, but the company maintains that full supply normalization depends on the LEAP facility completion in Q3 2026.",
+      "tags": [
+        "supply-chain",
+        "shortage",
+        "tirzepatide",
+        "mounjaro",
+        "zepbound",
+        "fda"
+      ]
+    },
+    {
+      "id": "sc-entry-002",
+      "timestamp": "2026-03-03T14:00:00Z",
+      "source_url": "https://www.businesstoday.in/industry/pharma/story/only-200000-of-250-million-obese-on-glp-1-says-novo-nordisk-as-semaglutide-patent-expires-521679-2026-03-20",
+      "source_name": "Business Today",
+      "market": "india",
+      "summary": "Novo Nordisk confirmed full Ozempic supply restoration in India following the late-2025 shortage. The stockout accelerated adoption of Indian generic semaglutide products.",
+      "content": "Novo Nordisk confirmed full Ozempic supply restoration in India following the late-2025 shortage. However, the stockout period accelerated adoption of Indian generic semaglutide products, with Dr. Reddy's and Biocon capturing an estimated 15% of patients who switched during the shortage and did not return to branded Ozempic.",
+      "tags": [
+        "supply-chain",
+        "india",
+        "ozempic",
+        "shortage",
+        "generics",
+        "switching"
+      ]
+    },
+    {
+      "id": "sc-entry-003",
+      "timestamp": "2026-03-09T08:00:00Z",
+      "source_url": "https://www.cnbc.com/2025/02/21/fda-shortage-of-novo-nordisks-wegovy-and-ozempic-drugs-is-resolved.html",
+      "source_name": "CNBC",
+      "market": "us",
+      "content": "The US semaglutide shortage spanned nearly three years, from March 2022 (Wegovy) and August 2022 (Ozempic) through February 21, 2025 when the FDA officially resolved the shortage. Semaglutide prescription fills surged 442% between January 2021 and December 2023, driven by national attention on weight-loss effects. The shortage enabled compounding pharmacies to step in under federal law, creating a multibillion-dollar compounded GLP-1 market. When the FDA declared the shortage resolved, shares of telehealth company Hims & Hers dropped over 25%, and the FDA set enforcement deadlines of April-May 2025 against compounders. A federal judge subsequently upheld the FDA's decision, rejecting legal challenges from the Outsourcing Facilities Association.",
+      "tags": [
+        "supply-chain",
+        "us",
+        "shortage",
+        "semaglutide",
+        "ozempic",
+        "wegovy",
+        "fda",
+        "timeline",
+        "compounding"
+      ],
+      "summary": "Semaglutide shortage timeline: nearly 3 years of US supply disruption (2022-2025)"
+    },
+    {
+      "id": "sc-entry-004",
+      "timestamp": "2026-03-07T13:00:00Z",
+      "source_url": "https://www.business-standard.com/industry/news/sun-pharma-dr-reddy-s-glenmark-launch-generic-semaglutide-in-india-126032100221_1.html",
+      "source_name": "Business Standard",
+      "market": "india",
+      "content": "On March 20-21, 2026, multiple Indian pharma companies launched generic semaglutide immediately upon patent expiry. Sun Pharma launched Noveltreat/Sematrinity, Dr. Reddy's launched Obeda at approximately Rs 4,200/month, Glenmark launched GLIPIQ with weekly costs of Rs 325-440 for vials, and Zydus launched from its Biotech Park at approximately Rs 2,200/month. These represent 50-60% price reductions compared to Novo Nordisk's branded Ozempic (Rs 8,800-11,175/month). Over 40 generic manufacturers are expected to enter the market, creating an estimated Rs 5,000 crore incremental opportunity within 12-15 months according to Systematix Research, with Jefferies projecting the domestic market could eventually reach $1 billion.",
+      "tags": [
+        "supply-chain",
+        "india",
+        "generics",
+        "semaglutide",
+        "patent-expiry",
+        "pricing",
+        "launch"
+      ],
+      "summary": "Indian generic semaglutide launches flood market on Day 1 of patent expiry"
+    },
+    {
+      "id": "sc-entry-005",
+      "timestamp": "2026-03-05T10:00:00Z",
+      "source_url": "https://www.fiercepharma.com/manufacturing/novo-nordisk-devotes-6b-expanding-production-ozempic-wegovy-ceo-indicates-more-come",
+      "source_name": "Fierce Pharma",
+      "market": "both",
+      "content": "Novo Nordisk's production expansion is proceeding on a staggered timeline: the $6 billion Kalundborg API facility expansion is being completed in phases from late 2025 through 2029, adding 170,000 square meters of multi-product capacity. The company's 2025 capex of approximately $9 billion covers API manufacturing, aseptic production, and packaging. Three fill-finish sites acquired from Catalent (in Italy, Belgium, and Indiana) for $11 billion began transitioning to Novo Nordisk production in early 2026. Despite the massive investment, the company acknowledged continued periodic supply constraints across some products and geographies in its 2025 outlook. Total investment in US manufacturing alone has reached $6.5 billion.",
+      "tags": [
+        "supply-chain",
+        "novo-nordisk",
+        "expansion",
+        "timeline",
+        "kalundborg",
+        "catalent",
+        "capacity"
+      ],
+      "summary": "Novo Nordisk production expansion timeline: $9B annual spend to meet global demand"
+    },
+    {
+      "id": "sc-entry-006",
+      "timestamp": "2026-03-02T11:00:00Z",
+      "source_url": "https://www.stevanatogroup.com/en/markets/glp-1-peptides/",
+      "source_name": "Stevanato Group",
+      "market": "both",
+      "content": "The GLP-1 pen device supply chain is dominated by specialized manufacturers including Ypsomed (which signed a long-term deal with Novo Nordisk for autoinjectors), Stevanato Group (providing glass cartridges, pen injectors, and autoinjectors from its FDA-inspected German facility), SHL Medical, and Phillips Medisize. Projected demand could reach 1.5 billion devices annually for an estimated 30 million US patients by 2030. However, equipment lead times for device assembly stretch 18-24 months, and fill-finish lead times often exceed one year during peak demand. Machine manufacturing is often the biggest bottleneck since devices are hand-tooled, making rapid production scaling impossible. This has driven the industry toward platform-based autoinjector designs to reduce SKU complexity.",
+      "tags": [
+        "supply-chain",
+        "pen-device",
+        "auto-injector",
+        "ypsomed",
+        "stevanato",
+        "bottleneck",
+        "device-manufacturing"
+      ],
+      "summary": "Pen device and auto-injector supply chain faces 18-24 month equipment lead times"
+    },
+    {
+      "id": "sc-entry-007",
+      "timestamp": "2026-02-27T15:00:00Z",
+      "source_url": "https://chemxpert.com/blog/5-best-api-suppliers-for-semaglutide-in-india",
+      "source_name": "ChemXpert",
+      "market": "both",
+      "content": "The global semaglutide API supply chain has expanded to 170 suppliers with 61 US DMFs filed, according to PharmaCompass data. India is emerging as a major manufacturing hub with companies like Dr. Reddy's, Neuland Laboratories, Aurobindo Pharma, Supriya Lifescience, and Anthem Biosciences scaling peptide synthesis capabilities. However, semaglutide remains a rare API due to its 31-amino-acid complexity, requiring specialized protected amino acids, coupling reagents, and multi-step purification. The supply chain faces structural constraints: availability of raw materials (protected amino acids), limited HPLC purification capacity, and the need for WHO-GMP or FDA-compliant facilities. Indian manufacturers are investing heavily but industry observers note that prefilled pen delivery systems could limit how quickly volumes expand in the first phase.",
+      "tags": [
+        "supply-chain",
+        "api",
+        "semaglutide",
+        "india",
+        "global",
+        "raw-materials",
+        "purification"
+      ],
+      "summary": "Global semaglutide API supply chain: 170 suppliers with India emerging as key hub"
+    },
+    {
+      "id": "sc-entry-008",
+      "timestamp": "2026-02-24T09:00:00Z",
+      "source_url": "https://www.pearceip.law/2025/07/24/dr-reddys-plans-to-launch-generic-semaglutide-in-87-countries-in-2026/",
+      "source_name": "Pearce IP",
+      "market": "both",
+      "content": "Dr. Reddy's announced plans to launch generic semaglutide in 87 countries in 2026, starting with Canada, India, Brazil, Turkey, and other emerging markets, with the US and Europe expected between 2029 and 2033 based on patent timelines. The company's CEO expects generic semaglutide to generate hundreds of millions of dollars in sales. India's total addressable market is massive, with 89.8 million adults living with diabetes in 2024 and only 200,000 of India's 250 million obese individuals currently on GLP-1 therapy according to Novo Nordisk. Companies with existing peptide manufacturing capabilities and chronic-therapy field forces are expected to gain early advantage, while the broader global rollout depends on country-by-country patent expiry schedules and regulatory approvals.",
+      "tags": [
+        "supply-chain",
+        "india",
+        "generics",
+        "dr-reddys",
+        "global-launch",
+        "semaglutide",
+        "patent-strategy"
+      ],
+      "summary": "Indian generics tackle global supply constraints with 87-country semaglutide launch strategy"
+    }
+  ]
+}
