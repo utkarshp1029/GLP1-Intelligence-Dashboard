@@ -66,7 +66,7 @@ export default function SectionDetail({ matchesFilter, isNewEntry }: SectionDeta
       <section className="bg-[#f5f5f7] dark:bg-[#1d1d1f]">
         <div className="max-w-[980px] mx-auto px-6 py-16 md:py-24">
           <div className="flex items-center gap-2 mb-4">
-            <Icon size={16} style={{ color: section.color }} />
+            <span style={{ color: section.color }}><Icon size={16} /></span>
             <span
               className="apple-eyebrow"
               style={{ color: section.color }}

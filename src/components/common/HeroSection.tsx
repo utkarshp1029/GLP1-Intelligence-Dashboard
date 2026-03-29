@@ -37,7 +37,7 @@ export default function HeroSection({
       <div className="max-w-[980px] mx-auto px-6 py-20 md:py-28 lg:py-36">
         {/* Eyebrow */}
         <div className="flex items-center gap-2 mb-4">
-          <Icon size={16} style={{ color: section.color }} />
+          <span style={{ color: section.color }}><Icon size={16} /></span>
           <span
             className="text-xs font-semibold tracking-widest uppercase"
             style={{ color: section.color }}

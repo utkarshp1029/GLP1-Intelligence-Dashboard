@@ -38,7 +38,7 @@ export default function SectionCard({
             className="p-2 rounded-lg"
             style={{ backgroundColor: `${section.color}15` }}
           >
-            <Icon size={20} style={{ color: section.color }} />
+            <span style={{ color: section.color }}><Icon size={20} /></span>
           </div>
           <div>
             <h3 className="font-semibold text-gray-900 dark:text-white text-sm">
