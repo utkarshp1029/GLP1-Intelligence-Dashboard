@@ -10,6 +10,7 @@ lerna-debug.log*
 node_modules
 dist-ssr
 .vercel
+public/data
 *.local
 
 # Editor directories and files

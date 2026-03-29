@@ -18,7 +18,7 @@ export function useDataLoader<T>(dataFile: string): UseDataLoaderResult<T> {
     setLoading(true);
     setError(null);
 
-    fetch(`/data/${dataFile}`)
+    fetch(`${import.meta.env.BASE_URL}data/${dataFile}`)
       .then((res) => {
         if (!res.ok) throw new Error(`Failed to load ${dataFile}`);
         return res.json();

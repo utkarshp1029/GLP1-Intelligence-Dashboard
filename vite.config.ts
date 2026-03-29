@@ -4,7 +4,10 @@ import tailwindcss from '@tailwindcss/vite'
 import path from 'path'
 import fs from 'fs'
 
+const isProd = process.env.NODE_ENV === 'production';
+
 export default defineConfig({
+  base: isProd ? '/GLP1-Intelligence-Dashboard/' : '/',
   plugins: [
     react(),
     tailwindcss(),

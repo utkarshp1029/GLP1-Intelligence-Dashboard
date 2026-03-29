@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "section_id": "telehealth-d2c",
+    "last_updated": "2026-03-28T00:00:00Z",
+    "entry_count": 7,
+    "key_metrics": [
+      {
+        "label": "Tracked Platforms",
+        "value": "5"
+      },
+      {
+        "label": "Hims & Hers GLP-1 Subscribers",
+        "value": "450K"
+      },
+      {
+        "label": "India Platforms Emerging",
+        "value": "2"
+      }
+    ]
+  },
+  "platforms": [
+    {
+      "id": "th-001",
+      "name": "Ro (Roman)",
+      "market": "us",
+      "type": "telehealth",
+      "molecules_offered": [
+        "semaglutide (compounded)",
+        "tirzepatide (compounded)",
+        "Wegovy",
+        "Zepbound"
+      ],
+      "pricing_model": "$299-599/month subscription including consultation and medication",
+      "partnerships": [
+        "Empower Pharmacy",
+        "Multiple 503B facilities"
+      ],
+      "source_url": "https://www.ro.co/weight-loss"
+    },
+    {
+      "id": "th-002",
+      "name": "Hims & Hers",
+      "market": "us",
+      "type": "dtc",
+      "molecules_offered": [
+        "semaglutide (compounded)",
+        "liraglutide (compounded)"
+      ],
+      "pricing_model": "$199-399/month subscription including consultation and medication",
+      "partnerships": [
+        "Multiple compounding pharmacies"
+      ],
+      "launch_date": "2024-01-15",
+      "source_url": "https://www.forhims.com/weight-loss"
+    },
+    {
+      "id": "th-003",
+      "name": "Found",
+      "market": "us",
+      "type": "telehealth",
+      "molecules_offered": [
+        "semaglutide (compounded)",
+        "tirzepatide (compounded)",
+        "Wegovy",
+        "Mounjaro"
+      ],
+      "pricing_model": "$149-499/month with coaching and medication management",
+      "partnerships": [
+        "Board-certified physicians",
+        "Health coaches"
+      ],
+      "source_url": "https://www.joinfound.com"
+    },
+    {
+      "id": "th-004",
+      "name": "MediBuddy GLP-1 Program",
+      "market": "india",
+      "type": "telehealth",
+      "molecules_offered": [
+        "Ozempic",
+        "Dr. Reddy's Semaglutide",
+        "Biocon Semaglutide"
+      ],
+      "pricing_model": "₹4,500-15,000/month consultation + medication",
+      "partnerships": [
+        "Apollo Pharmacy"
+      ],
+      "launch_date": "2026-02-01",
+      "source_url": "#"
+    },
+    {
+      "id": "th-005",
+      "name": "Practo Weight Management",
+      "market": "india",
+      "type": "telehealth",
+      "molecules_offered": [
+        "Ozempic",
+        "generic semaglutide options"
+      ],
+      "pricing_model": "₹3,000-14,000/month consultation-only; medication sourced independently",
+      "partnerships": [
+        "Network of endocrinologists"
+      ],
+      "source_url": "#"
+    }
+  ],
+  "entries": [
+    {
+      "id": "th-entry-007",
+      "timestamp": "2026-03-15T10:00:00Z",
+      "source_url": "https://www.emarketer.com/content/first-glp-1-weight-loss-pill-launches-via-telehealth--pharmacies",
+      "source_name": "eMarketer / Novo Nordisk",
+      "market": "us",
+      "summary": "Novo Nordisk's oral Wegovy pill launched at $149/month via NovoCare D2C and 8 telehealth partners including Ro, GoodRx, LifeMD, Knownwell, and Weight Watchers — available at 70,000+ pharmacies. The oral pill has never experienced a shortage, making it the most reliable GLP-1 supply option in 2026. Prescriptions hit 50,000/week within 3 weeks of launch.",
+      "content": "Novo Nordisk's launch of the oral Wegovy pill (semaglutide 25mg tablet) in January 2026 represents the most significant distribution shift in the GLP-1 market since the injectable shortage era. The pill launched at a cash-pay self-pay price of $149/month through Novo's own NovoCare D2C platform — significantly below injectable Wegovy ($1,349/month) and even below most compounded semaglutide pricing from telehealth platforms. Novo partnered with eight telehealth providers for distribution: Ro, GoodRx, LifeMD, Knownwell, Weight Watchers, and three others, giving the product immediate reach across the telehealth ecosystem. The pill is also available at more than 70,000 pharmacies nationwide. Unlike its injectable counterpart (which experienced a 3-year shortage 2022-2025), the oral Wegovy pill has never experienced a shortage, making it the most reliably available GLP-1 option in 2026. Prescriptions reached 50,000 per week within just three weeks of launch — far outpacing any previous GLP-1 launch rate. Key differentiator vs oral semaglutide from India (Rybelsus/Torrent Sembolic): the Wegovy pill is approved for obesity (2.4mg equivalent dosing), not just T2DM, though it requires 30-minute pre-meal fasting. The $149/month price point compresses the economic advantage of compounded GLP-1s from a 6-7x price gap to less than 2x, significantly reducing the incentive for patients to use compounded alternatives. For India's telehealth market, this demonstrates the disruptive potential of low-cost oral GLP-1s — a model that Torrent's Sembolic (first Indian oral generic semaglutide) is beginning to replicate.",
+      "tags": ["telehealth", "us", "novo-nordisk", "oral-wegovy", "d2c", "novocare", "ro", "prescription-launch", "oral-glp1"]
+    },
+    {
+      "id": "th-entry-001",
+      "timestamp": "2026-03-11",
+      "source_url": "https://www.fiercehealthcare.com/health-tech/hims-hers-bullish-growth-prospects-even-it-faces-increasing-regulatory-scrutiny",
+      "source_name": "Fierce Healthcare",
+      "market": "us",
+      "content": "Hims & Hers reported that its GLP-1 weight-loss program grew to 450,000 active subscribers by end of Q4 2025, making it one of the largest single-platform GLP-1 patient populations in the US. The company's aggressive $199/month pricing for compounded semaglutide pressured competitors and expanded the addressable market beyond insured patients. However, the FDA's February 2026 announcement that it would take enforcement action against Hims for its $49 compounded oral semaglutide product sent shares tumbling 25%, and the company subsequently struck a deal with Novo Nordisk to offer branded Wegovy and Ozempic on its platform while winding down compounded GLP-1 marketing.",
+      "tags": [
+        "telehealth",
+        "us",
+        "hims-hers",
+        "d2c",
+        "semaglutide",
+        "compounded",
+        "fda-crackdown"
+      ],
+      "summary": "Hims & Hers GLP-1 subscriber base hits 450K amid FDA crackdown"
+    },
+    {
+      "id": "th-entry-002",
+      "timestamp": "2026-03-15",
+      "source_url": "https://ro.co/press/wegovy-pill/",
+      "source_name": "Ro Press",
+      "market": "us",
+      "content": "Ro announced in January 2026 that it is working with Novo Nordisk on the nationwide launch of the new oral Wegovy pill, positioning itself as the primary telehealth channel for the first oral GLP-1 weight loss medication. The Ro Body membership costs $145/month plus medication starting at $149/month for the Wegovy pill, representing a significant price reduction from injectable options. Ro first integrated directly with Novo Nordisk in April 2025 and has been a key part of the manufacturer's direct-to-patient expansion, having served millions of patients across nearly every county in the US including 99% of primary care deserts. The partnership with celebrity ambassadors Charles Barkley and Serena Williams in 2025 further expanded brand awareness and helped destigmatize GLP-1 use.",
+      "tags": [
+        "telehealth",
+        "us",
+        "ro",
+        "novo-nordisk",
+        "wegovy-pill",
+        "d2c",
+        "partnership"
+      ],
+      "summary": "Ro partners with Novo Nordisk for Wegovy pill nationwide launch"
+    },
+    {
+      "id": "th-entry-003",
+      "timestamp": "2026-03-10",
+      "source_url": "https://www.businesswire.com/news/home/20251028348303/en/Found-Health-Launches-GLP-1-Microdosing-Program-for-Early-Metabolic-Dysfunction",
+      "source_name": "Business Wire",
+      "market": "us",
+      "content": "Found Health launched a GLP-1 microdosing program in October 2025 targeting patients with early metabolic dysfunction who do not yet meet traditional prescribing thresholds for obesity treatment. The program addresses a critical gap in preventive care, citing emerging research that GLP-1 medications can reduce the risk of progressing from prediabetes to type 2 diabetes by up to 94%. Found offers over 13 medications in 60 possible combinations and accepts insurance, distinguishing itself from competitors. The platform's $99-149/month membership plus medication model and six-month commitment structure aims to drive sustained engagement rather than short-term weight loss.",
+      "tags": [
+        "telehealth",
+        "us",
+        "found-health",
+        "glp1-microdosing",
+        "preventive-care",
+        "d2c"
+      ],
+      "summary": "Found Health launches GLP-1 microdosing for early metabolic dysfunction"
+    },
+    {
+      "id": "th-entry-004",
+      "timestamp": "2026-03-05",
+      "source_url": "https://www.statnews.com/2026/03/17/generic-semaglutide-india-bmi-obesity-definition/",
+      "source_name": "STAT News",
+      "market": "india",
+      "content": "India's telehealth platforms are positioning for the generic semaglutide wave following patent expiry on March 20, 2026. Tata 1mg's Weightwise program, led by US board-certified obesity medicine physician Dr. Mekhala Chandra, offers India's first doctor-led obesity and metabolic health program with medically supervised GLP-1 prescribing. MediBuddy and Practo are adding weight management verticals, though adoption remains nascent with only 200,000 of India's estimated 250 million obese patients currently on GLP-1 therapy. STAT News highlights that Indian regulators face the challenge of adapting Western BMI thresholds, since 43% of Indian adults are metabolically obese despite having BMI below 25.",
+      "tags": [
+        "telehealth",
+        "india",
+        "tata-1mg",
+        "medibuddy",
+        "practo",
+        "generic-semaglutide",
+        "emerging"
+      ],
+      "summary": "India telehealth platforms gear up for generic semaglutide wave"
+    },
+    {
+      "id": "th-entry-005",
+      "timestamp": "2026-03-18",
+      "source_url": "https://research.contrary.com/report/how-glp-1s-broke-healthcare-distribution",
+      "source_name": "Contrary Research",
+      "market": "us",
+      "content": "Contrary Research published an analysis documenting how telehealth platforms fundamentally disrupted traditional pharmaceutical distribution for GLP-1 medications. During the 2022-2025 shortage era, compounded GLP-1s at $250-400/month through DTC telehealth channels expanded access far beyond insurer-mediated pathways, with millions of patients routing around traditional distribution. The analysis notes that even big pharma is now embracing telehealth: Novo Nordisk partnered with Ro, LifeMD and other telehealth platforms in April 2025 to offer Wegovy through its own mail-order pharmacy at reduced cash-pay prices, while Pfizer launched its PfizerForAll DTC platform in 2024. The FDA's March 2026 wave of 30 warning letters to telehealth firms signals that virtual care models remain subject to traditional FDCA rules despite the shift to DTC.",
+      "tags": [
+        "telehealth",
+        "us",
+        "distribution-disruption",
+        "d2c",
+        "novo-nordisk",
+        "pharma-strategy"
+      ],
+      "summary": "How GLP-1s broke traditional healthcare distribution models"
+    },
+    {
+      "id": "th-entry-006",
+      "timestamp": "2026-03-20",
+      "source_url": "https://www.businesstoday.in/industry/pharma/story/indias-weight-loss-drug-moment-what-happens-when-semaglutide-goes-generic-521612-2026-03-20",
+      "source_name": "Business Today India",
+      "market": "india",
+      "content": "Business Today reports that over 40 Indian pharmaceutical companies are preparing to launch generic semaglutide following patent expiry, with prices expected to fall 50-90% from current levels. Natco Pharma has already priced its vial form at Rs 1,290/month versus Rs 10,850-16,400 for branded versions, while Eris Lifesciences launched its SUNDAE brand at Rs 220 per shot. Dr. Reddy's plans to produce 12 million pens in its first year targeting 87 countries, and Sun Pharma received regulatory approval in December 2025. CareEdge Ratings projects the Indian GLP-1 market will grow from Rs 1,000-1,200 crore in 2025 to Rs 4,500-5,000 crore by 2030, creating massive opportunities for telehealth-enabled distribution of affordable obesity treatments.",
+      "tags": [
+        "telehealth",
+        "india",
+        "generics",
+        "patent-expiry",
+        "pricing",
+        "market-growth"
+      ],
+      "summary": "India's weight loss drug moment as 40+ generic semaglutide manufacturers prepare to launch"
+    }
+  ]
+}
