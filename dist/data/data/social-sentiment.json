@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "section_id": "social-sentiment",
+    "last_updated": "2026-03-28T00:00:00Z",
+    "entry_count": 7,
+    "key_metrics": [
+      {
+        "label": "Tracked Trends",
+        "value": "3"
+      },
+      {
+        "label": "Compounding Safety Sentiment",
+        "value": "Negative (0.38)",
+        "delta_direction": "down"
+      },
+      {
+        "label": "India Generic Sentiment",
+        "value": "Positive (0.82)",
+        "delta_direction": "up"
+      }
+    ]
+  },
+  "trends": [
+    {
+      "id": "sent-001",
+      "platform": "Reddit / Instagram / YouTube",
+      "topic": "Ozempic Face / GLP-1 Side Effects",
+      "market": "us",
+      "sentiment_score": 0.45,
+      "volume": 8200,
+      "trending_direction": "stable",
+      "sample_discussions": [
+        "Continued discussion of facial aging ('Ozempic face') as a deterrent",
+        "Users sharing before/after photos with mixed reception",
+        "Dermatologists creating content about managing skin laxity during weight loss"
+      ],
+      "date": "2026-03-20",
+      "source_url": "https://www.reddit.com/r/Semaglutide"
+    },
+    {
+      "id": "sent-002",
+      "platform": "Twitter/X / Reddit / YouTube India",
+      "topic": "Generic GLP-1 Accessibility in India",
+      "market": "india",
+      "sentiment_score": 0.82,
+      "volume": 3400,
+      "trending_direction": "up",
+      "sample_discussions": [
+        "Celebration of affordable generic semaglutide prices in India",
+        "Indian users sharing dosing experiences and cost comparisons",
+        "International patients exploring medical tourism for affordable GLP-1 access",
+        "Doctors creating Hindi-language educational content about GLP-1 safety"
+      ],
+      "date": "2026-03-20",
+      "source_url": "https://twitter.com/search?q=semaglutide%20india%20generic"
+    },
+    {
+      "id": "sent-003",
+      "platform": "Reddit / TikTok / Facebook Groups",
+      "topic": "Compounded Semaglutide Safety Concerns",
+      "market": "us",
+      "sentiment_score": 0.38,
+      "volume": 5600,
+      "trending_direction": "up",
+      "sample_discussions": [
+        "Reports of inconsistent potency from compounding pharmacies",
+        "Users comparing compounded vs branded medication experiences",
+        "FDA warning letters amplifying safety concerns",
+        "Debate over telehealth platform accountability for compounded medication quality"
+      ],
+      "date": "2026-03-20",
+      "source_url": "https://www.reddit.com/r/Semaglutide/search?q=compounding+safety"
+    }
+  ],
+  "entries": [
+    {
+      "id": "sent-entry-007",
+      "timestamp": "2026-03-24T10:00:00Z",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/15456870.2026.2623661",
+      "source_name": "Atlantic Journal of Communication",
+      "market": "us",
+      "summary": "A 2026 academic study in the Atlantic Journal of Communication found that Reddit GLP-1 communities negotiate complex identity dynamics: one subreddit views medication as empowering, another situates it within external pressure to conform to idealized bodies. Only 2% of social media GLP-1 posts mention T2DM — 98% discuss weight loss or PCOS, highlighting the cosmetic-use narrative dominance online.",
+      "content": "A peer-reviewed 2026 study published in the Atlantic Journal of Communication analyzed Reddit narratives in two weight-related subreddits examining how group norms and social identity shape Ozempic-use narratives. Key findings: in-group/out-group dynamics were prominent, with users rejecting stigmatizing narratives about higher-weight individuals while simultaneously negotiating the tension between using a pharmaceutical for appearance vs medical need. One subreddit primarily viewed GLP-1 medication as empowering (reclaiming metabolic control), while the other situated use within discourse of external societal pressure to conform to idealized body types. The study highlights how GLP-1 medications sit at the intersection of medical treatment and cultural beauty standards. In a separate finding from social media data analysis: only 2% of all social media GLP-1 posts identified T2DM as the primary indication — 98% discuss weight loss or PCOS management. This online framing gap (medical reality vs social narrative) creates regulatory challenges for CDSCO and FDA alike, as the public perception of GLP-1s as lifestyle drugs rather than medical treatments drives off-label demand and misuse risk. Gender data shows female users engage more with celebrity/politician discussions (19.24% vs 14.6% male), while male users express more positive overall sentiment. Researchers noted regional variations in sentiment with Indian-origin posts trending more positively around affordability following the generic launches.",
+      "tags": ["sentiment", "reddit", "research", "identity", "body-image", "off-label", "academic-study", "social-media"]
+    },
+    {
+      "id": "sent-entry-001",
+      "timestamp": "2026-03-19",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2667118224000163",
+      "source_name": "ScienceDirect",
+      "market": "us",
+      "content": "A peer-reviewed study published on ScienceDirect used NLP topic modeling to analyze 46,491 Reddit posts from r/ozempic, r/ozempicforweightloss, and r/semaglutide (April 2019-December 2023), finding the dominant theme centered on off-label use for weight loss rather than diabetes management. The r/CompoundedSemaglutide subreddit grew over 500% in a single year as patients scrambled for affordable access during the FDA enforcement period. A separate arXiv study analyzing 410,198 Reddit posts found 67,008 users self-reported GLP-1 use, with 43.5% describing at least one side effect, predominantly gastrointestinal symptoms (nausea at 36.9%, fatigue 16.7%, vomiting 16.3%). These communities have become critical real-world evidence sources, with academic researchers increasingly mining them for safety signal detection.",
+      "tags": [
+        "sentiment",
+        "reddit",
+        "us",
+        "research",
+        "off-label",
+        "side-effects",
+        "community-growth"
+      ],
+      "summary": "Reddit GLP-1 communities analyzed: 46,491 posts reveal off-label weight loss dominance"
+    },
+    {
+      "id": "sent-entry-002",
+      "timestamp": "2026-03-17",
+      "source_url": "https://www.mmm-online.com/home/channel/meet-tiktoks-glp-1-influencers-ozempic-wegovy-mounjaro/",
+      "source_name": "MM+M Online",
+      "market": "us",
+      "content": "MM+M reports that TikTok has spawned a new category of GLP-1 influencers documenting their weight loss journeys on Ozempic, Wegovy, and Mounjaro, with top promoters earning up to $30,000/month through telehealth company referral partnerships. TikTok subsequently updated its community guidelines to ban videos promoting weight-loss medication, though enforcement remains inconsistent with thousands of accounts continuing to make product claims. Rolling Stone reported that Ozempic influencers feel silenced by the new guidelines, creating tension between content creators and platform policy. The FDA issued over 55 warning letters in September 2025 targeting misleading online GLP-1 marketing, specifically calling out influencer-driven content that omits side effect disclosures.",
+      "tags": [
+        "sentiment",
+        "tiktok",
+        "influencers",
+        "us",
+        "telehealth-marketing",
+        "fda-warnings"
+      ],
+      "summary": "TikTok GLP-1 influencers earning up to $30K/month driving telehealth referrals"
+    },
+    {
+      "id": "sent-entry-003",
+      "timestamp": "2026-03-15",
+      "source_url": "https://petrieflom.law.harvard.edu/2025/06/26/ozempic-celebrities-and-tiktok-a-regulatory-nightmare-waiting-to-happen/",
+      "source_name": "Harvard Petrie-Flom Center",
+      "market": "us",
+      "content": "Harvard's Petrie-Flom Center published an analysis highlighting how celebrity GLP-1 endorsements by figures including Oprah Winfrey, Elon Musk, and Sharon Osbourne have created dangerous regulatory loopholes, since informal non-sponsored mentions fall outside existing FDA and FTC frameworks designed for traditional media. Oprah's late 2025 revelation that she quit and then resumed GLP-1 medications split public opinion, while Sharon Osbourne became a cautionary tale after admitting she went too far and dropped under 100 pounds. A KFF Health Tracking poll found over 10% of Americans were using GLP-1 medications by late 2025. The backlash centers on whether celebrity transformations are normalizing rapid weight loss and undermining body positivity progress, with dermatologist warnings about a new era of dangerous thinness fueled by social media.",
+      "tags": [
+        "sentiment",
+        "celebrities",
+        "us",
+        "regulatory-gap",
+        "body-image",
+        "backlash"
+      ],
+      "summary": "Celebrity GLP-1 endorsements create regulatory nightmare amid growing backlash"
+    },
+    {
+      "id": "sent-entry-004",
+      "timestamp": "2026-03-20",
+      "source_url": "https://www.business-standard.com/health/semaglutide-goes-off-patent-doctors-warn-against-misuse-in-india-126032001036_1.html",
+      "source_name": "Business Standard",
+      "market": "india",
+      "content": "Business Standard reports that as semaglutide goes off-patent in India, doctors across the country are reporting a sharp rise in patient inquiries driven by social media buzz and influencer-led promotion, not only from people with diabetes or chronic obesity but also from otherwise healthy individuals seeking cosmetic weight loss. The expected price drop from Rs 10,850-16,400 to as low as Rs 1,290/month has significantly broadened interest across income segments. Indian medical professionals are creating Hindi-language educational content to counter misinformation, but the challenge is amplified by the fact that semaglutide is not on India's National List of Essential Medicines and lacks public health scheme coverage, meaning all patients must pay out of pocket regardless of medical indication.",
+      "tags": [
+        "sentiment",
+        "india",
+        "generic-semaglutide",
+        "misuse-concerns",
+        "social-media",
+        "pricing"
+      ],
+      "summary": "Indian social media buzz amplifies semaglutide demand as doctors warn against cosmetic misuse"
+    },
+    {
+      "id": "sent-entry-005",
+      "timestamp": "2026-03-14",
+      "source_url": "https://www.cnn.com/2025/07/30/style/ozempic-face-cosmetic-surgery",
+      "source_name": "CNN",
+      "market": "us",
+      "content": "CNN reports that the social media phenomenon of 'Ozempic face' -- the sagging skin and hollowed appearance from rapid GLP-1-induced weight loss -- is driving a cosmetic surgery boom, with US facelifts up 8% between 2022-2023 and hyaluronic acid filler use doubling to 5.2 million Americans by 2023. The American Society of Plastic Surgeons coined the term 'Ozempic makeover' for the suite of procedures including tummy tucks, breast lifts, and body contouring that patients seek post-weight-loss. Celebrity cases including Meghan Trainor, Katy Perry, and Scott Disick have fueled widespread discussion, with dermatologists creating educational content about managing skin laxity. The Journal of Drugs in Dermatology published a paper demystifying the phenomenon, noting that facial volume loss is common with any rapid weight loss, not unique to GLP-1 medications.",
+      "tags": [
+        "sentiment",
+        "us",
+        "ozempic-face",
+        "body-image",
+        "cosmetic-surgery",
+        "celebrities"
+      ],
+      "summary": "Ozempic face drives cosmetic surgery boom and body image debate"
+    },
+    {
+      "id": "sent-entry-006",
+      "timestamp": "2026-03-12",
+      "source_url": "https://rethinkhealthmd.substack.com/p/how-is-social-media-reacting-to-the",
+      "source_name": "Rethink Health MD (Substack)",
+      "market": "us",
+      "content": "A Substack analysis of social media reactions to the compounded GLP-1 ban reveals intense patient anxiety across Reddit, TikTok, and Facebook groups, with users sharing fears about losing access to affordable medications. The r/CompoundedSemaglutide subreddit became a hub for patients discussing transition strategies, with many reporting inability to afford brand-name alternatives at $998-1,349/month after using compounded versions at $179-299/month. A longitudinal Twitter/X analysis of 859,751 semaglutide-related tweets found that negative sentiment was most strongly associated with discussions of drug accessibility and cost barriers, while positive sentiment linked to weight loss success stories. The discourse reflects a growing tension between FDA safety enforcement and patient access advocacy, with many users viewing the shortage resolution as prioritizing pharmaceutical profits over patient welfare.",
+      "tags": [
+        "sentiment",
+        "us",
+        "compounding-ban",
+        "patient-access",
+        "anxiety",
+        "reddit",
+        "twitter"
+      ],
+      "summary": "Patient anxiety surges on social media as compounded GLP-1 access ends"
+    }
+  ]
+}
