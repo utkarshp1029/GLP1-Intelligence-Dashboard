@@ -1,12 +1,14 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 10,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 11,
     "key_metrics": [
-      { "label": "Phase 3 Candidates", "value": "5" },
-      { "label": "Orforglipron FDA Decision", "value": "Q2 2026" },
-      { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4)" }
+      { "label": "Phase 3 Candidates", "value": "6" },
+      { "label": "Orforglipron FDA Submission", "value": "Expected 2026 (obesity)" },
+      { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4)" },
+      { "label": "Retatrutide T2D Trial", "value": "Phase 3 success — 1.9% HbA1c reduction, 15% weight loss" },
+      { "label": "CagriSema NDA Status", "value": "Filed Q1 2026, PDUFA ~Oct 2026" }
     ]
   },
   "trials": [
@@ -176,6 +178,16 @@
       "summary": "Novo Nordisk's amycretin, a GLP-1/amylin dual agonist available in both injectable and oral forms, showed 14.5% weight loss (subcutaneous) and 10.1% (oral) at 36 weeks in Phase 2, advancing to Phase 3 in 2026.",
       "content": "Novo Nordisk's amycretin demonstrated strong Phase 2 results in type 2 diabetes: the subcutaneous formulation achieved 14.5% weight loss and 1.8% HbA1c reduction at 36 weeks, while the oral formulation delivered 10.1% weight loss and 1.5% HbA1c reduction. Weight loss had not yet plateaued at higher doses, suggesting greater efficacy in longer trials. The company is advancing both formulations into Phase 3 for obesity and type 2 diabetes in 2026 across multiple indications. Amycretin's oral formulation is particularly significant as it could offer an alternative to Eli Lilly's orforglipron in the emerging oral GLP-1 market, with Novo positioning it as a potential best-in-class therapy.",
       "tags": ["pipeline", "amycretin", "novo-nordisk", "oral", "dual-agonist", "phase-2", "phase-3"]
+    },
+    {
+      "id": "trial-entry-009",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
+      "source_name": "BioPharma Dive",
+      "market": "both",
+      "summary": "Eli Lilly's retatrutide met primary endpoints in a Phase 3 Type 2 diabetes trial (March 2026): 12mg dose reduced HbA1c by 1.9 percentage points from a baseline of 7.9% at 40 weeks, while also delivering 15% weight loss at the 12mg dose. Weight loss had not plateaued, suggesting continued improvement with longer treatment.",
+      "content": "Eli Lilly's retatrutide (GLP-1/GIP/glucagon triple agonist) demonstrated successful Phase 3 results in a new Type 2 diabetes trial reported in March 2026. The 40-week trial enrolled patients with T2DM at a baseline HbA1c of 7.9%. Results: the 12mg dose reduced HbA1c by an average 1.9 percentage points; the 9mg and 4mg groups achieved 1.9% and 1.8% reductions respectively. On weight loss, the 12mg group lost on average 15% of body weight, the 9mg group 14%, and the 4mg group 12% — all substantially better than placebo at 3%. Crucially, weight loss had not plateaued, suggesting results would improve with extended treatment. This builds on the TRIUMPH-4 Phase 3 results (28.7% weight loss in obesity with knee osteoarthritis). Lilly expects to submit a regulatory application for retatrutide in 2026. If approved, retatrutide would represent the first triple-agonist obesity/diabetes drug on the market. GlobalData forecasts retatrutide could generate $15.6 billion in peak sales by 2031. Seven additional Phase 3 readouts are expected through 2026.",
+      "tags": ["pipeline", "retatrutide", "eli-lilly", "triple-agonist", "phase-3", "type-2-diabetes", "HbA1c", "weight-loss", "2026"]
     },
     {
       "id": "trial-entry-008",

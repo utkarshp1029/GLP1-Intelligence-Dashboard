@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-03-17T10:00:00Z",
-    "entry_count": 8,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 9,
     "key_metrics": [
       {
         "label": "Tracked Supplements",
@@ -126,6 +126,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "supp-entry-009",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://theindianpractitioner.com/glp1-ra-and-weight-loss-boom-in-india-trends-concerns-and-caution-dr-amit-bhargava-dr-varsha-narayanan/",
+      "source_name": "The Indian Practitioner",
+      "market": "india",
+      "summary": "Korglutide (by Cargen, South Korea) has launched in India as an OTC oral powder GLP-1 + IGF1-RA functional food supplement for weight loss without peer-reviewed clinical evidence — described by medical experts as 'highly concerning.' Simultaneously, no oral GLP-1 RA is approved in India for weight loss as of early 2026.",
+      "content": "Indian Practitioner report by endocrinologists Dr. Amit Bhargava and Dr. Varsha Narayanan flags a critical regulatory gap: Korglutide (by company Cargen, South Korea) has entered the Indian market as a functional food supplement for weight loss, sold OTC as an oral powder. The product claims combined GLP-1 and IGF1-RA receptor activity. A 12-week clinical trial was conducted in India with 100 participants but has not been peer-reviewed or published — results only appear in news releases and industry media. Medical experts describe the launch as 'highly concerning' given the absence of published safety and efficacy data and the potential for patients to substitute it for prescribed GLP-1 medications. This occurs against the backdrop of zero approved oral GLP-1 RA products for weight loss in India as of early 2026 — Rybelsus (oral semaglutide) is approved only for T2DM. The gap between prescription drug availability and consumer demand for oral weight-loss options is creating space for unregulated supplements. CDSCO has not yet issued guidance on functional foods making GLP-1-adjacent claims, creating a regulatory blind spot that sits alongside their aggressive March 2026 crackdown on prescription drug advertising.",
+      "tags": ["supplements", "india", "korglutide", "otc", "oral", "functional-food", "glp-1", "unregulated", "safety-concern", "igf1"]
+    },
     {
       "id": "supp-entry-001",
       "timestamp": "2026-03-14T09:00:00Z",

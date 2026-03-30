@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 10,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 11,
     "key_metrics": [
       {
         "label": "Tracked Facilities",
@@ -14,7 +14,15 @@
       },
       {
         "label": "New India Facilities",
-        "value": "Neuland (Bonthapally), OneSource"
+        "value": "Neuland (Bonthapally), OneSource, Biocon Bengaluru"
+      },
+      {
+        "label": "Biocon Investment",
+        "value": "₹800 Cr / $96M — targeting 2027 launch + Brazil/Canada"
+      },
+      {
+        "label": "India API Dependency Risk",
+        "value": "Chinese peptide intermediates — supply chain vulnerability"
       }
     ]
   },
@@ -74,6 +82,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "mfg-entry-011",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://edition.cnn.com/2026/02/07/india/india-semaglutide-patent-expiry-intl-hnk-dst",
+      "source_name": "CNN",
+      "market": "india",
+      "summary": "CNN's February 2026 analysis of India's semaglutide manufacturing buildout identifies Biocon (₹800 Cr / $96M investment, Bengaluru injectables facility targeting 2027 launch), Dr. Reddy's (87-country global rollout strategy), and OneSource ($100M investment) as the top three Indian manufacturers building for global export — not just the domestic market.",
+      "content": "CNN's 'Is India about to make Ozempic-like weight-loss drugs a whole lot cheaper?' (February 7, 2026) provides the most comprehensive international analysis of India's semaglutide manufacturing ambitions. Key findings: Biocon is investing ₹800 crore (~$96 million) in R&D and manufacturing capabilities and has commissioned a new injectables facility in Bengaluru designed for both domestic and international markets (total investment ~$100 million), targeting a 2027 launch with plans to export to Brazil and Canada. Dr. Reddy's is pursuing regulatory approvals in 87 countries, with CEO Erez Israeli framing semaglutide as a global generics franchise, not just an India play. OneSource is investing $100 million to ramp capacity 5x over 18-24 months. The article notes that India's manufacturing edge isn't just cost: it's the convergence of established biosimilar infrastructure, experienced peptide synthesis teams from prior drug development, and GMP certifications already recognized by WHO, EMA, and several national health agencies. The manufacturing buildout is occurring alongside import dependencies: most Indian manufacturers currently rely on imported peptide intermediate materials from China, adding supply chain risk. Resolving this dependency through domestic intermediate synthesis will be a medium-term challenge for the sector.",
+      "tags": ["manufacturing", "india", "biocon", "dr-reddys", "onesource", "global-export", "bengaluru", "cnn", "peptide", "api"]
+    },
     {
       "id": "mfg-entry-009",
       "timestamp": "2026-03-20T10:00:00Z",

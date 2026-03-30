@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "insurance-reimbursement",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 8,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 9,
     "key_metrics": [
       {
         "label": "US Commercial Coverage (Ozempic/T2DM)",
@@ -11,6 +11,18 @@
       {
         "label": "US Commercial Coverage (Wegovy/Obesity)",
         "value": "32%"
+      },
+      {
+        "label": "Medicare GLP-1 Bridge Launch",
+        "value": "July 1, 2026 ($50/month copay)"
+      },
+      {
+        "label": "Medicare Price (Wegovy starter)",
+        "value": "$350/month (vs $936 list)"
+      },
+      {
+        "label": "BALANCE Model (Part D)",
+        "value": "January 1, 2027"
       },
       {
         "label": "India Private Insurance Coverage",
@@ -92,6 +104,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "ins-entry-009",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.fool.com/retirement/2026/03/26/will-medicare-cover-ozempic-or-wegovy-in-2026/",
+      "source_name": "The Motley Fool",
+      "market": "us",
+      "summary": "Comprehensive March 26 analysis confirms Medicare GLP-1 Bridge launches July 1, 2026 with $50 monthly copay for Wegovy and Zepbound; Medicare pays $350/month for starter doses. Approximately 10% of Medicare beneficiaries (roughly 6.5 million people) are expected to qualify initially based on BMI and comorbidity criteria.",
+      "content": "The Motley Fool's March 26, 2026 analysis provides the clearest patient-facing summary of the upcoming Medicare GLP-1 coverage changes. Key facts confirmed: The Medicare GLP-1 Bridge program starts July 1, 2026, offering eligible Medicare Part D enrollees access to Wegovy (semaglutide 2.4mg) and Zepbound (tirzepatide) for weight management with a standard $50 monthly copay. The $50 copay does not count toward Part D deductibles or out-of-pocket maximums. Medicare will pay manufacturers $350/month for Wegovy and Zepbound starter doses, declining over a two-year schedule. Ozempic and Mounjaro (diabetes indication) will cost Medicare $245/month. CMS estimates approximately 10% of Medicare beneficiaries will initially qualify — those with BMI >27 and prediabetes or cardiovascular disease, or BMI >30 with hypertension, kidney disease, or heart failure. Without the Bridge, these patients would face Wegovy/Zepbound at $900-$1,350/month cash or uncertain coverage through Part D. The 2026 Part D out-of-pocket cap is $2,100. The Bridge program runs through December 2026, serving as a transition to the BALANCE Model (January 2027) which will integrate GLP-1 obesity coverage more permanently into Part D. Analysts estimate 6-8 million Medicare beneficiaries could use the Bridge program, at a projected federal cost of $35.5 billion through 2034.",
+      "tags": ["insurance", "us", "medicare", "glp1-bridge", "wegovy", "zepbound", "coverage", "$50-copay", "2026", "motley-fool"]
+    },
     {
       "id": "ins-entry-007",
       "timestamp": "2026-01-08T10:00:00Z",

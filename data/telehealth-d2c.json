@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 7,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 8,
     "key_metrics": [
       {
         "label": "Tracked Platforms",
@@ -10,11 +10,19 @@
       },
       {
         "label": "Hims & Hers GLP-1 Subscribers",
-        "value": "450K"
+        "value": "450K (Q4 2025)"
       },
       {
         "label": "India Platforms Emerging",
-        "value": "2"
+        "value": "3"
+      },
+      {
+        "label": "Hims Compounded Pill Controversy",
+        "value": "$49/mo compounded vs $149/mo branded Wegovy"
+      },
+      {
+        "label": "Novo Telehealth Partners (Oral Wegovy)",
+        "value": "Ro, GoodRx, LifeMD, WeightWatchers, Knownwell + 3 more"
       }
     ]
   },
@@ -105,6 +113,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "th-entry-008",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://finance.yahoo.com/news/hims-glp-1-weight-loss-015100273.html",
+      "source_name": "Yahoo Finance / Hims & Hers",
+      "market": "us",
+      "summary": "Hims & Hers launched a compounded semaglutide pill option at $49/month in early 2026, drawing sharp legal pushback from Novo Nordisk who signaled potential lawsuit. Hims subsequently secured a direct Novo partnership for branded Wegovy access, demonstrating the industry's shift toward authorized rather than compounded pathways post-shortage resolution.",
+      "content": "Hims & Hers' compounded oral semaglutide pill launch in early February 2026 at $49/month became the most contentious telehealth GLP-1 story of Q1 2026. Novo Nordisk's leadership publicly criticized the compounded pill, questioning its safety and effectiveness and signaling potential legal action to protect its oral Wegovy franchise (launched January 2026 at $149/month). Novo argued that compounded oral semaglutide had not gone through FDA's approval process and that claims of bioequivalence were unverified. Hims & Hers acknowledged that its compounded products are 'not approved or evaluated for safety, effectiveness, or quality by the FDA.' Despite the controversy, Hims simultaneously struck a direct partnership with Novo Nordisk to offer branded Wegovy on its platform — demonstrating both the pressure and the pragmatic response. This dual-track strategy (compounded for cost-sensitive patients, branded for others) positions Hims as a distribution platform rather than a pure compounding play. The episode illustrates the broader industry tension: telehealth D2C platforms that built their business on compounded GLP-1s must now navigate the post-shortage, post-compounding-ban landscape without losing customers to platforms offering cheaper alternatives. Hims reported 450,000 active GLP-1 subscribers as of Q4 2025, making it one of the largest GLP-1 patient bases in any US platform.",
+      "tags": ["telehealth", "us", "hims-hers", "compounded-pill", "novo-nordisk", "legal-dispute", "oral-semaglutide", "d2c", "wegovy", "branded-vs-compounded"]
+    },
     {
       "id": "th-entry-007",
       "timestamp": "2026-03-15T10:00:00Z",

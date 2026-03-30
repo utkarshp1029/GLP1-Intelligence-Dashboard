@@ -1,20 +1,36 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 7,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 8,
     "key_metrics": [
       {
-        "label": "Cheapest/mg (India)",
-        "value": "₹525"
+        "label": "Cheapest India (Vial)",
+        "value": "₹1,290/mo ($14) — Natco Semanat"
       },
       {
-        "label": "Avg US Monthly Cost",
-        "value": "$892"
+        "label": "Cheapest India (Per Shot)",
+        "value": "₹220/shot — Eris Sundae"
+      },
+      {
+        "label": "Avg India Generic Pen",
+        "value": "₹3,800-₹4,500/mo"
+      },
+      {
+        "label": "Branded India (Ozempic)",
+        "value": "₹8,800-₹22,000/mo"
+      },
+      {
+        "label": "Novo US Self-Pay (NovoCare)",
+        "value": "$349/mo (most doses)"
+      },
+      {
+        "label": "Oral Wegovy Pill (US)",
+        "value": "$149/mo (D2C/telehealth)"
       },
       {
         "label": "India vs US Price Ratio",
-        "value": "1:18"
+        "value": "1:25 (cheapest generic vs US cash)"
       }
     ]
   },
@@ -843,6 +859,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "pricing-entry-008",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-03-20/ozempic-copies-to-cost-14-in-india-as-generic-glp-1-era-starts",
+      "source_name": "Bloomberg / Dr Rajat Goel",
+      "market": "india",
+      "summary": "Bloomberg confirmed $14/month (₹1,290) as the new India price floor for generic semaglutide — a 91% reduction from branded Ozempic. Comprehensive India price index as of March 30, 2026: vials ₹1,290-₹1,800/month; pens ₹3,400-₹4,500/month; branded Ozempic ₹8,800-₹16,400/month; branded Wegovy ₹10,850-₹16,400/month. Novo NovoCare US self-pay: $349/month most doses.",
+      "content": "Bloomberg's landmark March 20 article confirmed the India semaglutide price floor at ₹1,290/month ($14/month) — establishing a new global benchmark for what semaglutide can cost at scale without patent protection. Comprehensive India price index as of March 30, 2026:\n\nVial formats:\n- Natco Semanat: ₹1,290/month (2mg), ₹1,750 (8mg) — cheapest in market\n- Eris Sundae: ₹220/shot (₹880/month at weekly dosing) — via co-marketing with Natco\n- Alkem Semasize/Obesema: ₹1,800/month (disposable pen)\n- Glenmark Glipiq vial: ₹325/week (₹1,300/month)\n\nPen formats:\n- Zydus Semaglyn (reusable): ₹2,200/month\n- Sun Pharma Noveltreat/Sematrinity: ₹3,400-₹4,500/month (European-manufactured)\n- Dr. Reddy's Obeda: ₹4,200/month\n- Mankind Samakind: ₹4,200/month\n- USV Usema: ₹4,200/month\n- Torrent Semalix injectable: ₹3,999/month\n- Zydus/Lupin Semanext/Livarise: ₹4,300/month\n\nBranded originators (Novo Nordisk):\n- Ozempic 0.25mg/0.5mg: ₹8,800-₹11,175/month\n- Ozempic 1mg: ₹16,400-₹22,000/month\n- Wegovy: ₹10,850-₹16,400/month\n\nUS reference pricing (Novo NovoCare self-pay, March 2026):\n- Ozempic/Wegovy most doses: $349/month\n- New patient introductory: $199/month first 2 months\n- Oral Wegovy pill: $149/month (launched January 2026)\n\nPrice erosion forecast: CareEdge projects 40-50% further decline in FY27, additional 10-30% in FY28 as market consolidates.",
+      "tags": ["pricing", "india", "us", "bloomberg", "$14", "generic", "semaglutide", "price-index", "four-tier", "novocare", "oral-wegovy"]
+    },
     {
       "id": "pricing-entry-007",
       "timestamp": "2026-03-23T10:00:00Z",

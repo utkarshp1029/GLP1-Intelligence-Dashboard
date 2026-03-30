@@ -1,147 +1,170 @@
 {
-  "last_full_update": "2026-03-28T00:00:00Z",
+  "last_full_update": "2026-03-30T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
       "file": "pricing.json",
-      "last_updated": "2026-03-28T00:00:00Z",
+      "last_updated": "2026-03-30T00:00:00Z",
       "entry_count": 8,
       "key_metrics": [
-        { "label": "Cheapest/mo (India Vial)", "value": "₹1,290" },
-        { "label": "Avg US Monthly Cost", "value": "$892" },
-        { "label": "India vs US Price Ratio", "value": "1:18" },
-        { "label": "First Oral Generic (India)", "value": "Torrent Sembolic" }
+        { "label": "Cheapest India (Vial)", "value": "₹1,290/mo ($14) — Natco Semanat" },
+        { "label": "Cheapest India (Per Shot)", "value": "₹220/shot — Eris Sundae" },
+        { "label": "Oral Wegovy Pill (US)", "value": "$149/mo (D2C/telehealth)" },
+        { "label": "Novo US Self-Pay (NovoCare)", "value": "$349/mo (most doses)" },
+        { "label": "India vs US Price Ratio", "value": "1:25 (cheapest generic vs US cash)" }
       ]
     },
     "generics-tracker": {
       "file": "generics-tracker.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 10,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 12,
       "key_metrics": [
-        { "label": "Total India Launches", "value": "10+" },
-        { "label": "Cheapest (Vial)", "value": "₹1,290/mo" },
+        { "label": "Total India Launches", "value": "12+ (50+ brand names)" },
+        { "label": "Cheapest (Vial)", "value": "₹1,290/mo (Natco)" },
         { "label": "5yr Market Forecast", "value": "₹12,000 Cr (Nomura)" },
-        { "label": "First Oral Generic", "value": "Torrent Sembolic" }
+        { "label": "First Oral Generic", "value": "Torrent Sembolic" },
+        { "label": "Global Rollout (Hetero)", "value": "75+ countries (Truglyx, Rolmodl, Moto G)" },
+        { "label": "Bloomberg Price Benchmark", "value": "$14/month confirmed" }
       ]
     },
     "regulatory-timeline": {
       "file": "regulatory-timeline.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 9,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 11,
       "key_metrics": [
-        { "label": "Latest India Action", "value": "DCGI 49-entity crackdown (Mar 24)" },
-        { "label": "Latest US Action", "value": "FDA warning letter to Novo (Mar 5)" },
-        { "label": "2026 Events", "value": "4" }
+        { "label": "Latest India Action", "value": "DCGI 49-entity crackdown + legal challenge (Mar 30)" },
+        { "label": "Latest US Action", "value": "Medicare GLP-1 Bridge Jul 2026 ($50 copay)" },
+        { "label": "FDA Warning Letter", "value": "Novo Nordisk (Mar 5, 2026) — 3 unreported deaths" },
+        { "label": "2026 Events Tracked", "value": "6" }
       ]
     },
     "revenue-financials": {
       "file": "revenue-financials.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 9,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 12,
       "key_metrics": [
-        { "label": "India GLP-1 Market (MAT Feb 2026)", "value": "₹1,446 Cr (+177% YoY)" },
-        { "label": "Lilly 2026 Revenue Guide", "value": "$80-83B" },
-        { "label": "Novo 2026 Outlook", "value": "-5% to -13%" },
+        { "label": "Global GLP-1 Market (2025)", "value": "$70.08B" },
+        { "label": "Global GLP-1 Market (2026 est.)", "value": "$86.93B" },
+        { "label": "India GLP-1 Market (2024 base)", "value": "$110.55M USD (34.3% CAGR)" },
+        { "label": "India MAT Feb 2026", "value": "₹1,446 Cr (+177% YoY)" },
+        { "label": "Lilly FY2025 Tirzepatide", "value": "$36.5B (world's best-selling drug)" },
+        { "label": "Novo FY2025 GLP-1 Revenue", "value": "$31.2B" },
+        { "label": "Lilly 2026 Revenue Guidance", "value": "$80-83B" },
+        { "label": "Novo 2026 Outlook", "value": "-5% to -13% (constant FX)" },
         { "label": "India 5yr Forecast (Nomura)", "value": "₹12,000 Cr" }
       ]
     },
     "supplements": {
       "file": "supplements.json",
-      "last_updated": "2026-03-17T10:00:00Z",
-      "entry_count": 8,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 9,
       "key_metrics": [
-        { "label": "Top Supplement (India)", "value": "Berberine" },
-        { "label": "Market Size (US)", "value": "$1.2B" }
+        { "label": "Top Supplement (India)", "value": "Berberine (3x YoY growth)" },
+        { "label": "Market Size (US)", "value": "$1.2B" },
+        { "label": "New India OTC Launch", "value": "Korglutide — GLP-1+IGF1-RA functional food (concerns flagged)" }
       ]
     },
     "manufacturing": {
       "file": "manufacturing.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 10,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 11,
       "key_metrics": [
-        { "label": "New India Facilities", "value": "Neuland (Bonthapally), OneSource" },
+        { "label": "New India Facilities", "value": "Neuland (Bonthapally), OneSource, Biocon Bengaluru" },
+        { "label": "Biocon Investment", "value": "₹800 Cr / $96M — 2027 launch target" },
         { "label": "India Monthly Capacity", "value": "~2M pens (by end 2026)" },
-        { "label": "Under Construction", "value": "Eli Lilly LEAP (Q3 2026)" }
+        { "label": "Under Construction", "value": "Eli Lilly LEAP (Q3 2026)" },
+        { "label": "India API Risk", "value": "Dependency on Chinese peptide intermediates" }
       ]
     },
     "pipeline-trials": {
       "file": "pipeline-trials.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 10,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 11,
       "key_metrics": [
-        { "label": "Phase 3 Candidates", "value": "5" },
-        { "label": "Oral GLP-1 FDA Decision", "value": "Orforglipron Q2 2026" },
-        { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4)" }
+        { "label": "Phase 3 Candidates", "value": "6" },
+        { "label": "Oral GLP-1 FDA Submission", "value": "Orforglipron (Lilly) — expected 2026" },
+        { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4)" },
+        { "label": "Retatrutide T2D Phase 3", "value": "Success — 1.9% HbA1c, 15% weight loss" },
+        { "label": "CagriSema NDA Status", "value": "Filed Q1 2026, PDUFA ~Oct 2026" }
       ]
     },
     "supply-chain": {
       "file": "supply-chain.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 9,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 10,
       "key_metrics": [
-        { "label": "Active Shortages", "value": "Saxenda/Victoza only" },
+        { "label": "Active Shortages", "value": "Saxenda/Victoza only (liraglutide)" },
         { "label": "Semaglutide/Tirzepatide", "value": "Available — no shortage" },
-        { "label": "Most Reliable Option", "value": "Oral Wegovy pill" }
+        { "label": "Most Reliable Option", "value": "Oral Wegovy pill — never shorted" },
+        { "label": "Novo NovoCare Self-Pay", "value": "$349/mo; $199/mo intro offer" }
       ]
     },
     "patents-ip": {
       "file": "patents-ip.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 8,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 9,
       "key_metrics": [
-        { "label": "Semaglutide Markets Open", "value": "India, China, Brazil, Canada, Turkey" },
-        { "label": "Tirzepatide Para IV Eligible", "value": "May 13, 2026 (US)" },
-        { "label": "Key Expiry (Semaglutide US)", "value": "2032" }
+        { "label": "Semaglutide Markets Open", "value": "India, China, Brazil, Canada, Turkey (~40% world pop.)" },
+        { "label": "Tirzepatide Para IV Eligible", "value": "May 13, 2026 (US) — but ~2036 before generic" },
+        { "label": "Semaglutide US Expiry", "value": "2031-2032" },
+        { "label": "Novo US Patent Count", "value": "320 applications, 154 granted" },
+        { "label": "Production Cost vs List", "value": "$0.89-$4.50/mo production vs $936-$1,349 US list (I-MAK)" }
       ]
     },
     "compounding-pharmacy": {
       "file": "compounding-pharmacy.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 7,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 8,
       "key_metrics": [
-        { "label": "Active Compounders (US)", "value": "~200" },
-        { "label": "Personalized Rx Share", "value": "~80% (w/ added ingredients)" },
-        { "label": "FDA Green List", "value": "Active (API import controls)" }
+        { "label": "503B Deadline", "value": "May 22, 2025 — no essentially-copy compounding" },
+        { "label": "Personalized Rx Share", "value": "~80% (w/ B12/niacinamide added)" },
+        { "label": "Salt Form Risk", "value": "Semaglutide sodium/acetate = different API — enforcement risk" },
+        { "label": "OFA Lawsuit", "value": "Pending — no ruling as of March 30, 2026" }
       ]
     },
     "telehealth-d2c": {
       "file": "telehealth-d2c.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 7,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 8,
       "key_metrics": [
         { "label": "US Platforms", "value": "8+" },
-        { "label": "Oral Wegovy (D2C Price)", "value": "$149/mo via NovoCare" },
-        { "label": "India Platforms Emerging", "value": "3" }
+        { "label": "Oral Wegovy (D2C Price)", "value": "$149/mo via NovoCare / 8 telehealth partners" },
+        { "label": "Hims Controversy", "value": "$49 compounded pill vs Novo legal pushback" },
+        { "label": "India Platforms Emerging", "value": "3 (Tata 1mg Weightwise, MediBuddy, Practo)" }
       ]
     },
     "social-sentiment": {
       "file": "social-sentiment.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 7,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 8,
       "key_metrics": [
-        { "label": "India Generic Sentiment", "value": "Positive (0.82)" },
-        { "label": "T2DM Mentions (Social Media)", "value": "2% (98% weight loss)" },
+        { "label": "India Generic Sentiment", "value": "Positive then mixed (Phase 1: affordability, Phase 2: safety concerns)" },
+        { "label": "India Social Volume Spike", "value": "+300-400% search volume on generic launch day" },
+        { "label": "T2DM Mentions (Social Media)", "value": "2% (98% weight loss/PCOS)" },
         { "label": "Compounding Safety Sentiment", "value": "Negative (0.38)" }
       ]
     },
     "safety-signals": {
       "file": "safety-signals.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 9,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 10,
       "key_metrics": [
-        { "label": "Active Safety Signals", "value": "4" },
-        { "label": "FDA Warning (Novo Nordisk)", "value": "Mar 5 — 3 unreported deaths" },
-        { "label": "New Signal (Wegovy HD 7.2mg)", "value": "Dysesthesia 22.9%" }
+        { "label": "Active Safety Signals", "value": "5" },
+        { "label": "FDA Warning (Novo Nordisk)", "value": "Mar 5, 2026 — 3 unreported deaths + systemic PADE failures" },
+        { "label": "Wegovy HD Signal", "value": "Dysesthesia 22.9% at 7.2mg (vs 6.0% at 2.4mg)" },
+        { "label": "New FAERS Neurological Signals", "value": "19 distinct signals incl. allodynia, parosmia, tremor" }
       ]
     },
     "insurance-reimbursement": {
       "file": "insurance-reimbursement.json",
-      "last_updated": "2026-03-28T00:00:00Z",
-      "entry_count": 8,
+      "last_updated": "2026-03-30T00:00:00Z",
+      "entry_count": 9,
       "key_metrics": [
-        { "label": "Medicare GLP-1 Bridge", "value": "Jul 2026 — $50 copay" },
-        { "label": "BALANCE Model (Medicaid)", "value": "May 2026" },
-        { "label": "States Eliminating Coverage", "value": "4 (CA, NH, PA, SC)" }
+        { "label": "Medicare GLP-1 Bridge Launch", "value": "July 1, 2026 ($50/month copay)" },
+        { "label": "Medicare Price (Wegovy starter)", "value": "$350/month (vs $936-$1,349 list)" },
+        { "label": "BALANCE Model (Part D)", "value": "January 1, 2027" },
+        { "label": "States Eliminating Coverage", "value": "4 (CA, NH, PA, SC)" },
+        { "label": "India Private Insurance Coverage", "value": "8%" }
       ]
     }
   }

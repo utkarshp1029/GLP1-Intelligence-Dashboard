@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 7,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 8,
     "key_metrics": [
       {
         "label": "Tracked Trends",
@@ -73,6 +73,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-008",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.cnbc.com/2026/03/23/novo-nordisk-cheap-weight-loss-drugs-india-generic-ozempic-wegovy-semaglutide.html",
+      "source_name": "CNBC",
+      "market": "india",
+      "summary": "CNBC analysis of post-patent-expiry India sentiment: GLP-1 social chatter in India exploded following March 20 generic launches, driven by WhatsApp groups, YouTube health channels, and Twitter/X. Positive sentiment dominated (affordability, access) but misuse and safety concerns emerged rapidly in the week following, amplified by the DCGI enforcement crackdown on unauthorized sales.",
+      "content": "CNBC's March 23 India analysis documented a clear social sentiment shift in the week following the semaglutide patent expiry. Phase 1 (March 20-22): overwhelmingly positive sentiment driven by affordability. WhatsApp groups and YouTube health channels celebrated the price crash from ₹10,850 to ₹1,290 — a 88% reduction. Hashtags including #GenericOzempic and #SemaglutideIndia trended on Twitter/X. Online pharmacy platforms reported spikes in GLP-1 search volume of 300-400% in the days following March 20. Phase 2 (March 23-30): sentiment more mixed. DCGI's March 24 crackdown on 49 entities generated news coverage that raised consumer awareness of unauthorized sales risks. Social discussions increasingly featured questions about product authenticity, cold chain reliability, and whether vial-format generics were equivalent to pen-format products. A key concern: Indian doctors commenting online noted that without refrigeration tracking, generic vials sold through informal channels may be ineffective or unsafe. The CDSCO advertising ban (March 12) prevented manufacturers from responding to these concerns through consumer-facing channels, leaving the information vacuum to social media health influencers and unverified WhatsApp content — a dynamic likely to intensify misuse risk. Novo Nordisk CEO Lars Fruergaard Jørgensen's statement that only 200,000 of India's 250 million obese patients are on GLP-1 therapy was widely shared, framing the debate as one of access vs risk.",
+      "tags": ["sentiment", "india", "generic", "social-media", "whatsapp", "cnbc", "patent-expiry", "affordability", "misuse-concern", "dcgi"]
+    },
     {
       "id": "sent-entry-007",
       "timestamp": "2026-03-24T10:00:00Z",

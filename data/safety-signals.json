@@ -1,20 +1,24 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 9,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 10,
     "key_metrics": [
       {
         "label": "Active Safety Signals",
-        "value": "4"
+        "value": "5"
       },
       {
         "label": "FDA Warning (Novo Nordisk)",
-        "value": "Mar 5 — 3 unreported deaths"
+        "value": "Mar 5 — 3 unreported deaths + systemic PADE failures"
       },
       {
         "label": "New Signal (Wegovy HD)",
         "value": "Dysesthesia 22.9% at 7.2mg"
+      },
+      {
+        "label": "New Neurological Signal (FAERS)",
+        "value": "19 distinct signals incl. allodynia, parosmia, tremor"
       }
     ]
   },
@@ -60,6 +64,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "safety-entry-010",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.nature.com/articles/s41598-025-01206-9",
+      "source_name": "Scientific Reports (Nature)",
+      "market": "both",
+      "summary": "Pharmacovigilance analysis of FDA FAERS database (2005-2024) across 28,953 neurological adverse event reports for six GLP-1 receptor agonists identified 19 distinct neurological signals including dizziness, tremor, dysgeusia, parosmia, allodynia, and hypoglycemic unconsciousness — with a median time-to-onset of 32 days and 45% of events within 30 days.",
+      "content": "A pharmacovigilance analysis published in Scientific Reports analyzed all neurological adverse event (NAE) reports for six GLP-1 receptor agonists in the FDA FAERS database from 2005 through 2024. Among 28,953 NAE reports, 19 distinct NAE signals were identified across drugs including semaglutide, liraglutide, and tirzepatide. Notable signals include: dizziness, tremor, dysgeusia (taste disturbance), lethargy, taste disorder, presyncope, parosmia (altered smell), allodynia (pain from non-painful stimuli), and hypoglycemic unconsciousness. Time-to-onset analysis revealed a median latency of 32 days (IQR 7-122) for GLP-1 RA-related NAEs, with 45.28% occurring within 30 days of treatment initiation — suggesting these signals emerge early in therapy. This study is notable for being the first comprehensive FAERS analysis of neurological AEs specifically for GLP-1 RAs across the full class. The allodynia and parosmia signals are particularly novel — these had not been prominently featured in prescribing information or previous safety reviews. This study does not establish causality but provides signal-level evidence that may inform future pharmacovigilance monitoring and label updates. The data is especially relevant as millions of new patients in India begin generic semaglutide therapy without the specialist supervision typical of innovator drug prescriptions.",
+      "tags": ["safety", "neurological", "faers", "semaglutide", "glp-1", "adverse-events", "pharmacovigilance", "dizziness", "allodynia", "parosmia", "tremor"]
+    },
     {
       "id": "safety-entry-008",
       "timestamp": "2026-03-12T10:00:00Z",

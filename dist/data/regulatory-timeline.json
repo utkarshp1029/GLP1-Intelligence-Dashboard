@@ -1,12 +1,14 @@
 {
   "meta": {
     "section_id": "regulatory-timeline",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 9,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 11,
     "key_metrics": [
-      { "label": "Total Regulatory Events", "value": "10" },
-      { "label": "2026 Events", "value": "4" },
-      { "label": "Latest Action", "value": "DCGI 49-entity crackdown (Mar 24)" }
+      { "label": "Total Regulatory Events", "value": "12" },
+      { "label": "2026 Events", "value": "6" },
+      { "label": "Latest India Action", "value": "DCGI 49-entity crackdown + legal challenge (Mar 30)" },
+      { "label": "Latest US Action", "value": "Medicare GLP-1 Bridge Jul 2026 ($50 copay)" },
+      { "label": "FDA Warning Letter", "value": "Novo Nordisk (Mar 5, 2026) — 3 unreported deaths" }
     ]
   },
   "events": [
@@ -111,6 +113,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "reg-entry-010",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://arogyalegal.com/2026/article/the-cdscos-glp-1-advisory-a-regulatory-overreach/",
+      "source_name": "Arogya Legal",
+      "market": "india",
+      "summary": "Legal analysis of CDSCO's GLP-1 advertising advisory characterizes it as regulatory overreach, arguing that disease awareness campaigns that do not name a product or make drug claims were historically permitted — the advisory breaks this precedent not just for GLP-1 drugs but for all prescription drugs.",
+      "content": "Arogya Legal's analysis of CDSCO's March 10-12, 2026 advisory banning GLP-1 promotional activities raised significant legal questions about the scope of India's drug advertising laws. The crux of the critique: for decades, disease awareness campaigns that made no product claim, named no drug, and directed patients to registered medical practitioners fell outside the scope of 'advertisement' under the Drugs and Cosmetics Rules. CDSCO's advisory now treats any campaign that creates 'brand recall' or 'product visibility' as a violation — even if no drug is named. This interpretation could affect all Schedule H prescription drugs, not just GLP-1 receptor agonists. The advisory is particularly consequential given the timing: it arrived within days of 40+ generic brands launching simultaneously on March 20. Without direct-to-consumer or physician-directed advertising, the primary customer acquisition channel becomes medical representative visits to endocrinologists — an expensive, slow channel that favors incumbents like Novo Nordisk with established physician relationships. The legal challenge creates uncertainty for the entire pharmaceutical marketing ecosystem in India.",
+      "tags": ["regulatory", "india", "cdsco", "advisory", "advertising-ban", "legal-challenge", "schedule-h", "disease-awareness"]
+    },
+    {
+      "id": "reg-entry-011",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
+      "source_name": "CMS (Centers for Medicare & Medicaid Services)",
+      "market": "us",
+      "summary": "CMS announced the Medicare GLP-1 Bridge program launching July 1, 2026, providing Medicare Part D beneficiaries access to Wegovy and Zepbound for weight management with a standard $50 monthly copay — the first time Medicare covers GLP-1s specifically for obesity outside a cardiovascular indication.",
+      "content": "The Centers for Medicare & Medicaid Services (CMS) formalized the Medicare GLP-1 Bridge program, a demonstration model set to launch July 1, 2026 and run through December 2026. For the first time, eligible Medicare Part D enrollees can access Wegovy (semaglutide 2.4mg) and Zepbound (tirzepatide) specifically for weight management with a $50 monthly copay — well below the $500-1,000/month cash price. CMS will use Humana (the LI NET program administrator) as the central processor. Eligibility is restricted to beneficiaries with BMI >27 and prediabetes or cardiovascular disease, or BMI >30 with hypertension, kidney disease, or heart failure — encompassing approximately 10% of Medicare beneficiaries. The Bridge is a stepping stone to the broader BALANCE Model launching January 1, 2027, which will integrate GLP-1 obesity coverage into standard Medicare Part D plans. Ozempic and Mounjaro (diabetes indication) will cost Medicare $245/month while Wegovy and Zepbound starter doses will be set at $350/month, declining over a two-year period. The 2026 Part D out-of-pocket cap is $2,100. This policy shift represents the most significant US access expansion for GLP-1 anti-obesity drugs since the drugs first launched.",
+      "tags": ["regulatory", "us", "cms", "medicare", "glp-1-bridge", "wegovy", "zepbound", "coverage", "obesity", "2026"]
+    },
     {
       "id": "reg-entry-008",
       "timestamp": "2026-03-24T10:00:00Z",

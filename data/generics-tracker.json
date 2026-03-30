@@ -1,13 +1,15 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 10,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 12,
     "key_metrics": [
-      { "label": "Total Launches (India)", "value": "10+" },
-      { "label": "Cheapest (Vial)", "value": "₹1,290/mo" },
+      { "label": "Total Launches (India)", "value": "12+" },
+      { "label": "Cheapest (Vial)", "value": "₹1,290/mo (Natco)" },
       { "label": "5yr Market Forecast", "value": "₹12,000 Cr (Nomura)" },
-      { "label": "First Oral Generic", "value": "Torrent Sembolic" }
+      { "label": "First Oral Generic", "value": "Torrent Sembolic" },
+      { "label": "Global Rollout (Hetero)", "value": "75+ countries" },
+      { "label": "Bloomberg Headline Price", "value": "$14/month" }
     ]
   },
   "launches": [
@@ -185,6 +187,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-011",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://medicaldialogues.in/news/industry/pharma/hetero-launches-generic-semaglutide-brands-truglyx-rolmodl-moto-g-across-75-countries-167525",
+      "source_name": "Medical Dialogues",
+      "market": "india",
+      "summary": "Hetero Drugs announced a multi-brand global generic semaglutide launch across 75+ countries under brands Truglyx, Rolmodl, and Moto G — the most internationally ambitious generic semaglutide rollout by any Indian manufacturer, targeting markets where patents have already lapsed including India, Canada, Brazil, and Turkey.",
+      "content": "Hetero Drugs has launched its generic semaglutide portfolio under three distinct brand names: Truglyx, Rolmodl, and Moto G, spanning more than 75 countries in a strategic multi-year rollout. The launch marks Hetero's entry into the injectable GLP-1 receptor agonist market and builds on its existing biosimilar and injectable manufacturing expertise. Unlike most Indian generics manufacturers who launched domestically on Day 1 (March 20, 2026), Hetero's strategy emphasizes global market access — positioning it to supply markets where semaglutide patents have already expired: India (March 2026), Canada (January 2026), Brazil (March 2026), and Turkey. The three-brand architecture suggests differentiated positioning by market or indication. Hetero is one of India's largest generic pharmaceutical companies with established presence across US, EU, and emerging markets, giving it regulatory infrastructure that smaller Indian generics manufacturers cannot replicate easily. The international rollout timeline spans multiple years as regulatory approvals in each market proceed — but the brand filing strategy signals Hetero views generic semaglutide as a global franchise, not a single-country opportunity.",
+      "tags": ["hetero", "truglyx", "rolmodl", "semaglutide", "generic", "global-launch", "75-countries", "india", "canada", "brazil"]
+    },
+    {
+      "id": "gen-entry-012",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-03-20/ozempic-copies-to-cost-14-in-india-as-generic-glp-1-era-starts",
+      "source_name": "Bloomberg",
+      "market": "india",
+      "summary": "Bloomberg's landmark March 20 report confirmed generic Ozempic launching in India at $14/month (₹1,290), representing a 91% price reduction from Novo Nordisk's branded product. The article positions India as the first major market globally where affordable generic semaglutide is available at scale, setting a global pricing benchmark.",
+      "content": "Bloomberg's March 20, 2026 report 'Ozempic Copies to Cost $14 in India as Generic GLP-1 Era Starts' is the most widely cited international coverage of the India patent expiry event. The $14/month figure (Natco's vial pricing) represents a 91% price reduction from Novo Nordisk's Ozempic at approximately $135-$148/month in India and over $900/month in the US. Bloomberg confirmed that at least five companies launched generic semaglutide on the first day, with Natco's ₹1,290 vial establishing the price floor. The report contextualized the India launch within the broader global patent cliff: Canada (January 2026), India and Brazil (March 2026), with patents in the US and EU remaining intact until 2031-2032. Bloomberg noted that India is the first country where a significant manufacturing ecosystem exists to take advantage of generic entry — distinguished from Canada where patents expired but no generics have launched yet. The $14 price point has become a global reference for what semaglutide could cost at scale without patent protection, intensifying pressure on high-income-country pricing models.",
+      "tags": ["bloomberg", "india", "semaglutide", "$14", "generic", "patent-expiry", "pricing-benchmark", "global"]
+    },
     {
       "id": "gen-entry-009",
       "timestamp": "2026-03-27T10:00:00Z",

@@ -1,24 +1,42 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 10,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 12,
     "key_metrics": [
       {
         "label": "Global GLP-1 Market (2025)",
-        "value": "$48.2B",
-        "delta": "+52%",
+        "value": "$70.08B",
+        "delta": "+45%",
         "delta_direction": "up"
       },
       {
-        "label": "India GLP-1 Market (FY2025)",
-        "value": "₹2,400 Cr",
-        "delta": "+185%",
+        "label": "Global GLP-1 Market (2026 est.)",
+        "value": "$86.93B",
+        "delta": "+24%",
         "delta_direction": "up"
       },
       {
-        "label": "Novo Nordisk GLP-1 Revenue",
+        "label": "India GLP-1 Market (2024)",
+        "value": "$110.55M (USD)",
+        "delta": "+34.3% CAGR",
+        "delta_direction": "up"
+      },
+      {
+        "label": "Lilly FY2025 Tirzepatide Revenue",
+        "value": "$36.5B (Mounjaro+Zepbound)"
+      },
+      {
+        "label": "Novo Nordisk FY2025 GLP-1 Revenue",
         "value": "$31.2B"
+      },
+      {
+        "label": "Lilly 2026 Revenue Guidance",
+        "value": "$80-83B"
+      },
+      {
+        "label": "Novo 2026 Outlook",
+        "value": "-5% to -13% (constant FX)"
       }
     ]
   },
@@ -141,6 +159,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-010",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.towardshealthcare.com/insights/glp-1-receptor-agonist-market-sizing",
+      "source_name": "Towards Healthcare / Grand View Research",
+      "market": "both",
+      "summary": "Global GLP-1 receptor agonist market estimated at $70.08 billion in 2025, expected to reach $86.93 billion in 2026 at a CAGR of 12.78%, with projections of $201.79 billion by 2033. India's GLP-1 market is valued at USD 110.55 million (2024) growing at 34.3% CAGR through 2030, projected to reach USD 730.8 million by 2033.",
+      "content": "The latest market sizing data from multiple research firms provides the most comprehensive picture of the global GLP-1 market as of early 2026. Grand View Research estimates the global GLP-1 receptor agonist market at USD 70.08 billion in 2025, set to reach USD 86.93 billion in 2026 growing at 12.78% CAGR to reach USD 201.79 billion by 2033. Eli Lilly's tirzepatide (Mounjaro + Zepbound) emerged as the world's best-selling drug in 2025 with combined revenue of $36.5 billion — outpacing Novo Nordisk's semaglutide portfolio at $33 billion and Merck's Keytruda at $31.7 billion. Lilly's total FY2025 revenue reached $65.2 billion (up from $45 billion in 2024), with 2026 guidance of $80-83 billion. Novo Nordisk guided 2026 revenue to decline 5-13% at constant exchange rates, as IRA pricing, exclusivity losses in India/China/Canada/Brazil, and Catalent integration costs bite. In India specifically, the GLP-1 market was valued at USD 110.55 million in 2024, growing at 34.3% CAGR through 2030, with projections to reach USD 730.8 million by 2033. The Q1 2026 results for both Novo Nordisk (expected May 6) and Eli Lilly (expected late April) are not yet available.",
+      "tags": ["revenue", "global", "market-size", "glp-1", "2026", "grand-view", "india", "eli-lilly", "novo-nordisk", "forecast"]
+    },
+    {
+      "id": "rev-entry-011",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.pharmaceutical-technology.com/news/eli-lilly-soars-past-expectations-to-hit-45-sales-growth-in-2025/",
+      "source_name": "Pharmaceutical Technology",
+      "market": "both",
+      "summary": "Eli Lilly's FY2025 tirzepatide data confirmed: Mounjaro $23B + Zepbound $13.5B = $36.5B combined, making tirzepatide the world's best-selling drug. Q4 2025 alone: Mounjaro $7.4B (+110% YoY), Zepbound $4.3B (+123% YoY). Q1 2026 results not yet reported; expected late April/early May 2026.",
+      "content": "Comprehensive review of Eli Lilly's FY2025 tirzepatide performance and 2026 outlook. Full-year 2025: Mounjaro generated approximately $23 billion in revenue while Zepbound contributed $13.5 billion, for a combined tirzepatide franchise of $36.5 billion — representing 56% of Lilly's $65.2 billion total revenue. Q4 2025 specifically: Mounjaro $7.4 billion (up 110% YoY, beat estimate of $6.7 billion), Zepbound $4.3 billion (up 123% YoY, beat estimate of $3.8 billion). At midpoint of 2026 guidance ($80-83 billion), Lilly expects approximately 25% revenue growth. Pricing headwinds are real — the company guided to low-to-mid-teens percentage decline in global pricing driven by lower Medicaid rates, direct-to-consumer Zepbound pricing, and broader policy changes. Two key 2026 catalysts: (1) orforglipron FDA submission for obesity expected in 2026, with GlobalData projecting $11 billion peak sales by 2031; (2) retatrutide regulatory submission also expected in 2026 following TRIUMPH Phase 3 success. Lilly is positioned to lead pharma by total revenue in 2026 for the first time. Q1 2026 earnings not yet reported as of March 30, 2026.",
+      "tags": ["revenue", "eli-lilly", "tirzepatide", "mounjaro", "zepbound", "fy2025", "q4-2025", "orforglipron", "guidance"]
+    },
     {
       "id": "rev-entry-008",
       "timestamp": "2026-02-04T10:00:00Z",

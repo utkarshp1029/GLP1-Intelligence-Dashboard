@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 7,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 8,
     "key_metrics": [
       {
         "label": "Tracked Pharmacies",
@@ -59,6 +59,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-008",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.sheppardhealthlaw.com/2025/03/articles/fda/fdas-semaglutide-shortage-resolution-legal-implications-and-risks-for-compounding-pharmacies/",
+      "source_name": "Sheppard Health Law",
+      "market": "us",
+      "summary": "Legal analysis confirms that as of May 22, 2025, 503B outsourcing facilities cannot rely on the shortage exception for essentially-copy semaglutide compounding, unless ongoing litigation reverses the FDA's determination. Individual patient need exceptions remain valid for dose modifications and inactive ingredient changes. Compounders using salt forms (semaglutide sodium/acetate) face heightened legal risk as these are classified as different active ingredients.",
+      "content": "Sheppard Health Law's analysis clarifies the post-shortage compounding landscape with precision relevant to telehealth operators and compounding pharmacies. Key legal points: (1) The FDA's February 21, 2025 removal of semaglutide from the shortage list triggered the 503B enforcement date of May 22, 2025 — after which compounding an essentially-copy semaglutide product became illegal for 503B outsourcing facilities. (2) 503A pharmacies (individual patient prescriptions) retain rights to compound non-essentially-copy formulations for individual patient needs — including different doses, different inactive ingredients due to adverse reactions, or discontinued strengths. (3) Adding trace B12 or niacinamide does NOT create a valid individual patient need; FDA has explicitly rejected this workaround. (4) Semaglutide salt forms (semaglutide sodium, semaglutide acetate) are technically different active ingredients and are not GRAS (Generally Recognized As Safe) — compounders using these forms face FDA enforcement as an unlicensed drug product rather than a compounded drug. (5) The OFA lawsuit is still potentially active; if the court rules in OFA's favor, the shortage exception could be reinstated. As of March 30, 2026, no such ruling has occurred. This legal landscape has major implications for Hims & Hers, Ro, and other telehealth platforms that built revenue streams on compounded GLP-1s.",
+      "tags": ["compounding", "us", "legal", "503B", "503A", "shortage-exception", "salt-forms", "semaglutide-sodium", "individual-patient-need", "ofa-lawsuit"]
+    },
     {
       "id": "comp-entry-007",
       "timestamp": "2026-03-23T09:00:00Z",

@@ -1,12 +1,14 @@
 {
   "meta": {
     "section_id": "patents-ip",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 8,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 9,
     "key_metrics": [
-      { "label": "Markets Open (Semaglutide)", "value": "India, China, Brazil, Canada, Turkey" },
-      { "label": "Tirzepatide Para IV Eligible", "value": "May 13, 2026 (US)" },
-      { "label": "Key Expiry (Semaglutide US)", "value": "2032" }
+      { "label": "Markets Open (Semaglutide)", "value": "India, China, Brazil, Canada, Turkey (~40% of world pop.)" },
+      { "label": "Tirzepatide Para IV Eligible", "value": "May 13, 2026 (US) — but ~2036 before generic launch" },
+      { "label": "Key Expiry (Semaglutide US)", "value": "2031-2032" },
+      { "label": "Novo US Patent Count", "value": "320 applications, 154 granted" },
+      { "label": "Semaglutide Production Cost", "value": "$0.89–$4.50/month vs $936–$1,349 list (I-MAK)" }
     ]
   },
   "patents": [
@@ -60,6 +62,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "pat-entry-009",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.i-mak.org/glp-1/",
+      "source_name": "I-MAK (Initiative for Medicines, Access & Knowledge)",
+      "market": "us",
+      "summary": "I-MAK analysis reveals Novo Nordisk has filed 320 US patent applications and been granted 154 patents for Ozempic/Wegovy/Rybelsus — creating a patent thicket estimated to extend US exclusivity to 2031-2032 and potentially earning Novo $166 billion in US exclusivity profits. Production cost studies show semaglutide could be profitably manufactured for $0.89-$4.50/month.",
+      "content": "I-MAK's deep-dive into GLP-1 drug patent abuse provides critical context for understanding the gap between production economics and market pricing. Novo Nordisk has filed 320 US patent applications and been granted 154 US patents related to semaglutide products (Ozempic, Rybelsus, Wegovy). These patents create a thicket that extends US exclusivity far beyond the original compound patent, with the most recent patents expiring in 2035. A parallel analysis found that semaglutide could be profitably manufactured for between $0.89 and $4.50 per month — compared to the US list price of $936-$1,349/month, representing a 200-1,500x price markup above profitable production cost. The patent thicket is estimated to generate $166 billion in US exclusivity profits for Novo Nordisk between 2026 and 2031. Eli Lilly has a smaller but still significant portfolio: 53 US patent applications and 16 granted patents for tirzepatide. I-MAK's analysis contributed to congressional discussions about GLP-1 pricing and the Biden/Trump administration's inclination toward invoking march-in rights or accelerating IRA price negotiations for GLP-1 drugs. The US patent barrier remains the primary reason generic semaglutide is available at $14/month in India but $900/month in the US.",
+      "tags": ["patents", "us", "semaglutide", "novo-nordisk", "patent-thicket", "i-mak", "production-cost", "price-markup", "policy", "access"]
+    },
     {
       "id": "pat-entry-008",
       "timestamp": "2026-03-20T08:00:00Z",

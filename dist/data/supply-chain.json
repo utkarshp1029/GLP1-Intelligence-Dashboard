@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supply-chain",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 9,
+    "last_updated": "2026-03-30T00:00:00Z",
+    "entry_count": 10,
     "key_metrics": [
       {
         "label": "Active Shortages",
@@ -14,7 +14,15 @@
       },
       {
         "label": "Most Reliable Supply",
-        "value": "Oral Wegovy pill (Jan 2026)"
+        "value": "Oral Wegovy pill (Jan 2026) — never shorted"
+      },
+      {
+        "label": "Novo NovoCare Self-Pay",
+        "value": "$349/mo (most doses); $199/mo intro offer"
+      },
+      {
+        "label": "India Supply Risk",
+        "value": "Generic cold-chain compliance under DCGI scrutiny"
       }
     ]
   },
@@ -55,6 +63,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "sc-entry-010",
+      "timestamp": "2026-03-30T00:00:00Z",
+      "source_url": "https://www.medfinder.com/blog/ozempic-shortage-update-what-patients-need-to-know-in-2026",
+      "source_name": "Medfinder",
+      "market": "us",
+      "summary": "Comprehensive March 2026 supply status: Ozempic, Wegovy (injectable and pill), Mounjaro, and Zepbound all widely available with no active FDA shortages. The 2mg Ozempic pen may still face sporadic localized stock-outs. Novo NovoCare self-pay pricing now $349/month (most doses) with $199/month introductory offer for new patients.",
+      "content": "As of late March 2026, the US GLP-1 supply chain has normalized across all major products: Ozempic (all doses), Wegovy injectable (all doses), Wegovy pill (all doses), Rybelsus, Mounjaro (all doses), and Zepbound (all doses) are available without active FDA Drug Shortage Database listings. Major chain pharmacies — CVS, Walgreens, Walmart, and Costco — report consistent stock levels nationally. Localized stock-outs can still occur at specific pharmacy locations, particularly for the Ozempic 2mg pen, but medications are generally findable within 24-48 hours at alternative locations. Saxenda (liraglutide for obesity) and Victoza (liraglutide for T2DM) remain in shortage. Cost context for uninsured patients: Ozempic cash price ranges $800-$1,100/month at retail, but Novo NovoCare self-pay pricing is $349/month for most doses (introductory $199/month for new patients). Wegovy cash price $936-$1,349/month, but oral Wegovy pill available at $149/month through NovoCare. Mounjaro/Zepbound through Lilly's direct savings program available at $550/month for eligible patients. The Medicare GLP-1 Bridge (July 2026) will significantly expand access for Medicare beneficiaries at $50/month copay.",
+      "tags": ["supply-chain", "us", "ozempic", "wegovy", "mounjaro", "zepbound", "shortage-resolved", "pricing", "novocare", "2026"]
+    },
     {
       "id": "sc-entry-009",
       "timestamp": "2026-03-28T00:00:00Z",
