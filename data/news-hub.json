@@ -1,10 +1,10 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-03-28T00:00:00Z",
-    "entry_count": 20,
+    "last_updated": "2026-03-31T00:00:00Z",
+    "entry_count": 25,
     "key_metrics": [
-      { "label": "Stories This Week", "value": "13" },
+      { "label": "Stories This Week", "value": "18" },
       { "label": "Sources Tracked", "value": "15+" },
       { "label": "Markets Covered", "value": "India & US" }
     ]
@@ -707,5 +707,109 @@
       "tags": ["nejm", "lancet", "soul-trial", "cagrisema", "select", "clinical-evidence"]
     }
   ],
-  "entries": []
+  "entries": [],
+  "recent_additions": [
+    {
+      "id": "story-021",
+      "headline": "BioNxt Advances Semaglutide as First Application of Broad GLP-1 Oral Dissolving Film Platform",
+      "summary": "BioNxt Solutions announced on March 30, 2026 that semaglutide is the inaugural molecule for its new oral dissolving film (ODF) drug delivery platform. The company plans to expand the platform to tirzepatide, liraglutide, and other GLP-1 receptor agonists. The ODF format aims to address the limitations of current injectable and oral pill formats, potentially offering improved bioavailability, convenience, and patient adherence compared to existing formulations.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-03-30",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "PharmiWeb",
+          "title": "BioNxt Advances Semaglutide as First Application of Broad GLP-1 ODF Platform Strategy",
+          "url": "https://www.pharmiweb.com/press-release/2026-03-30/bionxt-advances-semaglutide-as-first-application-of-broad-glp-1-odf-platform-strategy",
+          "date": "2026-03-30"
+        }
+      ],
+      "tags": ["bionxt", "oral-dissolving-film", "semaglutide", "drug-delivery", "innovation", "us"]
+    },
+    {
+      "id": "story-022",
+      "headline": "Cleveland Clinic Study: Stopping GLP-1 Drugs Does Not Cause Significant Weight Regain When Patients Use Lifestyle Interventions",
+      "summary": "A real-world analysis of ~8,000 patients from Cleveland Clinic published March 12, 2026 challenges the conventional narrative that stopping GLP-1 drugs inevitably leads to major weight regain. Patients who discontinued GLP-1 therapy and subsequently adopted lifestyle interventions or alternative therapies regained only 0.5% of body weight on average at 1 year, compared to their pre-discontinuation loss of 8.4%. The study suggests the 'yo-yo effect' may be more manageable than feared, and that structured follow-up after discontinuation can preserve most gains. This has significant implications for insurance coverage discussions and treatment planning.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-03-12",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Cleveland Clinic Newsroom",
+          "title": "What Happens When Patients Stop Taking GLP-1 Drugs? New Cleveland Clinic Study Reveals Real-World Insights",
+          "url": "https://newsroom.clevelandclinic.org/2026/03/12/what-happens-when-patients-stop-taking-glp-1-drugs-new-cleveland-clinic-study-reveals-real-world-insights",
+          "date": "2026-03-12"
+        }
+      ],
+      "tags": ["discontinuation", "weight-regain", "real-world-evidence", "cleveland-clinic", "lifestyle", "us"]
+    },
+    {
+      "id": "story-023",
+      "headline": "Compounded GLP-1s Show Higher Adverse Event Rates vs. FDA-Approved Formulations in FAERS Pharmacovigilance Study",
+      "summary": "A March 2026 pharmacovigilance study published in PubMed analyzed FDA FAERS reports from 2018-2024 comparing compounded GLP-1 formulations against FDA-approved branded products. Compounded GLP-1s were associated with significantly higher rates of abdominal pain, nausea, diarrhea, gallbladder inflammation, suicidality reports, and prescribing errors compared to branded semaglutide and tirzepatide. The study is the first systematic FAERS comparison between compounded and FDA-approved GLP-1 formulations and strengthens the FDA's regulatory rationale for enforcement actions against compounding pharmacies. The findings are particularly relevant as millions of patients in India begin generic semaglutide therapy outside the specialist supervision common with innovator prescriptions.",
+      "market": "us",
+      "category": "safety",
+      "timestamp": "2026-03-31",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "PubMed / FAERS Analysis",
+          "title": "Pharmacovigilance study comparing compounded vs. FDA-approved GLP-1 receptor agonist adverse events (2018-2024)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40285721/",
+          "date": "2026-03-31"
+        }
+      ],
+      "tags": ["compounding", "safety", "faers", "pharmacovigilance", "adverse-events", "fda", "us"]
+    },
+    {
+      "id": "story-024",
+      "headline": "ACC 2026: Tirzepatide Shows 16% Lower Cardiorenal Risk vs. Dulaglutide in 13,000-Patient SURPASS-CVOT Analysis",
+      "summary": "A post hoc analysis of the SURPASS-CVOT trial presented at the American College of Cardiology Annual Meeting on March 28, 2026 (New Orleans) and simultaneously published in JAMA Cardiology found tirzepatide reduced a six-point composite cardiorenal endpoint by 16% compared to dulaglutide (23.7% vs 27.4%, statistically significant) in over 13,000 patients with type 2 diabetes and established cardiovascular disease followed for nearly four years. Tirzepatide showed lower risk of all-cause mortality (HR 0.84), coronary revascularization (HR 0.84), and adverse kidney outcomes (HR 0.79). The narrow MACE endpoint (heart attack, stroke, cardiovascular death) was numerically but not statistically superior. Gastrointestinal adverse events were more common with tirzepatide (42.5% vs 35.9%). The study was funded by Eli Lilly and strengthens the case for tirzepatide over GLP-1 monotherapy in high-CV-risk patients.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-03-28",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Cleveland Clinic Newsroom",
+          "title": "Tirzepatide Associated with Lower Risk of Heart and Kidney Damage Compared to Dulaglutide in Patients with Type 2 Diabetes and Cardiovascular Disease",
+          "url": "https://newsroom.clevelandclinic.org/2026/03/28/tirzepatide-associated-with-lower-risk-of-heart-and-kidney-damage-compared-to-dulaglutide-in-patients-with-type-2-diabetes-and-cardiovascular-disease",
+          "date": "2026-03-28"
+        },
+        {
+          "publication": "Healio",
+          "title": "Tirzepatide bests dulaglutide for lowering cardiorenal risk",
+          "url": "https://www.healio.com/news/cardiology/20260328/tirzepatide-bests-dulaglutide-for-loweringcardiorenal-risk",
+          "date": "2026-03-28"
+        },
+        {
+          "publication": "PubMed / JAMA Cardiology",
+          "title": "Cardiorenal Outcomes With Tirzepatide Compared With Dulaglutide in Patients With Diabetes and Cardiovascular Disease: A Post Hoc Analysis of the SURPASS-CVOT Randomized Clinical Trial",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41903177/",
+          "date": "2026-03-28"
+        }
+      ],
+      "tags": ["tirzepatide", "dulaglutide", "surpass-cvot", "cardiorenal", "acc-2026", "eli-lilly", "clinical-trial", "us"]
+    },
+    {
+      "id": "story-025",
+      "headline": "Hetero Launches Generic Semaglutide (Truglyx, Rolmodl, Moto G) Across 75+ Countries",
+      "summary": "Hyderabad-based Hetero announced on March 28, 2026 the global export launch of three branded generic semaglutide products — Truglyx, Rolmodl, and Moto G — targeting more than 75 countries across Africa, Asia, and the Middle East in its initial rollout. This positions Hetero as one of the most internationally aggressive Indian generic entrants in the post-patent semaglutide market. The launch complements a broader India generic wave following semaglutide patent expiry on March 20, 2026, and adds to the 10+ Indian manufacturers who have already launched domestically. Hetero's multi-brand, multi-country strategy mirrors Dr. Reddy's 87-country ambitions and signals Indian pharma's intent to dominate global generic GLP-1 supply in markets where patents have lapsed.",
+      "market": "india",
+      "category": "launch",
+      "timestamp": "2026-03-28",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Medical Dialogues",
+          "title": "Hetero Launches Generic Semaglutide Brands Truglyx, Rolmodl, Moto G Across 75+ Countries",
+          "url": "https://medicaldialogues.in/news/industry/pharma/hetero-launches-generic-semaglutide-brands-truglyx-rolmodl-moto-g-across-75-countries-167525",
+          "date": "2026-03-28"
+        }
+      ],
+      "tags": ["hetero", "semaglutide", "generic-launch", "global-export", "india", "africa", "asia", "truglyx"]
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_full_update": "2026-03-30T00:00:00Z",
+  "last_full_update": "2026-03-31T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
@@ -78,13 +78,13 @@
     },
     "pipeline-trials": {
       "file": "pipeline-trials.json",
-      "last_updated": "2026-03-30T00:00:00Z",
-      "entry_count": 11,
+      "last_updated": "2026-03-31T00:00:00Z",
+      "entry_count": 12,
       "key_metrics": [
         { "label": "Phase 3 Candidates", "value": "6" },
-        { "label": "Oral GLP-1 FDA Submission", "value": "Orforglipron (Lilly) — expected 2026" },
+        { "label": "Orforglipron PDUFA Date", "value": "April 10, 2026 (obesity + T2DM)" },
         { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4)" },
-        { "label": "Retatrutide T2D Phase 3", "value": "Success — 1.9% HbA1c, 15% weight loss" },
+        { "label": "Tirzepatide SURPASS-CVOT", "value": "ACC 2026: 16% lower cardiorenal risk vs dulaglutide" },
         { "label": "CagriSema NDA Status", "value": "Filed Q1 2026, PDUFA ~Oct 2026" }
       ]
     },
@@ -124,12 +124,12 @@
     },
     "telehealth-d2c": {
       "file": "telehealth-d2c.json",
-      "last_updated": "2026-03-30T00:00:00Z",
-      "entry_count": 8,
+      "last_updated": "2026-03-31T00:00:00Z",
+      "entry_count": 10,
       "key_metrics": [
-        { "label": "US Platforms", "value": "8+" },
-        { "label": "Oral Wegovy (D2C Price)", "value": "$149/mo via NovoCare / 8 telehealth partners" },
-        { "label": "Hims Controversy", "value": "$49 compounded pill vs Novo legal pushback" },
+        { "label": "US Platforms Tracked", "value": "6 (incl. WeightWatchers added)" },
+        { "label": "Hims Status (Mar 9)", "value": "Novo deal settled — now sells branded Wegovy/Ozempic at $149/mo" },
+        { "label": "WeightWatchers Pricing (Apr 1+)", "value": "$349/mo (intro $199 ended Mar 31)" },
         { "label": "India Platforms Emerging", "value": "3 (Tata 1mg Weightwise, MediBuddy, Practo)" }
       ]
     },

@@ -1,12 +1,12 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 8,
+    "last_updated": "2026-03-31T00:00:00Z",
+    "entry_count": 10,
     "key_metrics": [
       {
         "label": "Tracked Platforms",
-        "value": "5"
+        "value": "6"
       },
       {
         "label": "Hims & Hers GLP-1 Subscribers",
@@ -17,8 +17,12 @@
         "value": "3"
       },
       {
-        "label": "Hims Compounded Pill Controversy",
-        "value": "$49/mo compounded vs $149/mo branded Wegovy"
+        "label": "Hims Status (Mar 9, 2026)",
+        "value": "Novo deal: now sells branded Wegovy/Ozempic; dropped compounded GLP-1 marketing"
+      },
+      {
+        "label": "WeightWatchers Pricing (as of Mar 31)",
+        "value": "$349/mo Ozempic/Wegovy (was $199/mo intro through Mar 31)"
       },
       {
         "label": "Novo Telehealth Partners (Oral Wegovy)",
@@ -51,15 +55,17 @@
       "market": "us",
       "type": "dtc",
       "molecules_offered": [
-        "semaglutide (compounded)",
-        "liraglutide (compounded)"
+        "Wegovy (branded, via Novo Nordisk partnership)",
+        "Ozempic (branded)",
+        "semaglutide (compounded — being wound down)"
       ],
-      "pricing_model": "$199-399/month subscription including consultation and medication",
+      "pricing_model": "$149/month branded Wegovy; legacy compounded subscribers being transitioned",
       "partnerships": [
-        "Multiple compounding pharmacies"
+        "Novo Nordisk (direct, as of March 9, 2026)"
       ],
       "launch_date": "2024-01-15",
-      "source_url": "https://www.forhims.com/weight-loss"
+      "note": "Novo Nordisk dropped patent lawsuit on March 9, 2026 after Hims agreed to end compounded GLP-1 marketing and transition to branded products.",
+      "source_url": "https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html"
     },
     {
       "id": "th-003",
@@ -78,6 +84,23 @@
         "Health coaches"
       ],
       "source_url": "https://www.joinfound.com"
+    },
+    {
+      "id": "th-006",
+      "name": "WeightWatchers (WW)",
+      "market": "us",
+      "type": "telehealth",
+      "molecules_offered": [
+        "Wegovy (branded)",
+        "Ozempic (branded)"
+      ],
+      "pricing_model": "$349/month GLP-1 Med+ program (was $199/month introductory through March 31, 2026); no compounded GLP-1s offered",
+      "partnerships": [
+        "Novo Nordisk (oral Wegovy partner)"
+      ],
+      "launch_date": "2025-12-26",
+      "note": "GLP-1 Med+ program launched Dec 26, 2025. $199/month introductory pricing for Ozempic/Wegovy ended March 31, 2026; standard pricing of $349/month begins April 1, 2026.",
+      "source_url": "https://www.weightwatchers.com/us/program/glp1"
     },
     {
       "id": "th-004",
@@ -113,6 +136,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "th-entry-010",
+      "timestamp": "2026-03-31T00:00:00Z",
+      "source_url": "https://www.weightwatchers.com/us/program/glp1",
+      "source_name": "WeightWatchers / CNBC",
+      "market": "us",
+      "summary": "WeightWatchers GLP-1 Med+ program introductory pricing ($199/mo for Ozempic/Wegovy) expires today March 31, 2026; standard price of $349/month takes effect April 1. Separately, Hims & Hers completed its transition from compounded GLP-1s to branded Novo Nordisk products following the March 9 settlement.",
+      "content": "Two major telehealth pricing milestones converge on March 31, 2026. First, WeightWatchers' GLP-1 Med+ introductory pricing of $199/month for Ozempic or Wegovy — launched December 26, 2025 and designed to compete with Hims & Hers and Ro — expires today. Starting April 1, 2026, standard pricing of $349/month applies, aligning more closely with the NovoCare benchmark. WeightWatchers does not offer compounded GLP-1s and differentiates its program through its behavioral coaching infrastructure and community support, positioning GLP-1 medication as a tool within a comprehensive lifestyle program. Second, Hims & Hers completed its transition: following the March 9, 2026 settlement with Novo Nordisk (in which Novo dropped its patent infringement lawsuit), Hims agreed to wind down compounded GLP-1 marketing and transition its 450,000+ GLP-1 subscribers to branded Wegovy and Ozempic at $149/month. This marks a decisive shift in the US GLP-1 telehealth market: the compounded semaglutide era is effectively over for major platforms, with all significant US telehealth providers now offering branded manufacturer products. The remaining competitive differentiation is on behavioral support, pricing, and formulary breadth rather than access to compounded alternatives.",
+      "tags": ["telehealth", "us", "weightwatchers", "hims-hers", "pricing", "branded-glp1", "novo-nordisk", "compounded-wind-down", "d2c"]
+    },
+    {
+      "id": "th-entry-009",
+      "timestamp": "2026-03-09T00:00:00Z",
+      "source_url": "https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html",
+      "source_name": "CNBC",
+      "market": "us",
+      "summary": "Novo Nordisk and Hims & Hers reached a settlement on March 9, 2026: Hims dropped compounded GLP-1 advertising; Novo dropped patent infringement suit. Hims now sells branded Wegovy (injections + pills) and Ozempic starting at $149/month.",
+      "content": "Novo Nordisk and Hims & Hers reached a landmark settlement on March 9, 2026 that effectively resolves the most contentious legal dispute in the US GLP-1 compounding space. Hims & Hers agreed to cease marketing compounded GLP-1 products, and Novo Nordisk in turn dropped its patent infringement lawsuit that had been threatening Hims' entire GLP-1 business. Under the settlement, Hims & Hers became an authorized distribution channel for branded Novo products: Wegovy (both injectable and the new oral pill) and Ozempic are now available on the Hims platform starting at $149/month — the same price as NovoCare's direct channel. A referral from HHS to the Department of Justice regarding potential violations was pending at time of deal and may have accelerated Hims' willingness to settle. The deal signals the end of the era when major telehealth platforms could build high-margin businesses on compounded semaglutide. Hims stock initially fell on the news as compounded revenue was high-margin; however, analysts see the transition to branded distribution as more durable and legally sustainable long-term.",
+      "tags": ["telehealth", "us", "hims-hers", "novo-nordisk", "settlement", "compounded-wind-down", "legal", "branded-glp1", "wegovy"]
+    },
     {
       "id": "th-entry-008",
       "timestamp": "2026-03-30T00:00:00Z",

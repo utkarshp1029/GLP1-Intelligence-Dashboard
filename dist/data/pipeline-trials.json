@@ -1,13 +1,13 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 11,
+    "last_updated": "2026-03-31T00:00:00Z",
+    "entry_count": 12,
     "key_metrics": [
       { "label": "Phase 3 Candidates", "value": "6" },
-      { "label": "Orforglipron FDA Submission", "value": "Expected 2026 (obesity)" },
+      { "label": "Orforglipron PDUFA Date", "value": "April 10, 2026 (obesity + T2DM)" },
       { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4)" },
-      { "label": "Retatrutide T2D Trial", "value": "Phase 3 success — 1.9% HbA1c reduction, 15% weight loss" },
+      { "label": "Tirzepatide SURPASS-CVOT", "value": "ACC 2026: 16% lower cardiorenal risk vs dulaglutide" },
       { "label": "CagriSema NDA Status", "value": "Filed Q1 2026, PDUFA ~Oct 2026" }
     ]
   },
@@ -89,6 +89,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "trial-entry-011",
+      "timestamp": "2026-03-31T00:00:00Z",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41903177/",
+      "source_name": "JAMA Cardiology / ACC 2026",
+      "market": "both",
+      "summary": "ACC 2026 / JAMA Cardiology: Tirzepatide reduced a 6-point cardiorenal composite endpoint by 16% vs dulaglutide (23.7% vs 27.4%) in 13,000+ T2DM + CVD patients over ~4 years (SURPASS-CVOT post hoc). All-cause mortality HR 0.84, kidney outcomes HR 0.79.",
+      "content": "A post hoc analysis of the SURPASS-CVOT randomized controlled trial presented at the American College of Cardiology (ACC) 2026 Annual Scientific Sessions in New Orleans (March 28-30, 2026) and simultaneously published in JAMA Cardiology provides the most comprehensive cardiorenal evidence to date for tirzepatide versus a GLP-1 monotherapy comparator. The analysis included 13,076 patients with type 2 diabetes and established cardiovascular disease followed for a median of 3.7 years. Tirzepatide reduced the primary 6-point composite cardiorenal endpoint (cardiovascular death, nonfatal MI, nonfatal stroke, heart failure hospitalization, coronary revascularization, and adverse kidney outcomes) by 16% vs dulaglutide (23.7% vs 27.4%; HR 0.84; 95% CI 0.78-0.91; p<0.0001). Component outcomes: all-cause mortality HR 0.84 (p=0.005), coronary revascularization HR 0.84 (p=0.001), adverse kidney outcomes HR 0.79 (p=0.001). The 3-point MACE endpoint (CV death, MI, stroke) was numerically but not statistically significantly different (HR 0.94; p=0.27). Gastrointestinal adverse events were more common with tirzepatide (42.5% vs 35.9%). This is a post hoc analysis of a trial designed to compare tirzepatide vs dulaglutide — not a prespecified superiority test — but the cardiorenal composite finding is robust and consistent across subgroups. Key implication: dual GIP/GLP-1 agonism appears to confer meaningful cardiorenal protection over GLP-1 monotherapy, supporting tirzepatide (and future triple agonists) as the preferred agent in high-CV/CKD-risk patients. Funded by Eli Lilly.",
+      "tags": ["pipeline", "tirzepatide", "eli-lilly", "surpass-cvot", "acc-2026", "cardiorenal", "jama-cardiology", "cardiovascular", "kidney", "post-hoc", "dulaglutide"]
+    },
     {
       "id": "trial-entry-009",
       "timestamp": "2026-03-15T10:00:00Z",
