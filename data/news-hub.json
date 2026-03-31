@@ -2,9 +2,9 @@
   "meta": {
     "section_id": "news-hub",
     "last_updated": "2026-03-31T00:00:00Z",
-    "entry_count": 25,
+    "entry_count": 28,
     "key_metrics": [
-      { "label": "Stories This Week", "value": "18" },
+      { "label": "Stories This Week", "value": "21" },
       { "label": "Sources Tracked", "value": "15+" },
       { "label": "Markets Covered", "value": "India & US" }
     ]
@@ -792,6 +792,60 @@
         }
       ],
       "tags": ["tirzepatide", "dulaglutide", "surpass-cvot", "cardiorenal", "acc-2026", "eli-lilly", "clinical-trial", "us"]
+    },
+    {
+      "id": "story-026",
+      "headline": "IMA Warns Against GLP-1 Self-Medication as Generic Wave Hits India",
+      "summary": "The Indian Medical Association issued a nationwide advisory on March 30, 2026, urging patients not to self-prescribe generic semaglutide products despite the dramatic price drop following patent expiry. IMA President Dr. R.V. Asokan warned that GLP-1 drugs carry serious risks including pancreatitis, gallbladder disease, thyroid tumours, and cardiovascular complications when used without medical supervision. The advisory comes as over 50 branded generics flooded the market within 10 days of patent expiry, with prices as low as ₹1,290/month making the drug accessible to millions for the first time. IMA called on pharmacies to enforce prescription requirements strictly.",
+      "market": "india",
+      "category": "regulatory",
+      "timestamp": "2026-03-30",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "ANI",
+          "title": "IMA warns against self-medication with GLP-1 drugs as generic versions flood Indian market",
+          "url": "https://www.aninews.in/news/health/ima-warns-against-self-medication-with-glp-1-drugs-as-generic-versions-flood-indian-market20260330",
+          "date": "2026-03-30"
+        }
+      ],
+      "tags": ["ima", "self-medication", "regulatory", "india", "semaglutide", "safety"]
+    },
+    {
+      "id": "story-027",
+      "headline": "Hims & Hers and Novo Nordisk Settle Lawsuit Over Compounded Semaglutide",
+      "summary": "Hims & Hers Health and Novo Nordisk reached a confidential settlement in March 2026, resolving a lawsuit Novo filed after Hims & Hers continued marketing compounded semaglutide products despite FDA shortage declarations being lifted in February 2025. The telehealth company had been one of the most aggressive distributors of compounded GLP-1s, reportedly generating over $225 million in quarterly revenues from its semaglutide program. Terms of the settlement were not disclosed but the agreement effectively ended Hims & Hers' compounded semaglutide business in the US. The settlement is viewed as a landmark enforcement signal to the broader telehealth-compounder ecosystem.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-03-09",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Frier Levitt",
+          "title": "Novo Nordisk and Hims & Hers Reach Settlement Over Compounded Semaglutide",
+          "url": "https://frierlevitt.com/articles/novo-nordisk-hims-hers-settlement-compounded-semaglutide/",
+          "date": "2026-03-09"
+        }
+      ],
+      "tags": ["hims-hers", "novo-nordisk", "settlement", "compounding", "telehealth", "us"]
+    },
+    {
+      "id": "story-028",
+      "headline": "Survodutide Phase 3 SYNCHRONIZE-2 Trial: New Entrant in GLP-1/Glucagon Dual Agonist Race",
+      "summary": "Boehringer Ingelheim's survodutide, a dual GLP-1/glucagon receptor agonist (GcgR/GLP-1R), entered Phase 3 trials in SYNCHRONIZE-2 as of early 2026. Phase 2 data showed 14.9% weight loss at 46 weeks — competitive with semaglutide's Phase 2 results. Unlike tirzepatide (GIP/GLP-1), survodutide's glucagon agonism drives stronger energy expenditure and potentially better hepatic fat reduction, making it differentiated for MASH (metabolic-associated steatohepatitis). If Phase 3 succeeds, survodutide could become the first GLP-1/glucagon dual agonist on market by 2028-2029 and challenge Lilly's tirzepatide in obesity and liver disease.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-01-15",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Diabetes, Obesity and Metabolism (Wiley)",
+          "title": "SYNCHRONIZE-2: A Phase 3 Randomized Trial of Survodutide for Obesity",
+          "url": "https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.16271",
+          "date": "2026-01-15"
+        }
+      ],
+      "tags": ["survodutide", "boehringer-ingelheim", "phase-3", "clinical-trial", "glp-1", "glucagon", "mash", "us"]
     },
     {
       "id": "story-025",
