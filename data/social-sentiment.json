@@ -1,12 +1,12 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 8,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 10,
     "key_metrics": [
       {
         "label": "Tracked Trends",
-        "value": "3"
+        "value": "5"
       },
       {
         "label": "Compounding Safety Sentiment",
@@ -17,6 +17,14 @@
         "label": "India Generic Sentiment",
         "value": "Positive (0.82)",
         "delta_direction": "up"
+      },
+      {
+        "label": "Body Positivity Impact",
+        "value": "64% Americans say GLP-1 hype hurts body positivity (72% Gen Z)"
+      },
+      {
+        "label": "Top Reddit Drug",
+        "value": "Mounjaro (4,917 mentions) overtakes Wegovy"
       }
     ]
   },
@@ -55,6 +63,41 @@
       "source_url": "https://twitter.com/search?q=semaglutide%20india%20generic"
     },
     {
+      "id": "sent-004",
+      "platform": "Reddit (r/Mounjaro, r/Tirzepatide, r/Semaglutide)",
+      "topic": "Mounjaro/Tirzepatide Overtakes Wegovy in Reddit Mentions",
+      "market": "us",
+      "sentiment_score": 0.74,
+      "volume": 4917,
+      "trending_direction": "up",
+      "sample_discussions": [
+        "Mounjaro 4,917 Reddit mentions vs Wegovy 3,200 — tirzepatide now dominates conversation",
+        "Success stories of 20%+ weight loss with tirzepatide driving FOMO",
+        "Insurance coverage struggles for Zepbound (obesity indication) despite Mounjaro (diabetes) coverage",
+        "Patients switching from semaglutide to tirzepatide for superior weight loss"
+      ],
+      "date": "2026-04-01",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39372460/"
+    },
+    {
+      "id": "sent-005",
+      "platform": "TikTok / Instagram / WGSN",
+      "topic": "'Faux-zempic' Counterculture & Body Positivity Backlash",
+      "market": "us",
+      "sentiment_score": 0.55,
+      "volume": 6200,
+      "trending_direction": "up",
+      "sample_discussions": [
+        "64% of Americans believe GLP-1 popularity is negatively affecting body positivity (72% Gen Z)",
+        "'Faux-zempic' trend: pharma-hesitant consumers seeking natural alternatives (WGSN #1 2026 wellness trend)",
+        "Body neutrality activists pushing back against 'Ozempic culture' and weight-loss normalization",
+        "Beauty brands launching 'Ozempic companion' skincare for muscle preservation and skin laxity",
+        "Influencers disclosing (or concealing) GLP-1 use amid Hollywood weight-loss speculation"
+      ],
+      "date": "2026-04-01",
+      "source_url": "https://www.cosmeticsdesign-europe.com/Article/2026/03/20/how-glp1-drugs-are-reshaping-beauty-and-wellness-innovation/"
+    },
+    {
       "id": "sent-003",
       "platform": "Reddit / TikTok / Facebook Groups",
       "topic": "Compounded Semaglutide Safety Concerns",
@@ -73,6 +116,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-010",
+      "timestamp": "2026-04-04T00:00:00Z",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12447010/",
+      "source_name": "PMC / IQVIA / WGSN",
+      "market": "us",
+      "summary": "April 2026 social sentiment landscape: Mounjaro (tirzepatide) now dominates Reddit with 4,917 mentions — surpassing Wegovy. 64% of Americans and 72% of Gen Z believe GLP-1 drug popularity negatively affects body positivity. 'Faux-zempic' is WGSN's top 2026 wellness trend. Instagram content analysis shows 76.9% positive medication sentiment but growing body image concerns (49.2% well-being positive). TikTok continues driving rapid weight-loss misinformation.",
+      "content": "Comprehensive April 2026 GLP-1 social media sentiment analysis:\n\n1. PLATFORM VOLUMES: Reddit remains the most substantive GLP-1 discussion forum. Mounjaro now has 4,917 mentions (r/Mounjaro + r/Tirzepatide), surpassing Wegovy (estimated 3,200 mentions) for the first time. Common Reddit themes: success stories of 20%+ weight loss, insurance coverage battles, side effect management, switching from semaglutide to tirzepatide. Instagram GLP-1 posts: 76.9% positive sentiment toward the medications overall, 49.2% positive sentiment about personal well-being during use.\n\n2. BODY POSITIVITY BACKLASH: A survey of US adults found 64% believe GLP-1 drug popularity is negatively affecting the body positivity movement, with Gen Z more concerned at 72%. This sentiment is being amplified on TikTok and Instagram body-neutral communities that frame GLP-1 use as societal pressure rather than medical choice. Hollywood 'Ozempic speculation' about celebrities' weight loss is a recurring topic driving negative sentiment in entertainment media.\n\n3. 'FAUX-ZEMPIC': WGSN's 2026 Wellness Trend Forecast designates 'Faux-zempic' as a top trend — pharma-hesitant consumers seeking natural GLP-1 pathway support via supplements (berberine, Akkermansia, inulin). This represents a counterculture to mainstream GLP-1 adoption. Google searches for 'natural Ozempic alternative' reached an all-time high in March 2026 in the US.\n\n4. INDIA SENTIMENT: Very different dynamic — Indian social media sentiment is strongly positive around access and affordability following the March 20 generic launch. WhatsApp health groups are the primary channel, with doctors sharing dosing guidance and patients comparing brand prices. Concern themes: product authenticity, cold-chain reliability for vials, and unsupervised use.\n\n5. TIKTOK MISINFORMATION: FDA's concern about TikTok GLP-1 content has grown — the platform hosts posts promoting 10-15 lb/week weight loss (physiologically impossible) and 'GLP-1 hacks' that mix prescription drugs with unregulated supplements. This is driving a growing subgroup of users to expect unrealistic outcomes.",
+      "tags": ["sentiment", "us", "india", "mounjaro", "reddit", "body-positivity", "faux-zempic", "wgsn", "instagram", "tiktok", "april-2026"]
+    },
     {
       "id": "sent-entry-008",
       "timestamp": "2026-03-30T00:00:00Z",

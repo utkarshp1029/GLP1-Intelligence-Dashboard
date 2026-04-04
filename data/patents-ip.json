@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "patents-ip",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 9,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 10,
     "key_metrics": [
       { "label": "Markets Open (Semaglutide)", "value": "India, China, Brazil, Canada, Turkey (~40% of world pop.)" },
       { "label": "Tirzepatide Para IV Eligible", "value": "May 13, 2026 (US) — but ~2036 before generic launch" },
@@ -62,6 +62,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "pat-entry-010",
+      "timestamp": "2026-04-04T00:00:00Z",
+      "source_url": "https://ipfray.com/another-semaglutide-generic-enters-india-as-novo-nordisk-patent-expires-delhi-high-court-denies-injunction/",
+      "source_name": "IP Fray / Pearce IP / GeneOnline",
+      "market": "india",
+      "summary": "The Delhi High Court denied Novo Nordisk's emergency ex parte injunction request just before the March 20, 2026 semaglutide patent expiry, allowing Torrent's generic to launch hours ahead of the product patent's expiration. No secondary/formulation patent provided any additional protection. 50+ brands are expected across 40+ manufacturers in 2026. Novo Nordisk's India IP strategy shifts post-expiry to trade dress, quality differentiation, and Wegovy HD (7.2mg) — the only dose not yet replicated by generics.",
+      "content": "The India patent situation for semaglutide resolved decisively against Novo Nordisk as of March 20, 2026. Key developments:\n\n1. DELHI HIGH COURT: Novo Nordisk sought an ex parte injunction (emergency order without hearing the other side) to block generic entry ahead of the patent expiry. The Delhi High Court denied this request, directing only an interim solution rather than a full injunction. Torrent Pharmaceuticals received a green light to launch generic semaglutide hours before the product patent's official March 20 expiry date — effectively becoming the first company to market.\n\n2. SECONDARY PATENTS: Unlike in the US, where Novo holds 154 granted patents creating a dense thicket around Ozempic/Wegovy, India's secondary patent landscape did not provide Novo with meaningful protection beyond the primary compound patent. No device, formulation, or dosing patents created barriers to entry for Indian generic manufacturers. This contrasts sharply with the US where secondary patents extend protection to 2035.\n\n3. MARKET ENTRY: The complete absence of injunctive relief contributed to the rapid Day 1 entry of 15+ generic manufacturers. 50+ brand names are expected across 40+ manufacturers by end of 2026, representing one of the most competitive generic market entries in Indian pharmaceutical history.\n\n4. NOVO'S POST-EXPIRY IP STRATEGY: With the compound patent expired and no secondary patent protection, Novo Nordisk's IP strategy has shifted to: (a) Trade dress protection for Ozempic/Wegovy pen design and packaging; (b) Data exclusivity periods for specific approved indications; (c) First-mover advantage in Wegovy HD (7.2mg) — the high-dose formulation approved by FDA in March 2026 that does not have a corresponding Indian generic approval and represents the only dose not yet replicated by competitors.\n\n5. GLOBAL CONTEXT: Semaglutide patents have now expired in India, China, Brazil, Canada, and Turkey — markets covering 40% of the world's population. Tirzepatide (Mounjaro/Zepbound) becomes eligible for US Paragraph IV patent challenges on May 13, 2026, though meaningful US generic competition remains unlikely before 2036.",
+      "tags": ["patents", "india", "delhi-high-court", "injunction-denied", "torrent", "novo-nordisk", "secondary-patents", "wegovy-hd", "generic-entry", "april-2026"]
+    },
     {
       "id": "pat-entry-009",
       "timestamp": "2026-03-30T00:00:00Z",

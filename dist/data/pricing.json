@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 8,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 10,
     "key_metrics": [
       {
         "label": "Cheapest India (Vial)",
@@ -14,19 +14,19 @@
       },
       {
         "label": "Avg India Generic Pen",
-        "value": "₹3,800-₹4,500/mo"
+        "value": "₹3,800-₹4,500/mo (40-50% drop forecast FY27)"
       },
       {
-        "label": "Branded India (Ozempic)",
-        "value": "₹8,800-₹22,000/mo"
+        "label": "Novo India (Post Apr 1 Cut)",
+        "value": "Ozempic -36% | Wegovy -48% (effective Apr 1)"
       },
       {
         "label": "Novo US Self-Pay (NovoCare)",
-        "value": "$349/mo (most doses)"
+        "value": "$199/mo intro offer | $349/mo standard"
       },
       {
-        "label": "Oral Wegovy Pill (US)",
-        "value": "$149/mo (D2C/telehealth)"
+        "label": "Novo US List Price (from Jan 2027)",
+        "value": "$675/mo (Wegovy, Ozempic, Rybelsus)"
       },
       {
         "label": "India vs US Price Ratio",
@@ -859,6 +859,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "pricing-entry-010",
+      "timestamp": "2026-04-04T00:00:00Z",
+      "source_url": "https://www.cnbc.com/2026/02/24/novo-nordisk-to-slash-wegovy-ozempic-us-list-prices-by-up-to-50percent.html",
+      "source_name": "CNBC / Pharmaceutical Commerce",
+      "market": "both",
+      "summary": "Novo Nordisk cut India prices effective April 1: Ozempic -36%, Wegovy -48%. In the US, Novo launched a $199/month introductory offer for new patients. US list prices for Wegovy, Ozempic, and Rybelsus to drop to $675/month from January 1, 2027 (IRA negotiation outcome). India generics prices forecast to fall 40-50% in FY27 and another 10-30% in FY28.",
+      "content": "April 2026 pricing update — two major developments:\n\n1. INDIA: Novo Nordisk cut branded prices effective April 1, 2026: Ozempic -36% and Wegovy -48%. This is a direct response to the generic wave, narrowing the price premium of branded vs generics from 6-8x to 4-5x. Despite cuts, generics remain 3-4x cheaper than post-cut Novo pricing. India generic prices continue to fall: FY27 forecast is an additional 40-50% price decline industrywide as 40+ manufacturers compete. FY28 may see a further 10-30% drop as consolidation eliminates weaker players.\n\n2. US: Novo Nordisk announced a $199/month introductory offer for new Wegovy and Ozempic patients (through NovoCare pharmacy), down from the standard $349/month. This follows Novo's February 2026 announcement of a planned list price reduction to $675/month for Wegovy, Ozempic, and Rybelsus, effective January 1, 2027 — the result of IRA (Inflation Reduction Act) price negotiations. As of April 2026, the US list price remains $1,027 (Ozempic) to $1,349 (Wegovy) per pen, but insured patients pay as little as $25/month. The NovoCare self-pay program at $349/month for most doses is the key benchmark for uninsured US patients.",
+      "tags": ["pricing", "india", "us", "novo-nordisk", "price-cut", "april-2026", "ira-negotiation", "novocare", "fy27-forecast"]
+    },
     {
       "id": "pricing-entry-008",
       "timestamp": "2026-03-30T00:00:00Z",

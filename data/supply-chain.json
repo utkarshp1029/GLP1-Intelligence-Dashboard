@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supply-chain",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 10,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 11,
     "key_metrics": [
       {
         "label": "Active Shortages",
@@ -63,6 +63,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "sc-entry-011",
+      "timestamp": "2026-04-04T00:00:00Z",
+      "source_url": "https://www.india-briefing.com/news/ozempic-generic-glp1-drug-manufacturing-race-in-india-43676.html/",
+      "source_name": "India Briefing / Outsourced Pharma",
+      "market": "india",
+      "summary": "India is racing to build GLP-1 API and fill-finish capacity for global export. Dr. Reddy's targets 12 million pens/year across 87 countries. Hetero's three-brand strategy covers 75+ countries. Cold-chain compliance remains the #1 operational risk for Indian generic manufacturers — DCGI has flagged storage/transport violations. CDMOs are responding with dedicated injectable lines and cold-chain logistics partnerships.",
+      "content": "India's semaglutide generic wave is creating a manufacturing capacity buildout story that extends well beyond domestic supply. Key supply chain dynamics as of April 2026:\n\n1. EXPORT AMBITIONS: Dr. Reddy's has committed to selling 12 million pens in year 1 across 87 countries. Hetero's Truglyx/Rolmodl/Moto G are targeting 75+ countries. Sun Pharma's Noveltreat/Sematrinity pens are manufactured in Europe and imported, giving them regulatory standing in markets where Indian manufacturing may face additional scrutiny.\n\n2. COLD CHAIN: The critical constraint for Indian generic semaglutide is cold-chain compliance. Semaglutide requires 2-8°C storage and cannot be left at room temperature for extended periods. DCGI has identified cold-chain violations at several generic launch sites. Companies that invested early in temperature-controlled logistics (refrigerated vans, validated cold-storage warehouses, pharmacy-level refrigeration monitoring) are better positioned for export regulatory approvals.\n\n3. API SUPPLY: India's semaglutide API production is concentrated among a handful of manufacturers. Divi's Laboratories, Aurobindo, and Neuland Laboratories are key API suppliers. A disruption in API supply could affect multiple branded generic manufacturers simultaneously — representing a systemic supply risk that doesn't exist with diversified small-molecule generics.\n\n4. CDMO OPPORTUNITY: 2025 GLP-1 impacts on CDMOs translate to significant 2026 opportunities. Injectable-specialized CDMOs in India are investing in dedicated semaglutide fill-finish lines, with demand from 15+ branded manufacturers seeking contract manufacturing to scale quickly without full capex investment.\n\n5. US/EU SUPPLY: Both Novo Nordisk and Eli Lilly have largely resolved their supply constraints. The Eli Lilly LEAP facility (Research Triangle Park, NC) is on track for Q3 2026 completion, adding significant tirzepatide capacity. Novo's Kalundborg expansion in Denmark provides additional Wegovy supply. Higher doses (12.5mg tirzepatide, 7.2mg Wegovy HD) may still see sporadic pharmacy-level stock variation.",
+      "tags": ["supply-chain", "india", "cold-chain", "api", "cdmo", "dr-reddys", "hetero", "export", "manufacturing", "april-2026"]
+    },
     {
       "id": "sc-entry-010",
       "timestamp": "2026-03-30T00:00:00Z",

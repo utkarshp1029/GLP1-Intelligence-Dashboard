@@ -1,12 +1,12 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 9,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 11,
     "key_metrics": [
       {
         "label": "Tracked Supplements",
-        "value": "5"
+        "value": "7"
       },
       {
         "label": "Berberine Sales Growth (India)",
@@ -16,6 +16,10 @@
       {
         "label": "FDA Warning Letters Issued",
         "value": "4"
+      },
+      {
+        "label": "2026 Trend",
+        "value": "'Faux-zempic' — natural GLP-1 support counterculture (WGSN)"
       }
     ]
   },
@@ -103,6 +107,50 @@
       "source_url": "https://jn.nutrition.org/article/S0022-3166(23)01864-3/fulltext"
     },
     {
+      "id": "supp-006",
+      "name": "GLP-1 Supreme (Akkermansia + Berberine Combo)",
+      "brand": "California Gold Nutrition GLP-1 Supreme",
+      "manufacturer": "California Gold Nutrition",
+      "market": "us",
+      "type": "glp1_mimic",
+      "key_ingredients": [
+        "Akkermansia muciniphila",
+        "Berberine HCl",
+        "Quercetin",
+        "Curcumin"
+      ],
+      "platforms": [
+        "iHerb",
+        "Amazon US"
+      ],
+      "price_range": "$35-40/month (US)",
+      "avg_rating": 4.4,
+      "review_count": 1800,
+      "source_url": "https://www.iherb.com/pr/california-gold-nutrition-glp-1-supreme-with-akkermansia-berberine-quercetin-curcumin-60-veggie-capsules/146472"
+    },
+    {
+      "id": "supp-007",
+      "name": "ANTROLIFE GLP-1 (5-Module System)",
+      "brand": "ANTROLIFE",
+      "manufacturer": "ANTROLIFE",
+      "market": "us",
+      "type": "glp1_mimic",
+      "key_ingredients": [
+        "Akkermansia Muciniphila",
+        "Berberine HCl",
+        "Saffron",
+        "NAD+ Cofactors",
+        "Trikatu"
+      ],
+      "platforms": [
+        "Amazon US"
+      ],
+      "price_range": "$55-65/month (US, 2-pack)",
+      "avg_rating": 4.1,
+      "review_count": 420,
+      "source_url": "https://www.amazon.com/ANTROLIFE-GLP-1-Supplement-Akkermansia-Stimulant-Free/dp/B0GFMYPL9L"
+    },
+    {
       "id": "supp-005",
       "name": "Fenugreek (Methi)",
       "brand": "Patanjali / Organic India",
@@ -126,6 +174,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "supp-entry-011",
+      "timestamp": "2026-04-04T00:00:00Z",
+      "source_url": "https://www.cosmeticsdesign-europe.com/Article/2026/03/20/how-glp1-drugs-are-reshaping-beauty-and-wellness-innovation/",
+      "source_name": "WGSN / Cosmetics Design / iHerb Wellness Trends",
+      "market": "both",
+      "summary": "'Faux-zempic' is WGSN's #1 wellness trend for 2026: a pharma-hesitant counterculture driving demand for natural GLP-1 support supplements. Combined Akkermansia + Berberine formulations now dominate the 'natural GLP-1 booster' category on Amazon and iHerb. The market is growing rapidly but faces an evidence gap — no finished-product clinical trials comparable to prescription GLP-1 RAs. iHerb projects natural GLP-1 support supplements as their fastest-growing category in H1 2026.",
+      "content": "WGSN's 2026 Wellness Trend Forecast identifies 'Faux-zempic' as a defining trend: a growing counterculture among pharma-hesitant consumers who seek natural, supplement-based approaches to the metabolic benefits of GLP-1 receptor agonists. Key dynamics:\n\n1. MARKET SIZE: Natural GLP-1 support supplements are the fastest-growing wellness category on Amazon US in Q1 2026. Google search volume for 'natural GLP-1 booster', 'berberine ozempic alternative', and 'akkermansia weight loss' are all at all-time highs.\n\n2. PRODUCT EVOLUTION: The supplement market has shifted from single-ingredient berberine toward multi-modal 'GLP-1 stacks' combining: Akkermansia muciniphila (postbiotic for gut barrier), Berberine HCl (AMPK activator/GLP-1 releaser), Quercetin + Curcumin (anti-inflammatory), Inulin/Chicory (prebiotic fiber for GLP-1 stimulation), Saffron (appetite modulation). Major products: California Gold Nutrition GLP-1 Supreme, ANTROLIFE GLP-1, Pendulum GLP-1 Probiotic.\n\n3. BEAUTY CROSSOVER: GLP-1 drugs are reshaping beauty innovation — skincare brands are launching 'GLP-1 companion' products targeting 'Ozempic face' (skin laxity post weight-loss), muscle-preservation supplements, and collagen boosters. WGSN predicts this creates a $500M+ addressable market for beauty brands.\n\n4. INDIA CONTEXT: Indian supplement market is seeing rapid berberine growth (3x YoY) plus emergence of ayurvedic 'metabolic health' formulations marketed as GLP-1 support. Korglutide (OTC oral functional food claiming GLP-1 activity) remains in market despite regulatory concerns.\n\n5. EVIDENCE GAP: None of the 'natural GLP-1 booster' supplements have been tested in RCTs as finished products at scale comparable to semaglutide Phase 3 trials. Ingredient-level evidence (berberine, Akkermansia) exists but shows modest 2-5% weight loss vs 15-20% for prescription GLP-1s.",
+      "tags": ["supplements", "faux-zempic", "wgsn", "akkermansia", "berberine", "wellness-trend", "beauty", "india", "us", "counterculture", "april-2026"]
+    },
     {
       "id": "supp-entry-009",
       "timestamp": "2026-03-30T00:00:00Z",

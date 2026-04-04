@@ -1,15 +1,15 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 12,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 14,
     "key_metrics": [
-      { "label": "Total Launches (India)", "value": "12+" },
+      { "label": "Total Launches (India)", "value": "15+ (40+ brands expected by end 2026)" },
       { "label": "Cheapest (Vial)", "value": "₹1,290/mo (Natco)" },
       { "label": "5yr Market Forecast", "value": "₹12,000 Cr (Nomura)" },
-      { "label": "First Oral Generic", "value": "Torrent Sembolic" },
-      { "label": "Global Rollout (Hetero)", "value": "75+ countries" },
-      { "label": "Bloomberg Headline Price", "value": "$14/month" }
+      { "label": "First Oral Generic", "value": "Torrent Sembolic (₹3,999/mo)" },
+      { "label": "Price Erosion Forecast", "value": "-40-50% in FY27, -10-30% in FY28" },
+      { "label": "Cipla / Biocon", "value": "Evaluating launch timelines (not yet launched)" }
     ]
   },
   "launches": [
@@ -187,6 +187,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-014",
+      "timestamp": "2026-04-04T00:00:00Z",
+      "source_url": "https://www.tradingview.com/news/moneycontrol:8621c35f3094b:0-beyond-the-price-war-indian-drug-companies-gearing-up-to-win-the-glp-1-retention-game/",
+      "source_name": "Moneycontrol / TradingView",
+      "market": "india",
+      "summary": "As India's semaglutide market enters its second week, top companies are pivoting from pure price competition to a 'retention game' strategy — investing in patient support, digital tools, and companion diagnostics to improve adherence and reduce discontinuation. Consolidation will likely reduce 40+ brands to 5-8 dominant players within 18-24 months. Cipla and Biocon remain the two major hold-outs still evaluating their launch strategy.",
+      "content": "Moneycontrol's April 2026 analysis identifies a shift in competitive strategy among India's generic semaglutide players: the 'retention game.' After the initial price war (₹1,290-₹4,500/month across 15+ brands), leading companies are realizing that price alone won't build sustainable market share — because GLP-1 dropout rates are high (40-60% at 1 year). The next battleground is keeping patients on therapy through: (1) patient nurse helplines and adherence support programs; (2) companion diagnostic bundles (HbA1c, lipid panels, body composition monitoring); (3) digital apps and wearable integration; (4) physician education and specialty prescriber networks. Companies positioning for survival: Dr. Reddy's (clinical data + 87-country scale), Sun Pharma (tier-1 hospital relationships + premium pricing), Alkem (mass market price leadership), Torrent (first-mover in oral format + strong stockist network), Lupin-Zydus partnership (combined field force of 10,000+ doctors). Companies at risk: smaller manufacturers without clinical differentiation, cold-chain infrastructure, or physician access. Two notable absences: Cipla and Biocon are both evaluating launch timelines and pricing strategies, and have not committed to launch dates as of April 2026. Cipla has existing metabolic disease infrastructure but may be waiting for the price war to stabilize before entering.",
+      "tags": ["generics", "india", "retention-game", "consolidation", "cipla", "biocon", "adherence", "market-strategy", "april-2026"]
+    },
     {
       "id": "gen-entry-011",
       "timestamp": "2026-03-30T00:00:00Z",

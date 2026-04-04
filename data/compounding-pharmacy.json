@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 8,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 9,
     "key_metrics": [
       {
         "label": "Tracked Pharmacies",
@@ -59,6 +59,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-009",
+      "timestamp": "2026-04-01T00:00:00Z",
+      "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+      "source_name": "FDA / AJMC / BIPC",
+      "market": "us",
+      "summary": "FDA issued an April 1, 2026 clarification: 503A pharmacies (individual patient compounding) can no longer rely on the semaglutide shortage exemption — the discretion period has ended. 503B outsourcing facilities also face tightened restrictions. DOJ referrals are now in play alongside FDA warning letters. The Hims & Hers settlement with Novo Nordisk signals compounders face both civil and criminal risk.",
+      "content": "April 1, 2026 represents a regulatory turning point for compounded GLP-1 drugs in the US. Key developments:\n\n1. FDA APRIL 1 CLARIFICATION: The FDA issued guidance reminding compounders that the period of enforcement discretion for semaglutide 503A compounding has ended. 503A pharmacies (which compound for individual patient prescriptions) must now meet strict conditions: the compounded drug must NOT be essentially a copy of a commercially available product, and there must be documented patient-specific medical need for the deviation. Adding vitamin B12 or niacinamide has been explicitly ruled out as insufficient justification.\n\n2. 503B OUTSOURCING: Facilities compounding under 503B were already under enforcement since May 22, 2025. The FDA continues to monitor and has not relaxed its position, with active litigation from the Outsourcing Facility Association (OFA) still ongoing but no favorable court ruling as of April 2026.\n\n3. DOJ REFERRALS: The FDA has begun referring egregious cases to the Department of Justice for criminal prosecution — escalating beyond warning letters and civil penalties. This signals that the agency views the continued growth of compounded GLP-1s post-shortage resolution as a serious public health issue.\n\n4. MARKET IMPACT: The Hims & Hers settlement with Novo Nordisk (March 2026) effectively ended one of the largest compounded GLP-1 distribution channels. Ro (Roman), another major telehealth platform, has also wound down its compounded semaglutide program. Smaller platforms and 503A pharmacies continue to operate in the gray zone, though the legal risk has materially increased.\n\n5. PATIENT IMPACT: An estimated 1.5-2 million US patients were receiving compounded semaglutide or tirzepatide as of Q1 2026. As platforms wind down, patients face either switching to branded products at higher cost, or losing access entirely if their insurance doesn't cover GLP-1s.",
+      "tags": ["compounding", "us", "fda", "april-2026", "503a-enforcement", "doj", "hims-hers", "ro", "patient-access", "enforcement-escalation"]
+    },
     {
       "id": "comp-entry-008",
       "timestamp": "2026-03-30T00:00:00Z",
