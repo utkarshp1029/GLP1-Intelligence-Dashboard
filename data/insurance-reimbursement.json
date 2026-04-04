@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "insurance-reimbursement",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 9,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 10,
     "key_metrics": [
       {
         "label": "US Commercial Coverage (Ozempic/T2DM)",
@@ -14,11 +14,11 @@
       },
       {
         "label": "Medicare GLP-1 Bridge Launch",
-        "value": "July 1, 2026 ($50/month copay)"
+        "value": "July 1, 2026 — $50/mo (Wegovy/Zepbound/Foundayo)"
       },
       {
-        "label": "Medicare Price (Wegovy starter)",
-        "value": "$350/month (vs $936 list)"
+        "label": "Foundayo (Orforglipron) Commercial Coverage",
+        "value": "$25/mo commercial; $50/mo Medicare (Jul 2026); $149/mo self-pay"
       },
       {
         "label": "BALANCE Model (Part D)",
@@ -26,7 +26,7 @@
       },
       {
         "label": "India Private Insurance Coverage",
-        "value": "8%"
+        "value": "8% (GLP-1s excluded; generics may shift dynamics by 2027)"
       }
     ]
   },
@@ -234,6 +234,27 @@
         "coverage-gap"
       ],
       "summary": "Indian health insurance still excludes GLP-1s, but generic pricing may change the equation"
+    },
+    {
+      "id": "ins-entry-007",
+      "timestamp": "2026-04-01",
+      "source_url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
+      "source_name": "CMS",
+      "market": "us",
+      "content": "CMS formally confirmed the Medicare GLP-1 Bridge program on April 1, 2026: eligible Part D beneficiaries pay $50/month for Wegovy (semaglutide 2.4mg), Zepbound (tirzepatide), and the newly approved Foundayo (orforglipron) from July 1 through December 31, 2026. The $50 copay does NOT count toward the $2,100 annual Part D out-of-pocket cap or deductible — making this a supplemental benefit that doesn't affect other cost-sharing. Eligibility requires BMI ≥30 or ≥27 with metabolic or cardiovascular comorbidity. The program builds on the Trump administration's November 2025 deal with Novo Nordisk and Eli Lilly. The BALANCE Model — the longer-term successor program — begins in Medicaid in May 2026 and Medicare Part D in January 2027, combining medication access with lifestyle support components.",
+      "tags": [
+        "insurance",
+        "us",
+        "medicare",
+        "cms",
+        "glp-1-bridge",
+        "foundayo",
+        "wegovy",
+        "zepbound",
+        "balance-model",
+        "coverage"
+      ],
+      "summary": "CMS confirms Medicare GLP-1 Bridge: $50/month for Wegovy, Zepbound, and Foundayo starting July 1, 2026"
     }
   ]
 }

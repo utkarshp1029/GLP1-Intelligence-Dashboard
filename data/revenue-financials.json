@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 12,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 13,
     "key_metrics": [
       {
         "label": "Global GLP-1 Market (2025)",
@@ -316,6 +316,25 @@
         "global-generics"
       ],
       "summary": "Only 200,000 of India's 250 million obese on GLP-1 therapy as patent expires"
+    },
+    {
+      "id": "rev-entry-008",
+      "timestamp": "2026-04-03",
+      "source_url": "https://247wallst.com/investing/2026/04/03/novo-nordisk-shares-down-43-in-a-year-as-generic-rivals-force-48-price-cuts/",
+      "source_name": "24/7 Wall St.",
+      "market": "global",
+      "content": "Novo Nordisk's ADR (NVO) fell to $36.98 by April 3, 2026 — down 43% from its 52-week high of $81.44 — as Eli Lilly's Foundayo (orforglipron) approval on April 1 compounded existing competitive pressures from Indian generics. In direct response to Indian manufacturers pricing generic semaglutide at ₹1,290/month, Novo cut Wegovy and Ozempic India list prices by up to 48% effective April 1, 2026. Bernstein initiated Underperform coverage citing an 'ongoing earnings downgrade cycle' with sparse catalysts. Novo's 2026 full-year guidance remains -5% to -13% at constant FX. The company's market cap declined from ~$640B at peak to under $180B — one of the largest value destructions in pharmaceutical history — as the Foundayo approval directly threatens the oral semaglutide (Wegovy pill) franchise that Novo had positioned as its key growth driver.",
+      "tags": [
+        "revenue",
+        "novo-nordisk",
+        "stock",
+        "india-pricing",
+        "price-cuts",
+        "competition",
+        "foundayo",
+        "global"
+      ],
+      "summary": "Novo Nordisk stock -43% year-on-year; forced to cut India prices 48% as generics and Foundayo approval squeeze revenue"
     }
   ]
 }

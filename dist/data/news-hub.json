@@ -1,12 +1,12 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-03-31T00:00:00Z",
-    "entry_count": 28,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 35,
     "key_metrics": [
-      { "label": "Stories This Week", "value": "21" },
+      { "label": "Stories This Week", "value": "7 new (Apr 1–4)" },
       { "label": "Sources Tracked", "value": "15+" },
-      { "label": "Markets Covered", "value": "India & US" }
+      { "label": "Markets Covered", "value": "India, US & Global" }
     ]
   },
   "stories": [
@@ -864,6 +864,144 @@
         }
       ],
       "tags": ["hetero", "semaglutide", "generic-launch", "global-export", "india", "africa", "asia", "truglyx"]
+    },
+    {
+      "id": "story-029",
+      "headline": "FDA Approves Eli Lilly's Foundayo (Orforglipron): First Oral Non-Peptide GLP-1 Pill Cleared for Obesity",
+      "summary": "The FDA approved Eli Lilly's orforglipron (brand name Foundayo) on April 1, 2026, making it the first oral non-peptide small-molecule GLP-1 receptor agonist approved for chronic weight management. Unlike oral semaglutide (Rybelsus), Foundayo has no food or water restrictions and can be taken at any time of day — a significant convenience advantage. The ATTAIN-1 Phase 3 trial showed 27.3 lbs average weight loss at 72 weeks. Self-pay pricing starts at $149/month; $25/month with commercial insurance; $50/month under Medicare Part D from July 2026. Retail pharmacy and telehealth launches began April 6, 2026. The approval marks a pivotal competitive blow to Novo Nordisk's semaglutide franchise.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-04-01",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Eli Lilly Investor Relations",
+          "title": "FDA approves Lilly's Foundayo (orforglipron), the only GLP-1 pill with no food or water restrictions",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill",
+          "date": "2026-04-01"
+        },
+        {
+          "publication": "STAT News",
+          "title": "Eli Lilly's obesity pill orforglipron approved by FDA",
+          "url": "https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/",
+          "date": "2026-04-01"
+        }
+      ],
+      "tags": ["eli-lilly", "orforglipron", "foundayo", "fda-approval", "oral-glp1", "obesity", "us"]
+    },
+    {
+      "id": "story-030",
+      "headline": "Novo Nordisk Shares Down 43% Year-on-Year as Generic Wave Forces 48% India Price Cuts",
+      "summary": "Novo Nordisk's ADR fell to $36.98 as of April 3, 2026 — down 43% from its 52-week high of $81.44 — as Eli Lilly's Foundayo approval and India's semaglutide generic flood compounded existing competitive pressures. In a direct response to generic competitors pricing semaglutide at ₹1,290/month in India, Novo cut Wegovy and Ozempic India list prices by up to 48% effective April 1, 2026. Bernstein initiated Underperform coverage citing an 'ongoing earnings downgrade cycle.' Novo's 2026 full-year guidance remains -5% to -13% at constant FX. The market cap decline from ~$640B to under $180B in 18 months represents one of the largest value destructions in pharma history.",
+      "market": "global",
+      "category": "business",
+      "timestamp": "2026-04-03",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "24/7 Wall St.",
+          "title": "Novo Nordisk Shares Down 43% in a Year as Generic Rivals Force 48% Price Cuts",
+          "url": "https://247wallst.com/investing/2026/04/03/novo-nordisk-shares-down-43-in-a-year-as-generic-rivals-force-48-price-cuts/",
+          "date": "2026-04-03"
+        }
+      ],
+      "tags": ["novo-nordisk", "stock", "india-pricing", "competition", "generics", "global"]
+    },
+    {
+      "id": "story-031",
+      "headline": "CMS Confirms Medicare GLP-1 Bridge: $50/Month Wegovy, Zepbound, and Foundayo Coverage Starts July 1",
+      "summary": "CMS formally confirmed the Medicare GLP-1 Bridge program launching July 1, 2026 through December 31, 2026: eligible Part D beneficiaries pay $50/month for Wegovy (semaglutide 2.4mg), Zepbound (tirzepatide), and the newly approved Foundayo (orforglipron). The $50 copay does NOT count toward the $2,100 annual Part D out-of-pocket cap or deductible, making this a true supplemental benefit. Eligibility requires BMI ≥30 or ≥27 with metabolic/cardiovascular comorbidity. The longer-term BALANCE Model begins in Medicaid in May 2026 and Medicare Part D in January 2027. The CBO estimates expanded GLP-1 coverage adds $35.5 billion in federal spending from 2026–2034.",
+      "market": "us",
+      "category": "insurance",
+      "timestamp": "2026-04-01",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "CMS",
+          "title": "Medicare GLP-1 Bridge Program — Coverage Details",
+          "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
+          "date": "2026-04-01"
+        },
+        {
+          "publication": "KFF",
+          "title": "What Medicare's Temporary Program Covering GLP-1s for Obesity Means for Beneficiaries",
+          "url": "https://www.kff.org/quick-take/what-medicares-temporary-program-covering-glp-1s-for-obesity-means-for-beneficiaries/",
+          "date": "2026-04-02"
+        }
+      ],
+      "tags": ["medicare", "cms", "glp-1-coverage", "balance-model", "foundayo", "wegovy", "zepbound", "us"]
+    },
+    {
+      "id": "story-032",
+      "headline": "India Ministry of Health Issues Formal GLP-1 Safety Warning as Generic Wave Begins",
+      "summary": "India's Ministry of Health and Family Welfare issued a formal safety communication on April 1, 2026 — timed with the first weeks of widespread generic semaglutide availability at ₹1,290/month. The warning flags pancreatitis, acute kidney injury, and bowel obstruction as serious risks requiring medical supervision. CDSCO reiterated that semaglutide must be prescribed only by qualified physicians (endocrinologists or internal medicine specialists) for approved indications — T2DM and obesity with comorbidities — following the March 24 crackdown on 49 unauthorized sellers. The ministry emphasized that without physician oversight, the expanded access enabled by generic pricing could lead to unsafe self-medication.",
+      "market": "india",
+      "category": "regulatory",
+      "timestamp": "2026-04-01",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Business Today",
+          "title": "As semaglutide goes generic, the government warns GLP-1 drugs are not without risks",
+          "url": "https://www.businesstoday.in/industry/pharma/story/as-semaglutide-goes-generic-the-government-warns-glp-1-drugs-are-not-without-risks-523626-2026-04-01",
+          "date": "2026-04-01"
+        }
+      ],
+      "tags": ["india", "regulatory", "safety", "dcgi", "cdsco", "ministry-of-health", "semaglutide"]
+    },
+    {
+      "id": "story-033",
+      "headline": "WeightWatchers GLP-1 Pricing Rises to $349/Month as Introductory Offer Expires April 1",
+      "summary": "WeightWatchers' $199/month introductory GLP-1 pricing ended March 31, 2026. Effective April 1, the platform charges $349/month for branded medication access (Wegovy or Ozempic), plus a $74/month membership fee on an annual plan or $149/month on a rolling monthly plan. WeightWatchers exited compounded semaglutide in May 2025 and now prescribes only FDA-approved branded products. This positions WeightWatchers significantly above Hims & Hers ($149/month, post-Novo settlement) and Eli Lilly's new Foundayo self-pay ($149/month) — creating a pricing wedge that may accelerate subscriber migration to lower-cost telehealth platforms.",
+      "market": "us",
+      "category": "business",
+      "timestamp": "2026-04-01",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "US News Health",
+          "title": "WeightWatchers GLP-1 Review 2026",
+          "url": "https://health.usnews.com/best-diet/medication/weightwatchers",
+          "date": "2026-04-01"
+        }
+      ],
+      "tags": ["weightwatchers", "telehealth", "pricing", "d2c", "glp-1", "us"]
+    },
+    {
+      "id": "story-034",
+      "headline": "Novo Nordisk Invests €432M in Irish Facility to Scale Oral GLP-1 Production",
+      "summary": "Novo Nordisk announced a €432 million ($506M) investment in its Athlone, Ireland manufacturing facility on April 2, 2026, converting the 45-acre site for high-volume oral GLP-1 tableting — primarily for oral semaglutide (the Wegovy pill). Phased completion is targeted for 2027–2028, positioning Ireland as Novo's primary ex-US hub for oral GLP-1 supply. This follows three ex-Catalent site acquisitions (Italy, Belgium, Indiana) and complements a $1B+ Brazil expansion targeting 2028. The multi-site strategy aims to diversify from US manufacturing concentration risk and respond to global demand as oral GLP-1 formats compete with Eli Lilly's newly approved Foundayo.",
+      "market": "global",
+      "category": "manufacturing",
+      "timestamp": "2026-04-02",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Pharmaceutical Technology",
+          "title": "Novo Nordisk scales oral GLP-1 production with €432M investment in Ireland facility",
+          "url": "https://www.pharmtech.com/view/novo-nordisk-scales-oral-glp-1-production-with-432m-506m-investment-in-ireland-facility",
+          "date": "2026-04-02"
+        }
+      ],
+      "tags": ["novo-nordisk", "manufacturing", "ireland", "oral-glp1", "supply-chain", "global"]
+    },
+    {
+      "id": "story-035",
+      "headline": "FDA FAERS Analysis: GLP-1 Adverse Event Profiles Differ Markedly by Indication",
+      "summary": "A new FDA FAERS pharmacovigilance analysis published April 2, 2026 found that GLP-1 receptor agonist adverse events cluster differently by approved indication. T2DM indication use is associated with retinopathies, pancreatic neoplasms, and hearing loss; obesity indication use is associated with suicidal ideation, panic attacks, depressive disorders, and eating disorders. Compared to other antidiabetic drug classes, GLP-1s show elevated reporting of alopecia, taste disorders, flatulence, and suicidal behavior across both indications. The findings strengthen calls for indication-specific monitoring protocols and tighter specialist supervision — particularly relevant as India's generic wave brings GLP-1s to non-specialist prescribers at scale.",
+      "market": "us",
+      "category": "safety",
+      "timestamp": "2026-04-02",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Medscape",
+          "title": "FDA Data Reveal Different Risks for GLP-1s in Diabetes vs Obesity",
+          "url": "https://www.medscape.com/viewarticle/fda-data-reveal-different-risks-glp-1s-2026a1000a4h",
+          "date": "2026-04-02"
+        }
+      ],
+      "tags": ["safety", "fda", "faers", "pharmacovigilance", "adverse-events", "suicidal-ideation", "us"]
     }
   ]
 }

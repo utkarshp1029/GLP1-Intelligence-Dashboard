@@ -1,14 +1,14 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-03-31T00:00:00Z",
+    "last_updated": "2026-04-04T00:00:00Z",
     "entry_count": 12,
     "key_metrics": [
-      { "label": "Phase 3 Candidates", "value": "6" },
-      { "label": "Orforglipron PDUFA Date", "value": "April 10, 2026 (obesity + T2DM)" },
+      { "label": "Phase 3 Candidates", "value": "5 (Orforglipron now APPROVED)" },
+      { "label": "Orforglipron Status", "value": "FDA APPROVED Apr 1, 2026 — brand: Foundayo ($149/mo self-pay)" },
       { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4)" },
       { "label": "Tirzepatide SURPASS-CVOT", "value": "ACC 2026: 16% lower cardiorenal risk vs dulaglutide" },
-      { "label": "CagriSema NDA Status", "value": "Filed Q1 2026, PDUFA ~Oct 2026" }
+      { "label": "CagriSema NDA Status", "value": "Filed Dec 2025, PDUFA ~Q4 2026" }
     ]
   },
   "trials": [
@@ -31,16 +31,17 @@
       "id": "trial-002",
       "nct_id": "NCT05803421",
       "molecule": "Orforglipron",
+      "brand": "Foundayo",
       "sponsor": "Eli Lilly",
-      "phase": "phase3",
-      "indication": "T2DM and obesity",
-      "mechanism": "Oral non-peptide GLP-1 agonist",
-      "expected_completion": "2026-Q3",
-      "status": "active",
+      "phase": "approved",
+      "indication": "Chronic weight management (obesity)",
+      "mechanism": "Oral non-peptide small-molecule GLP-1 agonist",
+      "expected_completion": "N/A — FDA approved April 1, 2026",
+      "status": "fda_approved",
       "market_relevance": "both",
-      "key_findings": "Phase 2 showed up to 14.7% body weight loss at 36 weeks. First oral small-molecule GLP-1 agonist to reach Phase 3.",
-      "efficacy_vs_semaglutide": "Slightly lower weight loss but oral formulation is a major differentiator",
-      "source_url": "https://clinicaltrials.gov/study/NCT05803421"
+      "key_findings": "ATTAIN-1 Phase 3: 27.3 lbs average weight loss at 72 weeks. No food/water restrictions — major advantage over oral semaglutide. ACHIEVE-3: superior A1C and weight outcomes vs oral semaglutide (Lancet, Feb 2026). Self-pay $149/month; $25/month commercial insurance; $50/month Medicare Part D from July 2026.",
+      "efficacy_vs_semaglutide": "Similar weight loss efficacy to semaglutide with significantly better convenience (no fasting requirement). Cheaper self-pay than Wegovy at $149/mo.",
+      "source_url": "https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill"
     },
     {
       "id": "trial-003",

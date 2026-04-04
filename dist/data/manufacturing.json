@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-03-30T00:00:00Z",
-    "entry_count": 11,
+    "last_updated": "2026-04-04T00:00:00Z",
+    "entry_count": 12,
     "key_metrics": [
       {
         "label": "Tracked Facilities",
@@ -17,8 +17,8 @@
         "value": "Neuland (Bonthapally), OneSource, Biocon Bengaluru"
       },
       {
-        "label": "Biocon Investment",
-        "value": "₹800 Cr / $96M — targeting 2027 launch + Brazil/Canada"
+        "label": "Novo Nordisk Ireland Investment",
+        "value": "€432M ($506M) — oral GLP-1 tableting, 2027–2028"
       },
       {
         "label": "India API Dependency Risk",
@@ -250,6 +250,24 @@
         "comparison"
       ],
       "summary": "Synthetic vs recombinant manufacturing: two competing approaches to GLP-1 production"
+    },
+    {
+      "id": "mfg-entry-009",
+      "timestamp": "2026-04-02T10:00:00Z",
+      "source_url": "https://www.pharmtech.com/view/novo-nordisk-scales-oral-glp-1-production-with-432m-506m-investment-in-ireland-facility",
+      "source_name": "Pharmaceutical Technology",
+      "market": "global",
+      "content": "Novo Nordisk announced a €432 million ($506M) investment in its Athlone, Ireland manufacturing facility on April 2, 2026, converting the 45-acre site for high-volume oral GLP-1 tableting — primarily for oral semaglutide (the Wegovy pill formulation). Phased completion is targeted for 2027–2028, positioning Ireland as Novo's primary ex-US hub for oral GLP-1 supply. The investment follows three ex-Catalent site acquisitions (Italy, Belgium, Indiana) completed in 2025, complementing a $1B+ Brazil expansion targeting 2028 and a Tianjin, China active packaging facility. This multi-site diversification strategy aims to reduce US manufacturing concentration risk as Novo faces new competition from Eli Lilly's Foundayo (orforglipron) in the oral GLP-1 segment. The Irish facility will focus on the oral tablet format as Novo positions the Wegovy pill as a differentiated competitor to Foundayo.",
+      "tags": [
+        "manufacturing",
+        "novo-nordisk",
+        "ireland",
+        "oral-glp1",
+        "supply-chain",
+        "investment",
+        "global"
+      ],
+      "summary": "Novo Nordisk invests €432M in Ireland facility for oral GLP-1 tableting as competition with Foundayo intensifies"
     }
   ]
 }

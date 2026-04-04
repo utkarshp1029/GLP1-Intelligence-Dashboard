@@ -1,5 +1,5 @@
 {
-  "last_full_update": "2026-03-31T00:00:00Z",
+  "last_full_update": "2026-04-04T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
@@ -29,28 +29,28 @@
     },
     "regulatory-timeline": {
       "file": "regulatory-timeline.json",
-      "last_updated": "2026-03-30T00:00:00Z",
-      "entry_count": 11,
+      "last_updated": "2026-04-04T00:00:00Z",
+      "entry_count": 13,
       "key_metrics": [
-        { "label": "Latest India Action", "value": "DCGI 49-entity crackdown + legal challenge (Mar 30)" },
-        { "label": "Latest US Action", "value": "Medicare GLP-1 Bridge Jul 2026 ($50 copay)" },
-        { "label": "FDA Warning Letter", "value": "Novo Nordisk (Mar 5, 2026) — 3 unreported deaths" },
-        { "label": "2026 Events Tracked", "value": "6" }
+        { "label": "Latest US Action", "value": "FDA approves Foundayo (orforglipron) — Apr 1, 2026" },
+        { "label": "Latest India Action", "value": "Ministry of Health GLP-1 safety warning — Apr 1" },
+        { "label": "Medicare GLP-1 Bridge", "value": "Jul 1, 2026 — $50/mo (Wegovy/Zepbound/Foundayo)" },
+        { "label": "2026 Events Tracked", "value": "8" }
       ]
     },
     "revenue-financials": {
       "file": "revenue-financials.json",
-      "last_updated": "2026-03-30T00:00:00Z",
-      "entry_count": 12,
+      "last_updated": "2026-04-04T00:00:00Z",
+      "entry_count": 13,
       "key_metrics": [
         { "label": "Global GLP-1 Market (2025)", "value": "$70.08B" },
         { "label": "Global GLP-1 Market (2026 est.)", "value": "$86.93B" },
         { "label": "India GLP-1 Market (2024 base)", "value": "$110.55M USD (34.3% CAGR)" },
         { "label": "India MAT Feb 2026", "value": "₹1,446 Cr (+177% YoY)" },
+        { "label": "Novo Nordisk Stock (Apr 3)", "value": "$36.98 (-43% YoY) — India price cuts -48%" },
         { "label": "Lilly FY2025 Tirzepatide", "value": "$36.5B (world's best-selling drug)" },
         { "label": "Novo FY2025 GLP-1 Revenue", "value": "$31.2B" },
-        { "label": "Lilly 2026 Revenue Guidance", "value": "$80-83B" },
-        { "label": "Novo 2026 Outlook", "value": "-5% to -13% (constant FX)" },
+        { "label": "Lilly 2026 Revenue Guidance", "value": "$80-83B (Foundayo approved)" },
         { "label": "India 5yr Forecast (Nomura)", "value": "₹12,000 Cr" }
       ]
     },
@@ -66,11 +66,11 @@
     },
     "manufacturing": {
       "file": "manufacturing.json",
-      "last_updated": "2026-03-30T00:00:00Z",
-      "entry_count": 11,
+      "last_updated": "2026-04-04T00:00:00Z",
+      "entry_count": 12,
       "key_metrics": [
         { "label": "New India Facilities", "value": "Neuland (Bonthapally), OneSource, Biocon Bengaluru" },
-        { "label": "Biocon Investment", "value": "₹800 Cr / $96M — 2027 launch target" },
+        { "label": "Novo Ireland Investment", "value": "€432M ($506M) — oral GLP-1, 2027–2028" },
         { "label": "India Monthly Capacity", "value": "~2M pens (by end 2026)" },
         { "label": "Under Construction", "value": "Eli Lilly LEAP (Q3 2026)" },
         { "label": "India API Risk", "value": "Dependency on Chinese peptide intermediates" }
@@ -78,14 +78,14 @@
     },
     "pipeline-trials": {
       "file": "pipeline-trials.json",
-      "last_updated": "2026-03-31T00:00:00Z",
+      "last_updated": "2026-04-04T00:00:00Z",
       "entry_count": 12,
       "key_metrics": [
-        { "label": "Phase 3 Candidates", "value": "6" },
-        { "label": "Orforglipron PDUFA Date", "value": "April 10, 2026 (obesity + T2DM)" },
+        { "label": "Phase 3 Candidates", "value": "5 (Orforglipron now APPROVED)" },
+        { "label": "Orforglipron/Foundayo", "value": "FDA APPROVED Apr 1, 2026 — $149/mo self-pay" },
         { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4)" },
         { "label": "Tirzepatide SURPASS-CVOT", "value": "ACC 2026: 16% lower cardiorenal risk vs dulaglutide" },
-        { "label": "CagriSema NDA Status", "value": "Filed Q1 2026, PDUFA ~Oct 2026" }
+        { "label": "CagriSema NDA Status", "value": "Filed Dec 2025, PDUFA ~Q4 2026" }
       ]
     },
     "supply-chain": {
@@ -146,25 +146,25 @@
     },
     "safety-signals": {
       "file": "safety-signals.json",
-      "last_updated": "2026-03-30T00:00:00Z",
-      "entry_count": 10,
+      "last_updated": "2026-04-04T00:00:00Z",
+      "entry_count": 11,
       "key_metrics": [
-        { "label": "Active Safety Signals", "value": "5" },
+        { "label": "Active Safety Signals", "value": "6" },
         { "label": "FDA Warning (Novo Nordisk)", "value": "Mar 5, 2026 — 3 unreported deaths + systemic PADE failures" },
-        { "label": "Wegovy HD Signal", "value": "Dysesthesia 22.9% at 7.2mg (vs 6.0% at 2.4mg)" },
-        { "label": "New FAERS Neurological Signals", "value": "19 distinct signals incl. allodynia, parosmia, tremor" }
+        { "label": "New FAERS Finding (Apr 2)", "value": "T2DM→retinopathy; Obesity→suicidal ideation" },
+        { "label": "Wegovy HD Signal", "value": "Dysesthesia 22.9% at 7.2mg (vs 6.0% at 2.4mg)" }
       ]
     },
     "insurance-reimbursement": {
       "file": "insurance-reimbursement.json",
-      "last_updated": "2026-03-30T00:00:00Z",
-      "entry_count": 9,
+      "last_updated": "2026-04-04T00:00:00Z",
+      "entry_count": 10,
       "key_metrics": [
-        { "label": "Medicare GLP-1 Bridge Launch", "value": "July 1, 2026 ($50/month copay)" },
-        { "label": "Medicare Price (Wegovy starter)", "value": "$350/month (vs $936-$1,349 list)" },
+        { "label": "Medicare GLP-1 Bridge Launch", "value": "July 1, 2026 — $50/mo (Wegovy/Zepbound/Foundayo)" },
+        { "label": "Foundayo (Orforglipron) Coverage", "value": "$25/mo commercial; $50/mo Medicare (Jul 2026); $149/mo self-pay" },
         { "label": "BALANCE Model (Part D)", "value": "January 1, 2027" },
         { "label": "States Eliminating Coverage", "value": "4 (CA, NH, PA, SC)" },
-        { "label": "India Private Insurance Coverage", "value": "8%" }
+        { "label": "India Private Insurance Coverage", "value": "8% (GLP-1s excluded)" }
       ]
     }
   }
