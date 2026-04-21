@@ -1,11 +1,11 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 35,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 39,
     "key_metrics": [
-      { "label": "Stories This Week", "value": "7 new (Apr 1–4)" },
-      { "label": "Sources Tracked", "value": "15+" },
+      { "label": "Stories This Week", "value": "4 new (Apr 5–21)" },
+      { "label": "Sources Tracked", "value": "20+" },
       { "label": "Markets Covered", "value": "India, US & Global" }
     ]
   },
@@ -1002,6 +1002,108 @@
         }
       ],
       "tags": ["safety", "fda", "faers", "pharmacovigilance", "adverse-events", "suicidal-ideation", "us"]
+    },
+    {
+      "id": "story-036",
+      "headline": "Trump Signs MFN GLP-1 Deal: Medicare Patients Pay $50/Month for Wegovy, Zepbound, Foundayo from July 2026",
+      "summary": "President Trump announced landmark Most-Favored-Nation pricing agreements with Eli Lilly and Novo Nordisk, capping GLP-1 obesity drugs for Medicare and Medicaid patients at a $50/month copay starting July 1, 2026. The underlying price agreed is $245/month for Ozempic, Wegovy, Mounjaro, and Zepbound — down from $900-$1,350 list. In exchange, Lilly committed $27 billion and Novo $10 billion in US manufacturing investments. A separate TrumpRx direct-to-consumer platform will offer semaglutide at $350/month — targeting the commercially uninsured. Analysts estimate the deal will cover 67 million Medicare beneficiaries and 80 million Medicaid enrollees, representing a multi-trillion-dollar market access shift for the GLP-1 industry.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-04-10",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "CNBC",
+          "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices",
+          "url": "https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html",
+          "date": "2026-04-10"
+        },
+        {
+          "publication": "AMCP",
+          "title": "Federal Update: Trump Administration Announces Deal to Bring MFN Pricing to GLP-1s",
+          "url": "https://www.amcp.org/letters-statements-analysis/federal-update-trump-administration-announces-deal-bring-most-favored-nation-pricing-glp-1s",
+          "date": "2026-04-10"
+        },
+        {
+          "publication": "Pharmacy Times",
+          "title": "Eli Lilly, Novo Nordisk Strike MFN Deals With Trump Administration to Lower GLP-1 Prices",
+          "url": "https://www.pharmacytimes.com/view/eli-lilly-novo-nordisk-strike-mfn-deals-with-trump-administration-to-lower-glp-1-prices",
+          "date": "2026-04-10"
+        }
+      ],
+      "tags": ["trump", "mfn", "medicare", "medicaid", "eli-lilly", "novo-nordisk", "pricing", "policy", "us"]
+    },
+    {
+      "id": "story-037",
+      "headline": "Retatrutide Phase 3 TRIUMPH-4: 28.7% Weight Loss and 75% Knee Pain Reduction — Best Efficacy Numbers in GLP-1 History",
+      "summary": "Eli Lilly's retatrutide (triple GLP-1/GIP/glucagon agonist) posted the strongest Phase 3 obesity trial results in history: 28.7% mean body weight reduction at 68 weeks in the TRIUMPH-4 trial of patients with obesity and knee osteoarthritis — equivalent to an average 71.2 lbs lost on the highest 12mg dose. Crucially, WOMAC knee pain scores fell 75.8%, with 1-in-8 patients completely free from knee pain. Seven additional Phase 3 TRIUMPH trials are expected to read out in 2026. An NDA filing is expected Q4 2026 with potential FDA decision in 2027-2028. Retatrutide's triple agonism — hitting GLP-1, GIP, and glucagon receptors simultaneously — may unlock the next therapeutic generation beyond tirzepatide's dual agonism.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-04-15",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Eli Lilly Investor Relations",
+          "title": "Lilly's triple agonist, retatrutide, delivered weight loss of up to 71.2 lbs with osteoarthritis pain relief in first Phase 3 trial",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average",
+          "date": "2026-04-15"
+        },
+        {
+          "publication": "Patient Care Online",
+          "title": "Retatrutide Achieves Up to 28.7% Weight Loss and Marked Knee Pain Reduction in Phase 3 TRIUMPH-4 Trial",
+          "url": "https://www.patientcareonline.com/view/retatrutide-achieves-up-to-28-7-weight-loss-and-marked-knee-pain-reduction-in-phase-3-triumph-4-trial",
+          "date": "2026-04-15"
+        }
+      ],
+      "tags": ["retatrutide", "eli-lilly", "phase-3", "triumph-4", "obesity", "osteoarthritis", "triple-agonist", "us"]
+    },
+    {
+      "id": "story-038",
+      "headline": "CagriSema NDA Filed but REDEFINE-4 Misses Primary Endpoint vs Tirzepatide — Novo's Next Drug Faces Headwinds",
+      "summary": "Novo Nordisk filed an NDA with the FDA in December 2025 for CagriSema (cagrilintide 2.4mg + semaglutide 2.4mg) — a once-weekly injectable combining a GLP-1 agonist and amylin analog. REDEFINE-1 showed 20.4% weight loss vs 3% placebo. However, in REDEFINE-4, CagriSema achieved 23% weight loss at 84 weeks but failed to demonstrate non-inferiority to tirzepatide 15mg — undermining the positioning narrative. FDA PDUFA date is expected H2 2026. If approved, CagriSema would be the first GLP-1/amylin combination drug on market. Analysts caution the missed non-inferiority benchmark versus tirzepatide makes commercial differentiation difficult, especially with Foundayo and retatrutide also competing in 2026-2028.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-04-08",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Novo Nordisk",
+          "title": "Novo Nordisk files for FDA approval of CagriSema, the first once-weekly GLP-1 and amylin analogue combination",
+          "url": "https://www.prnewswire.com/news-releases/novo-nordisk-files-for-fda-approval-of-cagrisema-the-first-once-weekly-combination-of-glp1-and-amylin-analogues-for-weight-management-302645862.html",
+          "date": "2026-04-08"
+        },
+        {
+          "publication": "CNBC",
+          "title": "What's next for Novo Nordisk's next-generation obesity drug CagriSema after trial miss",
+          "url": "https://www.cnbc.com/2026/02/24/healthy-returns-whats-next-for-novo-nordisks-obesity-drug-cagrisema.html",
+          "date": "2026-04-08"
+        }
+      ],
+      "tags": ["cagrisema", "novo-nordisk", "nda", "redefine-4", "amylin", "fda", "tirzepatide", "clinical-trial", "us"]
+    },
+    {
+      "id": "story-039",
+      "headline": "MSN Laboratories Launches SEMABEST — First Fully Made-in-India Semaglutide Pen at ₹3,990",
+      "summary": "MSN Laboratories launched SEMABEST in April 2026, positioning it as India's first 'integrated' made-in-India semaglutide — with API, formulation, and the pen device all manufactured domestically. Priced at ₹3,990/month (roughly 50% below Novo's post-April-1 Ozempic price and comparable to Dr. Reddy's Obeda), SEMABEST differentiates on supply chain sovereignty rather than price leadership. The launch adds to a now 40+ brand India market. Novo Nordisk simultaneously repositioned its India pricing to ₹202/day (₹1,415/week) for starting doses of Ozempic and Wegovy — framing it as a 'patient-centred' daily cost narrative rather than a monthly figure to compete psychologically with generics.",
+      "market": "india",
+      "category": "launch",
+      "timestamp": "2026-04-05",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "BioSpectrum India",
+          "title": "MSN Laboratories launches SEMABEST, the first integrated Made-in-India Semaglutide",
+          "url": "https://www.biospectrumindia.com/news/73/27661/msn-laboratories-launches-semabest-the-first-integrated-made-in-india-semaglutide.html",
+          "date": "2026-04-05"
+        },
+        {
+          "publication": "BioSpectrum India",
+          "title": "Novo Nordisk India sets patient-centred price of Rs 202/day for starting dose of Ozempic and Wegovy",
+          "url": "https://www.biospectrumindia.com/news/16/27598/novo-nordisk-india-sets-patient-centred-price-of-rs-202-day-for-starting-dose-of-ozempic-and-wegovy.html",
+          "date": "2026-04-05"
+        }
+      ],
+      "tags": ["msn-laboratories", "semabest", "india", "made-in-india", "semaglutide", "novo-nordisk", "pricing"]
     }
   ]
 }

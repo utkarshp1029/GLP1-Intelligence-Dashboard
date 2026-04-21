@@ -1,28 +1,28 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 10,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 11,
     "key_metrics": [
       {
         "label": "Cheapest India (Vial)",
         "value": "₹1,290/mo ($14) — Natco Semanat"
       },
       {
-        "label": "Cheapest India (Per Shot)",
-        "value": "₹220/shot — Eris Sundae"
+        "label": "Novo India (Apr 1 patient-centred)",
+        "value": "₹202/day | ₹1,415/week | ~₹6,060/mo"
       },
       {
-        "label": "Avg India Generic Pen",
-        "value": "₹3,800-₹4,500/mo (40-50% drop forecast FY27)"
+        "label": "Foundayo (orforglipron) US",
+        "value": "$149/mo self-pay | $25/mo insured | $50/mo Medicare (Jul 2026)"
       },
       {
-        "label": "Novo India (Post Apr 1 Cut)",
-        "value": "Ozempic -36% | Wegovy -48% (effective Apr 1)"
+        "label": "MFN Medicare/Medicaid Deal",
+        "value": "$245/mo agreed price | $50/mo patient copay from July 2026"
       },
       {
-        "label": "Novo US Self-Pay (NovoCare)",
-        "value": "$199/mo intro offer | $349/mo standard"
+        "label": "Novo US Subscription",
+        "value": "$329/mo (3-month) | $249/mo (12-month) | Wegovy HD $399/mo"
       },
       {
         "label": "Novo US List Price (from Jan 2027)",
@@ -30,7 +30,7 @@
       },
       {
         "label": "India vs US Price Ratio",
-        "value": "1:25 (cheapest generic vs US cash)"
+        "value": "1:43 (₹1,290 vs $149 Foundayo self-pay)"
       }
     ]
   },
@@ -859,6 +859,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "pricing-entry-011",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.cnbc.com/2026/04/01/eli-lilly-glp-1-pill-foundayo-approved-for-obesity.html",
+      "source_name": "CNBC / Eli Lilly / AMCP",
+      "market": "us",
+      "summary": "Two landmark April 2026 US pricing events: (1) Foundayo (orforglipron) launched at $149/mo self-pay, $25/mo insured, $50/mo Medicare from July 2026 — creating the cheapest branded oral GLP-1 entry point. (2) Trump MFN deal caps Medicare/Medicaid GLP-1 price at $245/mo ($50 copay) from July 1, 2026 for Wegovy, Ozempic, Mounjaro, Zepbound, and Foundayo. Novo also introduced subscription pricing: $329/mo (3-month) and $249/mo (12-month) for Wegovy/Ozempic. Wegovy HD (7.2mg) priced at $399/mo.",
+      "content": "April 2026 US pricing is defined by two seismic events:\n\n1. FOUNDAYO LAUNCH (April 1-6, 2026): Eli Lilly's orforglipron (Foundayo) launched with the most accessible pricing structure in branded GLP-1 history. Self-pay: $149/month for lowest dose (3mg), $199/month for higher doses. Commercial insurance with savings card: $25/month. Medicare Part D from July 1, 2026: $50/month copay. Available at Amazon Pharmacy (same-day delivery in 3,000+ cities), LillyDirect, retail pharmacies, and telehealth providers from April 6. Foundayo has NO food or water restrictions — unlike Wegovy oral pill, which must be taken 30 minutes before eating with only a small amount of water. This convenience advantage is expected to drive significant switching.\n\n2. TRUMP MFN DEAL (confirmed April 2026): Trump administration signed MFN pricing agreements with both Eli Lilly and Novo Nordisk. Government-negotiated price: $245/month for Ozempic, Wegovy, Mounjaro, Zepbound, and Foundayo. Patient copay under Medicare: $50/month from July 1, 2026. State Medicaid programs also get the $245 rate. TrumpRx direct platform: $350/month for semaglutide. Lilly committed $27B in US manufacturing investment; Novo committed $10B. CBO estimates expanded coverage adds $35.5B in federal spending 2026-2034.\n\n3. NOVO SUBSCRIPTION PRICING: In response to Foundayo launch and MFN deal, Novo Nordisk launched subscription pricing in the US: $329/month for 3-month commitment, $249/month for 12-month annual plan. Wegovy HD (7.2mg) injectable: $399/month. Oral Wegovy pill: $149/month (unchanged). This competes directly with Foundayo's self-pay pricing.\n\nNET IMPACT: A patient choosing between branded oral options now pays $149/month (Foundayo or Wegovy oral) without restriction. Medicare patients will pay $50/month starting July. The de facto US out-of-pocket for most insured patients drops from $500-900/month to $25-50/month within 2026.",
+      "tags": ["pricing", "us", "foundayo", "mfn-deal", "medicare", "trump", "novo-subscription", "april-2026", "wegovy-hd"]
+    },
     {
       "id": "pricing-entry-010",
       "timestamp": "2026-04-04T00:00:00Z",

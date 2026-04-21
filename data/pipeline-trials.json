@@ -1,14 +1,14 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 12,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 13,
     "key_metrics": [
-      { "label": "Phase 3 Candidates", "value": "5 (Orforglipron now APPROVED)" },
-      { "label": "Orforglipron Status", "value": "FDA APPROVED Apr 1, 2026 — brand: Foundayo ($149/mo self-pay)" },
-      { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4)" },
-      { "label": "Tirzepatide SURPASS-CVOT", "value": "ACC 2026: 16% lower cardiorenal risk vs dulaglutide" },
-      { "label": "CagriSema NDA Status", "value": "Filed Dec 2025, PDUFA ~Q4 2026" }
+      { "label": "Phase 3 Candidates", "value": "5 (Orforglipron now APPROVED as Foundayo)" },
+      { "label": "Orforglipron / Foundayo", "value": "FDA APPROVED Apr 1 | $149/mo self-pay | $50/mo Medicare Jul 2026" },
+      { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4) | NDA filing Q4 2026" },
+      { "label": "CagriSema", "value": "NDA filed Dec 2025 | REDEFINE-4 missed non-inferiority vs tirzepatide" },
+      { "label": "Retatrutide TRIUMPH-4", "value": "28.7% weight loss + 75.8% knee pain reduction | 7 more trials in 2026" }
     ]
   },
   "trials": [
@@ -48,29 +48,30 @@
       "nct_id": "NCT05394519",
       "molecule": "CagriSema",
       "sponsor": "Novo Nordisk",
-      "phase": "phase3",
+      "phase": "nda_filed",
       "indication": "Obesity",
-      "mechanism": "Semaglutide + cagrilintide (amylin analog) co-formulation",
-      "expected_completion": "2026-Q1",
-      "status": "active",
+      "mechanism": "Semaglutide 2.4mg + cagrilintide 2.4mg (amylin analog) co-formulation — weekly injectable",
+      "expected_completion": "2026-Q4 FDA PDUFA",
+      "status": "nda_under_review",
       "market_relevance": "both",
-      "key_findings": "Phase 2 showed up to 17.1% weight loss at 32 weeks.",
-      "efficacy_vs_semaglutide": "Expected to exceed semaglutide monotherapy by 3-5 percentage points",
-      "source_url": "https://clinicaltrials.gov/study/NCT05394519"
+      "key_findings": "REDEFINE-1: 20.4% weight loss vs 3% placebo at 68 weeks (strong). REDEFINE-4: 23% at 84 weeks but FAILED non-inferiority vs tirzepatide 15mg — key setback. NDA filed Dec 18, 2025. FDA decision expected H2 2026. Would be first GLP-1/amylin combination if approved.",
+      "efficacy_vs_semaglutide": "Exceeds semaglutide monotherapy (20.4% vs ~15%) but does NOT match tirzepatide 15mg — undermines commercial differentiation vs Mounjaro/Zepbound",
+      "source_url": "https://www.prnewswire.com/news-releases/novo-nordisk-files-for-fda-approval-of-cagrisema-the-first-once-weekly-combination-of-glp1-and-amylin-analogues-for-weight-management-302645862.html"
     },
     {
       "id": "trial-004",
       "nct_id": "NCT06164158",
       "molecule": "Retatrutide",
+      "brand": "TBD",
       "sponsor": "Eli Lilly",
       "phase": "phase3",
-      "indication": "Obesity",
-      "mechanism": "GLP-1/GIP/Glucagon triple agonist",
-      "expected_completion": "2027-H1",
-      "status": "recruiting",
+      "indication": "Obesity, T2DM, osteoarthritis, sleep apnea, MASH",
+      "mechanism": "GLP-1/GIP/Glucagon triple agonist — once weekly injectable",
+      "expected_completion": "NDA filing Q4 2026, FDA decision 2027-2028",
+      "status": "phase3_active",
       "market_relevance": "both",
-      "key_findings": "Phase 2 showed up to 24.2% body weight loss at 48 weeks, the highest ever reported for an anti-obesity medication.",
-      "efficacy_vs_semaglutide": "Substantially superior; ~24% vs ~15% weight loss",
+      "key_findings": "TRIUMPH-4 Phase 3 CONFIRMED: 28.7% weight loss at 68 weeks (12mg dose) + 75.8% WOMAC knee pain reduction in obesity + osteoarthritis patients. Average 71.2 lbs lost. 1-in-8 patients completely free from knee pain at end of trial. New safety signal: 18.2% discontinuation due to AEs at high dose. 7 more Phase 3 readouts expected in 2026 (obesity, T2DM, sleep apnea, MASH, cardiovascular outcomes, back pain).",
+      "efficacy_vs_semaglutide": "Substantially superior: 28.7% vs ~15% weight loss. First drug to potentially break 30% weight loss in Phase 3. Safety/tolerability tradeoff vs semaglutide at high doses.",
       "source_url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average"
     },
     {
@@ -90,6 +91,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "trial-entry-013",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.patientcareonline.com/view/retatrutide-achieves-up-to-28-7-weight-loss-and-marked-knee-pain-reduction-in-phase-3-triumph-4-trial",
+      "source_name": "Eli Lilly / Patient Care Online / CNBC / Novo Nordisk",
+      "market": "both",
+      "summary": "April 2026 pipeline recap: Retatrutide TRIUMPH-4 Phase 3 — 28.7% weight loss + 75.8% knee pain reduction (best ever Phase 3 obesity data). CagriSema NDA filed Dec 2025 but REDEFINE-4 missed non-inferiority vs tirzepatide. Foundayo (orforglipron) FDA-approved April 1, available from April 6. Trump MFN deal extends GLP-1 access to Medicare/Medicaid at $50 copay from July 2026.",
+      "content": "April 2026 GLP-1 pipeline summary:\n\n1. RETATRUTIDE TRIUMPH-4 CONFIRMED (Eli Lilly): The first Phase 3 data for retatrutide (GLP-1/GIP/glucagon triple agonist) arrived in April 2026. TRIUMPH-4 in patients with obesity + knee osteoarthritis: 28.7% mean body weight reduction at 68 weeks on 12mg dose (equivalent to 71.2 lbs). WOMAC pain scores fell 75.8%. 1-in-8 patients fully pain-free at trial end. Safety note: 18.2% discontinuation rate from adverse events — higher than semaglutide or tirzepatide. Seven more Phase 3 trials (TRIUMPH-1 through 7) expected to read out in 2026. NDA filing target Q4 2026. FDA decision 2027-2028. GlobalData 2031 sales forecast: $15.6 billion.\n\n2. CAGRISEMA NDA REVIEW (Novo Nordisk): Novo filed NDA December 18, 2025 for CagriSema (semaglutide 2.4mg + cagrilintide 2.4mg, once-weekly injectable). REDEFINE-1 trial: 20.4% weight loss vs 3% placebo at 68 weeks — strong absolute result. However, REDEFINE-4 at 84 weeks achieved 23% weight loss but MISSED non-inferiority vs tirzepatide 15mg — the primary endpoint. This miss is commercially significant: it removes the key differentiation argument vs Mounjaro/Zepbound. FDA PDUFA expected H2 2026. If approved, CagriSema is the first GLP-1/amylin combination on market — a mechanistically novel approach.\n\n3. FOUNDAYO APPROVED & LAUNCHED (Eli Lilly): See story-029 for details. Pipeline → Approved. Market available from April 6 via LillyDirect, Amazon Pharmacy, and retail. First non-peptide oral GLP-1 RA with no food/water restrictions. Self-pay $149/mo, Medicare $50/mo from July 2026.\n\n4. MFN DEAL IMPACT ON PIPELINE ECONOMICS: The Trump MFN deal ($245/mo government price, $50 patient copay from July 2026 under Medicare) changes the commercial landscape for all pipeline GLP-1s. Drugs entering market 2027-2029 will likely face immediate MFN pricing pressure if they seek Medicare/Medicaid formulary access. This compresses the expected peak sales for retatrutide and CagriSema relative to pre-MFN forecasts.",
+      "tags": ["pipeline", "retatrutide", "triumph-4", "cagrisema", "redefine-4", "foundayo", "orforglipron", "mfn-deal", "april-2026", "phase-3", "nda"]
+    },
     {
       "id": "trial-entry-011",
       "timestamp": "2026-03-31T00:00:00Z",

@@ -1,15 +1,15 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 14,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 15,
     "key_metrics": [
-      { "label": "Total Launches (India)", "value": "15+ (40+ brands expected by end 2026)" },
+      { "label": "Total DCGI-Approved Brands", "value": "40+ as of April 2026" },
       { "label": "Cheapest (Vial)", "value": "₹1,290/mo (Natco)" },
+      { "label": "Latest India Launch", "value": "MSN SEMABEST — first Made-in-India pen ₹3,990" },
       { "label": "5yr Market Forecast", "value": "₹12,000 Cr (Nomura)" },
-      { "label": "First Oral Generic", "value": "Torrent Sembolic (₹3,999/mo)" },
-      { "label": "Price Erosion Forecast", "value": "-40-50% in FY27, -10-30% in FY28" },
-      { "label": "Cipla / Biocon", "value": "Evaluating launch timelines (not yet launched)" }
+      { "label": "Novo India (Apr 1)", "value": "₹202/day patient-centred pricing | ₹1,415/week" },
+      { "label": "Price Erosion Forecast", "value": "-40-50% in FY27, -10-30% in FY28" }
     ]
   },
   "launches": [
@@ -187,6 +187,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-015",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.biospectrumindia.com/news/73/27661/msn-laboratories-launches-semabest-the-first-integrated-made-in-india-semaglutide.html",
+      "source_name": "BioSpectrum India / GeneOnline / DermaVue",
+      "market": "india",
+      "summary": "MSN Laboratories launched SEMABEST in April 2026 — the first 'integrated' Made-in-India semaglutide with API, formulation, and pen device all manufactured domestically. Priced at ₹3,990/month. India's DCGI-approved semaglutide brands have now crossed 40, with CDSCO requiring Phase III trial data under the Subsequent New Drug (SND) pathway. Novo Nordisk re-framed its India pricing to ₹202/day (₹1,415/week) for starting doses of Ozempic and Wegovy effective April 1.",
+      "content": "April 2026 India generic market update:\n\n1. MSN SEMABEST LAUNCH: MSN Laboratories launched Semabest, positioning it as the first 'integrated' Made-in-India semaglutide — meaning API synthesis, formulation, and the pen device itself are all manufactured in India. The pen complies with global regulatory standards. Priced at ₹3,990/month (approximately 50% below Novo Nordisk's post-April-1 Ozempic, comparable to Torrent Semalix). This matters for India's healthcare sovereignty narrative and positions MSN for export to markets where Indian manufacturing certificates are accepted.\n\n2. 40+ BRANDS MILESTONE: As of April 2026, over 40 DCGI-approved generic semaglutide brands are now in circulation. India's CDSCO requires generic semaglutide applicants to complete Phase III trials in Indian patients under the Subsequent New Drug pathway — a higher bar than the US ANDA bioequivalence standard. This has slowed the pace of new approvals vs the initial wave but ensures each approved brand has clinical validation.\n\n3. NOVO'S ₹202/DAY POSITIONING: Effective April 1, Novo Nordisk India reframed its pricing narrative from monthly to daily: ₹202/day (₹1,415/week, ~₹6,060/month) for the starting dose of Ozempic and Wegovy. This is a psychological pricing strategy — ₹202/day sounds more affordable than ₹6,060/month vs ₹1,290/month for Natco. Post-cut, Novo's starting dose is still 4.7x more expensive than the cheapest generic vial.\n\n4. PRICE TRAJECTORY: India drug prices are tracking the forecast: generic pen prices have started converging toward ₹3,000-3,500/month at the mid tier (from ₹4,200 at launch), with vials holding at ₹1,290-1,800/month. FY27 is expected to see a 40-50% further decline as the market consolidates from 40+ brands to an estimated 5-8 dominant players.",
+      "tags": ["generics", "india", "msn-laboratories", "semabest", "made-in-india", "novo-nordisk", "pricing", "40-brands", "april-2026"]
+    },
     {
       "id": "gen-entry-014",
       "timestamp": "2026-04-04T00:00:00Z",

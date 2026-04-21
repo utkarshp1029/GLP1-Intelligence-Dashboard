@@ -1,14 +1,14 @@
 {
   "meta": {
     "section_id": "regulatory-timeline",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 13,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 14,
     "key_metrics": [
-      { "label": "Total Regulatory Events", "value": "14" },
-      { "label": "2026 Events", "value": "8" },
-      { "label": "Latest US Action", "value": "FDA approves Foundayo (orforglipron) Apr 1, 2026" },
-      { "label": "Latest India Action", "value": "Ministry of Health GLP-1 safety warning (Apr 1)" },
-      { "label": "Medicare GLP-1 Bridge", "value": "July 1, 2026 — $50/month (Wegovy/Zepbound/Foundayo)" }
+      { "label": "Total Regulatory Events", "value": "15" },
+      { "label": "2026 Events", "value": "10" },
+      { "label": "Latest US Action", "value": "Trump MFN deal — Medicare/Medicaid GLP-1 at $50/mo from Jul 2026" },
+      { "label": "CagriSema NDA", "value": "Filed Dec 2025, PDUFA H2 2026 — REDEFINE-4 missed vs tirzepatide" },
+      { "label": "India Brands", "value": "40+ DCGI-approved | MSN SEMABEST latest launch | Novo ₹202/day" }
     ]
   },
   "events": [
@@ -113,6 +113,16 @@
     }
   ],
   "entries": [
+    {
+      "id": "reg-entry-014",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.amcp.org/letters-statements-analysis/federal-update-trump-administration-announces-deal-bring-most-favored-nation-pricing-glp-1s",
+      "source_name": "AMCP / CNBC / Pharmacy Times",
+      "market": "us",
+      "summary": "Trump administration signed MFN pricing agreements with Eli Lilly and Novo Nordisk in April 2026: Medicare/Medicaid GLP-1 prices capped at $245/month with $50 patient copay from July 1, 2026. Lilly committed $27B in US manufacturing; Novo committed $10B. TrumpRx platform to offer semaglutide at $350/month. Combined with Foundayo's $149/month self-pay, this represents the biggest single US GLP-1 access expansion since drug approvals. CBO estimates $35.5B in additional federal GLP-1 spending 2026-2034.",
+      "content": "The Trump administration's MFN (Most-Favored-Nation) pricing agreement for GLP-1 drugs, formalized in April 2026, is the most consequential US GLP-1 policy event since Wegovy's obesity approval in 2021. Key terms:\n\n1. PRICE CAP: $245/month negotiated government price for Ozempic, Wegovy, Mounjaro, Zepbound, and Foundayo — applied to Medicare Part D and state Medicaid programs.\n\n2. PATIENT COST: $50/month copay for Medicare Part D beneficiaries, effective July 1, 2026 through the Medicare GLP-1 Bridge program. Does not count toward the $2,100 annual Part D out-of-pocket cap.\n\n3. MEDICAID: Same $245 price available to all state Medicaid programs. Estimated 80M+ Medicaid enrollees become eligible.\n\n4. TRUMPRX PLATFORM: A separate direct-to-consumer platform to offer semaglutide at $350/month to commercially uninsured patients — bridging the gap between $149/month Foundayo self-pay and the branded $900-1,349 list price.\n\n5. MANUFACTURING COMMITMENTS: In exchange for the MFN deal, Eli Lilly committed $27 billion in US manufacturing investment (building on existing LEAP facility in NC). Novo Nordisk committed $10 billion, including US oral semaglutide production (building on the $10B investment announced earlier). These commitments respond to Trump's directive to repatriate pharma manufacturing.\n\n6. MARKET IMPACT: The $50/month Medicare copay is estimated to bring 6-10 million additional Medicare beneficiaries onto GLP-1 therapy. CBO projects $35.5B in incremental federal GLP-1 spending 2026-2034. This is lower than pre-deal estimates partly because the MFN price of $245 is below the original IRA negotiated price for 2027 ($675), suggesting the MFN deal was more favorable to the government than the IRA process would have been.",
+      "tags": ["regulatory", "us", "mfn", "trump", "medicare", "medicaid", "pricing", "eli-lilly", "novo-nordisk", "policy", "april-2026"]
+    },
     {
       "id": "reg-entry-010",
       "timestamp": "2026-03-30T00:00:00Z",
