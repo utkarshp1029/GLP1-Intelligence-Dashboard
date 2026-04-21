@@ -4,41 +4,493 @@
     "last_updated": "2026-04-21T00:00:00Z",
     "entry_count": 39,
     "key_metrics": [
-      { "label": "Stories This Week", "value": "4 new (Apr 5–21)" },
-      { "label": "Sources Tracked", "value": "20+" },
-      { "label": "Markets Covered", "value": "India, US & Global" }
+      {
+        "label": "Stories This Week",
+        "value": "4 new (Apr 5–21)"
+      },
+      {
+        "label": "Sources Tracked",
+        "value": "20+"
+      },
+      {
+        "label": "Markets Covered",
+        "value": "India, US & Global"
+      }
     ]
   },
   "stories": [
     {
-      "id": "story-016",
-      "headline": "DCGI Launches Nationwide Crackdown: 49 Entities Audited for Unauthorized GLP-1 Sales",
-      "summary": "The Drugs Controller General of India intensified regulatory surveillance on March 24, 2026, inspecting 49 entities including online pharmacies, wholesalers, retailers, and wellness clinics for GLP-1 violations. Prescriptions are now restricted to endocrinologists and internal medicine specialists only. Non-compliances face license cancellation and prosecution. The action comes just 4 days after semaglutide patent expiry triggered 10+ generic launches and a 90% price crash.",
-      "market": "india",
-      "category": "regulatory",
-      "timestamp": "2026-03-24",
+      "id": "story-037",
+      "headline": "Retatrutide Phase 3 TRIUMPH-4: 28.7% Weight Loss and 75% Knee Pain Reduction — Best Efficacy Numbers in GLP-1 History",
+      "summary": "Eli Lilly's retatrutide (triple GLP-1/GIP/glucagon agonist) posted the strongest Phase 3 obesity trial results in history: 28.7% mean body weight reduction at 68 weeks in the TRIUMPH-4 trial of patients with obesity and knee osteoarthritis — equivalent to an average 71.2 lbs lost on the highest 12mg dose. Crucially, WOMAC knee pain scores fell 75.8%, with 1-in-8 patients completely free from knee pain. Seven additional Phase 3 TRIUMPH trials are expected to read out in 2026. An NDA filing is expected Q4 2026 with potential FDA decision in 2027-2028. Retatrutide's triple agonism — hitting GLP-1, GIP, and glucagon receptors simultaneously — may unlock the next therapeutic generation beyond tirzepatide's dual agonism.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-04-15",
       "importance": "high",
       "sources": [
         {
-          "publication": "Business Standard",
-          "title": "DCGI intensifies crackdown on unauthorised sale of GLP-1 weight-loss drugs",
-          "url": "https://www.business-standard.com/industry/news/dcgi-intensifies-crackdown-on-unauthorised-sale-of-glp-1-weight-loss-drugs-126032400308_1.html",
-          "date": "2026-03-24"
+          "publication": "Eli Lilly Investor Relations",
+          "title": "Lilly's triple agonist, retatrutide, delivered weight loss of up to 71.2 lbs with osteoarthritis pain relief in first Phase 3 trial",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average",
+          "date": "2026-04-15"
         },
         {
-          "publication": "Business Standard",
-          "title": "Govt to intensify surveillance, audits against unauthorised GLP-1 sales",
-          "url": "https://www.business-standard.com/industry/news/centre-tightens-checks-on-generic-weight-loss-drugs-126032400478_1.html",
-          "date": "2026-03-24"
-        },
-        {
-          "publication": "AngelOne",
-          "title": "CDSCO Tightens Oversight on GLP-1 Weight-Loss Drugs Amid Misuse Concerns",
-          "url": "https://www.angelone.in/news/economy/cdsco-tightens-oversight-on-glp-1-weight-loss-drugs-amid-misuse-concerns",
-          "date": "2026-03-24"
+          "publication": "Patient Care Online",
+          "title": "Retatrutide Achieves Up to 28.7% Weight Loss and Marked Knee Pain Reduction in Phase 3 TRIUMPH-4 Trial",
+          "url": "https://www.patientcareonline.com/view/retatrutide-achieves-up-to-28-7-weight-loss-and-marked-knee-pain-reduction-in-phase-3-triumph-4-trial",
+          "date": "2026-04-15"
         }
       ],
-      "tags": ["regulatory", "dcgi", "crackdown", "india", "semaglutide"]
+      "tags": [
+        "retatrutide",
+        "eli-lilly",
+        "phase-3",
+        "triumph-4",
+        "obesity",
+        "osteoarthritis",
+        "triple-agonist",
+        "us"
+      ]
+    },
+    {
+      "id": "story-036",
+      "headline": "Trump Signs MFN GLP-1 Deal: Medicare Patients Pay $50/Month for Wegovy, Zepbound, Foundayo from July 2026",
+      "summary": "President Trump announced landmark Most-Favored-Nation pricing agreements with Eli Lilly and Novo Nordisk, capping GLP-1 obesity drugs for Medicare and Medicaid patients at a $50/month copay starting July 1, 2026. The underlying price agreed is $245/month for Ozempic, Wegovy, Mounjaro, and Zepbound — down from $900-$1,350 list. In exchange, Lilly committed $27 billion and Novo $10 billion in US manufacturing investments. A separate TrumpRx direct-to-consumer platform will offer semaglutide at $350/month — targeting the commercially uninsured. Analysts estimate the deal will cover 67 million Medicare beneficiaries and 80 million Medicaid enrollees, representing a multi-trillion-dollar market access shift for the GLP-1 industry.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-04-10",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "CNBC",
+          "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices",
+          "url": "https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html",
+          "date": "2026-04-10"
+        },
+        {
+          "publication": "AMCP",
+          "title": "Federal Update: Trump Administration Announces Deal to Bring MFN Pricing to GLP-1s",
+          "url": "https://www.amcp.org/letters-statements-analysis/federal-update-trump-administration-announces-deal-bring-most-favored-nation-pricing-glp-1s",
+          "date": "2026-04-10"
+        },
+        {
+          "publication": "Pharmacy Times",
+          "title": "Eli Lilly, Novo Nordisk Strike MFN Deals With Trump Administration to Lower GLP-1 Prices",
+          "url": "https://www.pharmacytimes.com/view/eli-lilly-novo-nordisk-strike-mfn-deals-with-trump-administration-to-lower-glp-1-prices",
+          "date": "2026-04-10"
+        }
+      ],
+      "tags": [
+        "trump",
+        "mfn",
+        "medicare",
+        "medicaid",
+        "eli-lilly",
+        "novo-nordisk",
+        "pricing",
+        "policy",
+        "us"
+      ]
+    },
+    {
+      "id": "story-038",
+      "headline": "CagriSema NDA Filed but REDEFINE-4 Misses Primary Endpoint vs Tirzepatide — Novo's Next Drug Faces Headwinds",
+      "summary": "Novo Nordisk filed an NDA with the FDA in December 2025 for CagriSema (cagrilintide 2.4mg + semaglutide 2.4mg) — a once-weekly injectable combining a GLP-1 agonist and amylin analog. REDEFINE-1 showed 20.4% weight loss vs 3% placebo. However, in REDEFINE-4, CagriSema achieved 23% weight loss at 84 weeks but failed to demonstrate non-inferiority to tirzepatide 15mg — undermining the positioning narrative. FDA PDUFA date is expected H2 2026. If approved, CagriSema would be the first GLP-1/amylin combination drug on market. Analysts caution the missed non-inferiority benchmark versus tirzepatide makes commercial differentiation difficult, especially with Foundayo and retatrutide also competing in 2026-2028.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-04-08",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Novo Nordisk",
+          "title": "Novo Nordisk files for FDA approval of CagriSema, the first once-weekly GLP-1 and amylin analogue combination",
+          "url": "https://www.prnewswire.com/news-releases/novo-nordisk-files-for-fda-approval-of-cagrisema-the-first-once-weekly-combination-of-glp1-and-amylin-analogues-for-weight-management-302645862.html",
+          "date": "2026-04-08"
+        },
+        {
+          "publication": "CNBC",
+          "title": "What's next for Novo Nordisk's next-generation obesity drug CagriSema after trial miss",
+          "url": "https://www.cnbc.com/2026/02/24/healthy-returns-whats-next-for-novo-nordisks-obesity-drug-cagrisema.html",
+          "date": "2026-04-08"
+        }
+      ],
+      "tags": [
+        "cagrisema",
+        "novo-nordisk",
+        "nda",
+        "redefine-4",
+        "amylin",
+        "fda",
+        "tirzepatide",
+        "clinical-trial",
+        "us"
+      ]
+    },
+    {
+      "id": "story-039",
+      "headline": "MSN Laboratories Launches SEMABEST — First Fully Made-in-India Semaglutide Pen at ₹3,990",
+      "summary": "MSN Laboratories launched SEMABEST in April 2026, positioning it as India's first 'integrated' made-in-India semaglutide — with API, formulation, and the pen device all manufactured domestically. Priced at ₹3,990/month (roughly 50% below Novo's post-April-1 Ozempic price and comparable to Dr. Reddy's Obeda), SEMABEST differentiates on supply chain sovereignty rather than price leadership. The launch adds to a now 40+ brand India market. Novo Nordisk simultaneously repositioned its India pricing to ₹202/day (₹1,415/week) for starting doses of Ozempic and Wegovy — framing it as a 'patient-centred' daily cost narrative rather than a monthly figure to compete psychologically with generics.",
+      "market": "india",
+      "category": "launch",
+      "timestamp": "2026-04-05",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "BioSpectrum India",
+          "title": "MSN Laboratories launches SEMABEST, the first integrated Made-in-India Semaglutide",
+          "url": "https://www.biospectrumindia.com/news/73/27661/msn-laboratories-launches-semabest-the-first-integrated-made-in-india-semaglutide.html",
+          "date": "2026-04-05"
+        },
+        {
+          "publication": "BioSpectrum India",
+          "title": "Novo Nordisk India sets patient-centred price of Rs 202/day for starting dose of Ozempic and Wegovy",
+          "url": "https://www.biospectrumindia.com/news/16/27598/novo-nordisk-india-sets-patient-centred-price-of-rs-202-day-for-starting-dose-of-ozempic-and-wegovy.html",
+          "date": "2026-04-05"
+        }
+      ],
+      "tags": [
+        "msn-laboratories",
+        "semabest",
+        "india",
+        "made-in-india",
+        "semaglutide",
+        "novo-nordisk",
+        "pricing"
+      ]
+    },
+    {
+      "id": "story-030",
+      "headline": "Novo Nordisk Shares Down 43% Year-on-Year as Generic Wave Forces 48% India Price Cuts",
+      "summary": "Novo Nordisk's ADR fell to $36.98 as of April 3, 2026 — down 43% from its 52-week high of $81.44 — as Eli Lilly's Foundayo approval and India's semaglutide generic flood compounded existing competitive pressures. In a direct response to generic competitors pricing semaglutide at ₹1,290/month in India, Novo cut Wegovy and Ozempic India list prices by up to 48% effective April 1, 2026. Bernstein initiated Underperform coverage citing an 'ongoing earnings downgrade cycle.' Novo's 2026 full-year guidance remains -5% to -13% at constant FX. The market cap decline from ~$640B to under $180B in 18 months represents one of the largest value destructions in pharma history.",
+      "market": "global",
+      "category": "business",
+      "timestamp": "2026-04-03",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "24/7 Wall St.",
+          "title": "Novo Nordisk Shares Down 43% in a Year as Generic Rivals Force 48% Price Cuts",
+          "url": "https://247wallst.com/investing/2026/04/03/novo-nordisk-shares-down-43-in-a-year-as-generic-rivals-force-48-price-cuts/",
+          "date": "2026-04-03"
+        }
+      ],
+      "tags": [
+        "novo-nordisk",
+        "stock",
+        "india-pricing",
+        "competition",
+        "generics",
+        "global"
+      ]
+    },
+    {
+      "id": "story-034",
+      "headline": "Novo Nordisk Invests €432M in Irish Facility to Scale Oral GLP-1 Production",
+      "summary": "Novo Nordisk announced a €432 million ($506M) investment in its Athlone, Ireland manufacturing facility on April 2, 2026, converting the 45-acre site for high-volume oral GLP-1 tableting — primarily for oral semaglutide (the Wegovy pill). Phased completion is targeted for 2027–2028, positioning Ireland as Novo's primary ex-US hub for oral GLP-1 supply. This follows three ex-Catalent site acquisitions (Italy, Belgium, Indiana) and complements a $1B+ Brazil expansion targeting 2028. The multi-site strategy aims to diversify from US manufacturing concentration risk and respond to global demand as oral GLP-1 formats compete with Eli Lilly's newly approved Foundayo.",
+      "market": "global",
+      "category": "manufacturing",
+      "timestamp": "2026-04-02",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Pharmaceutical Technology",
+          "title": "Novo Nordisk scales oral GLP-1 production with €432M investment in Ireland facility",
+          "url": "https://www.pharmtech.com/view/novo-nordisk-scales-oral-glp-1-production-with-432m-506m-investment-in-ireland-facility",
+          "date": "2026-04-02"
+        }
+      ],
+      "tags": [
+        "novo-nordisk",
+        "manufacturing",
+        "ireland",
+        "oral-glp1",
+        "supply-chain",
+        "global"
+      ]
+    },
+    {
+      "id": "story-035",
+      "headline": "FDA FAERS Analysis: GLP-1 Adverse Event Profiles Differ Markedly by Indication",
+      "summary": "A new FDA FAERS pharmacovigilance analysis published April 2, 2026 found that GLP-1 receptor agonist adverse events cluster differently by approved indication. T2DM indication use is associated with retinopathies, pancreatic neoplasms, and hearing loss; obesity indication use is associated with suicidal ideation, panic attacks, depressive disorders, and eating disorders. Compared to other antidiabetic drug classes, GLP-1s show elevated reporting of alopecia, taste disorders, flatulence, and suicidal behavior across both indications. The findings strengthen calls for indication-specific monitoring protocols and tighter specialist supervision — particularly relevant as India's generic wave brings GLP-1s to non-specialist prescribers at scale.",
+      "market": "us",
+      "category": "safety",
+      "timestamp": "2026-04-02",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Medscape",
+          "title": "FDA Data Reveal Different Risks for GLP-1s in Diabetes vs Obesity",
+          "url": "https://www.medscape.com/viewarticle/fda-data-reveal-different-risks-glp-1s-2026a1000a4h",
+          "date": "2026-04-02"
+        }
+      ],
+      "tags": [
+        "safety",
+        "fda",
+        "faers",
+        "pharmacovigilance",
+        "adverse-events",
+        "suicidal-ideation",
+        "us"
+      ]
+    },
+    {
+      "id": "story-029",
+      "headline": "FDA Approves Eli Lilly's Foundayo (Orforglipron): First Oral Non-Peptide GLP-1 Pill Cleared for Obesity",
+      "summary": "The FDA approved Eli Lilly's orforglipron (brand name Foundayo) on April 1, 2026, making it the first oral non-peptide small-molecule GLP-1 receptor agonist approved for chronic weight management. Unlike oral semaglutide (Rybelsus), Foundayo has no food or water restrictions and can be taken at any time of day — a significant convenience advantage. The ATTAIN-1 Phase 3 trial showed 27.3 lbs average weight loss at 72 weeks. Self-pay pricing starts at $149/month; $25/month with commercial insurance; $50/month under Medicare Part D from July 2026. Retail pharmacy and telehealth launches began April 6, 2026. The approval marks a pivotal competitive blow to Novo Nordisk's semaglutide franchise.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-04-01",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Eli Lilly Investor Relations",
+          "title": "FDA approves Lilly's Foundayo (orforglipron), the only GLP-1 pill with no food or water restrictions",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill",
+          "date": "2026-04-01"
+        },
+        {
+          "publication": "STAT News",
+          "title": "Eli Lilly's obesity pill orforglipron approved by FDA",
+          "url": "https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/",
+          "date": "2026-04-01"
+        }
+      ],
+      "tags": [
+        "eli-lilly",
+        "orforglipron",
+        "foundayo",
+        "fda-approval",
+        "oral-glp1",
+        "obesity",
+        "us"
+      ]
+    },
+    {
+      "id": "story-031",
+      "headline": "CMS Confirms Medicare GLP-1 Bridge: $50/Month Wegovy, Zepbound, and Foundayo Coverage Starts July 1",
+      "summary": "CMS formally confirmed the Medicare GLP-1 Bridge program launching July 1, 2026 through December 31, 2026: eligible Part D beneficiaries pay $50/month for Wegovy (semaglutide 2.4mg), Zepbound (tirzepatide), and the newly approved Foundayo (orforglipron). The $50 copay does NOT count toward the $2,100 annual Part D out-of-pocket cap or deductible, making this a true supplemental benefit. Eligibility requires BMI ≥30 or ≥27 with metabolic/cardiovascular comorbidity. The longer-term BALANCE Model begins in Medicaid in May 2026 and Medicare Part D in January 2027. The CBO estimates expanded GLP-1 coverage adds $35.5 billion in federal spending from 2026–2034.",
+      "market": "us",
+      "category": "insurance",
+      "timestamp": "2026-04-01",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "CMS",
+          "title": "Medicare GLP-1 Bridge Program — Coverage Details",
+          "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
+          "date": "2026-04-01"
+        },
+        {
+          "publication": "KFF",
+          "title": "What Medicare's Temporary Program Covering GLP-1s for Obesity Means for Beneficiaries",
+          "url": "https://www.kff.org/quick-take/what-medicares-temporary-program-covering-glp-1s-for-obesity-means-for-beneficiaries/",
+          "date": "2026-04-02"
+        }
+      ],
+      "tags": [
+        "medicare",
+        "cms",
+        "glp-1-coverage",
+        "balance-model",
+        "foundayo",
+        "wegovy",
+        "zepbound",
+        "us"
+      ]
+    },
+    {
+      "id": "story-032",
+      "headline": "India Ministry of Health Issues Formal GLP-1 Safety Warning as Generic Wave Begins",
+      "summary": "India's Ministry of Health and Family Welfare issued a formal safety communication on April 1, 2026 — timed with the first weeks of widespread generic semaglutide availability at ₹1,290/month. The warning flags pancreatitis, acute kidney injury, and bowel obstruction as serious risks requiring medical supervision. CDSCO reiterated that semaglutide must be prescribed only by qualified physicians (endocrinologists or internal medicine specialists) for approved indications — T2DM and obesity with comorbidities — following the March 24 crackdown on 49 unauthorized sellers. The ministry emphasized that without physician oversight, the expanded access enabled by generic pricing could lead to unsafe self-medication.",
+      "market": "india",
+      "category": "regulatory",
+      "timestamp": "2026-04-01",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Business Today",
+          "title": "As semaglutide goes generic, the government warns GLP-1 drugs are not without risks",
+          "url": "https://www.businesstoday.in/industry/pharma/story/as-semaglutide-goes-generic-the-government-warns-glp-1-drugs-are-not-without-risks-523626-2026-04-01",
+          "date": "2026-04-01"
+        }
+      ],
+      "tags": [
+        "india",
+        "regulatory",
+        "safety",
+        "dcgi",
+        "cdsco",
+        "ministry-of-health",
+        "semaglutide"
+      ]
+    },
+    {
+      "id": "story-033",
+      "headline": "WeightWatchers GLP-1 Pricing Rises to $349/Month as Introductory Offer Expires April 1",
+      "summary": "WeightWatchers' $199/month introductory GLP-1 pricing ended March 31, 2026. Effective April 1, the platform charges $349/month for branded medication access (Wegovy or Ozempic), plus a $74/month membership fee on an annual plan or $149/month on a rolling monthly plan. WeightWatchers exited compounded semaglutide in May 2025 and now prescribes only FDA-approved branded products. This positions WeightWatchers significantly above Hims & Hers ($149/month, post-Novo settlement) and Eli Lilly's new Foundayo self-pay ($149/month) — creating a pricing wedge that may accelerate subscriber migration to lower-cost telehealth platforms.",
+      "market": "us",
+      "category": "business",
+      "timestamp": "2026-04-01",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "US News Health",
+          "title": "WeightWatchers GLP-1 Review 2026",
+          "url": "https://health.usnews.com/best-diet/medication/weightwatchers",
+          "date": "2026-04-01"
+        }
+      ],
+      "tags": [
+        "weightwatchers",
+        "telehealth",
+        "pricing",
+        "d2c",
+        "glp-1",
+        "us"
+      ]
+    },
+    {
+      "id": "story-023",
+      "headline": "Compounded GLP-1s Show Higher Adverse Event Rates vs. FDA-Approved Formulations in FAERS Pharmacovigilance Study",
+      "summary": "A March 2026 pharmacovigilance study published in PubMed analyzed FDA FAERS reports from 2018-2024 comparing compounded GLP-1 formulations against FDA-approved branded products. Compounded GLP-1s were associated with significantly higher rates of abdominal pain, nausea, diarrhea, gallbladder inflammation, suicidality reports, and prescribing errors compared to branded semaglutide and tirzepatide. The study is the first systematic FAERS comparison between compounded and FDA-approved GLP-1 formulations and strengthens the FDA's regulatory rationale for enforcement actions against compounding pharmacies. The findings are particularly relevant as millions of patients in India begin generic semaglutide therapy outside the specialist supervision common with innovator prescriptions.",
+      "market": "us",
+      "category": "safety",
+      "timestamp": "2026-03-31",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "PubMed / FAERS Analysis",
+          "title": "Pharmacovigilance study comparing compounded vs. FDA-approved GLP-1 receptor agonist adverse events (2018-2024)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40285721/",
+          "date": "2026-03-31"
+        }
+      ],
+      "tags": [
+        "compounding",
+        "safety",
+        "faers",
+        "pharmacovigilance",
+        "adverse-events",
+        "fda",
+        "us"
+      ]
+    },
+    {
+      "id": "story-021",
+      "headline": "BioNxt Advances Semaglutide as First Application of Broad GLP-1 Oral Dissolving Film Platform",
+      "summary": "BioNxt Solutions announced on March 30, 2026 that semaglutide is the inaugural molecule for its new oral dissolving film (ODF) drug delivery platform. The company plans to expand the platform to tirzepatide, liraglutide, and other GLP-1 receptor agonists. The ODF format aims to address the limitations of current injectable and oral pill formats, potentially offering improved bioavailability, convenience, and patient adherence compared to existing formulations.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-03-30",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "PharmiWeb",
+          "title": "BioNxt Advances Semaglutide as First Application of Broad GLP-1 ODF Platform Strategy",
+          "url": "https://www.pharmiweb.com/press-release/2026-03-30/bionxt-advances-semaglutide-as-first-application-of-broad-glp-1-odf-platform-strategy",
+          "date": "2026-03-30"
+        }
+      ],
+      "tags": [
+        "bionxt",
+        "oral-dissolving-film",
+        "semaglutide",
+        "drug-delivery",
+        "innovation",
+        "us"
+      ]
+    },
+    {
+      "id": "story-026",
+      "headline": "IMA Warns Against GLP-1 Self-Medication as Generic Wave Hits India",
+      "summary": "The Indian Medical Association issued a nationwide advisory on March 30, 2026, urging patients not to self-prescribe generic semaglutide products despite the dramatic price drop following patent expiry. IMA President Dr. R.V. Asokan warned that GLP-1 drugs carry serious risks including pancreatitis, gallbladder disease, thyroid tumours, and cardiovascular complications when used without medical supervision. The advisory comes as over 50 branded generics flooded the market within 10 days of patent expiry, with prices as low as ₹1,290/month making the drug accessible to millions for the first time. IMA called on pharmacies to enforce prescription requirements strictly.",
+      "market": "india",
+      "category": "regulatory",
+      "timestamp": "2026-03-30",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "ANI",
+          "title": "IMA warns against self-medication with GLP-1 drugs as generic versions flood Indian market",
+          "url": "https://www.aninews.in/news/health/ima-warns-against-self-medication-with-glp-1-drugs-as-generic-versions-flood-indian-market20260330",
+          "date": "2026-03-30"
+        }
+      ],
+      "tags": [
+        "ima",
+        "self-medication",
+        "regulatory",
+        "india",
+        "semaglutide",
+        "safety"
+      ]
+    },
+    {
+      "id": "story-024",
+      "headline": "ACC 2026: Tirzepatide Shows 16% Lower Cardiorenal Risk vs. Dulaglutide in 13,000-Patient SURPASS-CVOT Analysis",
+      "summary": "A post hoc analysis of the SURPASS-CVOT trial presented at the American College of Cardiology Annual Meeting on March 28, 2026 (New Orleans) and simultaneously published in JAMA Cardiology found tirzepatide reduced a six-point composite cardiorenal endpoint by 16% compared to dulaglutide (23.7% vs 27.4%, statistically significant) in over 13,000 patients with type 2 diabetes and established cardiovascular disease followed for nearly four years. Tirzepatide showed lower risk of all-cause mortality (HR 0.84), coronary revascularization (HR 0.84), and adverse kidney outcomes (HR 0.79). The narrow MACE endpoint (heart attack, stroke, cardiovascular death) was numerically but not statistically superior. Gastrointestinal adverse events were more common with tirzepatide (42.5% vs 35.9%). The study was funded by Eli Lilly and strengthens the case for tirzepatide over GLP-1 monotherapy in high-CV-risk patients.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-03-28",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Cleveland Clinic Newsroom",
+          "title": "Tirzepatide Associated with Lower Risk of Heart and Kidney Damage Compared to Dulaglutide in Patients with Type 2 Diabetes and Cardiovascular Disease",
+          "url": "https://newsroom.clevelandclinic.org/2026/03/28/tirzepatide-associated-with-lower-risk-of-heart-and-kidney-damage-compared-to-dulaglutide-in-patients-with-type-2-diabetes-and-cardiovascular-disease",
+          "date": "2026-03-28"
+        },
+        {
+          "publication": "Healio",
+          "title": "Tirzepatide bests dulaglutide for lowering cardiorenal risk",
+          "url": "https://www.healio.com/news/cardiology/20260328/tirzepatide-bests-dulaglutide-for-loweringcardiorenal-risk",
+          "date": "2026-03-28"
+        },
+        {
+          "publication": "PubMed / JAMA Cardiology",
+          "title": "Cardiorenal Outcomes With Tirzepatide Compared With Dulaglutide in Patients With Diabetes and Cardiovascular Disease: A Post Hoc Analysis of the SURPASS-CVOT Randomized Clinical Trial",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41903177/",
+          "date": "2026-03-28"
+        }
+      ],
+      "tags": [
+        "tirzepatide",
+        "dulaglutide",
+        "surpass-cvot",
+        "cardiorenal",
+        "acc-2026",
+        "eli-lilly",
+        "clinical-trial",
+        "us"
+      ]
+    },
+    {
+      "id": "story-025",
+      "headline": "Hetero Launches Generic Semaglutide (Truglyx, Rolmodl, Moto G) Across 75+ Countries",
+      "summary": "Hyderabad-based Hetero announced on March 28, 2026 the global export launch of three branded generic semaglutide products — Truglyx, Rolmodl, and Moto G — targeting more than 75 countries across Africa, Asia, and the Middle East in its initial rollout. This positions Hetero as one of the most internationally aggressive Indian generic entrants in the post-patent semaglutide market. The launch complements a broader India generic wave following semaglutide patent expiry on March 20, 2026, and adds to the 10+ Indian manufacturers who have already launched domestically. Hetero's multi-brand, multi-country strategy mirrors Dr. Reddy's 87-country ambitions and signals Indian pharma's intent to dominate global generic GLP-1 supply in markets where patents have lapsed.",
+      "market": "india",
+      "category": "launch",
+      "timestamp": "2026-03-28",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Medical Dialogues",
+          "title": "Hetero Launches Generic Semaglutide Brands Truglyx, Rolmodl, Moto G Across 75+ Countries",
+          "url": "https://medicaldialogues.in/news/industry/pharma/hetero-launches-generic-semaglutide-brands-truglyx-rolmodl-moto-g-across-75-countries-167525",
+          "date": "2026-03-28"
+        }
+      ],
+      "tags": [
+        "hetero",
+        "semaglutide",
+        "generic-launch",
+        "global-export",
+        "india",
+        "africa",
+        "asia",
+        "truglyx"
+      ]
     },
     {
       "id": "story-017",
@@ -74,73 +526,50 @@
           "date": "2026-03-23"
         }
       ],
-      "tags": ["business", "india", "market-forecast", "torrent", "alkem", "consolidation"]
+      "tags": [
+        "business",
+        "india",
+        "market-forecast",
+        "torrent",
+        "alkem",
+        "consolidation"
+      ]
     },
     {
-      "id": "story-018",
-      "headline": "FDA Issues Warning to Novo Nordisk for Unreported Semaglutide Deaths and Suicide",
-      "summary": "The FDA issued a formal warning letter to Novo Nordisk on March 5, 2026, citing serious violations in post-marketing adverse event reporting for semaglutide. Three patient deaths — including one suicide — were not reported within the mandatory 15-day window. The FDA called these systemic failures affecting Novo's entire product portfolio, as the company also faces a 5-13% revenue decline forecast for 2026 and a 11% workforce reduction.",
-      "market": "us",
+      "id": "story-016",
+      "headline": "DCGI Launches Nationwide Crackdown: 49 Entities Audited for Unauthorized GLP-1 Sales",
+      "summary": "The Drugs Controller General of India intensified regulatory surveillance on March 24, 2026, inspecting 49 entities including online pharmacies, wholesalers, retailers, and wellness clinics for GLP-1 violations. Prescriptions are now restricted to endocrinologists and internal medicine specialists only. Non-compliances face license cancellation and prosecution. The action comes just 4 days after semaglutide patent expiry triggered 10+ generic launches and a 90% price crash.",
+      "market": "india",
       "category": "regulatory",
-      "timestamp": "2026-03-12",
+      "timestamp": "2026-03-24",
       "importance": "high",
       "sources": [
         {
-          "publication": "FDA",
-          "title": "Warning Letter: Novo Nordisk Inc. 717576 — 03/05/2026",
-          "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/novo-nordisk-inc-717576-03052026",
-          "date": "2026-03-05"
+          "publication": "Business Standard",
+          "title": "DCGI intensifies crackdown on unauthorised sale of GLP-1 weight-loss drugs",
+          "url": "https://www.business-standard.com/industry/news/dcgi-intensifies-crackdown-on-unauthorised-sale-of-glp-1-weight-loss-drugs-126032400308_1.html",
+          "date": "2026-03-24"
         },
         {
-          "publication": "Pharmaceutical Technology",
-          "title": "FDA issues warning to Novo Nordisk on unreported semaglutide safety events",
-          "url": "https://www.pharmaceutical-technology.com/news/novo-nordisk-fda-warning-letter-semaglutide-adverse-event-reporting/",
-          "date": "2026-03-12"
+          "publication": "Business Standard",
+          "title": "Govt to intensify surveillance, audits against unauthorised GLP-1 sales",
+          "url": "https://www.business-standard.com/industry/news/centre-tightens-checks-on-generic-weight-loss-drugs-126032400478_1.html",
+          "date": "2026-03-24"
         },
         {
-          "publication": "BioSpace",
-          "title": "Novo Hit With FDA Warning Letter for Unreported Ozempic Safety Signals",
-          "url": "https://www.biospace.com/fda/novo-hit-with-fda-warning-letter-for-unreported-ozempic-safety-signals",
-          "date": "2026-03-12"
-        },
-        {
-          "publication": "CBS News",
-          "title": "FDA warns Novo Nordisk over unreported potential Ozempic side effects",
-          "url": "https://www.cbsnews.com/news/fda-warns-novo-nordisk-unreported-potential-ozempic-side-effects/",
-          "date": "2026-03-12"
+          "publication": "AngelOne",
+          "title": "CDSCO Tightens Oversight on GLP-1 Weight-Loss Drugs Amid Misuse Concerns",
+          "url": "https://www.angelone.in/news/economy/cdsco-tightens-oversight-on-glp-1-weight-loss-drugs-amid-misuse-concerns",
+          "date": "2026-03-24"
         }
       ],
-      "tags": ["safety", "fda", "novo-nordisk", "warning-letter", "adverse-events", "us"]
-    },
-    {
-      "id": "story-019",
-      "headline": "Eli Lilly Claims 60.5% US GLP-1 Market Share as Novo Nordisk Warns of 5-13% Revenue Decline",
-      "summary": "Eli Lilly's Q4 2025 results showed Mounjaro + Zepbound combined $11.7 billion in the quarter alone, with 2026 guidance of $80-83 billion — a 25% growth year. Lilly's US GLP-1 market share climbed to 60.5%, while Novo's fell to 39.1%. Novo Nordisk warned of a 5-13% revenue decline in 2026 due to price cuts, IRA negotiations, and exclusivity losses in emerging markets. The divergence marks a decisive shift in the GLP-1 leadership race.",
-      "market": "us",
-      "category": "business",
-      "timestamp": "2026-02-04",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "CNBC",
-          "title": "Eli Lilly's GLP-1 growth is only getting started as Novo Nordisk braces for a decline in 2026",
-          "url": "https://www.cnbc.com/2026/02/04/eli-lilly-novo-nordisk-earnings-glp1-market.html",
-          "date": "2026-02-04"
-        },
-        {
-          "publication": "BioSpace",
-          "title": "Eli Lilly Delivers Knockout Blow To Novo For 2025",
-          "url": "https://seekingalpha.com/article/4865695-eli-lilly-delivers-knockout-blow-to-novo-for-2025",
-          "date": "2026-02-04"
-        },
-        {
-          "publication": "BioSpace",
-          "title": "Lilly's Path to $94B in Revenue Rests on Oral Obesity Market and Other 2026 Milestones",
-          "url": "https://www.biospace.com/business/lillys-path-to-94b-in-revenue-rests-on-oral-obesity-market-and-other-2026-milestones",
-          "date": "2026-02-05"
-        }
-      ],
-      "tags": ["business", "eli-lilly", "novo-nordisk", "earnings", "market-share", "us"]
+      "tags": [
+        "regulatory",
+        "dcgi",
+        "crackdown",
+        "india",
+        "semaglutide"
+      ]
     },
     {
       "id": "story-020",
@@ -164,7 +593,97 @@
           "date": "2026-03-23"
         }
       ],
-      "tags": ["business", "novo-nordisk", "india", "competitive-strategy", "wegovy-hd"]
+      "tags": [
+        "business",
+        "novo-nordisk",
+        "india",
+        "competitive-strategy",
+        "wegovy-hd"
+      ]
+    },
+    {
+      "id": "story-004",
+      "headline": "Semaglutide Prices Crash Up to 90% as 15+ Generics Launch in Two Days",
+      "summary": "India's GLP-1 market underwent a historic transformation with prices crashing 70-90% within 48 hours of semaglutide's patent expiry. Monthly costs plunged from Rs 8,800-16,400 (branded Ozempic/Wegovy) to as low as Rs 1,290 for Natco's vials and Rs 1,800 for Alkem's prefilled pens. Eris Lifesciences set the lowest entry at Rs 220 per shot in multi-dose vials. With over 100 million diabetics and a quarter of adults classified as obese, India represents a massive untapped market where only 200,000 patients are currently on GLP-1 therapy. CareEdge Ratings projects the market will grow from Rs 1,000-1,200 crore to Rs 4,500-5,000 crore by 2030.",
+      "market": "india",
+      "category": "pricing",
+      "timestamp": "2026-03-22",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Business Standard",
+          "title": "Semaglutide prices crash up to 90% as 15+ generics launch in two days",
+          "url": "https://www.business-standard.com/industry/news/semaglutide-prices-crash-up-to-90-as-15-generics-launch-in-two-days-126032200534_1.html",
+          "date": "2026-03-22"
+        },
+        {
+          "publication": "Business Today",
+          "title": "Generic Semaglutide hits India: Prices fall 90% as companies compete for diabetic patients",
+          "url": "https://www.businesstoday.in/industry/pharma/story/generic-semaglutide-hits-india-prices-fall-90-as-companies-compete-for-diabetic-patients-521707-2026-03-21",
+          "date": "2026-03-21"
+        },
+        {
+          "publication": "CNBC",
+          "title": "India is launching cheap weight-loss drugs -- but Novo Nordisk is betting its brands will stay on top",
+          "url": "https://www.cnbc.com/2026/03/23/novo-nordisk-cheap-weight-loss-drugs-india-generic-ozempic-wegovy-semaglutide.html",
+          "date": "2026-03-23"
+        },
+        {
+          "publication": "India TV News",
+          "title": "Becoming thinner just got cheaper: Weight-loss drug Semaglutide's price may drop from Rs 11K to Rs 3K in India",
+          "url": "https://www.indiatvnews.com/health/semaglutide-price-drop-india-weight-loss-drug-cheaper-after-patent-expiry-generic-versions-price-2026-03-21-1034584",
+          "date": "2026-03-21"
+        }
+      ],
+      "tags": [
+        "price-war",
+        "semaglutide",
+        "generics",
+        "india",
+        "affordability"
+      ]
+    },
+    {
+      "id": "story-002",
+      "headline": "Dr. Reddy's Launches Obeda with 12 Million Pen Target and Global Ambitions",
+      "summary": "Dr. Reddy's Laboratories launched Obeda, India's first DCGI-approved generic semaglutide injection, on March 21, 2026. Available in pre-filled disposable pens at Rs 4,200/month (62% below Ozempic), the company targets 12 million pen sales in its first year across 87 countries. A Phase III trial with 312 participants demonstrated non-inferior efficacy to the innovator drug with no anti-drug antibodies detected. Obeda is positioned as a premium generic, priced above competitors like Natco (Rs 1,290) and Alkem (Rs 1,800), betting on quality differentiation and physician trust.",
+      "market": "india",
+      "category": "launch",
+      "timestamp": "2026-03-21",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Business Standard",
+          "title": "Dr. Reddy's launches injectable semaglutide under the brand name Obeda",
+          "url": "https://www.business-standard.com/markets/capital-market-news/dr-reddy-s-launches-injectable-semaglutide-under-the-brand-name-obeda-126032100199_1.html",
+          "date": "2026-03-21"
+        },
+        {
+          "publication": "Business Standard",
+          "title": "Dr Reddy's enters semaglutide market, launches generic drug for diabetes",
+          "url": "https://www.business-standard.com/health/dr-reddy-s-enters-semaglutide-market-launches-generic-drug-for-diabetes-126032100465_1.html",
+          "date": "2026-03-21"
+        },
+        {
+          "publication": "Medical Dialogues",
+          "title": "Dr Reddy's Prepares Generic Semaglutide Entry Under Brand Obeda, Targets 60% Price Cut",
+          "url": "https://medicaldialogues.in/news/industry/pharma/dr-reddys-prepares-generic-semaglutide-entry-under-brand-obeda-targets-60-price-cut-report-165504",
+          "date": "2026-02-25"
+        },
+        {
+          "publication": "The Week",
+          "title": "Why are pharma companies racing to launch semaglutide in India?",
+          "url": "https://www.theweek.in/news/health/2026/03/23/why-are-pharma-companies-racing-to-launch-semaglutide-in-india.html",
+          "date": "2026-03-23"
+        }
+      ],
+      "tags": [
+        "dr-reddys",
+        "obeda",
+        "semaglutide",
+        "india",
+        "generic-launch"
+      ]
     },
     {
       "id": "story-001",
@@ -206,43 +725,12 @@
           "date": "2026-03-20"
         }
       ],
-      "tags": ["generic-launch", "semaglutide", "patent-expiry", "india"]
-    },
-    {
-      "id": "story-002",
-      "headline": "Dr. Reddy's Launches Obeda with 12 Million Pen Target and Global Ambitions",
-      "summary": "Dr. Reddy's Laboratories launched Obeda, India's first DCGI-approved generic semaglutide injection, on March 21, 2026. Available in pre-filled disposable pens at Rs 4,200/month (62% below Ozempic), the company targets 12 million pen sales in its first year across 87 countries. A Phase III trial with 312 participants demonstrated non-inferior efficacy to the innovator drug with no anti-drug antibodies detected. Obeda is positioned as a premium generic, priced above competitors like Natco (Rs 1,290) and Alkem (Rs 1,800), betting on quality differentiation and physician trust.",
-      "market": "india",
-      "category": "launch",
-      "timestamp": "2026-03-21",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Business Standard",
-          "title": "Dr. Reddy's launches injectable semaglutide under the brand name Obeda",
-          "url": "https://www.business-standard.com/markets/capital-market-news/dr-reddy-s-launches-injectable-semaglutide-under-the-brand-name-obeda-126032100199_1.html",
-          "date": "2026-03-21"
-        },
-        {
-          "publication": "Business Standard",
-          "title": "Dr Reddy's enters semaglutide market, launches generic drug for diabetes",
-          "url": "https://www.business-standard.com/health/dr-reddy-s-enters-semaglutide-market-launches-generic-drug-for-diabetes-126032100465_1.html",
-          "date": "2026-03-21"
-        },
-        {
-          "publication": "Medical Dialogues",
-          "title": "Dr Reddy's Prepares Generic Semaglutide Entry Under Brand Obeda, Targets 60% Price Cut",
-          "url": "https://medicaldialogues.in/news/industry/pharma/dr-reddys-prepares-generic-semaglutide-entry-under-brand-obeda-targets-60-price-cut-report-165504",
-          "date": "2026-02-25"
-        },
-        {
-          "publication": "The Week",
-          "title": "Why are pharma companies racing to launch semaglutide in India?",
-          "url": "https://www.theweek.in/news/health/2026/03/23/why-are-pharma-companies-racing-to-launch-semaglutide-in-india.html",
-          "date": "2026-03-23"
-        }
-      ],
-      "tags": ["dr-reddys", "obeda", "semaglutide", "india", "generic-launch"]
+      "tags": [
+        "generic-launch",
+        "semaglutide",
+        "patent-expiry",
+        "india"
+      ]
     },
     {
       "id": "story-003",
@@ -278,253 +766,13 @@
           "date": "2026-02-20"
         }
       ],
-      "tags": ["natco-pharma", "semaglutide", "pricing", "vial-format", "india"]
-    },
-    {
-      "id": "story-004",
-      "headline": "Semaglutide Prices Crash Up to 90% as 15+ Generics Launch in Two Days",
-      "summary": "India's GLP-1 market underwent a historic transformation with prices crashing 70-90% within 48 hours of semaglutide's patent expiry. Monthly costs plunged from Rs 8,800-16,400 (branded Ozempic/Wegovy) to as low as Rs 1,290 for Natco's vials and Rs 1,800 for Alkem's prefilled pens. Eris Lifesciences set the lowest entry at Rs 220 per shot in multi-dose vials. With over 100 million diabetics and a quarter of adults classified as obese, India represents a massive untapped market where only 200,000 patients are currently on GLP-1 therapy. CareEdge Ratings projects the market will grow from Rs 1,000-1,200 crore to Rs 4,500-5,000 crore by 2030.",
-      "market": "india",
-      "category": "pricing",
-      "timestamp": "2026-03-22",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Business Standard",
-          "title": "Semaglutide prices crash up to 90% as 15+ generics launch in two days",
-          "url": "https://www.business-standard.com/industry/news/semaglutide-prices-crash-up-to-90-as-15-generics-launch-in-two-days-126032200534_1.html",
-          "date": "2026-03-22"
-        },
-        {
-          "publication": "Business Today",
-          "title": "Generic Semaglutide hits India: Prices fall 90% as companies compete for diabetic patients",
-          "url": "https://www.businesstoday.in/industry/pharma/story/generic-semaglutide-hits-india-prices-fall-90-as-companies-compete-for-diabetic-patients-521707-2026-03-21",
-          "date": "2026-03-21"
-        },
-        {
-          "publication": "CNBC",
-          "title": "India is launching cheap weight-loss drugs -- but Novo Nordisk is betting its brands will stay on top",
-          "url": "https://www.cnbc.com/2026/03/23/novo-nordisk-cheap-weight-loss-drugs-india-generic-ozempic-wegovy-semaglutide.html",
-          "date": "2026-03-23"
-        },
-        {
-          "publication": "India TV News",
-          "title": "Becoming thinner just got cheaper: Weight-loss drug Semaglutide's price may drop from Rs 11K to Rs 3K in India",
-          "url": "https://www.indiatvnews.com/health/semaglutide-price-drop-india-weight-loss-drug-cheaper-after-patent-expiry-generic-versions-price-2026-03-21-1034584",
-          "date": "2026-03-21"
-        }
-      ],
-      "tags": ["price-war", "semaglutide", "generics", "india", "affordability"]
-    },
-    {
-      "id": "story-005",
-      "headline": "CDSCO Bans GLP-1 Advertising, Delhi HC Flags Off-Label Weight Loss Use",
-      "summary": "India's drug regulator CDSCO issued a sweeping advisory prohibiting pharmaceutical companies from advertising GLP-1 receptor agonists through surrogate advertising, disease-awareness campaigns, influencer engagement, or digital outreach aimed at the public. DCGI Rajeev Singh Raghuvanshi warned that promotional activities exaggerating weight-loss outcomes would be treated as misleading marketing and could attract regulatory action. Separately, the Delhi High Court sought responses from CDSCO and the central government on a contempt plea alleging non-compliance with earlier directions to assess off-label use of diabetes drugs like Ozempic for weight loss. The government has conducted inspections at 49 entities across India.",
-      "market": "india",
-      "category": "regulatory",
-      "timestamp": "2026-03-11",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Business Standard",
-          "title": "CDSCO asks drugmakers to stop GLP-1 obesity awareness ad campaigns",
-          "url": "https://www.business-standard.com/industry/news/cdsco-asks-drugmakers-to-stop-glp1-obesity-awareness-ad-campaigns-126031101287_1.html",
-          "date": "2026-03-11"
-        },
-        {
-          "publication": "Business Today",
-          "title": "Regulator warns pharma firms over promotion of obesity drugs",
-          "url": "https://www.businesstoday.in/industry/pharma/story/regulator-warns-pharma-firms-over-promotion-of-obesity-drugs-520189-2026-03-11",
-          "date": "2026-03-11"
-        },
-        {
-          "publication": "Business Standard",
-          "title": "Delhi HC seeks response from Centre, CDSCO over misuse of diabetes drugs",
-          "url": "https://www.business-standard.com/industry/news/delhi-hc-seeks-response-from-centre-cdsco-over-misuse-of-diabetes-drugs-126031701148_1.html",
-          "date": "2026-03-17"
-        },
-        {
-          "publication": "DrugsControl",
-          "title": "DCGI asks drugmakers to stop GLP-1 obesity awareness ad campaigns",
-          "url": "https://drugscontrol.org/news-detail.php?newsid=44445",
-          "date": "2026-03-11"
-        }
-      ],
-      "tags": ["cdsco", "dcgi", "regulation", "advertising-ban", "off-label", "india"]
-    },
-    {
-      "id": "story-006",
-      "headline": "Fortis Healthcare Expands Obesity Clinics Across India Amid GLP-1 Boom",
-      "summary": "Fortis Healthcare is aggressively expanding its network of dedicated obesity clinics across India, planning to open 13 new clinics within a year across Punjab, Rajasthan, Karnataka, Maharashtra, West Bengal, and Haryana, adding to five existing clinics in Delhi, Gurgaon, Mumbai, and Bengaluru. India's anti-obesity drug market has grown fivefold since 2021 to Rs 628 crore. Hospitals bundling GLP-1 drugs with diagnostic services and follow-up could earn up to Rs 110 million in annual revenue per facility. Apollo, Max, and other corporate chains are also building dedicated weight management services, as cardiologists, orthopedic surgeons, and pulmonologists increasingly prescribe GLP-1s beyond traditional endocrinology settings.",
-      "market": "india",
-      "category": "business",
-      "timestamp": "2026-03-15",
-      "importance": "medium",
-      "sources": [
-        {
-          "publication": "BW Healthcare World",
-          "title": "Fortis To Expand Obesity Clinics Across India Amid Rising Demand",
-          "url": "https://www.bwhealthcareworld.com/article/fortis-to-expand-obesity-clinics-across-india-amid-rising-demand-573240",
-          "date": "2026-03-15"
-        },
-        {
-          "publication": "Business Today",
-          "title": "Why 2026 could be the turning point for India's obesity drug market",
-          "url": "https://www.businesstoday.in/industry/pharma/story/why-2026-could-be-the-turning-point-for-indias-obesity-drug-market-508943-2025-12-31",
-          "date": "2025-12-31"
-        },
-        {
-          "publication": "Good Returns",
-          "title": "Generic Semaglutide India Price Drops Reshape Obesity Care",
-          "url": "https://www.goodreturns.in/news/india-generic-semaglutide-price-drops-obesity-care-landscape-011-1496153.html",
-          "date": "2026-03-21"
-        }
-      ],
-      "tags": ["fortis", "obesity-clinics", "hospitals", "india", "healthcare-services"]
-    },
-    {
-      "id": "story-007",
-      "headline": "Novo Nordisk Counters Indian Generics with Wegovy HD, Abbott Partnership, and Brand Strategy",
-      "summary": "Facing a tsunami of generic competition in India, Novo Nordisk has deployed a multi-pronged defense strategy. The company pre-emptively cut Wegovy prices by 37% in India, partnered with Abbott to distribute Ozempic (as Extensior) and Emcure for Wegovy (as Poviztra), and ruled out a direct price war, with India MD Vikrant Shrotriya stating it is 'a battle of science, not consumerisation.' On the eve of patent expiry, Novo secured US FDA approval for Wegovy HD (semaglutide 7.2mg), a higher-dose formulation delivering 20.7% mean weight loss -- a dose strength not covered by the standard Indian generic patents. Novo also announced 9,000 global job cuts as part of a broader restructuring targeting DKK 8 billion in annual savings.",
-      "market": "india",
-      "category": "business",
-      "timestamp": "2026-03-19",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "CNBC",
-          "title": "India is launching cheap weight-loss drugs -- but Novo Nordisk is betting its brands will stay on top",
-          "url": "https://www.cnbc.com/2026/03/23/novo-nordisk-cheap-weight-loss-drugs-india-generic-ozempic-wegovy-semaglutide.html",
-          "date": "2026-03-23"
-        },
-        {
-          "publication": "Business Standard",
-          "title": "Novo Nordisk rules out price war as semaglutide generics enter India",
-          "url": "https://www.business-standard.com/companies/news/novo-nordisk-rules-out-price-war-as-semaglutide-generics-enter-india-126031701136_1.html",
-          "date": "2026-03-17"
-        },
-        {
-          "publication": "Business Today",
-          "title": "Novo Nordisk gets US FDA approval for higher dose Wegovy, as India's generic Semaglutide war begins",
-          "url": "https://www.businesstoday.in/industry/pharma/story/novo-nordisk-gets-us-fda-approval-for-higher-dose-wegovy-as-indias-generic-semaglutide-war-begins-521670-2026-03-20",
-          "date": "2026-03-20"
-        },
-        {
-          "publication": "Benzinga",
-          "title": "India's Generic Wave Hits Ozempic And Wegovy As Prices Drop Sharply",
-          "url": "https://www.benzinga.com/news/health-care/26/03/51404013/india-generic-wave-hits-ozempic-wegovy-prices-drop",
-          "date": "2026-03-21"
-        }
-      ],
-      "tags": ["novo-nordisk", "wegovy-hd", "abbott", "brand-strategy", "india"]
-    },
-    {
-      "id": "story-008",
-      "headline": "Zydus-Lupin Sign Co-Marketing Deal to Expand Semaglutide Access in India",
-      "summary": "On March 17, 2026, Lupin and Zydus Lifesciences signed a licensing and supply agreement to co-market an innovative semaglutide injection (15mg/3ml) with a reusable pen device in India. Lupin gains semi-exclusive rights to market under brands Semanext and Livarise, while Zydus continues with SEMAGLYN, MASHEMA, and ALTERME. The deal combines Lupin's 10,000+ doctor distribution network with Zydus' development capabilities. Zydus has also partnered separately with Torrent Pharmaceuticals, while Eris tied up with Natco, reflecting a broader trend of strategic alliances as companies race to capture share in the rapidly expanding market.",
-      "market": "india",
-      "category": "business",
-      "timestamp": "2026-03-17",
-      "importance": "medium",
-      "sources": [
-        {
-          "publication": "Lupin (Press Release)",
-          "title": "Lupin and Zydus Sign Licensing Agreement for Co-marketing Innovative Semaglutide Injection in India",
-          "url": "https://www.lupin.com/media/press-releases/lupin-and-zydus-sign-licensing-agreement-for-co-marketing-innovative-semaglutide-injection-in-india",
-          "date": "2026-03-17"
-        },
-        {
-          "publication": "Business Standard",
-          "title": "Lupin, Zydus partner to co-market semaglutide injection in India",
-          "url": "https://www.business-standard.com/companies/news/lupin-zydus-partner-co-market-semaglutide-injection-india-126031700925_1.html",
-          "date": "2026-03-17"
-        },
-        {
-          "publication": "Business Today",
-          "title": "Pharma firms opt for partnerships as India's semaglutide market opens post patent expiry",
-          "url": "https://www.businesstoday.in/industry/pharma/story/pharma-firms-opt-for-partnerships-as-indias-semaglutide-market-opens-post-patent-expiry-521341-2026-03-19",
-          "date": "2026-03-19"
-        },
-        {
-          "publication": "Business Upturn",
-          "title": "India's Semaglutide battle: Zydus and Lupin to Co-market the blockbuster weight loss drug",
-          "url": "https://www.businessupturn.com/trade-policy/indias-semaglutide-battle-zydus-and-lupin-to-co-market-the-blockbuster-weight-loss-drug/5532/",
-          "date": "2026-03-17"
-        }
-      ],
-      "tags": ["zydus", "lupin", "co-marketing", "partnership", "semaglutide", "india"]
-    },
-    {
-      "id": "story-009",
-      "headline": "FDA Ramps Up Crackdown on Compounded GLP-1 Drugs with 55+ Warning Letters",
-      "summary": "The US FDA has intensified enforcement against compounded semaglutide after declaring the drug shortage resolved in February 2025. Despite wind-down deadlines, compounded GLP-1 prescriptions actually increased, with 80% now containing supplemental ingredients like B vitamins to circumvent rules. The FDA issued 55+ warning letters in September 2025 and an additional 30 to telehealth companies in February 2026, threatening legal action. FDA Commissioner Marty Makary declared a 'new era' of enforcement against misleading claims. A worldwide import alert was also launched to stop unverified GLP-1 active pharmaceutical ingredients, and Empower Pharmacy received its fourth warning letter for sterile-drug deficiencies.",
-      "market": "us",
-      "category": "regulatory",
-      "timestamp": "2026-03-03",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Fierce Pharma",
-          "title": "FDA ramps up crackdown on GLP-1 drug compounding with fresh batch of 30 warning letters",
-          "url": "https://www.fiercepharma.com/pharma/fda-ramps-crackdown-glp-1-drug-compounders-fresh-batch-30-warning-letters",
-          "date": "2026-03-03"
-        },
-        {
-          "publication": "Healthcare Brew",
-          "title": "Despite FDA crackdown, unapproved GLP-1s still threaten the industry",
-          "url": "https://www.healthcare-brew.com/stories/2026/03/23/fda-crackdown-unapproved-glp-1s",
-          "date": "2026-03-23"
-        },
-        {
-          "publication": "Spencer Fane",
-          "title": "Beyond the Headlines: FDA Warning Letters to GLP-1 Compounders",
-          "url": "https://www.spencerfane.com/insight/beyond-the-headlines-fda-warning-letters-to-glp-1-compounders/",
-          "date": "2026-02-20"
-        },
-        {
-          "publication": "Burr & Forman LLP",
-          "title": "The FDA Removes Semaglutide from the Drug Shortage List",
-          "url": "https://www.burr.com/newsroom/articles/the-fda-removes-semaglutide-from-the-drug-shortage-list",
-          "date": "2025-02-21"
-        }
-      ],
-      "tags": ["fda", "compounding", "semaglutide", "enforcement", "telehealth", "us"]
-    },
-    {
-      "id": "story-010",
-      "headline": "Novo Nordisk Reports 2025 Results: GLP-1 Sales Top DKK 230B but Growth Slows",
-      "summary": "Novo Nordisk's 2025 annual results showed Ozempic sales of DKK 127 billion (+10% CER) and obesity care revenue of DKK 82 billion (+31% CER), but growth notably decelerated through the year. Wegovy topped $3.1B in Q3 (up 18% YoY vs 67% in Q2) while Ozempic hit $4.7B (up just 3%). The company lowered its sales forecast three times in 2025, announced 9,000 job cuts under new CEO Maziar Mike Doustdar, and accepted the US government's IRA 'maximum fair price' for Wegovy, Ozempic, and Rybelsus effective 2027. Market cap plunged from $640B to $253B in 15 months as Eli Lilly's rival drugs gained ground.",
-      "market": "us",
-      "category": "business",
-      "timestamp": "2026-02-04",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Novo Nordisk",
-          "title": "Financial performance - Novo Nordisk Annual Report 2025",
-          "url": "https://annualreport.novonordisk.com/2025/strategic-aspirations/financial-performance.html",
-          "date": "2026-02-04"
-        },
-        {
-          "publication": "Fierce Pharma",
-          "title": "Novo Nordisk to lay off 9,000 workers as new CEO aims to save $1.3B per year by late 2026",
-          "url": "https://www.fiercepharma.com/pharma/novo-nordisk-lay-9000-workers-new-ceo-aims-save-13b-year-late-2026",
-          "date": "2026-02-04"
-        },
-        {
-          "publication": "CNBC",
-          "title": "Wegovy, Ozempic maker Novo Nordisk Q3 earnings; shares fall",
-          "url": "https://www.cnbc.com/2025/11/05/wegovy-ozempic-maker-novo-nordisk-q3-earnings.html",
-          "date": "2025-11-05"
-        },
-        {
-          "publication": "BioPharma Dive",
-          "title": "Novo narrows sales outlook as GLP-1 price cuts loom",
-          "url": "https://www.biopharmadive.com/news/novo-nordisk-3q-earnings-obesity-drug-sales-outlook/804727/",
-          "date": "2025-11-05"
-        }
-      ],
-      "tags": ["novo-nordisk", "earnings", "ozempic", "wegovy", "restructuring", "us"]
+      "tags": [
+        "natco-pharma",
+        "semaglutide",
+        "pricing",
+        "vial-format",
+        "india"
+      ]
     },
     {
       "id": "story-011",
@@ -560,7 +808,421 @@
           "date": "2025-10-15"
         }
       ],
-      "tags": ["eli-lilly", "orforglipron", "oral-glp1", "phase-3", "fda", "us"]
+      "tags": [
+        "eli-lilly",
+        "orforglipron",
+        "oral-glp1",
+        "phase-3",
+        "fda",
+        "us"
+      ]
+    },
+    {
+      "id": "story-007",
+      "headline": "Novo Nordisk Counters Indian Generics with Wegovy HD, Abbott Partnership, and Brand Strategy",
+      "summary": "Facing a tsunami of generic competition in India, Novo Nordisk has deployed a multi-pronged defense strategy. The company pre-emptively cut Wegovy prices by 37% in India, partnered with Abbott to distribute Ozempic (as Extensior) and Emcure for Wegovy (as Poviztra), and ruled out a direct price war, with India MD Vikrant Shrotriya stating it is 'a battle of science, not consumerisation.' On the eve of patent expiry, Novo secured US FDA approval for Wegovy HD (semaglutide 7.2mg), a higher-dose formulation delivering 20.7% mean weight loss -- a dose strength not covered by the standard Indian generic patents. Novo also announced 9,000 global job cuts as part of a broader restructuring targeting DKK 8 billion in annual savings.",
+      "market": "india",
+      "category": "business",
+      "timestamp": "2026-03-19",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "CNBC",
+          "title": "India is launching cheap weight-loss drugs -- but Novo Nordisk is betting its brands will stay on top",
+          "url": "https://www.cnbc.com/2026/03/23/novo-nordisk-cheap-weight-loss-drugs-india-generic-ozempic-wegovy-semaglutide.html",
+          "date": "2026-03-23"
+        },
+        {
+          "publication": "Business Standard",
+          "title": "Novo Nordisk rules out price war as semaglutide generics enter India",
+          "url": "https://www.business-standard.com/companies/news/novo-nordisk-rules-out-price-war-as-semaglutide-generics-enter-india-126031701136_1.html",
+          "date": "2026-03-17"
+        },
+        {
+          "publication": "Business Today",
+          "title": "Novo Nordisk gets US FDA approval for higher dose Wegovy, as India's generic Semaglutide war begins",
+          "url": "https://www.businesstoday.in/industry/pharma/story/novo-nordisk-gets-us-fda-approval-for-higher-dose-wegovy-as-indias-generic-semaglutide-war-begins-521670-2026-03-20",
+          "date": "2026-03-20"
+        },
+        {
+          "publication": "Benzinga",
+          "title": "India's Generic Wave Hits Ozempic And Wegovy As Prices Drop Sharply",
+          "url": "https://www.benzinga.com/news/health-care/26/03/51404013/india-generic-wave-hits-ozempic-wegovy-prices-drop",
+          "date": "2026-03-21"
+        }
+      ],
+      "tags": [
+        "novo-nordisk",
+        "wegovy-hd",
+        "abbott",
+        "brand-strategy",
+        "india"
+      ]
+    },
+    {
+      "id": "story-008",
+      "headline": "Zydus-Lupin Sign Co-Marketing Deal to Expand Semaglutide Access in India",
+      "summary": "On March 17, 2026, Lupin and Zydus Lifesciences signed a licensing and supply agreement to co-market an innovative semaglutide injection (15mg/3ml) with a reusable pen device in India. Lupin gains semi-exclusive rights to market under brands Semanext and Livarise, while Zydus continues with SEMAGLYN, MASHEMA, and ALTERME. The deal combines Lupin's 10,000+ doctor distribution network with Zydus' development capabilities. Zydus has also partnered separately with Torrent Pharmaceuticals, while Eris tied up with Natco, reflecting a broader trend of strategic alliances as companies race to capture share in the rapidly expanding market.",
+      "market": "india",
+      "category": "business",
+      "timestamp": "2026-03-17",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Lupin (Press Release)",
+          "title": "Lupin and Zydus Sign Licensing Agreement for Co-marketing Innovative Semaglutide Injection in India",
+          "url": "https://www.lupin.com/media/press-releases/lupin-and-zydus-sign-licensing-agreement-for-co-marketing-innovative-semaglutide-injection-in-india",
+          "date": "2026-03-17"
+        },
+        {
+          "publication": "Business Standard",
+          "title": "Lupin, Zydus partner to co-market semaglutide injection in India",
+          "url": "https://www.business-standard.com/companies/news/lupin-zydus-partner-co-market-semaglutide-injection-india-126031700925_1.html",
+          "date": "2026-03-17"
+        },
+        {
+          "publication": "Business Today",
+          "title": "Pharma firms opt for partnerships as India's semaglutide market opens post patent expiry",
+          "url": "https://www.businesstoday.in/industry/pharma/story/pharma-firms-opt-for-partnerships-as-indias-semaglutide-market-opens-post-patent-expiry-521341-2026-03-19",
+          "date": "2026-03-19"
+        },
+        {
+          "publication": "Business Upturn",
+          "title": "India's Semaglutide battle: Zydus and Lupin to Co-market the blockbuster weight loss drug",
+          "url": "https://www.businessupturn.com/trade-policy/indias-semaglutide-battle-zydus-and-lupin-to-co-market-the-blockbuster-weight-loss-drug/5532/",
+          "date": "2026-03-17"
+        }
+      ],
+      "tags": [
+        "zydus",
+        "lupin",
+        "co-marketing",
+        "partnership",
+        "semaglutide",
+        "india"
+      ]
+    },
+    {
+      "id": "story-006",
+      "headline": "Fortis Healthcare Expands Obesity Clinics Across India Amid GLP-1 Boom",
+      "summary": "Fortis Healthcare is aggressively expanding its network of dedicated obesity clinics across India, planning to open 13 new clinics within a year across Punjab, Rajasthan, Karnataka, Maharashtra, West Bengal, and Haryana, adding to five existing clinics in Delhi, Gurgaon, Mumbai, and Bengaluru. India's anti-obesity drug market has grown fivefold since 2021 to Rs 628 crore. Hospitals bundling GLP-1 drugs with diagnostic services and follow-up could earn up to Rs 110 million in annual revenue per facility. Apollo, Max, and other corporate chains are also building dedicated weight management services, as cardiologists, orthopedic surgeons, and pulmonologists increasingly prescribe GLP-1s beyond traditional endocrinology settings.",
+      "market": "india",
+      "category": "business",
+      "timestamp": "2026-03-15",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "BW Healthcare World",
+          "title": "Fortis To Expand Obesity Clinics Across India Amid Rising Demand",
+          "url": "https://www.bwhealthcareworld.com/article/fortis-to-expand-obesity-clinics-across-india-amid-rising-demand-573240",
+          "date": "2026-03-15"
+        },
+        {
+          "publication": "Business Today",
+          "title": "Why 2026 could be the turning point for India's obesity drug market",
+          "url": "https://www.businesstoday.in/industry/pharma/story/why-2026-could-be-the-turning-point-for-indias-obesity-drug-market-508943-2025-12-31",
+          "date": "2025-12-31"
+        },
+        {
+          "publication": "Good Returns",
+          "title": "Generic Semaglutide India Price Drops Reshape Obesity Care",
+          "url": "https://www.goodreturns.in/news/india-generic-semaglutide-price-drops-obesity-care-landscape-011-1496153.html",
+          "date": "2026-03-21"
+        }
+      ],
+      "tags": [
+        "fortis",
+        "obesity-clinics",
+        "hospitals",
+        "india",
+        "healthcare-services"
+      ]
+    },
+    {
+      "id": "story-018",
+      "headline": "FDA Issues Warning to Novo Nordisk for Unreported Semaglutide Deaths and Suicide",
+      "summary": "The FDA issued a formal warning letter to Novo Nordisk on March 5, 2026, citing serious violations in post-marketing adverse event reporting for semaglutide. Three patient deaths — including one suicide — were not reported within the mandatory 15-day window. The FDA called these systemic failures affecting Novo's entire product portfolio, as the company also faces a 5-13% revenue decline forecast for 2026 and a 11% workforce reduction.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-03-12",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "FDA",
+          "title": "Warning Letter: Novo Nordisk Inc. 717576 — 03/05/2026",
+          "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/novo-nordisk-inc-717576-03052026",
+          "date": "2026-03-05"
+        },
+        {
+          "publication": "Pharmaceutical Technology",
+          "title": "FDA issues warning to Novo Nordisk on unreported semaglutide safety events",
+          "url": "https://www.pharmaceutical-technology.com/news/novo-nordisk-fda-warning-letter-semaglutide-adverse-event-reporting/",
+          "date": "2026-03-12"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "Novo Hit With FDA Warning Letter for Unreported Ozempic Safety Signals",
+          "url": "https://www.biospace.com/fda/novo-hit-with-fda-warning-letter-for-unreported-ozempic-safety-signals",
+          "date": "2026-03-12"
+        },
+        {
+          "publication": "CBS News",
+          "title": "FDA warns Novo Nordisk over unreported potential Ozempic side effects",
+          "url": "https://www.cbsnews.com/news/fda-warns-novo-nordisk-unreported-potential-ozempic-side-effects/",
+          "date": "2026-03-12"
+        }
+      ],
+      "tags": [
+        "safety",
+        "fda",
+        "novo-nordisk",
+        "warning-letter",
+        "adverse-events",
+        "us"
+      ]
+    },
+    {
+      "id": "story-022",
+      "headline": "Cleveland Clinic Study: Stopping GLP-1 Drugs Does Not Cause Significant Weight Regain When Patients Use Lifestyle Interventions",
+      "summary": "A real-world analysis of ~8,000 patients from Cleveland Clinic published March 12, 2026 challenges the conventional narrative that stopping GLP-1 drugs inevitably leads to major weight regain. Patients who discontinued GLP-1 therapy and subsequently adopted lifestyle interventions or alternative therapies regained only 0.5% of body weight on average at 1 year, compared to their pre-discontinuation loss of 8.4%. The study suggests the 'yo-yo effect' may be more manageable than feared, and that structured follow-up after discontinuation can preserve most gains. This has significant implications for insurance coverage discussions and treatment planning.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-03-12",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Cleveland Clinic Newsroom",
+          "title": "What Happens When Patients Stop Taking GLP-1 Drugs? New Cleveland Clinic Study Reveals Real-World Insights",
+          "url": "https://newsroom.clevelandclinic.org/2026/03/12/what-happens-when-patients-stop-taking-glp-1-drugs-new-cleveland-clinic-study-reveals-real-world-insights",
+          "date": "2026-03-12"
+        }
+      ],
+      "tags": [
+        "discontinuation",
+        "weight-regain",
+        "real-world-evidence",
+        "cleveland-clinic",
+        "lifestyle",
+        "us"
+      ]
+    },
+    {
+      "id": "story-005",
+      "headline": "CDSCO Bans GLP-1 Advertising, Delhi HC Flags Off-Label Weight Loss Use",
+      "summary": "India's drug regulator CDSCO issued a sweeping advisory prohibiting pharmaceutical companies from advertising GLP-1 receptor agonists through surrogate advertising, disease-awareness campaigns, influencer engagement, or digital outreach aimed at the public. DCGI Rajeev Singh Raghuvanshi warned that promotional activities exaggerating weight-loss outcomes would be treated as misleading marketing and could attract regulatory action. Separately, the Delhi High Court sought responses from CDSCO and the central government on a contempt plea alleging non-compliance with earlier directions to assess off-label use of diabetes drugs like Ozempic for weight loss. The government has conducted inspections at 49 entities across India.",
+      "market": "india",
+      "category": "regulatory",
+      "timestamp": "2026-03-11",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Business Standard",
+          "title": "CDSCO asks drugmakers to stop GLP-1 obesity awareness ad campaigns",
+          "url": "https://www.business-standard.com/industry/news/cdsco-asks-drugmakers-to-stop-glp1-obesity-awareness-ad-campaigns-126031101287_1.html",
+          "date": "2026-03-11"
+        },
+        {
+          "publication": "Business Today",
+          "title": "Regulator warns pharma firms over promotion of obesity drugs",
+          "url": "https://www.businesstoday.in/industry/pharma/story/regulator-warns-pharma-firms-over-promotion-of-obesity-drugs-520189-2026-03-11",
+          "date": "2026-03-11"
+        },
+        {
+          "publication": "Business Standard",
+          "title": "Delhi HC seeks response from Centre, CDSCO over misuse of diabetes drugs",
+          "url": "https://www.business-standard.com/industry/news/delhi-hc-seeks-response-from-centre-cdsco-over-misuse-of-diabetes-drugs-126031701148_1.html",
+          "date": "2026-03-17"
+        },
+        {
+          "publication": "DrugsControl",
+          "title": "DCGI asks drugmakers to stop GLP-1 obesity awareness ad campaigns",
+          "url": "https://drugscontrol.org/news-detail.php?newsid=44445",
+          "date": "2026-03-11"
+        }
+      ],
+      "tags": [
+        "cdsco",
+        "dcgi",
+        "regulation",
+        "advertising-ban",
+        "off-label",
+        "india"
+      ]
+    },
+    {
+      "id": "story-027",
+      "headline": "Hims & Hers and Novo Nordisk Settle Lawsuit Over Compounded Semaglutide",
+      "summary": "Hims & Hers Health and Novo Nordisk reached a confidential settlement in March 2026, resolving a lawsuit Novo filed after Hims & Hers continued marketing compounded semaglutide products despite FDA shortage declarations being lifted in February 2025. The telehealth company had been one of the most aggressive distributors of compounded GLP-1s, reportedly generating over $225 million in quarterly revenues from its semaglutide program. Terms of the settlement were not disclosed but the agreement effectively ended Hims & Hers' compounded semaglutide business in the US. The settlement is viewed as a landmark enforcement signal to the broader telehealth-compounder ecosystem.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-03-09",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Frier Levitt",
+          "title": "Novo Nordisk and Hims & Hers Reach Settlement Over Compounded Semaglutide",
+          "url": "https://frierlevitt.com/articles/novo-nordisk-hims-hers-settlement-compounded-semaglutide/",
+          "date": "2026-03-09"
+        }
+      ],
+      "tags": [
+        "hims-hers",
+        "novo-nordisk",
+        "settlement",
+        "compounding",
+        "telehealth",
+        "us"
+      ]
+    },
+    {
+      "id": "story-009",
+      "headline": "FDA Ramps Up Crackdown on Compounded GLP-1 Drugs with 55+ Warning Letters",
+      "summary": "The US FDA has intensified enforcement against compounded semaglutide after declaring the drug shortage resolved in February 2025. Despite wind-down deadlines, compounded GLP-1 prescriptions actually increased, with 80% now containing supplemental ingredients like B vitamins to circumvent rules. The FDA issued 55+ warning letters in September 2025 and an additional 30 to telehealth companies in February 2026, threatening legal action. FDA Commissioner Marty Makary declared a 'new era' of enforcement against misleading claims. A worldwide import alert was also launched to stop unverified GLP-1 active pharmaceutical ingredients, and Empower Pharmacy received its fourth warning letter for sterile-drug deficiencies.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-03-03",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Fierce Pharma",
+          "title": "FDA ramps up crackdown on GLP-1 drug compounding with fresh batch of 30 warning letters",
+          "url": "https://www.fiercepharma.com/pharma/fda-ramps-crackdown-glp-1-drug-compounders-fresh-batch-30-warning-letters",
+          "date": "2026-03-03"
+        },
+        {
+          "publication": "Healthcare Brew",
+          "title": "Despite FDA crackdown, unapproved GLP-1s still threaten the industry",
+          "url": "https://www.healthcare-brew.com/stories/2026/03/23/fda-crackdown-unapproved-glp-1s",
+          "date": "2026-03-23"
+        },
+        {
+          "publication": "Spencer Fane",
+          "title": "Beyond the Headlines: FDA Warning Letters to GLP-1 Compounders",
+          "url": "https://www.spencerfane.com/insight/beyond-the-headlines-fda-warning-letters-to-glp-1-compounders/",
+          "date": "2026-02-20"
+        },
+        {
+          "publication": "Burr & Forman LLP",
+          "title": "The FDA Removes Semaglutide from the Drug Shortage List",
+          "url": "https://www.burr.com/newsroom/articles/the-fda-removes-semaglutide-from-the-drug-shortage-list",
+          "date": "2025-02-21"
+        }
+      ],
+      "tags": [
+        "fda",
+        "compounding",
+        "semaglutide",
+        "enforcement",
+        "telehealth",
+        "us"
+      ]
+    },
+    {
+      "id": "story-019",
+      "headline": "Eli Lilly Claims 60.5% US GLP-1 Market Share as Novo Nordisk Warns of 5-13% Revenue Decline",
+      "summary": "Eli Lilly's Q4 2025 results showed Mounjaro + Zepbound combined $11.7 billion in the quarter alone, with 2026 guidance of $80-83 billion — a 25% growth year. Lilly's US GLP-1 market share climbed to 60.5%, while Novo's fell to 39.1%. Novo Nordisk warned of a 5-13% revenue decline in 2026 due to price cuts, IRA negotiations, and exclusivity losses in emerging markets. The divergence marks a decisive shift in the GLP-1 leadership race.",
+      "market": "us",
+      "category": "business",
+      "timestamp": "2026-02-04",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "CNBC",
+          "title": "Eli Lilly's GLP-1 growth is only getting started as Novo Nordisk braces for a decline in 2026",
+          "url": "https://www.cnbc.com/2026/02/04/eli-lilly-novo-nordisk-earnings-glp1-market.html",
+          "date": "2026-02-04"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "Eli Lilly Delivers Knockout Blow To Novo For 2025",
+          "url": "https://seekingalpha.com/article/4865695-eli-lilly-delivers-knockout-blow-to-novo-for-2025",
+          "date": "2026-02-04"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "Lilly's Path to $94B in Revenue Rests on Oral Obesity Market and Other 2026 Milestones",
+          "url": "https://www.biospace.com/business/lillys-path-to-94b-in-revenue-rests-on-oral-obesity-market-and-other-2026-milestones",
+          "date": "2026-02-05"
+        }
+      ],
+      "tags": [
+        "business",
+        "eli-lilly",
+        "novo-nordisk",
+        "earnings",
+        "market-share",
+        "us"
+      ]
+    },
+    {
+      "id": "story-010",
+      "headline": "Novo Nordisk Reports 2025 Results: GLP-1 Sales Top DKK 230B but Growth Slows",
+      "summary": "Novo Nordisk's 2025 annual results showed Ozempic sales of DKK 127 billion (+10% CER) and obesity care revenue of DKK 82 billion (+31% CER), but growth notably decelerated through the year. Wegovy topped $3.1B in Q3 (up 18% YoY vs 67% in Q2) while Ozempic hit $4.7B (up just 3%). The company lowered its sales forecast three times in 2025, announced 9,000 job cuts under new CEO Maziar Mike Doustdar, and accepted the US government's IRA 'maximum fair price' for Wegovy, Ozempic, and Rybelsus effective 2027. Market cap plunged from $640B to $253B in 15 months as Eli Lilly's rival drugs gained ground.",
+      "market": "us",
+      "category": "business",
+      "timestamp": "2026-02-04",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Novo Nordisk",
+          "title": "Financial performance - Novo Nordisk Annual Report 2025",
+          "url": "https://annualreport.novonordisk.com/2025/strategic-aspirations/financial-performance.html",
+          "date": "2026-02-04"
+        },
+        {
+          "publication": "Fierce Pharma",
+          "title": "Novo Nordisk to lay off 9,000 workers as new CEO aims to save $1.3B per year by late 2026",
+          "url": "https://www.fiercepharma.com/pharma/novo-nordisk-lay-9000-workers-new-ceo-aims-save-13b-year-late-2026",
+          "date": "2026-02-04"
+        },
+        {
+          "publication": "CNBC",
+          "title": "Wegovy, Ozempic maker Novo Nordisk Q3 earnings; shares fall",
+          "url": "https://www.cnbc.com/2025/11/05/wegovy-ozempic-maker-novo-nordisk-q3-earnings.html",
+          "date": "2025-11-05"
+        },
+        {
+          "publication": "BioPharma Dive",
+          "title": "Novo narrows sales outlook as GLP-1 price cuts loom",
+          "url": "https://www.biopharmadive.com/news/novo-nordisk-3q-earnings-obesity-drug-sales-outlook/804727/",
+          "date": "2025-11-05"
+        }
+      ],
+      "tags": [
+        "novo-nordisk",
+        "earnings",
+        "ozempic",
+        "wegovy",
+        "restructuring",
+        "us"
+      ]
+    },
+    {
+      "id": "story-028",
+      "headline": "Survodutide Phase 3 SYNCHRONIZE-2 Trial: New Entrant in GLP-1/Glucagon Dual Agonist Race",
+      "summary": "Boehringer Ingelheim's survodutide, a dual GLP-1/glucagon receptor agonist (GcgR/GLP-1R), entered Phase 3 trials in SYNCHRONIZE-2 as of early 2026. Phase 2 data showed 14.9% weight loss at 46 weeks — competitive with semaglutide's Phase 2 results. Unlike tirzepatide (GIP/GLP-1), survodutide's glucagon agonism drives stronger energy expenditure and potentially better hepatic fat reduction, making it differentiated for MASH (metabolic-associated steatohepatitis). If Phase 3 succeeds, survodutide could become the first GLP-1/glucagon dual agonist on market by 2028-2029 and challenge Lilly's tirzepatide in obesity and liver disease.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-01-15",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Diabetes, Obesity and Metabolism (Wiley)",
+          "title": "SYNCHRONIZE-2: A Phase 3 Randomized Trial of Survodutide for Obesity",
+          "url": "https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.16271",
+          "date": "2026-01-15"
+        }
+      ],
+      "tags": [
+        "survodutide",
+        "boehringer-ingelheim",
+        "phase-3",
+        "clinical-trial",
+        "glp-1",
+        "glucagon",
+        "mash",
+        "us"
+      ]
     },
     {
       "id": "story-012",
@@ -596,7 +1258,14 @@
           "date": "2026-01-13"
         }
       ],
-      "tags": ["medicare", "glp-1-coverage", "balance-model", "cms", "pricing", "us"]
+      "tags": [
+        "medicare",
+        "glp-1-coverage",
+        "balance-model",
+        "cms",
+        "pricing",
+        "us"
+      ]
     },
     {
       "id": "story-013",
@@ -632,7 +1301,14 @@
           "date": "2026-03-20"
         }
       ],
-      "tags": ["eli-lilly", "retatrutide", "triple-agonist", "phase-3", "weight-loss", "us"]
+      "tags": [
+        "eli-lilly",
+        "retatrutide",
+        "triple-agonist",
+        "phase-3",
+        "weight-loss",
+        "us"
+      ]
     },
     {
       "id": "story-014",
@@ -668,7 +1344,13 @@
           "date": "2025-09-05"
         }
       ],
-      "tags": ["who", "essential-medicines", "obesity-guideline", "global-access", "glp-1"]
+      "tags": [
+        "who",
+        "essential-medicines",
+        "obesity-guideline",
+        "global-access",
+        "glp-1"
+      ]
     },
     {
       "id": "story-015",
@@ -704,406 +1386,16 @@
           "date": "2025-03-29"
         }
       ],
-      "tags": ["nejm", "lancet", "soul-trial", "cagrisema", "select", "clinical-evidence"]
+      "tags": [
+        "nejm",
+        "lancet",
+        "soul-trial",
+        "cagrisema",
+        "select",
+        "clinical-evidence"
+      ]
     }
   ],
   "entries": [],
-  "recent_additions": [
-    {
-      "id": "story-021",
-      "headline": "BioNxt Advances Semaglutide as First Application of Broad GLP-1 Oral Dissolving Film Platform",
-      "summary": "BioNxt Solutions announced on March 30, 2026 that semaglutide is the inaugural molecule for its new oral dissolving film (ODF) drug delivery platform. The company plans to expand the platform to tirzepatide, liraglutide, and other GLP-1 receptor agonists. The ODF format aims to address the limitations of current injectable and oral pill formats, potentially offering improved bioavailability, convenience, and patient adherence compared to existing formulations.",
-      "market": "us",
-      "category": "clinical",
-      "timestamp": "2026-03-30",
-      "importance": "medium",
-      "sources": [
-        {
-          "publication": "PharmiWeb",
-          "title": "BioNxt Advances Semaglutide as First Application of Broad GLP-1 ODF Platform Strategy",
-          "url": "https://www.pharmiweb.com/press-release/2026-03-30/bionxt-advances-semaglutide-as-first-application-of-broad-glp-1-odf-platform-strategy",
-          "date": "2026-03-30"
-        }
-      ],
-      "tags": ["bionxt", "oral-dissolving-film", "semaglutide", "drug-delivery", "innovation", "us"]
-    },
-    {
-      "id": "story-022",
-      "headline": "Cleveland Clinic Study: Stopping GLP-1 Drugs Does Not Cause Significant Weight Regain When Patients Use Lifestyle Interventions",
-      "summary": "A real-world analysis of ~8,000 patients from Cleveland Clinic published March 12, 2026 challenges the conventional narrative that stopping GLP-1 drugs inevitably leads to major weight regain. Patients who discontinued GLP-1 therapy and subsequently adopted lifestyle interventions or alternative therapies regained only 0.5% of body weight on average at 1 year, compared to their pre-discontinuation loss of 8.4%. The study suggests the 'yo-yo effect' may be more manageable than feared, and that structured follow-up after discontinuation can preserve most gains. This has significant implications for insurance coverage discussions and treatment planning.",
-      "market": "us",
-      "category": "clinical",
-      "timestamp": "2026-03-12",
-      "importance": "medium",
-      "sources": [
-        {
-          "publication": "Cleveland Clinic Newsroom",
-          "title": "What Happens When Patients Stop Taking GLP-1 Drugs? New Cleveland Clinic Study Reveals Real-World Insights",
-          "url": "https://newsroom.clevelandclinic.org/2026/03/12/what-happens-when-patients-stop-taking-glp-1-drugs-new-cleveland-clinic-study-reveals-real-world-insights",
-          "date": "2026-03-12"
-        }
-      ],
-      "tags": ["discontinuation", "weight-regain", "real-world-evidence", "cleveland-clinic", "lifestyle", "us"]
-    },
-    {
-      "id": "story-023",
-      "headline": "Compounded GLP-1s Show Higher Adverse Event Rates vs. FDA-Approved Formulations in FAERS Pharmacovigilance Study",
-      "summary": "A March 2026 pharmacovigilance study published in PubMed analyzed FDA FAERS reports from 2018-2024 comparing compounded GLP-1 formulations against FDA-approved branded products. Compounded GLP-1s were associated with significantly higher rates of abdominal pain, nausea, diarrhea, gallbladder inflammation, suicidality reports, and prescribing errors compared to branded semaglutide and tirzepatide. The study is the first systematic FAERS comparison between compounded and FDA-approved GLP-1 formulations and strengthens the FDA's regulatory rationale for enforcement actions against compounding pharmacies. The findings are particularly relevant as millions of patients in India begin generic semaglutide therapy outside the specialist supervision common with innovator prescriptions.",
-      "market": "us",
-      "category": "safety",
-      "timestamp": "2026-03-31",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "PubMed / FAERS Analysis",
-          "title": "Pharmacovigilance study comparing compounded vs. FDA-approved GLP-1 receptor agonist adverse events (2018-2024)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/40285721/",
-          "date": "2026-03-31"
-        }
-      ],
-      "tags": ["compounding", "safety", "faers", "pharmacovigilance", "adverse-events", "fda", "us"]
-    },
-    {
-      "id": "story-024",
-      "headline": "ACC 2026: Tirzepatide Shows 16% Lower Cardiorenal Risk vs. Dulaglutide in 13,000-Patient SURPASS-CVOT Analysis",
-      "summary": "A post hoc analysis of the SURPASS-CVOT trial presented at the American College of Cardiology Annual Meeting on March 28, 2026 (New Orleans) and simultaneously published in JAMA Cardiology found tirzepatide reduced a six-point composite cardiorenal endpoint by 16% compared to dulaglutide (23.7% vs 27.4%, statistically significant) in over 13,000 patients with type 2 diabetes and established cardiovascular disease followed for nearly four years. Tirzepatide showed lower risk of all-cause mortality (HR 0.84), coronary revascularization (HR 0.84), and adverse kidney outcomes (HR 0.79). The narrow MACE endpoint (heart attack, stroke, cardiovascular death) was numerically but not statistically superior. Gastrointestinal adverse events were more common with tirzepatide (42.5% vs 35.9%). The study was funded by Eli Lilly and strengthens the case for tirzepatide over GLP-1 monotherapy in high-CV-risk patients.",
-      "market": "us",
-      "category": "clinical",
-      "timestamp": "2026-03-28",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Cleveland Clinic Newsroom",
-          "title": "Tirzepatide Associated with Lower Risk of Heart and Kidney Damage Compared to Dulaglutide in Patients with Type 2 Diabetes and Cardiovascular Disease",
-          "url": "https://newsroom.clevelandclinic.org/2026/03/28/tirzepatide-associated-with-lower-risk-of-heart-and-kidney-damage-compared-to-dulaglutide-in-patients-with-type-2-diabetes-and-cardiovascular-disease",
-          "date": "2026-03-28"
-        },
-        {
-          "publication": "Healio",
-          "title": "Tirzepatide bests dulaglutide for lowering cardiorenal risk",
-          "url": "https://www.healio.com/news/cardiology/20260328/tirzepatide-bests-dulaglutide-for-loweringcardiorenal-risk",
-          "date": "2026-03-28"
-        },
-        {
-          "publication": "PubMed / JAMA Cardiology",
-          "title": "Cardiorenal Outcomes With Tirzepatide Compared With Dulaglutide in Patients With Diabetes and Cardiovascular Disease: A Post Hoc Analysis of the SURPASS-CVOT Randomized Clinical Trial",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41903177/",
-          "date": "2026-03-28"
-        }
-      ],
-      "tags": ["tirzepatide", "dulaglutide", "surpass-cvot", "cardiorenal", "acc-2026", "eli-lilly", "clinical-trial", "us"]
-    },
-    {
-      "id": "story-026",
-      "headline": "IMA Warns Against GLP-1 Self-Medication as Generic Wave Hits India",
-      "summary": "The Indian Medical Association issued a nationwide advisory on March 30, 2026, urging patients not to self-prescribe generic semaglutide products despite the dramatic price drop following patent expiry. IMA President Dr. R.V. Asokan warned that GLP-1 drugs carry serious risks including pancreatitis, gallbladder disease, thyroid tumours, and cardiovascular complications when used without medical supervision. The advisory comes as over 50 branded generics flooded the market within 10 days of patent expiry, with prices as low as ₹1,290/month making the drug accessible to millions for the first time. IMA called on pharmacies to enforce prescription requirements strictly.",
-      "market": "india",
-      "category": "regulatory",
-      "timestamp": "2026-03-30",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "ANI",
-          "title": "IMA warns against self-medication with GLP-1 drugs as generic versions flood Indian market",
-          "url": "https://www.aninews.in/news/health/ima-warns-against-self-medication-with-glp-1-drugs-as-generic-versions-flood-indian-market20260330",
-          "date": "2026-03-30"
-        }
-      ],
-      "tags": ["ima", "self-medication", "regulatory", "india", "semaglutide", "safety"]
-    },
-    {
-      "id": "story-027",
-      "headline": "Hims & Hers and Novo Nordisk Settle Lawsuit Over Compounded Semaglutide",
-      "summary": "Hims & Hers Health and Novo Nordisk reached a confidential settlement in March 2026, resolving a lawsuit Novo filed after Hims & Hers continued marketing compounded semaglutide products despite FDA shortage declarations being lifted in February 2025. The telehealth company had been one of the most aggressive distributors of compounded GLP-1s, reportedly generating over $225 million in quarterly revenues from its semaglutide program. Terms of the settlement were not disclosed but the agreement effectively ended Hims & Hers' compounded semaglutide business in the US. The settlement is viewed as a landmark enforcement signal to the broader telehealth-compounder ecosystem.",
-      "market": "us",
-      "category": "regulatory",
-      "timestamp": "2026-03-09",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Frier Levitt",
-          "title": "Novo Nordisk and Hims & Hers Reach Settlement Over Compounded Semaglutide",
-          "url": "https://frierlevitt.com/articles/novo-nordisk-hims-hers-settlement-compounded-semaglutide/",
-          "date": "2026-03-09"
-        }
-      ],
-      "tags": ["hims-hers", "novo-nordisk", "settlement", "compounding", "telehealth", "us"]
-    },
-    {
-      "id": "story-028",
-      "headline": "Survodutide Phase 3 SYNCHRONIZE-2 Trial: New Entrant in GLP-1/Glucagon Dual Agonist Race",
-      "summary": "Boehringer Ingelheim's survodutide, a dual GLP-1/glucagon receptor agonist (GcgR/GLP-1R), entered Phase 3 trials in SYNCHRONIZE-2 as of early 2026. Phase 2 data showed 14.9% weight loss at 46 weeks — competitive with semaglutide's Phase 2 results. Unlike tirzepatide (GIP/GLP-1), survodutide's glucagon agonism drives stronger energy expenditure and potentially better hepatic fat reduction, making it differentiated for MASH (metabolic-associated steatohepatitis). If Phase 3 succeeds, survodutide could become the first GLP-1/glucagon dual agonist on market by 2028-2029 and challenge Lilly's tirzepatide in obesity and liver disease.",
-      "market": "us",
-      "category": "clinical",
-      "timestamp": "2026-01-15",
-      "importance": "medium",
-      "sources": [
-        {
-          "publication": "Diabetes, Obesity and Metabolism (Wiley)",
-          "title": "SYNCHRONIZE-2: A Phase 3 Randomized Trial of Survodutide for Obesity",
-          "url": "https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.16271",
-          "date": "2026-01-15"
-        }
-      ],
-      "tags": ["survodutide", "boehringer-ingelheim", "phase-3", "clinical-trial", "glp-1", "glucagon", "mash", "us"]
-    },
-    {
-      "id": "story-025",
-      "headline": "Hetero Launches Generic Semaglutide (Truglyx, Rolmodl, Moto G) Across 75+ Countries",
-      "summary": "Hyderabad-based Hetero announced on March 28, 2026 the global export launch of three branded generic semaglutide products — Truglyx, Rolmodl, and Moto G — targeting more than 75 countries across Africa, Asia, and the Middle East in its initial rollout. This positions Hetero as one of the most internationally aggressive Indian generic entrants in the post-patent semaglutide market. The launch complements a broader India generic wave following semaglutide patent expiry on March 20, 2026, and adds to the 10+ Indian manufacturers who have already launched domestically. Hetero's multi-brand, multi-country strategy mirrors Dr. Reddy's 87-country ambitions and signals Indian pharma's intent to dominate global generic GLP-1 supply in markets where patents have lapsed.",
-      "market": "india",
-      "category": "launch",
-      "timestamp": "2026-03-28",
-      "importance": "medium",
-      "sources": [
-        {
-          "publication": "Medical Dialogues",
-          "title": "Hetero Launches Generic Semaglutide Brands Truglyx, Rolmodl, Moto G Across 75+ Countries",
-          "url": "https://medicaldialogues.in/news/industry/pharma/hetero-launches-generic-semaglutide-brands-truglyx-rolmodl-moto-g-across-75-countries-167525",
-          "date": "2026-03-28"
-        }
-      ],
-      "tags": ["hetero", "semaglutide", "generic-launch", "global-export", "india", "africa", "asia", "truglyx"]
-    },
-    {
-      "id": "story-029",
-      "headline": "FDA Approves Eli Lilly's Foundayo (Orforglipron): First Oral Non-Peptide GLP-1 Pill Cleared for Obesity",
-      "summary": "The FDA approved Eli Lilly's orforglipron (brand name Foundayo) on April 1, 2026, making it the first oral non-peptide small-molecule GLP-1 receptor agonist approved for chronic weight management. Unlike oral semaglutide (Rybelsus), Foundayo has no food or water restrictions and can be taken at any time of day — a significant convenience advantage. The ATTAIN-1 Phase 3 trial showed 27.3 lbs average weight loss at 72 weeks. Self-pay pricing starts at $149/month; $25/month with commercial insurance; $50/month under Medicare Part D from July 2026. Retail pharmacy and telehealth launches began April 6, 2026. The approval marks a pivotal competitive blow to Novo Nordisk's semaglutide franchise.",
-      "market": "us",
-      "category": "regulatory",
-      "timestamp": "2026-04-01",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Eli Lilly Investor Relations",
-          "title": "FDA approves Lilly's Foundayo (orforglipron), the only GLP-1 pill with no food or water restrictions",
-          "url": "https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill",
-          "date": "2026-04-01"
-        },
-        {
-          "publication": "STAT News",
-          "title": "Eli Lilly's obesity pill orforglipron approved by FDA",
-          "url": "https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/",
-          "date": "2026-04-01"
-        }
-      ],
-      "tags": ["eli-lilly", "orforglipron", "foundayo", "fda-approval", "oral-glp1", "obesity", "us"]
-    },
-    {
-      "id": "story-030",
-      "headline": "Novo Nordisk Shares Down 43% Year-on-Year as Generic Wave Forces 48% India Price Cuts",
-      "summary": "Novo Nordisk's ADR fell to $36.98 as of April 3, 2026 — down 43% from its 52-week high of $81.44 — as Eli Lilly's Foundayo approval and India's semaglutide generic flood compounded existing competitive pressures. In a direct response to generic competitors pricing semaglutide at ₹1,290/month in India, Novo cut Wegovy and Ozempic India list prices by up to 48% effective April 1, 2026. Bernstein initiated Underperform coverage citing an 'ongoing earnings downgrade cycle.' Novo's 2026 full-year guidance remains -5% to -13% at constant FX. The market cap decline from ~$640B to under $180B in 18 months represents one of the largest value destructions in pharma history.",
-      "market": "global",
-      "category": "business",
-      "timestamp": "2026-04-03",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "24/7 Wall St.",
-          "title": "Novo Nordisk Shares Down 43% in a Year as Generic Rivals Force 48% Price Cuts",
-          "url": "https://247wallst.com/investing/2026/04/03/novo-nordisk-shares-down-43-in-a-year-as-generic-rivals-force-48-price-cuts/",
-          "date": "2026-04-03"
-        }
-      ],
-      "tags": ["novo-nordisk", "stock", "india-pricing", "competition", "generics", "global"]
-    },
-    {
-      "id": "story-031",
-      "headline": "CMS Confirms Medicare GLP-1 Bridge: $50/Month Wegovy, Zepbound, and Foundayo Coverage Starts July 1",
-      "summary": "CMS formally confirmed the Medicare GLP-1 Bridge program launching July 1, 2026 through December 31, 2026: eligible Part D beneficiaries pay $50/month for Wegovy (semaglutide 2.4mg), Zepbound (tirzepatide), and the newly approved Foundayo (orforglipron). The $50 copay does NOT count toward the $2,100 annual Part D out-of-pocket cap or deductible, making this a true supplemental benefit. Eligibility requires BMI ≥30 or ≥27 with metabolic/cardiovascular comorbidity. The longer-term BALANCE Model begins in Medicaid in May 2026 and Medicare Part D in January 2027. The CBO estimates expanded GLP-1 coverage adds $35.5 billion in federal spending from 2026–2034.",
-      "market": "us",
-      "category": "insurance",
-      "timestamp": "2026-04-01",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "CMS",
-          "title": "Medicare GLP-1 Bridge Program — Coverage Details",
-          "url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
-          "date": "2026-04-01"
-        },
-        {
-          "publication": "KFF",
-          "title": "What Medicare's Temporary Program Covering GLP-1s for Obesity Means for Beneficiaries",
-          "url": "https://www.kff.org/quick-take/what-medicares-temporary-program-covering-glp-1s-for-obesity-means-for-beneficiaries/",
-          "date": "2026-04-02"
-        }
-      ],
-      "tags": ["medicare", "cms", "glp-1-coverage", "balance-model", "foundayo", "wegovy", "zepbound", "us"]
-    },
-    {
-      "id": "story-032",
-      "headline": "India Ministry of Health Issues Formal GLP-1 Safety Warning as Generic Wave Begins",
-      "summary": "India's Ministry of Health and Family Welfare issued a formal safety communication on April 1, 2026 — timed with the first weeks of widespread generic semaglutide availability at ₹1,290/month. The warning flags pancreatitis, acute kidney injury, and bowel obstruction as serious risks requiring medical supervision. CDSCO reiterated that semaglutide must be prescribed only by qualified physicians (endocrinologists or internal medicine specialists) for approved indications — T2DM and obesity with comorbidities — following the March 24 crackdown on 49 unauthorized sellers. The ministry emphasized that without physician oversight, the expanded access enabled by generic pricing could lead to unsafe self-medication.",
-      "market": "india",
-      "category": "regulatory",
-      "timestamp": "2026-04-01",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Business Today",
-          "title": "As semaglutide goes generic, the government warns GLP-1 drugs are not without risks",
-          "url": "https://www.businesstoday.in/industry/pharma/story/as-semaglutide-goes-generic-the-government-warns-glp-1-drugs-are-not-without-risks-523626-2026-04-01",
-          "date": "2026-04-01"
-        }
-      ],
-      "tags": ["india", "regulatory", "safety", "dcgi", "cdsco", "ministry-of-health", "semaglutide"]
-    },
-    {
-      "id": "story-033",
-      "headline": "WeightWatchers GLP-1 Pricing Rises to $349/Month as Introductory Offer Expires April 1",
-      "summary": "WeightWatchers' $199/month introductory GLP-1 pricing ended March 31, 2026. Effective April 1, the platform charges $349/month for branded medication access (Wegovy or Ozempic), plus a $74/month membership fee on an annual plan or $149/month on a rolling monthly plan. WeightWatchers exited compounded semaglutide in May 2025 and now prescribes only FDA-approved branded products. This positions WeightWatchers significantly above Hims & Hers ($149/month, post-Novo settlement) and Eli Lilly's new Foundayo self-pay ($149/month) — creating a pricing wedge that may accelerate subscriber migration to lower-cost telehealth platforms.",
-      "market": "us",
-      "category": "business",
-      "timestamp": "2026-04-01",
-      "importance": "medium",
-      "sources": [
-        {
-          "publication": "US News Health",
-          "title": "WeightWatchers GLP-1 Review 2026",
-          "url": "https://health.usnews.com/best-diet/medication/weightwatchers",
-          "date": "2026-04-01"
-        }
-      ],
-      "tags": ["weightwatchers", "telehealth", "pricing", "d2c", "glp-1", "us"]
-    },
-    {
-      "id": "story-034",
-      "headline": "Novo Nordisk Invests €432M in Irish Facility to Scale Oral GLP-1 Production",
-      "summary": "Novo Nordisk announced a €432 million ($506M) investment in its Athlone, Ireland manufacturing facility on April 2, 2026, converting the 45-acre site for high-volume oral GLP-1 tableting — primarily for oral semaglutide (the Wegovy pill). Phased completion is targeted for 2027–2028, positioning Ireland as Novo's primary ex-US hub for oral GLP-1 supply. This follows three ex-Catalent site acquisitions (Italy, Belgium, Indiana) and complements a $1B+ Brazil expansion targeting 2028. The multi-site strategy aims to diversify from US manufacturing concentration risk and respond to global demand as oral GLP-1 formats compete with Eli Lilly's newly approved Foundayo.",
-      "market": "global",
-      "category": "manufacturing",
-      "timestamp": "2026-04-02",
-      "importance": "medium",
-      "sources": [
-        {
-          "publication": "Pharmaceutical Technology",
-          "title": "Novo Nordisk scales oral GLP-1 production with €432M investment in Ireland facility",
-          "url": "https://www.pharmtech.com/view/novo-nordisk-scales-oral-glp-1-production-with-432m-506m-investment-in-ireland-facility",
-          "date": "2026-04-02"
-        }
-      ],
-      "tags": ["novo-nordisk", "manufacturing", "ireland", "oral-glp1", "supply-chain", "global"]
-    },
-    {
-      "id": "story-035",
-      "headline": "FDA FAERS Analysis: GLP-1 Adverse Event Profiles Differ Markedly by Indication",
-      "summary": "A new FDA FAERS pharmacovigilance analysis published April 2, 2026 found that GLP-1 receptor agonist adverse events cluster differently by approved indication. T2DM indication use is associated with retinopathies, pancreatic neoplasms, and hearing loss; obesity indication use is associated with suicidal ideation, panic attacks, depressive disorders, and eating disorders. Compared to other antidiabetic drug classes, GLP-1s show elevated reporting of alopecia, taste disorders, flatulence, and suicidal behavior across both indications. The findings strengthen calls for indication-specific monitoring protocols and tighter specialist supervision — particularly relevant as India's generic wave brings GLP-1s to non-specialist prescribers at scale.",
-      "market": "us",
-      "category": "safety",
-      "timestamp": "2026-04-02",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Medscape",
-          "title": "FDA Data Reveal Different Risks for GLP-1s in Diabetes vs Obesity",
-          "url": "https://www.medscape.com/viewarticle/fda-data-reveal-different-risks-glp-1s-2026a1000a4h",
-          "date": "2026-04-02"
-        }
-      ],
-      "tags": ["safety", "fda", "faers", "pharmacovigilance", "adverse-events", "suicidal-ideation", "us"]
-    },
-    {
-      "id": "story-036",
-      "headline": "Trump Signs MFN GLP-1 Deal: Medicare Patients Pay $50/Month for Wegovy, Zepbound, Foundayo from July 2026",
-      "summary": "President Trump announced landmark Most-Favored-Nation pricing agreements with Eli Lilly and Novo Nordisk, capping GLP-1 obesity drugs for Medicare and Medicaid patients at a $50/month copay starting July 1, 2026. The underlying price agreed is $245/month for Ozempic, Wegovy, Mounjaro, and Zepbound — down from $900-$1,350 list. In exchange, Lilly committed $27 billion and Novo $10 billion in US manufacturing investments. A separate TrumpRx direct-to-consumer platform will offer semaglutide at $350/month — targeting the commercially uninsured. Analysts estimate the deal will cover 67 million Medicare beneficiaries and 80 million Medicaid enrollees, representing a multi-trillion-dollar market access shift for the GLP-1 industry.",
-      "market": "us",
-      "category": "regulatory",
-      "timestamp": "2026-04-10",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "CNBC",
-          "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices",
-          "url": "https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html",
-          "date": "2026-04-10"
-        },
-        {
-          "publication": "AMCP",
-          "title": "Federal Update: Trump Administration Announces Deal to Bring MFN Pricing to GLP-1s",
-          "url": "https://www.amcp.org/letters-statements-analysis/federal-update-trump-administration-announces-deal-bring-most-favored-nation-pricing-glp-1s",
-          "date": "2026-04-10"
-        },
-        {
-          "publication": "Pharmacy Times",
-          "title": "Eli Lilly, Novo Nordisk Strike MFN Deals With Trump Administration to Lower GLP-1 Prices",
-          "url": "https://www.pharmacytimes.com/view/eli-lilly-novo-nordisk-strike-mfn-deals-with-trump-administration-to-lower-glp-1-prices",
-          "date": "2026-04-10"
-        }
-      ],
-      "tags": ["trump", "mfn", "medicare", "medicaid", "eli-lilly", "novo-nordisk", "pricing", "policy", "us"]
-    },
-    {
-      "id": "story-037",
-      "headline": "Retatrutide Phase 3 TRIUMPH-4: 28.7% Weight Loss and 75% Knee Pain Reduction — Best Efficacy Numbers in GLP-1 History",
-      "summary": "Eli Lilly's retatrutide (triple GLP-1/GIP/glucagon agonist) posted the strongest Phase 3 obesity trial results in history: 28.7% mean body weight reduction at 68 weeks in the TRIUMPH-4 trial of patients with obesity and knee osteoarthritis — equivalent to an average 71.2 lbs lost on the highest 12mg dose. Crucially, WOMAC knee pain scores fell 75.8%, with 1-in-8 patients completely free from knee pain. Seven additional Phase 3 TRIUMPH trials are expected to read out in 2026. An NDA filing is expected Q4 2026 with potential FDA decision in 2027-2028. Retatrutide's triple agonism — hitting GLP-1, GIP, and glucagon receptors simultaneously — may unlock the next therapeutic generation beyond tirzepatide's dual agonism.",
-      "market": "us",
-      "category": "clinical",
-      "timestamp": "2026-04-15",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Eli Lilly Investor Relations",
-          "title": "Lilly's triple agonist, retatrutide, delivered weight loss of up to 71.2 lbs with osteoarthritis pain relief in first Phase 3 trial",
-          "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average",
-          "date": "2026-04-15"
-        },
-        {
-          "publication": "Patient Care Online",
-          "title": "Retatrutide Achieves Up to 28.7% Weight Loss and Marked Knee Pain Reduction in Phase 3 TRIUMPH-4 Trial",
-          "url": "https://www.patientcareonline.com/view/retatrutide-achieves-up-to-28-7-weight-loss-and-marked-knee-pain-reduction-in-phase-3-triumph-4-trial",
-          "date": "2026-04-15"
-        }
-      ],
-      "tags": ["retatrutide", "eli-lilly", "phase-3", "triumph-4", "obesity", "osteoarthritis", "triple-agonist", "us"]
-    },
-    {
-      "id": "story-038",
-      "headline": "CagriSema NDA Filed but REDEFINE-4 Misses Primary Endpoint vs Tirzepatide — Novo's Next Drug Faces Headwinds",
-      "summary": "Novo Nordisk filed an NDA with the FDA in December 2025 for CagriSema (cagrilintide 2.4mg + semaglutide 2.4mg) — a once-weekly injectable combining a GLP-1 agonist and amylin analog. REDEFINE-1 showed 20.4% weight loss vs 3% placebo. However, in REDEFINE-4, CagriSema achieved 23% weight loss at 84 weeks but failed to demonstrate non-inferiority to tirzepatide 15mg — undermining the positioning narrative. FDA PDUFA date is expected H2 2026. If approved, CagriSema would be the first GLP-1/amylin combination drug on market. Analysts caution the missed non-inferiority benchmark versus tirzepatide makes commercial differentiation difficult, especially with Foundayo and retatrutide also competing in 2026-2028.",
-      "market": "us",
-      "category": "clinical",
-      "timestamp": "2026-04-08",
-      "importance": "high",
-      "sources": [
-        {
-          "publication": "Novo Nordisk",
-          "title": "Novo Nordisk files for FDA approval of CagriSema, the first once-weekly GLP-1 and amylin analogue combination",
-          "url": "https://www.prnewswire.com/news-releases/novo-nordisk-files-for-fda-approval-of-cagrisema-the-first-once-weekly-combination-of-glp1-and-amylin-analogues-for-weight-management-302645862.html",
-          "date": "2026-04-08"
-        },
-        {
-          "publication": "CNBC",
-          "title": "What's next for Novo Nordisk's next-generation obesity drug CagriSema after trial miss",
-          "url": "https://www.cnbc.com/2026/02/24/healthy-returns-whats-next-for-novo-nordisks-obesity-drug-cagrisema.html",
-          "date": "2026-04-08"
-        }
-      ],
-      "tags": ["cagrisema", "novo-nordisk", "nda", "redefine-4", "amylin", "fda", "tirzepatide", "clinical-trial", "us"]
-    },
-    {
-      "id": "story-039",
-      "headline": "MSN Laboratories Launches SEMABEST — First Fully Made-in-India Semaglutide Pen at ₹3,990",
-      "summary": "MSN Laboratories launched SEMABEST in April 2026, positioning it as India's first 'integrated' made-in-India semaglutide — with API, formulation, and the pen device all manufactured domestically. Priced at ₹3,990/month (roughly 50% below Novo's post-April-1 Ozempic price and comparable to Dr. Reddy's Obeda), SEMABEST differentiates on supply chain sovereignty rather than price leadership. The launch adds to a now 40+ brand India market. Novo Nordisk simultaneously repositioned its India pricing to ₹202/day (₹1,415/week) for starting doses of Ozempic and Wegovy — framing it as a 'patient-centred' daily cost narrative rather than a monthly figure to compete psychologically with generics.",
-      "market": "india",
-      "category": "launch",
-      "timestamp": "2026-04-05",
-      "importance": "medium",
-      "sources": [
-        {
-          "publication": "BioSpectrum India",
-          "title": "MSN Laboratories launches SEMABEST, the first integrated Made-in-India Semaglutide",
-          "url": "https://www.biospectrumindia.com/news/73/27661/msn-laboratories-launches-semabest-the-first-integrated-made-in-india-semaglutide.html",
-          "date": "2026-04-05"
-        },
-        {
-          "publication": "BioSpectrum India",
-          "title": "Novo Nordisk India sets patient-centred price of Rs 202/day for starting dose of Ozempic and Wegovy",
-          "url": "https://www.biospectrumindia.com/news/16/27598/novo-nordisk-india-sets-patient-centred-price-of-rs-202-day-for-starting-dose-of-ozempic-and-wegovy.html",
-          "date": "2026-04-05"
-        }
-      ],
-      "tags": ["msn-laboratories", "semabest", "india", "made-in-india", "semaglutide", "novo-nordisk", "pricing"]
-    }
-  ]
+  "recent_additions": []
 }
