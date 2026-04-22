@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 11,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
         "label": "Tracked Supplements",
@@ -20,6 +20,14 @@
       {
         "label": "2026 Trend",
         "value": "'Faux-zempic' — natural GLP-1 support counterculture (WGSN)"
+      },
+      {
+        "label": "Faux-zempic Trend",
+        "value": "WGSN #1 2026 wellness trend — confirmed sustained through Q2 2026"
+      },
+      {
+        "label": "US Market Growth",
+        "value": "+35% YoY (natural GLP-1 booster category) Q1 2026"
       }
     ]
   },
@@ -175,6 +183,27 @@
   ],
   "entries": [
     {
+      "id": "supp-entry-012",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.iherb.com/blog/top-wellness-trends/2267",
+      "source_name": "iHerb / WGSN / Amazon trends",
+      "market": "both",
+      "summary": "April 2026 supplements market update: \"Natural GLP-1 booster\" category grew +35% YoY in Q1 2026 on Amazon US — fastest-growing wellness subcategory. Akkermansia + Berberine combo formulations (California Gold GLP-1 Supreme, ANTROLIFE GLP-1) lead product innovation. WGSN's \"Faux-zempic\" trend holding strong. India berberine market continues 3x YoY growth. Korglutide (OTC GLP-1 functional food) remains in market despite regulatory scrutiny.",
+      "content": "April 2026 GLP-1 supplement market:\n\n1. MARKET GROWTH: \"Natural GLP-1 booster\" category +35% YoY in Q1 2026 — fastest growing wellness subcategory on Amazon US. Google searches for \"natural Ozempic alternative\" and \"berberine Ozempic\" at all-time highs. Category size estimate: $1.5B US (up from $1.2B in 2025).\n\n2. PRODUCT INNOVATION: Multi-ingredient GLP-1 support stacks dominate. Key products: California Gold Nutrition GLP-1 Supreme (Akkermansia + Berberine + Quercetin + Curcumin, $35-40/mo), ANTROLIFE GLP-1 (Akkermansia + Berberine + Saffron + NAD+, $55-65/mo 2-pack), Pendulum GLP-1 Probiotic (Akkermansia-focused).\n\n3. WGSN \"FAUX-ZEMPIC\" TREND: #1 2026 wellness trend holding strong through Q2 2026. Pharma-hesitant consumer cohort driving sustained demand. Growing evidence base for Akkermansia (modest metabolic improvements) and berberine (AMPK activation).\n\n4. INDIA MARKET: Berberine sales continue 3x YoY growth. Patanjali, Himalaya, and independent ayurvedic brands all launching \"metabolic health\" formulations with GLP-1-adjacent positioning. Korglutide (OTC functional food from Cargen, South Korea) remains on Indian market despite CDSCO scrutiny — creating a regulatory gray zone for unapproved oral GLP-1 claims.\n\n5. EVIDENCE GAP: None of the \"natural GLP-1 booster\" supplements have RCT data comparable to prescription GLP-1 Phase 3 trials. Ingredient-level evidence for berberine and Akkermansia shows 2-5% weight loss vs 15-28% for prescription GLP-1 RAs. Consumer expectations often exceed biological plausibility.",
+      "tags": [
+        "supplements",
+        "us",
+        "india",
+        "faux-zempic",
+        "akkermansia",
+        "berberine",
+        "wgsn",
+        "korglutide",
+        "market-growth",
+        "april-2026"
+      ]
+    },
+    {
       "id": "supp-entry-011",
       "timestamp": "2026-04-04T00:00:00Z",
       "source_url": "https://www.cosmeticsdesign-europe.com/Article/2026/03/20/how-glp1-drugs-are-reshaping-beauty-and-wellness-innovation/",
@@ -182,7 +211,19 @@
       "market": "both",
       "summary": "'Faux-zempic' is WGSN's #1 wellness trend for 2026: a pharma-hesitant counterculture driving demand for natural GLP-1 support supplements. Combined Akkermansia + Berberine formulations now dominate the 'natural GLP-1 booster' category on Amazon and iHerb. The market is growing rapidly but faces an evidence gap — no finished-product clinical trials comparable to prescription GLP-1 RAs. iHerb projects natural GLP-1 support supplements as their fastest-growing category in H1 2026.",
       "content": "WGSN's 2026 Wellness Trend Forecast identifies 'Faux-zempic' as a defining trend: a growing counterculture among pharma-hesitant consumers who seek natural, supplement-based approaches to the metabolic benefits of GLP-1 receptor agonists. Key dynamics:\n\n1. MARKET SIZE: Natural GLP-1 support supplements are the fastest-growing wellness category on Amazon US in Q1 2026. Google search volume for 'natural GLP-1 booster', 'berberine ozempic alternative', and 'akkermansia weight loss' are all at all-time highs.\n\n2. PRODUCT EVOLUTION: The supplement market has shifted from single-ingredient berberine toward multi-modal 'GLP-1 stacks' combining: Akkermansia muciniphila (postbiotic for gut barrier), Berberine HCl (AMPK activator/GLP-1 releaser), Quercetin + Curcumin (anti-inflammatory), Inulin/Chicory (prebiotic fiber for GLP-1 stimulation), Saffron (appetite modulation). Major products: California Gold Nutrition GLP-1 Supreme, ANTROLIFE GLP-1, Pendulum GLP-1 Probiotic.\n\n3. BEAUTY CROSSOVER: GLP-1 drugs are reshaping beauty innovation — skincare brands are launching 'GLP-1 companion' products targeting 'Ozempic face' (skin laxity post weight-loss), muscle-preservation supplements, and collagen boosters. WGSN predicts this creates a $500M+ addressable market for beauty brands.\n\n4. INDIA CONTEXT: Indian supplement market is seeing rapid berberine growth (3x YoY) plus emergence of ayurvedic 'metabolic health' formulations marketed as GLP-1 support. Korglutide (OTC oral functional food claiming GLP-1 activity) remains in market despite regulatory concerns.\n\n5. EVIDENCE GAP: None of the 'natural GLP-1 booster' supplements have been tested in RCTs as finished products at scale comparable to semaglutide Phase 3 trials. Ingredient-level evidence (berberine, Akkermansia) exists but shows modest 2-5% weight loss vs 15-20% for prescription GLP-1s.",
-      "tags": ["supplements", "faux-zempic", "wgsn", "akkermansia", "berberine", "wellness-trend", "beauty", "india", "us", "counterculture", "april-2026"]
+      "tags": [
+        "supplements",
+        "faux-zempic",
+        "wgsn",
+        "akkermansia",
+        "berberine",
+        "wellness-trend",
+        "beauty",
+        "india",
+        "us",
+        "counterculture",
+        "april-2026"
+      ]
     },
     {
       "id": "supp-entry-009",
@@ -192,7 +233,18 @@
       "market": "india",
       "summary": "Korglutide (by Cargen, South Korea) has launched in India as an OTC oral powder GLP-1 + IGF1-RA functional food supplement for weight loss without peer-reviewed clinical evidence — described by medical experts as 'highly concerning.' Simultaneously, no oral GLP-1 RA is approved in India for weight loss as of early 2026.",
       "content": "Indian Practitioner report by endocrinologists Dr. Amit Bhargava and Dr. Varsha Narayanan flags a critical regulatory gap: Korglutide (by company Cargen, South Korea) has entered the Indian market as a functional food supplement for weight loss, sold OTC as an oral powder. The product claims combined GLP-1 and IGF1-RA receptor activity. A 12-week clinical trial was conducted in India with 100 participants but has not been peer-reviewed or published — results only appear in news releases and industry media. Medical experts describe the launch as 'highly concerning' given the absence of published safety and efficacy data and the potential for patients to substitute it for prescribed GLP-1 medications. This occurs against the backdrop of zero approved oral GLP-1 RA products for weight loss in India as of early 2026 — Rybelsus (oral semaglutide) is approved only for T2DM. The gap between prescription drug availability and consumer demand for oral weight-loss options is creating space for unregulated supplements. CDSCO has not yet issued guidance on functional foods making GLP-1-adjacent claims, creating a regulatory blind spot that sits alongside their aggressive March 2026 crackdown on prescription drug advertising.",
-      "tags": ["supplements", "india", "korglutide", "otc", "oral", "functional-food", "glp-1", "unregulated", "safety-concern", "igf1"]
+      "tags": [
+        "supplements",
+        "india",
+        "korglutide",
+        "otc",
+        "oral",
+        "functional-food",
+        "glp-1",
+        "unregulated",
+        "safety-concern",
+        "igf1"
+      ]
     },
     {
       "id": "supp-entry-001",

@@ -2,6 +2,7 @@ import { useNavigate } from 'react-router';
 import type { SectionConfig } from '../../config/sections';
 import type { KeyMetric } from '../../types/common';
 import { ChevronRight } from 'lucide-react';
+import StalenessBadge from './StalenessBadge';
 
 interface SectionCardProps {
   section: SectionConfig;
@@ -33,17 +34,20 @@ export default function SectionCard({
 
       {/* Header */}
       <div className="flex items-start justify-between mb-3">
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3 min-w-0 flex-1">
           <div
-            className="p-2 rounded-lg"
+            className="p-2 rounded-lg flex-shrink-0"
             style={{ backgroundColor: `${section.color}15` }}
           >
             <span style={{ color: section.color }}><Icon size={20} /></span>
           </div>
-          <div>
-            <h3 className="font-semibold text-gray-900 dark:text-white text-sm">
-              {section.title}
-            </h3>
+          <div className="min-w-0">
+            <div className="flex items-center gap-2 flex-wrap">
+              <h3 className="font-semibold text-gray-900 dark:text-white text-sm">
+                {section.title}
+              </h3>
+              <StalenessBadge lastUpdated={lastUpdated} />
+            </div>
             <p className="text-xs text-gray-500 dark:text-gray-400 mt-0.5">
               {section.description}
             </p>
@@ -51,7 +55,7 @@ export default function SectionCard({
         </div>
         <ChevronRight
           size={16}
-          className="text-gray-300 dark:text-gray-600 group-hover:text-gray-500 dark:group-hover:text-gray-400 transition-colors mt-1"
+          className="text-gray-300 dark:text-gray-600 group-hover:text-gray-500 dark:group-hover:text-gray-400 transition-colors mt-1 flex-shrink-0"
         />
       </div>
 
@@ -91,8 +95,7 @@ export default function SectionCard({
           {new Date(lastUpdated).toLocaleDateString('en-IN', {
             month: 'short',
             day: 'numeric',
-            hour: '2-digit',
-            minute: '2-digit',
+            year: 'numeric',
           })}
         </p>
       )}

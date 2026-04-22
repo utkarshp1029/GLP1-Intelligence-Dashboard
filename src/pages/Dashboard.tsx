@@ -58,16 +58,26 @@ export default function Dashboard({ meta, newCounts }: DashboardProps) {
             </div>
           )}
 
-          <button
-            onClick={() => {
-              const first = document.getElementById('section-0');
-              first?.scrollIntoView({ behavior: 'smooth' });
-            }}
-            className="apple-link bg-transparent border-none cursor-pointer text-[21px] text-[#0071e3]"
-            style={{ fontFamily: 'inherit' }}
-          >
-            Explore sections
-          </button>
+          <div className="flex flex-wrap justify-center gap-6 items-center">
+            <button
+              onClick={() => {
+                const first = document.getElementById('section-0');
+                first?.scrollIntoView({ behavior: 'smooth' });
+              }}
+              className="apple-link bg-transparent border-none cursor-pointer text-[21px] text-[#0071e3]"
+              style={{ fontFamily: 'inherit' }}
+            >
+              Explore sections
+            </button>
+            <span className="text-[#424245]">·</span>
+            <button
+              onClick={() => navigate('/update-status')}
+              className="apple-link bg-transparent border-none cursor-pointer text-[21px] text-[#0071e3]"
+              style={{ fontFamily: 'inherit' }}
+            >
+              Update status
+            </button>
+          </div>
         </div>
       </section>
 
@@ -87,6 +97,13 @@ export default function Dashboard({ meta, newCounts }: DashboardProps) {
                 {s.shortTitle}
               </button>
             ))}
+            <span className="mx-1 w-px h-4 bg-[#d2d2d7] dark:bg-[#424245]" />
+            <button
+              onClick={() => navigate('/update-status')}
+              className="text-xs whitespace-nowrap px-3 py-1.5 rounded-full text-[#0071e3] hover:bg-[#f5f5f7] dark:hover:bg-[#333336] transition-colors font-medium"
+            >
+              📊 Status
+            </button>
           </div>
         </div>
       </div>
@@ -102,6 +119,7 @@ export default function Dashboard({ meta, newCounts }: DashboardProps) {
               newCount={newCounts[section.id] || 0}
               variant={SECTION_VARIANTS[index % SECTION_VARIANTS.length]}
               index={index}
+              lastUpdated={sectionMeta?.last_updated}
             />
           </div>
         );

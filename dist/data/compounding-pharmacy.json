@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 9,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 13,
     "key_metrics": [
       {
         "label": "Tracked Pharmacies",
@@ -15,6 +15,18 @@
       {
         "label": "Est. Compounded GLP-1 Market",
         "value": "$2B"
+      },
+      {
+        "label": "FDA 503A Limit (Apr 2026)",
+        "value": "4 prescriptions/month limit for essentially-copy compounding"
+      },
+      {
+        "label": "Warning Letters Issued",
+        "value": "50+ (cumulative since Feb 2025 shortage resolution)"
+      },
+      {
+        "label": "Foundayo Impact",
+        "value": "Branded oral at $149/mo erodes compounded semaglutide value prop"
       }
     ]
   },
@@ -60,6 +72,27 @@
   ],
   "entries": [
     {
+      "id": "comp-entry-010",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://natlawreview.com/article/not-joking-around-fda-offers-additional-clarification-compounded-glp-1-policy-april",
+      "source_name": "National Law Review / Wilson Sonsini / Yahoo",
+      "market": "us",
+      "summary": "April 2026 compounding update: FDA issued April 1 clarification capping 503A essentially-copy compounding at 4 prescriptions/month per compounder (the \"April Fool's Day announcement\" was serious). 50+ warning letters sent cumulatively. The economics have shifted dramatically: Hims raised branded Ozempic to $1,799/mo (from $199 compounded); Foundayo branded at $149/mo undercuts compounded semaglutide's traditional pricing advantage. Patient migration from compounded to branded expected to accelerate Q2-Q3 2026.",
+      "content": "April 2026 compounded GLP-1 market — structural shift in progress:\n\n1. FDA APRIL 1 CLARIFICATION (not a joke): The FDA formalized its compounding enforcement posture on April 1, 2026, setting a limited-enforcement-discretion threshold: 503A pharmacies filling ≤4 prescriptions/month per essentially-copy drug face limited FDA action; above that volume, the agency will actively enforce. This effectively destroys scale economics for compounders targeting GLP-1 as a mass-market product.\n\n2. WARNING LETTERS: Wilson Sonsini documents 50+ FDA warning letters issued cumulatively to GLP-1 compounders and manufacturers since February 2025 shortage resolution. Recent targets include Empower Pharmacy (4th warning letter — sterile drug deficiencies), and a separate batch of 30 letters to telehealth companies in Q1 2026.\n\n3. ECONOMIC DISRUPTION — THE $149 FOUNDAYO PIVOT: Hims raised its branded Ozempic offering to $1,799/month (up from $199 compounded) after the Novo settlement. Simultaneously, Foundayo launched at $149/month self-pay through Amazon Pharmacy, LillyDirect, and retail. The economic logic that drove compounded demand (70-90% savings vs branded) is partially inverted: Foundayo branded is cheaper than most compounded offerings. Patient migration from compounding to Foundayo expected to accelerate through Q2-Q3 2026.\n\n4. 503B STATUS: Outsourcing facility compounding under 503B has been under enforcement since May 22, 2025. The OFA lawsuit remains pending with no court ruling favorable to compounders as of April 2026.\n\n5. PATIENT IMPACT: An estimated 1-1.5M US patients remain on compounded GLP-1s as of April 2026, down from ~2M peak in 2024. Most likely migration path: (a) switch to Foundayo at $149/mo self-pay, (b) switch to branded Wegovy oral at $149/mo, (c) switch to branded via subscription ($249-329/mo Novo plans).",
+      "tags": [
+        "compounding",
+        "us",
+        "fda",
+        "april-2026",
+        "503a",
+        "503b",
+        "hims",
+        "foundayo",
+        "patient-migration",
+        "warning-letters"
+      ]
+    },
+    {
       "id": "comp-entry-009",
       "timestamp": "2026-04-01T00:00:00Z",
       "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
@@ -67,7 +100,18 @@
       "market": "us",
       "summary": "FDA issued an April 1, 2026 clarification: 503A pharmacies (individual patient compounding) can no longer rely on the semaglutide shortage exemption — the discretion period has ended. 503B outsourcing facilities also face tightened restrictions. DOJ referrals are now in play alongside FDA warning letters. The Hims & Hers settlement with Novo Nordisk signals compounders face both civil and criminal risk.",
       "content": "April 1, 2026 represents a regulatory turning point for compounded GLP-1 drugs in the US. Key developments:\n\n1. FDA APRIL 1 CLARIFICATION: The FDA issued guidance reminding compounders that the period of enforcement discretion for semaglutide 503A compounding has ended. 503A pharmacies (which compound for individual patient prescriptions) must now meet strict conditions: the compounded drug must NOT be essentially a copy of a commercially available product, and there must be documented patient-specific medical need for the deviation. Adding vitamin B12 or niacinamide has been explicitly ruled out as insufficient justification.\n\n2. 503B OUTSOURCING: Facilities compounding under 503B were already under enforcement since May 22, 2025. The FDA continues to monitor and has not relaxed its position, with active litigation from the Outsourcing Facility Association (OFA) still ongoing but no favorable court ruling as of April 2026.\n\n3. DOJ REFERRALS: The FDA has begun referring egregious cases to the Department of Justice for criminal prosecution — escalating beyond warning letters and civil penalties. This signals that the agency views the continued growth of compounded GLP-1s post-shortage resolution as a serious public health issue.\n\n4. MARKET IMPACT: The Hims & Hers settlement with Novo Nordisk (March 2026) effectively ended one of the largest compounded GLP-1 distribution channels. Ro (Roman), another major telehealth platform, has also wound down its compounded semaglutide program. Smaller platforms and 503A pharmacies continue to operate in the gray zone, though the legal risk has materially increased.\n\n5. PATIENT IMPACT: An estimated 1.5-2 million US patients were receiving compounded semaglutide or tirzepatide as of Q1 2026. As platforms wind down, patients face either switching to branded products at higher cost, or losing access entirely if their insurance doesn't cover GLP-1s.",
-      "tags": ["compounding", "us", "fda", "april-2026", "503a-enforcement", "doj", "hims-hers", "ro", "patient-access", "enforcement-escalation"]
+      "tags": [
+        "compounding",
+        "us",
+        "fda",
+        "april-2026",
+        "503a-enforcement",
+        "doj",
+        "hims-hers",
+        "ro",
+        "patient-access",
+        "enforcement-escalation"
+      ]
     },
     {
       "id": "comp-entry-008",
@@ -77,7 +121,18 @@
       "market": "us",
       "summary": "Legal analysis confirms that as of May 22, 2025, 503B outsourcing facilities cannot rely on the shortage exception for essentially-copy semaglutide compounding, unless ongoing litigation reverses the FDA's determination. Individual patient need exceptions remain valid for dose modifications and inactive ingredient changes. Compounders using salt forms (semaglutide sodium/acetate) face heightened legal risk as these are classified as different active ingredients.",
       "content": "Sheppard Health Law's analysis clarifies the post-shortage compounding landscape with precision relevant to telehealth operators and compounding pharmacies. Key legal points: (1) The FDA's February 21, 2025 removal of semaglutide from the shortage list triggered the 503B enforcement date of May 22, 2025 — after which compounding an essentially-copy semaglutide product became illegal for 503B outsourcing facilities. (2) 503A pharmacies (individual patient prescriptions) retain rights to compound non-essentially-copy formulations for individual patient needs — including different doses, different inactive ingredients due to adverse reactions, or discontinued strengths. (3) Adding trace B12 or niacinamide does NOT create a valid individual patient need; FDA has explicitly rejected this workaround. (4) Semaglutide salt forms (semaglutide sodium, semaglutide acetate) are technically different active ingredients and are not GRAS (Generally Recognized As Safe) — compounders using these forms face FDA enforcement as an unlicensed drug product rather than a compounded drug. (5) The OFA lawsuit is still potentially active; if the court rules in OFA's favor, the shortage exception could be reinstated. As of March 30, 2026, no such ruling has occurred. This legal landscape has major implications for Hims & Hers, Ro, and other telehealth platforms that built revenue streams on compounded GLP-1s.",
-      "tags": ["compounding", "us", "legal", "503B", "503A", "shortage-exception", "salt-forms", "semaglutide-sodium", "individual-patient-need", "ofa-lawsuit"]
+      "tags": [
+        "compounding",
+        "us",
+        "legal",
+        "503B",
+        "503A",
+        "shortage-exception",
+        "salt-forms",
+        "semaglutide-sodium",
+        "individual-patient-need",
+        "ofa-lawsuit"
+      ]
     },
     {
       "id": "comp-entry-007",
@@ -87,7 +142,15 @@
       "market": "us",
       "summary": "Despite FDA enforcement, unapproved compounded GLP-1s continue to grow: IQVIA data shows compounded semaglutide/tirzepatide prescriptions increased post-shortage resolution. About 80% of compounded prescriptions now include supplemental ingredients (B vitamins, niacinamide) to claim 'personalization' and avoid the essentially-a-copy prohibition. FDA created a 'green list' of API manufacturers whose facilities meet safety standards.",
       "content": "Healthcare Brew's March 23, 2026 investigation reveals that the FDA's enforcement campaign has not halted compounded GLP-1 growth — in some metrics, it has accelerated it. IQVIA data from October 2025 showed that after the FDA declared the semaglutide shortage resolved in February 2025, compounded semaglutide and tirzepatide prescriptions continued to increase rather than decline. The key workaround: 'personalization.' Approximately 80% of compounded semaglutide and tirzepatide prescriptions now include supplemental ingredients — most commonly vitamin B12 or niacinamide — allowing compounders to argue their products are 'not essentially a copy' of FDA-approved drugs and therefore permissible under Section 503A. The FDA has explicitly rejected this argument, stating that adding a trace amount of B12 does not create a patient-specific medical need that justifies compounding. The agency created a 'green list' of API manufacturers whose semaglutide and tirzepatide facilities meet safety standards, and issued import alerts to detain APIs from non-listed suppliers at the border — directly attacking the supply chain rather than just the compounders. With potential seizures and injunctions threatened, the FDA's March 2026 batch of 30 warning letters to telehealth companies represents escalating enforcement, but the industry's rapid adaptation to each new rule suggests the cat-and-mouse dynamic will continue through at least the end of 2026.",
-      "tags": ["compounding", "us", "fda-enforcement", "personalization-workaround", "green-list", "api-restriction", "iqvia"]
+      "tags": [
+        "compounding",
+        "us",
+        "fda-enforcement",
+        "personalization-workaround",
+        "green-list",
+        "api-restriction",
+        "iqvia"
+      ]
     },
     {
       "id": "comp-entry-001",

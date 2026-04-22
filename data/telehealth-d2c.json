@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-03-31T00:00:00Z",
-    "entry_count": 10,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 17,
     "key_metrics": [
       {
         "label": "Tracked Platforms",
@@ -27,6 +27,18 @@
       {
         "label": "Novo Telehealth Partners (Oral Wegovy)",
         "value": "Ro, GoodRx, LifeMD, WeightWatchers, Knownwell + 3 more"
+      },
+      {
+        "label": "Hims Latest Pricing (Apr)",
+        "value": "Branded Ozempic $1,799/mo | Oral kits from $69/mo (10-month plan)"
+      },
+      {
+        "label": "Era of $199 Compounded",
+        "value": "Effectively over — FDA enforcement + Foundayo branded at $149/mo"
+      },
+      {
+        "label": "Novo Wegovy Subscription",
+        "value": "$329/mo (3-month) | $249/mo (12-month) — compete with telehealth"
       }
     ]
   },
@@ -137,6 +149,28 @@
   ],
   "entries": [
     {
+      "id": "th-entry-011",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.yahoo.com/lifestyle/article/the-era-of-199-copycat-weight-loss-drugs-is-ending--and-it-could-cost-patients-213706107.html",
+      "source_name": "Yahoo / Managed Healthcare Executive / Hims",
+      "market": "us",
+      "summary": "April 2026 telehealth update: The era of $199/month copycat GLP-1 programs is effectively ending. Hims raised branded Ozempic to $1,799/mo (from $199 compounded). WeightWatchers at $349/mo. Ro at $145/mo membership + medication. Novo Nordisk launched direct subscription ($249-329/mo) competing with telehealth. Foundayo's $149/mo self-pay branded price creates a new floor that undercuts most telehealth offerings. India telehealth platforms (Tata 1mg, PharmEasy, Netmeds) continue to dominate GLP-1 distribution given generic pricing parity with D2C platforms.",
+      "content": "April 2026 telehealth/D2C GLP-1 landscape — major pricing inversion:\n\n1. HIMS & HERS TRANSITION: Post-Novo settlement (March 2026), Hims stopped compounded GLP-1 marketing. New pricing: branded Ozempic $1,799/mo, Wegovy $1,999/mo (without insurance). GLP-1 injectable plans start $199/mo with 6-month upfront plan. Oral weight-loss kits $69/mo with 10-month plan.\n\n2. RO (ROMAN): Membership $145/mo plus medication billed separately. Continues some compounded semaglutide via licensed 503A pharmacies subject to April FDA limits.\n\n3. WEIGHTWATCHERS: $349/mo branded medication access after intro $199 offer ended March 31. $74/mo annual membership OR $149/mo rolling monthly plan on top.\n\n4. NOVO DIRECT: Novo Nordisk launched its own subscription program: $329/mo (3-month commitment), $249/mo (12-month annual plan) for Wegovy. Wegovy HD 7.2mg at $399/mo. This bypasses telehealth intermediaries.\n\n5. FOUNDAYO DISRUPTION: Lilly's Foundayo at $149/mo self-pay through LillyDirect + Amazon Pharmacy creates a branded oral price floor that undercuts most telehealth pricing. Amazon Pharmacy same-day delivery in 3,000+ cities gives Lilly direct consumer reach without telehealth partnership.\n\n6. INDIA E-PHARMACY: Tata 1mg, PharmEasy, Netmeds continue to dominate India GLP-1 distribution. Generic semaglutide at ₹1,290-4,500/mo makes D2C pricing advantage moot vs retail. Tata 1mg (owned by Tata Digital) leads market share, followed by PharmEasy and Netmeds. All three support same-day delivery in metros.",
+      "tags": [
+        "telehealth",
+        "us",
+        "india",
+        "hims",
+        "weightwatchers",
+        "ro",
+        "novo-subscription",
+        "foundayo",
+        "tata-1mg",
+        "pricing",
+        "april-2026"
+      ]
+    },
+    {
       "id": "th-entry-010",
       "timestamp": "2026-03-31T00:00:00Z",
       "source_url": "https://www.weightwatchers.com/us/program/glp1",
@@ -144,7 +178,17 @@
       "market": "us",
       "summary": "WeightWatchers GLP-1 Med+ program introductory pricing ($199/mo for Ozempic/Wegovy) expires today March 31, 2026; standard price of $349/month takes effect April 1. Separately, Hims & Hers completed its transition from compounded GLP-1s to branded Novo Nordisk products following the March 9 settlement.",
       "content": "Two major telehealth pricing milestones converge on March 31, 2026. First, WeightWatchers' GLP-1 Med+ introductory pricing of $199/month for Ozempic or Wegovy — launched December 26, 2025 and designed to compete with Hims & Hers and Ro — expires today. Starting April 1, 2026, standard pricing of $349/month applies, aligning more closely with the NovoCare benchmark. WeightWatchers does not offer compounded GLP-1s and differentiates its program through its behavioral coaching infrastructure and community support, positioning GLP-1 medication as a tool within a comprehensive lifestyle program. Second, Hims & Hers completed its transition: following the March 9, 2026 settlement with Novo Nordisk (in which Novo dropped its patent infringement lawsuit), Hims agreed to wind down compounded GLP-1 marketing and transition its 450,000+ GLP-1 subscribers to branded Wegovy and Ozempic at $149/month. This marks a decisive shift in the US GLP-1 telehealth market: the compounded semaglutide era is effectively over for major platforms, with all significant US telehealth providers now offering branded manufacturer products. The remaining competitive differentiation is on behavioral support, pricing, and formulary breadth rather than access to compounded alternatives.",
-      "tags": ["telehealth", "us", "weightwatchers", "hims-hers", "pricing", "branded-glp1", "novo-nordisk", "compounded-wind-down", "d2c"]
+      "tags": [
+        "telehealth",
+        "us",
+        "weightwatchers",
+        "hims-hers",
+        "pricing",
+        "branded-glp1",
+        "novo-nordisk",
+        "compounded-wind-down",
+        "d2c"
+      ]
     },
     {
       "id": "th-entry-009",
@@ -154,7 +198,17 @@
       "market": "us",
       "summary": "Novo Nordisk and Hims & Hers reached a settlement on March 9, 2026: Hims dropped compounded GLP-1 advertising; Novo dropped patent infringement suit. Hims now sells branded Wegovy (injections + pills) and Ozempic starting at $149/month.",
       "content": "Novo Nordisk and Hims & Hers reached a landmark settlement on March 9, 2026 that effectively resolves the most contentious legal dispute in the US GLP-1 compounding space. Hims & Hers agreed to cease marketing compounded GLP-1 products, and Novo Nordisk in turn dropped its patent infringement lawsuit that had been threatening Hims' entire GLP-1 business. Under the settlement, Hims & Hers became an authorized distribution channel for branded Novo products: Wegovy (both injectable and the new oral pill) and Ozempic are now available on the Hims platform starting at $149/month — the same price as NovoCare's direct channel. A referral from HHS to the Department of Justice regarding potential violations was pending at time of deal and may have accelerated Hims' willingness to settle. The deal signals the end of the era when major telehealth platforms could build high-margin businesses on compounded semaglutide. Hims stock initially fell on the news as compounded revenue was high-margin; however, analysts see the transition to branded distribution as more durable and legally sustainable long-term.",
-      "tags": ["telehealth", "us", "hims-hers", "novo-nordisk", "settlement", "compounded-wind-down", "legal", "branded-glp1", "wegovy"]
+      "tags": [
+        "telehealth",
+        "us",
+        "hims-hers",
+        "novo-nordisk",
+        "settlement",
+        "compounded-wind-down",
+        "legal",
+        "branded-glp1",
+        "wegovy"
+      ]
     },
     {
       "id": "th-entry-008",
@@ -164,7 +218,18 @@
       "market": "us",
       "summary": "Hims & Hers launched a compounded semaglutide pill option at $49/month in early 2026, drawing sharp legal pushback from Novo Nordisk who signaled potential lawsuit. Hims subsequently secured a direct Novo partnership for branded Wegovy access, demonstrating the industry's shift toward authorized rather than compounded pathways post-shortage resolution.",
       "content": "Hims & Hers' compounded oral semaglutide pill launch in early February 2026 at $49/month became the most contentious telehealth GLP-1 story of Q1 2026. Novo Nordisk's leadership publicly criticized the compounded pill, questioning its safety and effectiveness and signaling potential legal action to protect its oral Wegovy franchise (launched January 2026 at $149/month). Novo argued that compounded oral semaglutide had not gone through FDA's approval process and that claims of bioequivalence were unverified. Hims & Hers acknowledged that its compounded products are 'not approved or evaluated for safety, effectiveness, or quality by the FDA.' Despite the controversy, Hims simultaneously struck a direct partnership with Novo Nordisk to offer branded Wegovy on its platform — demonstrating both the pressure and the pragmatic response. This dual-track strategy (compounded for cost-sensitive patients, branded for others) positions Hims as a distribution platform rather than a pure compounding play. The episode illustrates the broader industry tension: telehealth D2C platforms that built their business on compounded GLP-1s must now navigate the post-shortage, post-compounding-ban landscape without losing customers to platforms offering cheaper alternatives. Hims reported 450,000 active GLP-1 subscribers as of Q4 2025, making it one of the largest GLP-1 patient bases in any US platform.",
-      "tags": ["telehealth", "us", "hims-hers", "compounded-pill", "novo-nordisk", "legal-dispute", "oral-semaglutide", "d2c", "wegovy", "branded-vs-compounded"]
+      "tags": [
+        "telehealth",
+        "us",
+        "hims-hers",
+        "compounded-pill",
+        "novo-nordisk",
+        "legal-dispute",
+        "oral-semaglutide",
+        "d2c",
+        "wegovy",
+        "branded-vs-compounded"
+      ]
     },
     {
       "id": "th-entry-007",
@@ -174,7 +239,17 @@
       "market": "us",
       "summary": "Novo Nordisk's oral Wegovy pill launched at $149/month via NovoCare D2C and 8 telehealth partners including Ro, GoodRx, LifeMD, Knownwell, and Weight Watchers — available at 70,000+ pharmacies. The oral pill has never experienced a shortage, making it the most reliable GLP-1 supply option in 2026. Prescriptions hit 50,000/week within 3 weeks of launch.",
       "content": "Novo Nordisk's launch of the oral Wegovy pill (semaglutide 25mg tablet) in January 2026 represents the most significant distribution shift in the GLP-1 market since the injectable shortage era. The pill launched at a cash-pay self-pay price of $149/month through Novo's own NovoCare D2C platform — significantly below injectable Wegovy ($1,349/month) and even below most compounded semaglutide pricing from telehealth platforms. Novo partnered with eight telehealth providers for distribution: Ro, GoodRx, LifeMD, Knownwell, Weight Watchers, and three others, giving the product immediate reach across the telehealth ecosystem. The pill is also available at more than 70,000 pharmacies nationwide. Unlike its injectable counterpart (which experienced a 3-year shortage 2022-2025), the oral Wegovy pill has never experienced a shortage, making it the most reliably available GLP-1 option in 2026. Prescriptions reached 50,000 per week within just three weeks of launch — far outpacing any previous GLP-1 launch rate. Key differentiator vs oral semaglutide from India (Rybelsus/Torrent Sembolic): the Wegovy pill is approved for obesity (2.4mg equivalent dosing), not just T2DM, though it requires 30-minute pre-meal fasting. The $149/month price point compresses the economic advantage of compounded GLP-1s from a 6-7x price gap to less than 2x, significantly reducing the incentive for patients to use compounded alternatives. For India's telehealth market, this demonstrates the disruptive potential of low-cost oral GLP-1s — a model that Torrent's Sembolic (first Indian oral generic semaglutide) is beginning to replicate.",
-      "tags": ["telehealth", "us", "novo-nordisk", "oral-wegovy", "d2c", "novocare", "ro", "prescription-launch", "oral-glp1"]
+      "tags": [
+        "telehealth",
+        "us",
+        "novo-nordisk",
+        "oral-wegovy",
+        "d2c",
+        "novocare",
+        "ro",
+        "prescription-launch",
+        "oral-glp1"
+      ]
     },
     {
       "id": "th-entry-001",

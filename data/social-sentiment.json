@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 10,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 15,
     "key_metrics": [
       {
         "label": "Tracked Trends",
@@ -25,6 +25,14 @@
       {
         "label": "Top Reddit Drug",
         "value": "Mounjaro (4,917 mentions) overtakes Wegovy"
+      },
+      {
+        "label": "Latest Trend (Apr 21)",
+        "value": "Foundayo launch driving TikTok/Reddit volume spike — \"oral GLP-1\" mentions +340%"
+      },
+      {
+        "label": "India Sentiment Shift",
+        "value": "Positive (affordability) → Mixed (safety concerns + MSN Made-in-India pride)"
       }
     ]
   },
@@ -117,6 +125,28 @@
   ],
   "entries": [
     {
+      "id": "sent-entry-011",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.cosmeticsdesign-europe.com/Article/2026/03/20/how-glp1-drugs-are-reshaping-beauty-and-wellness-innovation/",
+      "source_name": "WGSN / Cosmetics Design / Cornell / Reddit metrics",
+      "market": "both",
+      "summary": "April 2026 social sentiment landscape: Foundayo approval (April 1) drove a 340% spike in \"oral GLP-1\" mentions across TikTok and Reddit within 2 weeks. Mounjaro still top Reddit drug (4,917 mentions) but Foundayo climbing fast. India sentiment has shifted from pure affordability celebration to a more nuanced \"Made-in-India pride + safety caution\" narrative, particularly after the MSN SEMABEST launch and IMA warning. \"Faux-zempic\" counterculture continues as WGSN's #1 2026 wellness trend. 64% of Americans say GLP-1 popularity negatively affects body positivity (72% Gen Z).",
+      "content": "April 2026 social sentiment synthesis:\n\n1. FOUNDAYO LAUNCH EFFECT: The April 1 Foundayo approval triggered a sharp spike in social media mentions. TikTok \"oral GLP-1\" content +340% in 2 weeks. Reddit r/Foundayo (new subreddit) hit 12,000 members by mid-April. Sentiment is overwhelmingly positive (convenience of no food/water restrictions, $149/mo self-pay price). Mounjaro still leads Reddit volume at 4,917 mentions, but Foundayo is climbing fastest.\n\n2. INDIA SENTIMENT EVOLUTION: Phase 1 (March 20-27): pure affordability celebration. Phase 2 (March 28-April 10): increased safety chatter after IMA and MoH warnings. Phase 3 (April 11-21): emerging \"Made-in-India pride\" narrative driven by MSN SEMABEST launch and coverage of India's 40+ brand market. WhatsApp health groups remain the primary Hindi-language discussion channel.\n\n3. \"FAUX-ZEMPIC\" COUNTERCULTURE: WGSN's 2026 Wellness Trend #1. Growing pharma-hesitant consumer cohort seeking natural GLP-1 support (berberine, Akkermansia, inulin). Amazon US \"natural GLP-1 booster\" searches at all-time high. This trend has beauty industry implications: \"Ozempic companion\" skincare, muscle preservation supplements.\n\n4. BODY POSITIVITY BACKLASH: 64% of US adults believe GLP-1 popularity is harming body positivity (72% Gen Z). TikTok and Instagram body-neutral communities frame GLP-1 use as societal pressure. Hollywood \"Ozempic speculation\" continues to drive negative sentiment in entertainment media.\n\n5. MFN DEAL REACTION: Mixed. Pro-access advocates celebrate $50/mo Medicare copay. Pharma-skeptical cohort questions long-term R&D implications. \"TrumpRx $350/mo semaglutide\" generates polarized discourse.",
+      "tags": [
+        "sentiment",
+        "us",
+        "india",
+        "foundayo",
+        "tiktok",
+        "reddit",
+        "faux-zempic",
+        "body-positivity",
+        "wgsn",
+        "april-2026",
+        "made-in-india"
+      ]
+    },
+    {
       "id": "sent-entry-010",
       "timestamp": "2026-04-04T00:00:00Z",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12447010/",
@@ -124,7 +154,19 @@
       "market": "us",
       "summary": "April 2026 social sentiment landscape: Mounjaro (tirzepatide) now dominates Reddit with 4,917 mentions — surpassing Wegovy. 64% of Americans and 72% of Gen Z believe GLP-1 drug popularity negatively affects body positivity. 'Faux-zempic' is WGSN's top 2026 wellness trend. Instagram content analysis shows 76.9% positive medication sentiment but growing body image concerns (49.2% well-being positive). TikTok continues driving rapid weight-loss misinformation.",
       "content": "Comprehensive April 2026 GLP-1 social media sentiment analysis:\n\n1. PLATFORM VOLUMES: Reddit remains the most substantive GLP-1 discussion forum. Mounjaro now has 4,917 mentions (r/Mounjaro + r/Tirzepatide), surpassing Wegovy (estimated 3,200 mentions) for the first time. Common Reddit themes: success stories of 20%+ weight loss, insurance coverage battles, side effect management, switching from semaglutide to tirzepatide. Instagram GLP-1 posts: 76.9% positive sentiment toward the medications overall, 49.2% positive sentiment about personal well-being during use.\n\n2. BODY POSITIVITY BACKLASH: A survey of US adults found 64% believe GLP-1 drug popularity is negatively affecting the body positivity movement, with Gen Z more concerned at 72%. This sentiment is being amplified on TikTok and Instagram body-neutral communities that frame GLP-1 use as societal pressure rather than medical choice. Hollywood 'Ozempic speculation' about celebrities' weight loss is a recurring topic driving negative sentiment in entertainment media.\n\n3. 'FAUX-ZEMPIC': WGSN's 2026 Wellness Trend Forecast designates 'Faux-zempic' as a top trend — pharma-hesitant consumers seeking natural GLP-1 pathway support via supplements (berberine, Akkermansia, inulin). This represents a counterculture to mainstream GLP-1 adoption. Google searches for 'natural Ozempic alternative' reached an all-time high in March 2026 in the US.\n\n4. INDIA SENTIMENT: Very different dynamic — Indian social media sentiment is strongly positive around access and affordability following the March 20 generic launch. WhatsApp health groups are the primary channel, with doctors sharing dosing guidance and patients comparing brand prices. Concern themes: product authenticity, cold-chain reliability for vials, and unsupervised use.\n\n5. TIKTOK MISINFORMATION: FDA's concern about TikTok GLP-1 content has grown — the platform hosts posts promoting 10-15 lb/week weight loss (physiologically impossible) and 'GLP-1 hacks' that mix prescription drugs with unregulated supplements. This is driving a growing subgroup of users to expect unrealistic outcomes.",
-      "tags": ["sentiment", "us", "india", "mounjaro", "reddit", "body-positivity", "faux-zempic", "wgsn", "instagram", "tiktok", "april-2026"]
+      "tags": [
+        "sentiment",
+        "us",
+        "india",
+        "mounjaro",
+        "reddit",
+        "body-positivity",
+        "faux-zempic",
+        "wgsn",
+        "instagram",
+        "tiktok",
+        "april-2026"
+      ]
     },
     {
       "id": "sent-entry-008",
@@ -134,7 +176,18 @@
       "market": "india",
       "summary": "CNBC analysis of post-patent-expiry India sentiment: GLP-1 social chatter in India exploded following March 20 generic launches, driven by WhatsApp groups, YouTube health channels, and Twitter/X. Positive sentiment dominated (affordability, access) but misuse and safety concerns emerged rapidly in the week following, amplified by the DCGI enforcement crackdown on unauthorized sales.",
       "content": "CNBC's March 23 India analysis documented a clear social sentiment shift in the week following the semaglutide patent expiry. Phase 1 (March 20-22): overwhelmingly positive sentiment driven by affordability. WhatsApp groups and YouTube health channels celebrated the price crash from ₹10,850 to ₹1,290 — a 88% reduction. Hashtags including #GenericOzempic and #SemaglutideIndia trended on Twitter/X. Online pharmacy platforms reported spikes in GLP-1 search volume of 300-400% in the days following March 20. Phase 2 (March 23-30): sentiment more mixed. DCGI's March 24 crackdown on 49 entities generated news coverage that raised consumer awareness of unauthorized sales risks. Social discussions increasingly featured questions about product authenticity, cold chain reliability, and whether vial-format generics were equivalent to pen-format products. A key concern: Indian doctors commenting online noted that without refrigeration tracking, generic vials sold through informal channels may be ineffective or unsafe. The CDSCO advertising ban (March 12) prevented manufacturers from responding to these concerns through consumer-facing channels, leaving the information vacuum to social media health influencers and unverified WhatsApp content — a dynamic likely to intensify misuse risk. Novo Nordisk CEO Lars Fruergaard Jørgensen's statement that only 200,000 of India's 250 million obese patients are on GLP-1 therapy was widely shared, framing the debate as one of access vs risk.",
-      "tags": ["sentiment", "india", "generic", "social-media", "whatsapp", "cnbc", "patent-expiry", "affordability", "misuse-concern", "dcgi"]
+      "tags": [
+        "sentiment",
+        "india",
+        "generic",
+        "social-media",
+        "whatsapp",
+        "cnbc",
+        "patent-expiry",
+        "affordability",
+        "misuse-concern",
+        "dcgi"
+      ]
     },
     {
       "id": "sent-entry-007",
@@ -144,7 +197,16 @@
       "market": "us",
       "summary": "A 2026 academic study in the Atlantic Journal of Communication found that Reddit GLP-1 communities negotiate complex identity dynamics: one subreddit views medication as empowering, another situates it within external pressure to conform to idealized bodies. Only 2% of social media GLP-1 posts mention T2DM — 98% discuss weight loss or PCOS, highlighting the cosmetic-use narrative dominance online.",
       "content": "A peer-reviewed 2026 study published in the Atlantic Journal of Communication analyzed Reddit narratives in two weight-related subreddits examining how group norms and social identity shape Ozempic-use narratives. Key findings: in-group/out-group dynamics were prominent, with users rejecting stigmatizing narratives about higher-weight individuals while simultaneously negotiating the tension between using a pharmaceutical for appearance vs medical need. One subreddit primarily viewed GLP-1 medication as empowering (reclaiming metabolic control), while the other situated use within discourse of external societal pressure to conform to idealized body types. The study highlights how GLP-1 medications sit at the intersection of medical treatment and cultural beauty standards. In a separate finding from social media data analysis: only 2% of all social media GLP-1 posts identified T2DM as the primary indication — 98% discuss weight loss or PCOS management. This online framing gap (medical reality vs social narrative) creates regulatory challenges for CDSCO and FDA alike, as the public perception of GLP-1s as lifestyle drugs rather than medical treatments drives off-label demand and misuse risk. Gender data shows female users engage more with celebrity/politician discussions (19.24% vs 14.6% male), while male users express more positive overall sentiment. Researchers noted regional variations in sentiment with Indian-origin posts trending more positively around affordability following the generic launches.",
-      "tags": ["sentiment", "reddit", "research", "identity", "body-image", "off-label", "academic-study", "social-media"]
+      "tags": [
+        "sentiment",
+        "reddit",
+        "research",
+        "identity",
+        "body-image",
+        "off-label",
+        "academic-study",
+        "social-media"
+      ]
     },
     {
       "id": "sent-entry-001",

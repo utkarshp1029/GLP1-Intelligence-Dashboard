@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 13,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 17,
     "key_metrics": [
       {
         "label": "Global GLP-1 Market (2025)",
@@ -32,11 +32,19 @@
       },
       {
         "label": "Lilly 2026 Revenue Guidance",
-        "value": "$80-83B"
+        "value": "$80-83B (Foundayo launch + retatrutide data boost)"
       },
       {
         "label": "Novo 2026 Outlook",
         "value": "-5% to -13% (constant FX)"
+      },
+      {
+        "label": "Novo Nordisk Stock (Apr 21)",
+        "value": "$36.05 (-44% YoY, continued pressure from Foundayo approval)"
+      },
+      {
+        "label": "US Market Share Gap",
+        "value": "Lilly 60.5% vs Novo 39.1% — widest ever"
       }
     ]
   },
@@ -160,6 +168,27 @@
   ],
   "entries": [
     {
+      "id": "rev-entry-013",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.cnbc.com/2026/02/04/eli-lilly-novo-nordisk-earnings-glp1-market.html",
+      "source_name": "CNBC / BioSpace / Seeking Alpha",
+      "market": "us",
+      "summary": "April 2026 financial update: Eli Lilly 2026 guidance $80-83B (midpoint +25% YoY), with Mounjaro+Zepbound $11.7B Q4 alone. Lilly US GLP-1 market share at 60.5% — widest-ever gap vs Novo (39.1%). Novo 2026 guidance revised to -5% to -13%. Foundayo approval + MFN deal expected to accelerate share shift. Analysts split: Seeking Alpha argues Novo could outperform in 2026 due to valuation reset; Bernstein remains Underperform.",
+      "content": "April 2026 GLP-1 financial landscape summary:\n\n1. ELI LILLY: 2026 guidance $80-83B (+25% YoY midpoint), upside from Foundayo approval (Apr 1) and MFN deal ($245/mo government price, $27B US manufacturing investment committed). Q4 2025 Mounjaro+Zepbound = $11.7B. US GLP-1 market share climbed to 60.5% (+2.6pp vs Q3 2025). Retatrutide TRIUMPH-4 data (28.7% weight loss) reinforces 2027+ growth runway.\n\n2. NOVO NORDISK: 2026 guidance -5% to -13% at constant FX. Stock at $36.05 (-44% YoY from $81 high). Market cap plunged from ~$640B (peak 2024) to ~$170B. Triple headwinds: (a) India patent expiry + 48% price cut, (b) MFN deal cutting US prices, (c) Foundayo competing with oral Wegovy. Defensive actions: Abbott/Emcure partnerships in India, 9,000 job cuts, €432M Ireland oral GLP-1 facility, $10B US manufacturing commitment.\n\n3. MARKET SHARE: Lilly 60.5% / Novo 39.1% — the widest gap ever. By dollar volume, Lilly now dominates; by patient count, Novo still slightly ahead due to semaglutide vs tirzepatide prescribing patterns persisting.\n\n4. INDIA CONTEXT: Dr. Reddy's captured ₹1.9 Cr early post-launch sales (limited due to launch timing). Sun Pharma got HC export approval. Combined Indian generics projected ₹50,000 Cr global revenue opportunity over 5 years.",
+      "tags": [
+        "revenue",
+        "us",
+        "india",
+        "eli-lilly",
+        "novo-nordisk",
+        "earnings",
+        "market-share",
+        "q1-2026",
+        "april-2026",
+        "mfn"
+      ]
+    },
+    {
       "id": "rev-entry-010",
       "timestamp": "2026-03-30T00:00:00Z",
       "source_url": "https://www.towardshealthcare.com/insights/glp-1-receptor-agonist-market-sizing",
@@ -167,7 +196,18 @@
       "market": "both",
       "summary": "Global GLP-1 receptor agonist market estimated at $70.08 billion in 2025, expected to reach $86.93 billion in 2026 at a CAGR of 12.78%, with projections of $201.79 billion by 2033. India's GLP-1 market is valued at USD 110.55 million (2024) growing at 34.3% CAGR through 2030, projected to reach USD 730.8 million by 2033.",
       "content": "The latest market sizing data from multiple research firms provides the most comprehensive picture of the global GLP-1 market as of early 2026. Grand View Research estimates the global GLP-1 receptor agonist market at USD 70.08 billion in 2025, set to reach USD 86.93 billion in 2026 growing at 12.78% CAGR to reach USD 201.79 billion by 2033. Eli Lilly's tirzepatide (Mounjaro + Zepbound) emerged as the world's best-selling drug in 2025 with combined revenue of $36.5 billion — outpacing Novo Nordisk's semaglutide portfolio at $33 billion and Merck's Keytruda at $31.7 billion. Lilly's total FY2025 revenue reached $65.2 billion (up from $45 billion in 2024), with 2026 guidance of $80-83 billion. Novo Nordisk guided 2026 revenue to decline 5-13% at constant exchange rates, as IRA pricing, exclusivity losses in India/China/Canada/Brazil, and Catalent integration costs bite. In India specifically, the GLP-1 market was valued at USD 110.55 million in 2024, growing at 34.3% CAGR through 2030, with projections to reach USD 730.8 million by 2033. The Q1 2026 results for both Novo Nordisk (expected May 6) and Eli Lilly (expected late April) are not yet available.",
-      "tags": ["revenue", "global", "market-size", "glp-1", "2026", "grand-view", "india", "eli-lilly", "novo-nordisk", "forecast"]
+      "tags": [
+        "revenue",
+        "global",
+        "market-size",
+        "glp-1",
+        "2026",
+        "grand-view",
+        "india",
+        "eli-lilly",
+        "novo-nordisk",
+        "forecast"
+      ]
     },
     {
       "id": "rev-entry-011",
@@ -177,7 +217,17 @@
       "market": "both",
       "summary": "Eli Lilly's FY2025 tirzepatide data confirmed: Mounjaro $23B + Zepbound $13.5B = $36.5B combined, making tirzepatide the world's best-selling drug. Q4 2025 alone: Mounjaro $7.4B (+110% YoY), Zepbound $4.3B (+123% YoY). Q1 2026 results not yet reported; expected late April/early May 2026.",
       "content": "Comprehensive review of Eli Lilly's FY2025 tirzepatide performance and 2026 outlook. Full-year 2025: Mounjaro generated approximately $23 billion in revenue while Zepbound contributed $13.5 billion, for a combined tirzepatide franchise of $36.5 billion — representing 56% of Lilly's $65.2 billion total revenue. Q4 2025 specifically: Mounjaro $7.4 billion (up 110% YoY, beat estimate of $6.7 billion), Zepbound $4.3 billion (up 123% YoY, beat estimate of $3.8 billion). At midpoint of 2026 guidance ($80-83 billion), Lilly expects approximately 25% revenue growth. Pricing headwinds are real — the company guided to low-to-mid-teens percentage decline in global pricing driven by lower Medicaid rates, direct-to-consumer Zepbound pricing, and broader policy changes. Two key 2026 catalysts: (1) orforglipron FDA submission for obesity expected in 2026, with GlobalData projecting $11 billion peak sales by 2031; (2) retatrutide regulatory submission also expected in 2026 following TRIUMPH Phase 3 success. Lilly is positioned to lead pharma by total revenue in 2026 for the first time. Q1 2026 earnings not yet reported as of March 30, 2026.",
-      "tags": ["revenue", "eli-lilly", "tirzepatide", "mounjaro", "zepbound", "fy2025", "q4-2025", "orforglipron", "guidance"]
+      "tags": [
+        "revenue",
+        "eli-lilly",
+        "tirzepatide",
+        "mounjaro",
+        "zepbound",
+        "fy2025",
+        "q4-2025",
+        "orforglipron",
+        "guidance"
+      ]
     },
     {
       "id": "rev-entry-008",
@@ -187,7 +237,15 @@
       "market": "both",
       "summary": "Eli Lilly's Q4 2025 results showed Mounjaro + Zepbound combined $11.7 billion in the quarter alone. Lilly's 2026 guidance of $80-83 billion implies ~25% revenue growth, with US GLP-1 market share at 60.5% vs Novo's 39.1%. Lilly's total FY2025 GLP-1 revenue reached $22.6 billion vs Novo's $31.2 billion.",
       "content": "Eli Lilly's Q4 2025 earnings marked a decisive inflection in the GLP-1 leadership race. Mounjaro and Zepbound combined for $11.7 billion in Q4 revenue alone — nearly as much as Novo Nordisk generates from its entire GLP-1 portfolio in a quarter. For the full year, Lilly's incretin portfolio reached approximately $22.6 billion, growing at 96% EPS growth. Lilly's 2026 guidance of $80-83 billion implies ~25% revenue growth, driven primarily by continued GLP-1 volume growth and the anticipated launch of orforglipron (oral GLP-1) in Q2 2026. Critically, Lilly's US GLP-1 market share climbed to 60.5% in Q4 2025, up 2.6 percentage points from the prior quarter, while Novo's fell to 39.1%. Truist Securities estimates Lilly's incretin franchise could reach $101 billion at peak across Mounjaro, Zepbound, and orforglipron. In contrast, Novo Nordisk issued a stark warning alongside its Q4 2025 results: the company expects sales and profit to decline 5-13% in 2026, driven by US price cuts under IRA negotiations (Ozempic, Wegovy, Rybelsus prices effective 2027), exclusivity losses in China, Brazil, Canada, and India, and gross margin compression from the $16.5 billion Catalent facility integration. Novo announced 9,000 position reductions to save DKK 8 billion annually by end-2026.",
-      "tags": ["revenue", "eli-lilly", "novo-nordisk", "q4-2025", "market-share", "guidance", "earnings"]
+      "tags": [
+        "revenue",
+        "eli-lilly",
+        "novo-nordisk",
+        "q4-2025",
+        "market-share",
+        "guidance",
+        "earnings"
+      ]
     },
     {
       "id": "rev-entry-009",
@@ -197,7 +255,15 @@
       "market": "india",
       "summary": "India's GLP-1 injectable market grew 177% YoY to ₹1,446 crore in MAT February 2026, ahead of the semaglutide patent expiry. Nomura Research upgraded the 5-year market forecast to ₹12,000 crore. The generic wave is expected to add a further ₹5,000+ crore incremental opportunity over the next 12-15 months.",
       "content": "The India GLP-1 market's pre-expiry growth trajectory underscores the magnitude of the opportunity. India's injectable GLP-1 segment grew 177% year-on-year to ₹1,446 crore in Moving Annual Turnover (MAT) as of February 2026, before even one generic had launched. This growth was driven by Novo Nordisk's Ozempic and Wegovy (launched June 2025), Eli Lilly's Mounjaro (launched March 2025 via Cipla at ~₹100 crore in early months), and the broader market awareness driven by social media and celebrity usage. Post-patent expiry, Nomura Research upgraded its India semaglutide market forecast to ₹12,000 crore over five years — a 7.5x expansion from the current ₹1,600 crore base. This aligns with Jefferies' estimate that the domestic market could eventually reach $1 billion. Systematix Research is even more bullish on short-term growth, projecting ₹5,000+ crore incremental opportunity within just 12-15 months from generic launches. The key growth driver is affordable access: at ₹1,290-₹1,800/month (vs ₹8,800-₹16,400 for Ozempic), the target population expands dramatically from affluent urban patients to middle-class India. Even a 1% penetration of India's 254 million obese adults would represent 2.5 million patients — a 12x increase from the current 200,000.",
-      "tags": ["revenue", "india", "market-size", "nomura", "growth-forecast", "generics", "semaglutide"]
+      "tags": [
+        "revenue",
+        "india",
+        "market-size",
+        "nomura",
+        "growth-forecast",
+        "generics",
+        "semaglutide"
+      ]
     },
     {
       "id": "rev-entry-001",

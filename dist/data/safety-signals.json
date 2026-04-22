@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 11,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 15,
     "key_metrics": [
       {
         "label": "Active Safety Signals",
@@ -19,6 +19,18 @@
       {
         "label": "New Signal (Wegovy HD)",
         "value": "Dysesthesia 22.9% at 7.2mg"
+      },
+      {
+        "label": "FDA Suicide Risk Finding (Apr)",
+        "value": "NO increased suicide risk found — warning label removal requested"
+      },
+      {
+        "label": "FDA Foundayo Safety Request",
+        "value": "Additional data on liver, cardiovascular MACE, gastric retention"
+      },
+      {
+        "label": "Novo PADE Status",
+        "value": "Warning letter Mar 5 remains active — systemic reporting failures"
       }
     ]
   },
@@ -65,6 +77,27 @@
   ],
   "entries": [
     {
+      "id": "safety-entry-012",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.pharmacytimes.com/view/fda-finds-no-increased-suicide-risk-with-glp-1-medications-requests-removal-of-warning-labels",
+      "source_name": "Pharmacy Times / FDA / PSLHub",
+      "market": "us",
+      "summary": "Major April 2026 safety updates: (1) FDA formally concluded NO increased suicide risk with GLP-1 medications and is requesting removal of warning labels — a major relief for patient access and prescribing. (2) FDA simultaneously requested additional Foundayo safety data from Lilly (liver, cardiovascular MACE, gastric retention, lactation exposure). Foundayo remains approved and available. (3) Novo Nordisk's March 5 warning letter regarding 3 unreported deaths + systemic PADE failures remains active. (4) Wegovy HD 7.2mg continues to show elevated dysesthesia (22.9% vs 6.0% at 2.4mg).",
+      "content": "April 2026 safety signal landscape — three major developments:\n\n1. SUICIDE RISK RESOLVED: The FDA formally concluded that GLP-1 medications (semaglutide, tirzepatide, liraglutide) do NOT increase suicide risk, based on a comprehensive review of post-marketing data including FAERS, large real-world studies, and sponsor-submitted analyses. The agency has requested removal of suicide-related warning labels from GLP-1 products. This is a significant win for patient access — the suicide concern was one of the most prominent barriers to obesity indication coverage, particularly by commercial insurers requiring enhanced prior authorization. Net effect: lower prescribing friction, reduced patient anxiety, simplified labeling.\n\n2. FOUNDAYO SAFETY FOLLOW-UP: The FDA approved Foundayo on April 1 but simultaneously requested additional post-market safety data from Lilly in four areas: (a) drug-induced liver injury signal (hepatic transaminase elevations seen in some Phase 3 patients), (b) cardiovascular MACE (heart attack, stroke, CV death), (c) retained gastric contents (GI motility disruption), (d) lactation exposure. Lilly has until July 2026 to submit initial findings. Foundayo remains FDA-approved and widely available during the review.\n\n3. NOVO NORDISK PADE STATUS: The FDA's March 5, 2026 warning letter regarding three unreported patient deaths (including one suicide) and systemic post-approval drug experience (PADE) reporting failures remains active. Novo has submitted remediation plans but the FDA has not yet closed the case.\n\n4. WEGOVY HD DYSESTHESIA: The 7.2mg high-dose formulation continues to show elevated dysesthesia (abnormal skin sensations) at 22.9% of patients vs 6.0% at the standard 2.4mg dose. No new clinical actions, but the finding informs risk-benefit discussions for the high-dose formulation.\n\n5. FAERS INDICATION DIFFERENCES: The Apr 2 FAERS analysis confirmed distinct adverse event profiles — T2DM patients show more retinopathy signals; obesity patients show more psychiatric signals. This reinforces the need for indication-specific prescriber education.",
+      "tags": [
+        "safety",
+        "us",
+        "fda",
+        "suicide-risk",
+        "foundayo",
+        "novo-nordisk",
+        "faers",
+        "wegovy-hd",
+        "dysesthesia",
+        "april-2026"
+      ]
+    },
+    {
       "id": "safety-entry-010",
       "timestamp": "2026-03-30T00:00:00Z",
       "source_url": "https://www.nature.com/articles/s41598-025-01206-9",
@@ -72,7 +105,19 @@
       "market": "both",
       "summary": "Pharmacovigilance analysis of FDA FAERS database (2005-2024) across 28,953 neurological adverse event reports for six GLP-1 receptor agonists identified 19 distinct neurological signals including dizziness, tremor, dysgeusia, parosmia, allodynia, and hypoglycemic unconsciousness — with a median time-to-onset of 32 days and 45% of events within 30 days.",
       "content": "A pharmacovigilance analysis published in Scientific Reports analyzed all neurological adverse event (NAE) reports for six GLP-1 receptor agonists in the FDA FAERS database from 2005 through 2024. Among 28,953 NAE reports, 19 distinct NAE signals were identified across drugs including semaglutide, liraglutide, and tirzepatide. Notable signals include: dizziness, tremor, dysgeusia (taste disturbance), lethargy, taste disorder, presyncope, parosmia (altered smell), allodynia (pain from non-painful stimuli), and hypoglycemic unconsciousness. Time-to-onset analysis revealed a median latency of 32 days (IQR 7-122) for GLP-1 RA-related NAEs, with 45.28% occurring within 30 days of treatment initiation — suggesting these signals emerge early in therapy. This study is notable for being the first comprehensive FAERS analysis of neurological AEs specifically for GLP-1 RAs across the full class. The allodynia and parosmia signals are particularly novel — these had not been prominently featured in prescribing information or previous safety reviews. This study does not establish causality but provides signal-level evidence that may inform future pharmacovigilance monitoring and label updates. The data is especially relevant as millions of new patients in India begin generic semaglutide therapy without the specialist supervision typical of innovator drug prescriptions.",
-      "tags": ["safety", "neurological", "faers", "semaglutide", "glp-1", "adverse-events", "pharmacovigilance", "dizziness", "allodynia", "parosmia", "tremor"]
+      "tags": [
+        "safety",
+        "neurological",
+        "faers",
+        "semaglutide",
+        "glp-1",
+        "adverse-events",
+        "pharmacovigilance",
+        "dizziness",
+        "allodynia",
+        "parosmia",
+        "tremor"
+      ]
     },
     {
       "id": "safety-entry-008",
@@ -82,7 +127,17 @@
       "market": "us",
       "summary": "FDA warning letter to Novo Nordisk (March 5, 2026) cited systemic PADE reporting failures: 3 unreported deaths (including 1 suicide), delayed reporting of suicidal ideation, and improper invalidation of stroke cases. FDA said failures affect Novo's 'entire product portfolio.' Novo committed to retrospective review of deviations back to June 2017.",
       "content": "The FDA's March 5, 2026 warning letter to Novo Nordisk is the most serious regulatory action against the company since the GLP-1 boom began. An FDA Bioresearch Monitoring Program inspection (January 13 – February 7, 2025) identified systemic failures in Novo's post-marketing adverse drug experience (PADE) reporting: (1) Two patient deaths linked to semaglutide (dated January 30 and December 20, 2024) were not reported to FDA within the required 15-day window; (2) One patient suicide was not reported at all; (3) One suicidal ideation case was submitted late; (4) A stroke case was improperly invalidated because the patient reported it was 'unrelated' — FDA notes the patient's assessment is not grounds for invalidation; (5) A semaglutide suicidal ideation report received December 2024 was not medically reviewed until the FDA inspection began. Root cause identified: Novo's contractor required explicit patient consent before following up on adverse event reports — a consent requirement not mandated by PADE regulations. FDA emphasized violations are 'systemic' and affect 'the entire product portfolio' of semaglutide, liraglutide, nedosiran sodium, and estradiol. Novo Nordisk responded by committing to SOP revisions, in-house intake shift, vendor oversight strengthening, and retrospective review of all closed pharmacovigilance deviations from June 2017 onward. Novo said the warning letter is 'not expected to affect production' or 2026 guidance.",
-      "tags": ["safety", "fda", "novo-nordisk", "warning-letter", "adverse-events", "deaths", "suicide", "pade", "systemic-failure"]
+      "tags": [
+        "safety",
+        "fda",
+        "novo-nordisk",
+        "warning-letter",
+        "adverse-events",
+        "deaths",
+        "suicide",
+        "pade",
+        "systemic-failure"
+      ]
     },
     {
       "id": "safety-entry-009",
@@ -92,7 +147,16 @@
       "market": "us",
       "summary": "The FDA-approved Wegovy HD (semaglutide 7.2mg) carries a new dysesthesia signal: 22.9% of patients reported altered skin sensation (burning, pain, sensitivity) at the high dose vs 6.0% at 2.4mg and 0.5% on placebo. The FDA is conducting further investigations. GI adverse events also increased to 70.8% vs 61.2% at 2.4mg.",
       "content": "Wegovy HD (semaglutide 7.2mg/0.5mL), approved March 19, 2026 under the FDA's Commissioner's National Priority Voucher program just 54 days after filing, carries an emerging safety signal not seen at lower doses: dysesthesia, a form of altered or abnormal skin sensation described as burning, hypersensitivity, tingling, or pain. In the pivotal trial, dysesthesia occurred in 22.9% of patients on semaglutide 7.2mg, compared to 6.0% on the standard 2.4mg dose and just 0.5% on placebo — a dose-dependent signal that increases more than 38-fold versus placebo at the new dose. The FDA noted these reactions generally resolved on their own or with dose reduction, but stated it is 'currently conducting further investigations regarding this drug reaction.' Other adverse event increases at the 7.2mg dose include: total GI adverse events 70.8% (vs 61.2% at 2.4mg), nausea 47.9% vs 42.1%, vomiting 23.4% vs 19.0%, and serious adverse events 6.8% vs 5.5%. The approval was granted under expedited review for continued weight loss maintenance in patients who plateaued at 2.4mg, addressing a key unmet need but with heightened safety monitoring requirements. This safety profile will be important context for Elevate Now and similar programs deciding whether to adopt the higher dose.",
-      "tags": ["safety", "wegovy-hd", "semaglutide", "dysesthesia", "fda-approval", "new-dose", "skin-reaction", "dose-dependent"]
+      "tags": [
+        "safety",
+        "wegovy-hd",
+        "semaglutide",
+        "dysesthesia",
+        "fda-approval",
+        "new-dose",
+        "skin-reaction",
+        "dose-dependent"
+      ]
     },
     {
       "id": "safety-entry-001",

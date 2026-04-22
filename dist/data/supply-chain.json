@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supply-chain",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 11,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 15,
     "key_metrics": [
       {
         "label": "Active Shortages",
@@ -23,6 +23,14 @@
       {
         "label": "India Supply Risk",
         "value": "Generic cold-chain compliance under DCGI scrutiny"
+      },
+      {
+        "label": "Latest Status (Apr 21)",
+        "value": "No FDA shortages across all GLP-1 products — stable supply"
+      },
+      {
+        "label": "India Export Enabler",
+        "value": "Dr Reddy's + Sun Pharma have HC export clearance"
       }
     ]
   },
@@ -64,6 +72,27 @@
   ],
   "entries": [
     {
+      "id": "sc-entry-012",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+      "source_name": "FDA / Outlook Business / Pharmacompass",
+      "market": "both",
+      "summary": "April 2026 supply chain snapshot: All major GLP-1 products (Ozempic, Wegovy oral + injectable, Mounjaro, Zepbound, Foundayo) remain off FDA's Drug Shortage Database. Foundayo launched via LillyDirect + Amazon Pharmacy (same-day delivery in 3,000+ locations) on April 6. Indian generic manufacturers are ramping export operations post-HC clearance for Dr Reddy's and Sun Pharma, stabilizing global supply for post-patent markets (India, Canada, Brazil, Turkey).",
+      "content": "April 2026 global GLP-1 supply status:\n\n1. US DOMESTIC: No active FDA shortages. Ozempic, Wegovy (injectable + pill), Mounjaro, Zepbound, Foundayo all available. Foundayo distribution via LillyDirect + Amazon Pharmacy same-day delivery (3,000 cities scaling to 4,500 by end 2026). Localized stock-outs continue for Ozempic 2mg pen but rarely exceed 24-48 hours.\n\n2. INDIA EXPORT ENABLEMENT: Dr Reddy's and Sun Pharma both received Delhi HC clearance to export semaglutide. This opens Canada, Brazil, Turkey, and 80+ post-patent markets to Indian supply. Dr Reddy's targets 12M pens/year across 87 countries; Hetero covers 75+ with Truglyx/Rolmodl/Moto G portfolio.\n\n3. INDIA DOMESTIC: Cold chain compliance remains #1 operational risk — DCGI flagged storage/transport violations at several generic launch sites. Vial formats particularly vulnerable given informal distribution channels.\n\n4. MANUFACTURING CAPACITY: Novo Ireland (€432M, 2027-28), Lilly LEAP NC (Q3 2026), and the MFN deal's $37B combined US manufacturing commitment will expand durable capacity through 2028. India domestic capacity expected ~2M pens/month by end 2026.",
+      "tags": [
+        "supply-chain",
+        "us",
+        "india",
+        "april-2026",
+        "foundayo",
+        "amazon-pharmacy",
+        "lillydirect",
+        "export",
+        "dr-reddys",
+        "sun-pharma"
+      ]
+    },
+    {
       "id": "sc-entry-011",
       "timestamp": "2026-04-04T00:00:00Z",
       "source_url": "https://www.india-briefing.com/news/ozempic-generic-glp1-drug-manufacturing-race-in-india-43676.html/",
@@ -71,7 +100,18 @@
       "market": "india",
       "summary": "India is racing to build GLP-1 API and fill-finish capacity for global export. Dr. Reddy's targets 12 million pens/year across 87 countries. Hetero's three-brand strategy covers 75+ countries. Cold-chain compliance remains the #1 operational risk for Indian generic manufacturers — DCGI has flagged storage/transport violations. CDMOs are responding with dedicated injectable lines and cold-chain logistics partnerships.",
       "content": "India's semaglutide generic wave is creating a manufacturing capacity buildout story that extends well beyond domestic supply. Key supply chain dynamics as of April 2026:\n\n1. EXPORT AMBITIONS: Dr. Reddy's has committed to selling 12 million pens in year 1 across 87 countries. Hetero's Truglyx/Rolmodl/Moto G are targeting 75+ countries. Sun Pharma's Noveltreat/Sematrinity pens are manufactured in Europe and imported, giving them regulatory standing in markets where Indian manufacturing may face additional scrutiny.\n\n2. COLD CHAIN: The critical constraint for Indian generic semaglutide is cold-chain compliance. Semaglutide requires 2-8°C storage and cannot be left at room temperature for extended periods. DCGI has identified cold-chain violations at several generic launch sites. Companies that invested early in temperature-controlled logistics (refrigerated vans, validated cold-storage warehouses, pharmacy-level refrigeration monitoring) are better positioned for export regulatory approvals.\n\n3. API SUPPLY: India's semaglutide API production is concentrated among a handful of manufacturers. Divi's Laboratories, Aurobindo, and Neuland Laboratories are key API suppliers. A disruption in API supply could affect multiple branded generic manufacturers simultaneously — representing a systemic supply risk that doesn't exist with diversified small-molecule generics.\n\n4. CDMO OPPORTUNITY: 2025 GLP-1 impacts on CDMOs translate to significant 2026 opportunities. Injectable-specialized CDMOs in India are investing in dedicated semaglutide fill-finish lines, with demand from 15+ branded manufacturers seeking contract manufacturing to scale quickly without full capex investment.\n\n5. US/EU SUPPLY: Both Novo Nordisk and Eli Lilly have largely resolved their supply constraints. The Eli Lilly LEAP facility (Research Triangle Park, NC) is on track for Q3 2026 completion, adding significant tirzepatide capacity. Novo's Kalundborg expansion in Denmark provides additional Wegovy supply. Higher doses (12.5mg tirzepatide, 7.2mg Wegovy HD) may still see sporadic pharmacy-level stock variation.",
-      "tags": ["supply-chain", "india", "cold-chain", "api", "cdmo", "dr-reddys", "hetero", "export", "manufacturing", "april-2026"]
+      "tags": [
+        "supply-chain",
+        "india",
+        "cold-chain",
+        "api",
+        "cdmo",
+        "dr-reddys",
+        "hetero",
+        "export",
+        "manufacturing",
+        "april-2026"
+      ]
     },
     {
       "id": "sc-entry-010",
@@ -81,7 +121,18 @@
       "market": "us",
       "summary": "Comprehensive March 2026 supply status: Ozempic, Wegovy (injectable and pill), Mounjaro, and Zepbound all widely available with no active FDA shortages. The 2mg Ozempic pen may still face sporadic localized stock-outs. Novo NovoCare self-pay pricing now $349/month (most doses) with $199/month introductory offer for new patients.",
       "content": "As of late March 2026, the US GLP-1 supply chain has normalized across all major products: Ozempic (all doses), Wegovy injectable (all doses), Wegovy pill (all doses), Rybelsus, Mounjaro (all doses), and Zepbound (all doses) are available without active FDA Drug Shortage Database listings. Major chain pharmacies — CVS, Walgreens, Walmart, and Costco — report consistent stock levels nationally. Localized stock-outs can still occur at specific pharmacy locations, particularly for the Ozempic 2mg pen, but medications are generally findable within 24-48 hours at alternative locations. Saxenda (liraglutide for obesity) and Victoza (liraglutide for T2DM) remain in shortage. Cost context for uninsured patients: Ozempic cash price ranges $800-$1,100/month at retail, but Novo NovoCare self-pay pricing is $349/month for most doses (introductory $199/month for new patients). Wegovy cash price $936-$1,349/month, but oral Wegovy pill available at $149/month through NovoCare. Mounjaro/Zepbound through Lilly's direct savings program available at $550/month for eligible patients. The Medicare GLP-1 Bridge (July 2026) will significantly expand access for Medicare beneficiaries at $50/month copay.",
-      "tags": ["supply-chain", "us", "ozempic", "wegovy", "mounjaro", "zepbound", "shortage-resolved", "pricing", "novocare", "2026"]
+      "tags": [
+        "supply-chain",
+        "us",
+        "ozempic",
+        "wegovy",
+        "mounjaro",
+        "zepbound",
+        "shortage-resolved",
+        "pricing",
+        "novocare",
+        "2026"
+      ]
     },
     {
       "id": "sc-entry-009",
@@ -91,7 +142,16 @@
       "market": "us",
       "summary": "As of late March 2026: Ozempic, Wegovy, Mounjaro, Zepbound, and Rybelsus all available with no active shortages. Saxenda (liraglutide) and Victoza remain in shortage — FDA database shows 9 shortage records including limited Victoza availability as of March 16, 2026. Oral Wegovy pill (launched January 2026) has never experienced a shortage.",
       "content": "The GLP-1 supply chain has largely normalized by March 2026. All major semaglutide products (Ozempic, Wegovy injectable, Rybelsus, Wegovy pill) and tirzepatide products (Mounjaro, Zepbound) are available without active FDA shortage listings. Localized stock-outs still occur at individual pharmacies due to distribution timing, but medications are generally findable within 24-48 hours at alternative locations. The notable exception: liraglutide products remain in shortage. The FDA database shows 9 shortage records including limited availability of Victoza (1.8mg/3mL pen), with Saxenda (obesity indication) also experiencing constrained supply as of March 16, 2026. Novo Nordisk increased manufacturing capacity at facilities in Denmark, France, and North Carolina, now producing enough semaglutide to meet 15-20 million prescriptions annually plus projected growth. The December 2024 Catalent acquisition (three fill-finish sites in Italy, Belgium, and Indiana) significantly expanded fill-finish capacity. Eli Lilly's LEAP Innovation Park in Lebanon, Indiana is on track for Q3 2026 completion, which should further resolve any residual tirzepatide supply constraints at higher maintenance doses. The oral Wegovy pill (launched January 2026) has emerged as the most supply-stable GLP-1 option due to tablet manufacturing's inherently simpler supply chain vs injectables.",
-      "tags": ["supply-chain", "us", "shortage-resolved", "liraglutide-shortage", "saxenda", "victoza", "novo-nordisk", "lilly-leap"]
+      "tags": [
+        "supply-chain",
+        "us",
+        "shortage-resolved",
+        "liraglutide-shortage",
+        "saxenda",
+        "victoza",
+        "novo-nordisk",
+        "lilly-leap"
+      ]
     },
     {
       "id": "sc-entry-001",

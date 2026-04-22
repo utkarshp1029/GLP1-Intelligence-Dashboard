@@ -3,6 +3,7 @@ import { useState, useEffect, useCallback } from 'react';
 import AppShell from './components/layout/AppShell';
 import Dashboard from './pages/Dashboard';
 import SectionDetail from './pages/SectionDetail';
+import UpdateStatus from './pages/UpdateStatus';
 import { useMarketFilter } from './hooks/useMarketFilter';
 import { useWhatsNew } from './hooks/useWhatsNew';
 import { SECTIONS } from './config/sections';
@@ -62,6 +63,7 @@ export default function App() {
               />
             }
           />
+          <Route path="/update-status" element={<UpdateStatus />} />
         </Route>
       </Routes>
     </BrowserRouter>

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 12,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 17,
     "key_metrics": [
       {
         "label": "Tracked Facilities",
@@ -23,6 +23,18 @@
       {
         "label": "India API Dependency Risk",
         "value": "Chinese peptide intermediates — supply chain vulnerability"
+      },
+      {
+        "label": "India API China Dependency",
+        "value": "~80% of starting materials from Chinese suppliers — key supply risk"
+      },
+      {
+        "label": "Novo US Manufacturing Commit",
+        "value": "$10B (part of MFN deal with Trump administration)"
+      },
+      {
+        "label": "Lilly US Manufacturing Commit",
+        "value": "$27B (part of MFN deal)"
       }
     ]
   },
@@ -83,6 +95,29 @@
   ],
   "entries": [
     {
+      "id": "mfg-entry-013",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.outlookbusiness.com/corporate/one-goal-50-brands-inside-the-scramble-for-indias-post-patent-semaglutide-market",
+      "source_name": "Outlook Business / Pharmacompass / ChemXpert",
+      "market": "india",
+      "summary": "April 2026 manufacturing update: Trump MFN deal triggers $37B in combined US manufacturing commitments (Lilly $27B + Novo $10B). India API landscape consolidating around Neuland (peptide specialist), Aurobindo, and Divis — but ~80% of starting materials still sourced from China, a structural supply chain risk. MSN Laboratories' SEMABEST launch in April (first fully integrated Made-in-India semaglutide with API + pen) validates the vertical integration thesis.",
+      "content": "April 2026 manufacturing landscape — three major developments:\n\n1. TRUMP MFN MANUFACTURING COMMITMENTS: Eli Lilly committed $27B in US manufacturing investment and Novo Nordisk $10B as part of the MFN pricing deal (April 2026). Lilly's LEAP facility in Research Triangle Park, NC remains on track for Q3 2026 completion. Novo's Ireland €432M oral GLP-1 facility is a complementary ex-US investment. These commitments represent the largest private manufacturing buildout in pharmaceutical history, directly tied to government pricing policy.\n\n2. INDIA API CHAIN — CHINESE DEPENDENCY RISK: India's top semaglutide API producers (Neuland, Aurobindo, Divis Laboratories) have scaled aggressively post-patent expiry. However, ~80% of starting materials for peptide synthesis are imported from Chinese suppliers. This creates a systemic supply risk: any disruption to China-India peptide trade (geopolitical, tariff, logistics) would impact 40+ Indian generic brands simultaneously. MSN Laboratories' April SEMABEST launch — marketed as the first \"fully integrated Made-in-India\" semaglutide (API + formulation + pen device all domestic) — positions as a hedge against this risk.\n\n3. CDMO OPPORTUNITY: Contract manufacturing organizations are scaling dedicated peptide fill-finish lines in India. Demand from 15+ Indian brand owners + exports to 40+ post-patent countries creates sustained CDMO revenue opportunity through 2027-2028. Lonza and Catalent are expanding semaglutide-adjacent capacity; Lilly acquired three ex-Catalent sites (Italy, Belgium, Indiana) during 2025-early 2026 to internalize peptide CDMO economics.",
+      "tags": [
+        "manufacturing",
+        "us",
+        "india",
+        "mfn",
+        "trump",
+        "api",
+        "china-dependency",
+        "neuland",
+        "aurobindo",
+        "cdmo",
+        "msn",
+        "april-2026"
+      ]
+    },
+    {
       "id": "mfg-entry-011",
       "timestamp": "2026-03-30T00:00:00Z",
       "source_url": "https://edition.cnn.com/2026/02/07/india/india-semaglutide-patent-expiry-intl-hnk-dst",
@@ -90,7 +125,18 @@
       "market": "india",
       "summary": "CNN's February 2026 analysis of India's semaglutide manufacturing buildout identifies Biocon (₹800 Cr / $96M investment, Bengaluru injectables facility targeting 2027 launch), Dr. Reddy's (87-country global rollout strategy), and OneSource ($100M investment) as the top three Indian manufacturers building for global export — not just the domestic market.",
       "content": "CNN's 'Is India about to make Ozempic-like weight-loss drugs a whole lot cheaper?' (February 7, 2026) provides the most comprehensive international analysis of India's semaglutide manufacturing ambitions. Key findings: Biocon is investing ₹800 crore (~$96 million) in R&D and manufacturing capabilities and has commissioned a new injectables facility in Bengaluru designed for both domestic and international markets (total investment ~$100 million), targeting a 2027 launch with plans to export to Brazil and Canada. Dr. Reddy's is pursuing regulatory approvals in 87 countries, with CEO Erez Israeli framing semaglutide as a global generics franchise, not just an India play. OneSource is investing $100 million to ramp capacity 5x over 18-24 months. The article notes that India's manufacturing edge isn't just cost: it's the convergence of established biosimilar infrastructure, experienced peptide synthesis teams from prior drug development, and GMP certifications already recognized by WHO, EMA, and several national health agencies. The manufacturing buildout is occurring alongside import dependencies: most Indian manufacturers currently rely on imported peptide intermediate materials from China, adding supply chain risk. Resolving this dependency through domestic intermediate synthesis will be a medium-term challenge for the sector.",
-      "tags": ["manufacturing", "india", "biocon", "dr-reddys", "onesource", "global-export", "bengaluru", "cnn", "peptide", "api"]
+      "tags": [
+        "manufacturing",
+        "india",
+        "biocon",
+        "dr-reddys",
+        "onesource",
+        "global-export",
+        "bengaluru",
+        "cnn",
+        "peptide",
+        "api"
+      ]
     },
     {
       "id": "mfg-entry-009",
@@ -100,7 +146,16 @@
       "market": "india",
       "summary": "Neuland Laboratories announced its dedicated peptide CDMO facility in Bonthapally, Hyderabad, opening summer 2026 with $30M+ in client commitments secured. Four modular automated SPPS/LPPS units capable of 100+ kg annually, with space for expansion. Neuland targets the global GLP-1 API market as India's peptide CDMO sector scales from $80M to a 14% CAGR trajectory.",
       "content": "Neuland Laboratories, a specialist peptide CDMO based in Hyderabad, is one of the first Indian companies to build a dedicated GLP-1 API manufacturing facility following the March 2026 semaglutide patent expiry. The Bonthapally facility (40 miles from Hyderabad) is expected to open summer 2026, spanning five of the site's 17 acres, with four fully automated modular units capable of producing over 100 kg of peptide API annually using both solid-phase peptide synthesis (SPPS) and liquid-phase peptide synthesis (LPPS). The facility has already secured over $30 million in client commitments before opening, indicating strong demand from India's 40+ generic semaglutide manufacturers who need reliable API supply. The design incorporates ongoing expansion capability, with space for additional SPPS synthesizers and multiple LPPS reactors. Neuland brings specialized GMP expertise in peptide synthesis that most Indian API manufacturers lack, positioning it as a critical CDMO partner for the generic semaglutide wave. India's overall peptide CDMO sector — currently an $80 million segment — is projected to grow at 14% CAGR as the country transforms into a global hub for GLP-1 API manufacturing. This is reinforced by India's PLI scheme with ₹6,940 crore ($850M) in incentives for 35 new greenfield API manufacturing facilities.",
-      "tags": ["manufacturing", "india", "neuland", "peptide-cdmo", "hyderabad", "api", "expansion", "glp1"]
+      "tags": [
+        "manufacturing",
+        "india",
+        "neuland",
+        "peptide-cdmo",
+        "hyderabad",
+        "api",
+        "expansion",
+        "glp1"
+      ]
     },
     {
       "id": "mfg-entry-010",
@@ -110,7 +165,17 @@
       "market": "india",
       "summary": "OneSource Specialty Pharma (Bengaluru) is investing $100 million to scale up semaglutide manufacturing capacity, targeting $400 million in annual revenue within three years. As a first mover with biosynthetic capabilities, OneSource positions as a CDMO serving both domestic Indian generics manufacturers and global export markets.",
       "content": "OneSource Specialty Pharma, headquartered in Bengaluru and affiliated with Concord Biotech (now operating as OneSource), is emerging as a significant first mover in India's generic semaglutide manufacturing race. The company is investing $100 million to scale up semaglutide manufacturing capacity specifically, targeting $400 million in annual revenue within the next three years with semaglutide as a key contributor. OneSource is notable for its biosynthetic production capabilities — rare among Indian manufacturers who predominantly use synthetic chemistry (SPPS). Biosynthetic production, using recombinant fermentation similar to Novo Nordisk's own process at Kalundborg, offers potential cost advantages and quality consistency advantages for large-scale manufacturing. The company operates as a CDMO serving both domestic Indian generics manufacturers (who need finished dose manufacturing and fill-finish capabilities) and international clients seeking India-sourced GLP-1 API for export markets. Given that India's semaglutide patent expiry will be followed by Canada, Brazil, Turkey, and other emerging markets through 2026-2027, OneSource's capacity investments position it to serve a global market, not just the domestic Indian one. The broader India peptide manufacturing boom is supported by the government's PLI scheme directing ₹6,940 crore ($850M) toward 35 new greenfield API facilities across Gujarat, Maharashtra, and Andhra Pradesh.",
-      "tags": ["manufacturing", "india", "onesource", "bengaluru", "biosynthetic", "cdmo", "investment", "glp1", "semaglutide"]
+      "tags": [
+        "manufacturing",
+        "india",
+        "onesource",
+        "bengaluru",
+        "biosynthetic",
+        "cdmo",
+        "investment",
+        "glp1",
+        "semaglutide"
+      ]
     },
     {
       "id": "mfg-entry-001",

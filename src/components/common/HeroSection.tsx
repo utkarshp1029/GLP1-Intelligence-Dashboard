@@ -1,6 +1,7 @@
 import { useNavigate } from 'react-router';
 import type { SectionConfig } from '../../config/sections';
 import type { KeyMetric } from '../../types/common';
+import StalenessBadge from './StalenessBadge';
 
 interface HeroSectionProps {
   section: SectionConfig;
@@ -8,6 +9,7 @@ interface HeroSectionProps {
   newCount: number;
   variant: 'light' | 'gray' | 'dark';
   index: number;
+  lastUpdated?: string;
 }
 
 export default function HeroSection({
@@ -15,6 +17,7 @@ export default function HeroSection({
   metrics,
   newCount,
   variant,
+  lastUpdated,
 }: HeroSectionProps) {
   const navigate = useNavigate();
   const Icon = section.icon;
@@ -49,6 +52,7 @@ export default function HeroSection({
               {newCount} new
             </span>
           )}
+          <StalenessBadge lastUpdated={lastUpdated} />
         </div>
 
         {/* Headline */}

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "insurance-reimbursement",
-    "last_updated": "2026-04-04T00:00:00Z",
-    "entry_count": 10,
+    "last_updated": "2026-04-21T00:00:00Z",
+    "entry_count": 15,
     "key_metrics": [
       {
         "label": "US Commercial Coverage (Ozempic/T2DM)",
@@ -27,6 +27,22 @@
       {
         "label": "India Private Insurance Coverage",
         "value": "8% (GLP-1s excluded; generics may shift dynamics by 2027)"
+      },
+      {
+        "label": "Medicare GLP-1 Bridge Detail",
+        "value": "Jul 1 — all Foundayo doses, all Wegovy, Zepbound KwikPen at $50/mo"
+      },
+      {
+        "label": "BALANCE Model Medicaid Start",
+        "value": "May 2026 (state opt-in); full Medicare Part D Jan 1, 2027"
+      },
+      {
+        "label": "MFN Gov Price",
+        "value": "$245/mo (Medicare/Medicaid) for Ozempic, Wegovy, Mounjaro, Zepbound, Foundayo"
+      },
+      {
+        "label": "State Medicaid Coverage",
+        "value": "13 states cover GLP-1s for obesity (FFS, as of Jan 2026)"
       }
     ]
   },
@@ -105,6 +121,27 @@
   ],
   "entries": [
     {
+      "id": "ins-entry-011",
+      "timestamp": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge",
+      "source_name": "CMS / KFF / AMCP / Ritter Insurance",
+      "market": "us",
+      "summary": "April 2026 insurance update: Medicare GLP-1 Bridge July 1 launch details finalized: all Foundayo formulations, all Wegovy formulations, and the KwikPen formulation of Zepbound at $50/mo for eligible Part D beneficiaries. BALANCE Model Medicaid launch May 2026 (state opt-in); full Medicare Part D integration January 1, 2027. Trump MFN deal sets $245/mo government price. State Medicaid: 13 states cover GLP-1s for obesity under FFS as of January 2026. Ozempic/Rybelsus/Wegovy also selected for Medicare Drug Price Negotiation Program with MFP effective January 1, 2027.",
+      "content": "April 2026 US insurance/reimbursement landscape — most consequential shift since Wegovy approval:\n\n1. MEDICARE GLP-1 BRIDGE (July 1, 2026): CMS confirmed coverage details. Eligible Part D beneficiaries will access: all formulations of Foundayo (orforglipron), all formulations of Wegovy (semaglutide 2.4mg), and the KwikPen formulation of Zepbound (tirzepatide) at a $50/month copay. Eligibility requires BMI ≥30 or ≥27 with comorbidity plus prior authorization. The Bridge is a demonstration model running through Dec 2026; it is not subject to MFP pricing during the demo.\n\n2. BALANCE MODEL (May 2026 Medicaid, Jan 2027 Medicare): The Better Approaches to Lifestyle and Nutrition for Comprehensive hEalth (BALANCE) Model launches in Medicaid in May 2026 for states that opt in, and in Medicare Part D on January 1, 2027. State participation window open through January 2027. This is the durable architecture for ongoing GLP-1 coverage.\n\n3. MFN GOVERNMENT PRICING: Trump's MFN deal with Lilly and Novo sets $245/month government-negotiated price for Ozempic, Wegovy, Mounjaro, Zepbound, and Foundayo in Medicare and Medicaid. Patient copay: $50/month under Medicare GLP-1 Bridge. $35.5B CBO estimate for incremental federal GLP-1 spending 2026-2034.\n\n4. MEDICARE DRUG PRICE NEGOTIATION: Ozempic, Rybelsus, and Wegovy were selected for initial price applicability year 2027 of the Medicare Drug Price Negotiation Program (IRA). The Maximum Fair Price (MFP) becomes effective January 1, 2027. Expected to be $675/month list equivalent based on Novo's February 2026 guidance.\n\n5. MEDICAID STATE-BY-STATE: 13 state Medicaid programs covered GLP-1s for obesity under fee-for-service as of January 2026. 4 states (CA, NH, PA, SC) have moved to eliminate or tighten obesity coverage. State opt-in under BALANCE Model expands this starting May 2026.\n\n6. INDIA CONTEXT: Private insurance coverage remains at ~8% (GLP-1s excluded from most policies). Generic pricing at ₹1,290/mo effectively makes out-of-pocket affordable for middle-class patients without insurance — reducing coverage pressure in India.",
+      "tags": [
+        "insurance",
+        "us",
+        "cms",
+        "medicare",
+        "medicaid",
+        "balance-model",
+        "mfn",
+        "glp-1-bridge",
+        "foundayo",
+        "april-2026"
+      ]
+    },
+    {
       "id": "ins-entry-009",
       "timestamp": "2026-03-30T00:00:00Z",
       "source_url": "https://www.fool.com/retirement/2026/03/26/will-medicare-cover-ozempic-or-wegovy-in-2026/",
@@ -112,7 +149,18 @@
       "market": "us",
       "summary": "Comprehensive March 26 analysis confirms Medicare GLP-1 Bridge launches July 1, 2026 with $50 monthly copay for Wegovy and Zepbound; Medicare pays $350/month for starter doses. Approximately 10% of Medicare beneficiaries (roughly 6.5 million people) are expected to qualify initially based on BMI and comorbidity criteria.",
       "content": "The Motley Fool's March 26, 2026 analysis provides the clearest patient-facing summary of the upcoming Medicare GLP-1 coverage changes. Key facts confirmed: The Medicare GLP-1 Bridge program starts July 1, 2026, offering eligible Medicare Part D enrollees access to Wegovy (semaglutide 2.4mg) and Zepbound (tirzepatide) for weight management with a standard $50 monthly copay. The $50 copay does not count toward Part D deductibles or out-of-pocket maximums. Medicare will pay manufacturers $350/month for Wegovy and Zepbound starter doses, declining over a two-year schedule. Ozempic and Mounjaro (diabetes indication) will cost Medicare $245/month. CMS estimates approximately 10% of Medicare beneficiaries will initially qualify — those with BMI >27 and prediabetes or cardiovascular disease, or BMI >30 with hypertension, kidney disease, or heart failure. Without the Bridge, these patients would face Wegovy/Zepbound at $900-$1,350/month cash or uncertain coverage through Part D. The 2026 Part D out-of-pocket cap is $2,100. The Bridge program runs through December 2026, serving as a transition to the BALANCE Model (January 2027) which will integrate GLP-1 obesity coverage more permanently into Part D. Analysts estimate 6-8 million Medicare beneficiaries could use the Bridge program, at a projected federal cost of $35.5 billion through 2034.",
-      "tags": ["insurance", "us", "medicare", "glp1-bridge", "wegovy", "zepbound", "coverage", "$50-copay", "2026", "motley-fool"]
+      "tags": [
+        "insurance",
+        "us",
+        "medicare",
+        "glp1-bridge",
+        "wegovy",
+        "zepbound",
+        "coverage",
+        "$50-copay",
+        "2026",
+        "motley-fool"
+      ]
     },
     {
       "id": "ins-entry-007",
@@ -122,7 +170,15 @@
       "market": "us",
       "summary": "CMS launched the Medicare GLP-1 Bridge program starting July 1, 2026 — giving Medicare Part D beneficiaries access to Wegovy and Zepbound for obesity at a $50/month copay with no plan opt-in required. The full BALANCE Model begins Medicaid coverage in May 2026 and Part D in January 2027. Medicare pays $245/month to manufacturers.",
       "content": "CMS's two-track approach to GLP-1 coverage expansion in 2026 represents the most significant shift in US obesity treatment coverage in decades. The Medicare GLP-1 Bridge (July 1 – December 31, 2026) is a nationwide demonstration under Section 402 authority that bypasses the need for Part D plans to opt in: eligible beneficiaries with BMI ≥35 (or ≥27 with clinical criteria) can access Wegovy and Zepbound for a flat $50/month copay. Medicare pays manufacturers $245/month — a significant discount from list prices of $936-$1,349. Critically, the $50 copay does not count toward Part D deductibles or the $2,100 out-of-pocket maximum, and low-income subsidy beneficiaries cannot use their LIS for these prescriptions under the Bridge — creating a potential equity gap. The full BALANCE (Better Approaches to Lifestyle and Nutrition for Comprehensive hEalth) Model begins earlier for Medicaid (May 2026) and transitions to Part D in January 2027. However, BALANCE is voluntary for Part D plans, meaning beneficiaries who used the Bridge may face coverage gaps if their Part D plan does not join BALANCE. Up to 13.7 million Medicare beneficiaries could be eligible, with CBO estimating $35.5 billion in net federal spending 2026-2034. The program requires participation in evidence-based lifestyle support as a condition of continued coverage.",
-      "tags": ["insurance", "us", "medicare", "balance-model", "glp1-bridge", "coverage-expansion", "obesity"]
+      "tags": [
+        "insurance",
+        "us",
+        "medicare",
+        "balance-model",
+        "glp1-bridge",
+        "coverage-expansion",
+        "obesity"
+      ]
     },
     {
       "id": "ins-entry-008",
@@ -132,7 +188,16 @@
       "market": "us",
       "summary": "Only 13 state Medicaid programs cover GLP-1s for obesity as of January 2026. Four states — California, New Hampshire, Pennsylvania, and South Carolina — have eliminated GLP-1 obesity coverage due to budget pressure. Blue Cross Blue Shield of Massachusetts plans to eliminate obesity GLP-1 coverage in 2026, citing high costs impacting premiums.",
       "content": "Despite the headline expansion of Medicare GLP-1 coverage, state Medicaid programs are pulling back. Only 13 state Medicaid programs cover GLP-1s for obesity under fee-for-service as of January 2026, and four states — California, New Hampshire, Pennsylvania, and South Carolina — have actively eliminated existing coverage, reflecting the fiscal pressure of GLP-1 costs on state budgets. California's elimination is particularly notable given its size and historically progressive coverage policies. On the commercial insurance side, Blue Cross Blue Shield of Massachusetts announced it will eliminate coverage of GLP-1s for weight loss in 2026, citing the drug's high costs and their effect on insurance premiums for all members. Per KFF's employer survey, while 43% of large employers (5,000+ employees) now cover GLP-1s for weight loss, GLP-1 costs represent 10.5% of total annual insurance claims (up from 6.9% in 2022), forcing many to add restrictions. The net picture for 2026: federal coverage expands significantly (Medicare GLP-1 Bridge, BALANCE Model), while state Medicaid and some commercial plans retreat. This bifurcation could deepen health disparities, with Medicare/employer-insured patients gaining access while Medicaid beneficiaries in non-covering states face increased barriers.",
-      "tags": ["insurance", "us", "medicaid", "coverage-retreat", "blue-cross", "state-budget", "disparities", "obesity"]
+      "tags": [
+        "insurance",
+        "us",
+        "medicaid",
+        "coverage-retreat",
+        "blue-cross",
+        "state-budget",
+        "disparities",
+        "obesity"
+      ]
     },
     {
       "id": "ins-entry-001",
