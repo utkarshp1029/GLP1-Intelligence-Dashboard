@@ -2,15 +2,15 @@
   "meta": {
     "section_id": "news-hub",
     "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 39,
+    "entry_count": 43,
     "key_metrics": [
       {
         "label": "Stories This Week",
-        "value": "4 new (Apr 5–21)"
+        "value": "8 new (India-Business deep dive)"
       },
       {
         "label": "Sources Tracked",
-        "value": "20+"
+        "value": "25+"
       },
       {
         "label": "Markets Covered",
@@ -19,6 +19,38 @@
     ]
   },
   "stories": [
+    {
+      "id": "story-040",
+      "headline": "Generic Semaglutide Hits 33% India Market Share in 30 Days — Novo's Pricing Power Eroded",
+      "summary": "Just 30 days after patent expiry, generic semaglutide has captured approximately 33% of India's semaglutide prescription volume, according to eMarketer analysis of IQVIA retail audit data. Novo Nordisk's branded Ozempic and Wegovy have lost market-share dominance at record speed — faster than any previous high-value pharmaceutical patent cliff in India. Analysts attribute the rapid shift to the 70-90% price advantage of generics, widespread physician acceptance of DCGI-approved products, and aggressive medical representative activity by Sun Pharma, Dr. Reddy's, and Torrent. Novo's April 1 price cut (48% on Wegovy, 36% on Ozempic) has slowed but not stopped the share erosion. Market projections now place 2030 generic share above 70% if current trends hold.",
+      "market": "india",
+      "category": "business",
+      "timestamp": "2026-04-18",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "eMarketer",
+          "title": "Generic semaglutide climbs 33% share in India, eroding branded players' pricing power",
+          "url": "https://www.emarketer.com/content/generic-semaglutide-climbs-33-share-india-eroding-branded-players-pricing-power",
+          "date": "2026-04-18"
+        },
+        {
+          "publication": "Whalesbook",
+          "title": "India's GLP-1 Market Heats Up: Novo Nordisk Faces Generics",
+          "url": "https://www.whalesbook.com/news/English/healthcarebiotech/Indias-GLP-1-Market-Heats-Up-Novo-Nordisk-Faces-Generics/69e0d07b7bc5659bb5b096bb",
+          "date": "2026-04-15"
+        }
+      ],
+      "tags": [
+        "india",
+        "business",
+        "market-share",
+        "novo-nordisk",
+        "generics",
+        "iqvia",
+        "pricing-power"
+      ]
+    },
     {
       "id": "story-037",
       "headline": "Retatrutide Phase 3 TRIUMPH-4: 28.7% Weight Loss and 75% Knee Pain Reduction — Best Efficacy Numbers in GLP-1 History",
@@ -50,6 +82,33 @@
         "osteoarthritis",
         "triple-agonist",
         "us"
+      ]
+    },
+    {
+      "id": "story-041",
+      "headline": "Novo Nordisk x Apollo Clinics: India Obesity Clinic Partnership to Fight Back Against Generic Erosion",
+      "summary": "Novo Nordisk announced a strategic partnership with Apollo Clinics to launch a comprehensive obesity clinic program across India in April 2026 — a clear strategic move to defend branded Wegovy and Ozempic market share post-generic entry. The partnership targets disease awareness, capacity building, and clinical management for obesity care. Apollo's 200+ clinic network gives Novo deep physician-level distribution that generics lack. The deal follows Fortis Healthcare's expansion of 13 new obesity clinics (announced March 15). Novo's multi-pronged defense now includes: Abbott distribution (Extensior), Emcure partnership (Poviztra), Apollo obesity clinics, the April 1 ₹202/day pricing reframe, and Wegovy HD 7.2mg — the one dose generics haven't replicated.",
+      "market": "india",
+      "category": "business",
+      "timestamp": "2026-04-12",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "BioVoice News",
+          "title": "Novo Nordisk partners with Apollo Clinics to launch comprehensive obesity clinic program in India",
+          "url": "https://biovoicenews.com/the-partnership-aims-to-strengthen-disease-awareness-capacity-building-and-clinical-management-for-overweight-and-obesity-care/",
+          "date": "2026-04-12"
+        }
+      ],
+      "tags": [
+        "india",
+        "business",
+        "novo-nordisk",
+        "apollo-clinics",
+        "obesity-clinic",
+        "partnership",
+        "distribution",
+        "defense-strategy"
       ]
     },
     {
@@ -127,6 +186,45 @@
       ]
     },
     {
+      "id": "story-042",
+      "headline": "Sun Pharma Wins HC Export Nod After Dr Reddy's; Indian Pharma Targets ₹50,000 Cr Global Semaglutide Upside",
+      "summary": "Sun Pharma received Bombay High Court approval in April 2026 to export generic semaglutide, following Dr. Reddy's earlier export clearance. The court ruling opens export markets including Canada, Brazil, and other post-patent territories — critical revenue streams beyond India's domestic price war. Medical Dialogues projects ₹50,000 crore ($5.8B) in global semaglutide revenue opportunity over 5 years for Indian generics manufacturers combined. Sun Pharma (P/E 37), Dr. Reddy's (P/E 18), Glenmark, and Zydus have all rallied on the export thesis, even as domestic prices crashed 70-90%. The broader Indian pharma sector sees semaglutide as the single biggest global growth opportunity since the 2001 AIDS patent expiry in India — with 87 countries targeted by Dr. Reddy's alone.",
+      "market": "india",
+      "category": "business",
+      "timestamp": "2026-04-07",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Outlook Business",
+          "title": "After Dr Reddy's, Sun Pharma Gets Court Nod to Export Weight-Loss Drug",
+          "url": "https://www.outlookbusiness.com/corporate/after-dr-reddys-sun-pharma-gets-court-nod-to-export-weight-loss-drug",
+          "date": "2026-04-07"
+        },
+        {
+          "publication": "Medical Dialogues",
+          "title": "Post-Patent Semaglutide Boom: Generics Set for Rs 50,000 Cr Revenue Upside",
+          "url": "https://medicaldialogues.in/news/industry/pharma/post-patent-semaglutide-boom-generics-set-for-rs-50000-cr-revenue-upside-162031",
+          "date": "2026-04-05"
+        },
+        {
+          "publication": "Upstox",
+          "title": "Sun Pharma, Dr Reddy's, Glenmark, Zydus: Pharma stocks in focus after semaglutide patent expires",
+          "url": "https://upstox.com/news/market-news/stocks/sun-pharma-dr-reddy-s-glenmark-zydus-pharma-stocks-in-focus-after-semaglutide-patent-expires-what-investors-need-to-know/article-191091/",
+          "date": "2026-04-06"
+        }
+      ],
+      "tags": [
+        "india",
+        "business",
+        "sun-pharma",
+        "dr-reddys",
+        "export",
+        "stocks",
+        "semaglutide",
+        "global-opportunity"
+      ]
+    },
+    {
       "id": "story-039",
       "headline": "MSN Laboratories Launches SEMABEST — First Fully Made-in-India Semaglutide Pen at ₹3,990",
       "summary": "MSN Laboratories launched SEMABEST in April 2026, positioning it as India's first 'integrated' made-in-India semaglutide — with API, formulation, and the pen device all manufactured domestically. Priced at ₹3,990/month (roughly 50% below Novo's post-April-1 Ozempic price and comparable to Dr. Reddy's Obeda), SEMABEST differentiates on supply chain sovereignty rather than price leadership. The launch adds to a now 40+ brand India market. Novo Nordisk simultaneously repositioned its India pricing to ₹202/day (₹1,415/week) for starting doses of Ozempic and Wegovy — framing it as a 'patient-centred' daily cost narrative rather than a monthly figure to compete psychologically with generics.",
@@ -156,6 +254,33 @@
         "semaglutide",
         "novo-nordisk",
         "pricing"
+      ]
+    },
+    {
+      "id": "story-043",
+      "headline": "Semaglutide API Price Collapses 60%+ as Indian Manufacturers Scale — Second-Order Effect on Global GLP-1 Market",
+      "summary": "Semaglutide API (active pharmaceutical ingredient) prices on global spot markets have collapsed 60-70% since the India patent expiry in March 2026, according to Whalesbook analysis. Indian API producers Divi's Laboratories, Aurobindo, and Neuland Laboratories have scaled production aggressively to supply both domestic brand owners (15+ Indian brands) and international export markets (Canada, Brazil, Turkey). The API price collapse enables further downstream price cuts and could pressure Novo Nordisk's margins in markets where it still holds patent protection but where API cost is a key economic input. Novo's vertical integration (own API + fill-finish) partially shields it, but the supply glut creates a sustained structural headwind on global semaglutide economics.",
+      "market": "india",
+      "category": "business",
+      "timestamp": "2026-04-03",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Whalesbook",
+          "title": "Semaglutide API Price Plunge Sparks Generic Frenzy, Novo Nordisk Faces Renewed Pressure",
+          "url": "https://www.whalesbook.com/news/English/healthcarebiotech/Semaglutide-API-Price-Plunge-Sparks-Generic-Frenzy-Novo-Nordisk-Faces-Renewed-Pressure/69e139f47bc5659bb5b41d24",
+          "date": "2026-04-03"
+        }
+      ],
+      "tags": [
+        "india",
+        "business",
+        "api",
+        "divis-labs",
+        "aurobindo",
+        "supply-chain",
+        "semaglutide",
+        "margin-pressure"
       ]
     },
     {
