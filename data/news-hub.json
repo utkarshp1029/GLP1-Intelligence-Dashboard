@@ -427,7 +427,7 @@
     {
       "id": "story-032",
       "headline": "India Ministry of Health Issues Formal GLP-1 Safety Warning as Generic Wave Begins",
-      "summary": "India's Ministry of Health and Family Welfare issued a formal safety communication on April 1, 2026 — timed with the first weeks of widespread generic semaglutide availability at ₹1,290/month. The warning flags pancreatitis, acute kidney injury, and bowel obstruction as serious risks requiring medical supervision. CDSCO reiterated that semaglutide must be prescribed only by qualified physicians (endocrinologists or internal medicine specialists) for approved indications — T2DM and obesity with comorbidities — following the March 24 crackdown on 49 unauthorized sellers. The ministry emphasized that without physician oversight, the expanded access enabled by generic pricing could lead to unsafe self-medication.",
+      "summary": "India's Ministry of Health and Family Welfare issued a formal safety communication on April 1, 2026 — timed with the first weeks of widespread generic semaglutide availability at ₹1,290/month. The warning flags pancreatitis, acute kidney injury, and bowel obstruction as serious risks requiring medical supervision. CDSCO reiterated that semaglutide is a Schedule H drug requiring a valid prescription from a Registered Medical Practitioner, with the original DCGI approval conditions recommending specialist prescribing (endocrinologists, internal medicine specialists, cardiologists for CV indications). This is a labeling condition, not a binding new rule excluding diabetologists or MBBS doctors. The ministry emphasized that without physician oversight, the expanded access enabled by generic pricing could lead to unsafe self-medication.",
       "market": "india",
       "category": "regulatory",
       "timestamp": "2026-04-01",
@@ -663,7 +663,7 @@
     {
       "id": "story-016",
       "headline": "DCGI Launches Nationwide Crackdown: 49 Entities Audited for Unauthorized GLP-1 Sales",
-      "summary": "The Drugs Controller General of India intensified regulatory surveillance on March 24, 2026, inspecting 49 entities including online pharmacies, wholesalers, retailers, and wellness clinics for GLP-1 violations. Prescriptions are now restricted to endocrinologists and internal medicine specialists only. Non-compliances face license cancellation and prosecution. The action comes just 4 days after semaglutide patent expiry triggered 10+ generic launches and a 90% price crash.",
+      "summary": "The Drugs Controller General of India intensified regulatory surveillance on March 24, 2026, inspecting 49 entities including online pharmacies, wholesalers, retailers, and wellness clinics for GLP-1 violations. The action targeted unauthorized sellers and dispensing without valid prescriptions — not prescribers themselves. The original DCGI approval condition for Wegovy/Ozempic recommends prescribing by endocrinologists, internal medicine specialists, or cardiologists; this remains a labeling condition, not a binding new rule excluding diabetologists or MBBS doctors (any Registered Medical Practitioner can legally write a Schedule H prescription). Non-compliant sellers face license cancellation and prosecution.",
       "market": "india",
       "category": "regulatory",
       "timestamp": "2026-03-24",
