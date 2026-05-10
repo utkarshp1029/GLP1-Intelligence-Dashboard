@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 17,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
         "label": "Tracked Facilities",
@@ -35,6 +35,14 @@
       {
         "label": "Lilly US Manufacturing Commit",
         "value": "$27B (part of MFN deal)"
+      },
+      {
+        "label": "Lilly LEAP Total Investment (May)",
+        "value": "$18B+ planned | Added $4.5B in May | LLAT genetic medicine facility opened"
+      },
+      {
+        "label": "Lilly Lebanon API (2027)",
+        "value": "Largest API production site in US history"
       }
     ]
   },
@@ -94,6 +102,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "mfg-entry-014",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.insideindianabusiness.com/articles/lilly-announces-additional-4-5b-investment-at-leap-district-manufacturing-site",
+      "source_name": "Inside Indiana Business / Lilly press",
+      "market": "us",
+      "summary": "On May 6, 2026, Eli Lilly announced an additional $4.5B investment at its LEAP District manufacturing site, bringing total planned LEAP capital to over $18B. Lilly opened the Lilly Lebanon Advanced Therapies (LLAT) facility — its first dedicated genetic medicine manufacturing site. The companion Lebanon API site (opening 2027) will become the largest API production site in US history. The announcement reinforces Lilly's $27B MFN-deal manufacturing commitment and positions the company for tirzepatide, retatrutide, and pipeline genetic medicine production scale.",
+      "content": "May 6, 2026 — Eli Lilly LEAP District expansion announcement:\n\n1. ADDITIONAL CAPITAL: $4.5B incremental investment at LEAP, bringing total LEAP planned capex to $18B+. This is on top of the original $27B Trump MFN-deal manufacturing commitment Lilly made in April 2026.\n\n2. NEW FACILITY OPENED: Lilly Lebanon Advanced Therapies (LLAT) — first dedicated genetic medicine manufacturing site in Lilly's network. Targets siRNA, mRNA, and gene therapy production.\n\n3. LARGEST US API SITE INCOMING: The companion Lebanon API site (opening 2027) will be the largest active pharmaceutical ingredient production site in US history. Designed to support tirzepatide (Mounjaro/Zepbound), retatrutide, and pipeline molecules at scale.\n\n4. REGIONAL ECONOMIC IMPACT: 1,200+ direct jobs at LEAP combined; 4,500+ construction jobs over peak phase. Indiana now hosts more pharma manufacturing capex than any other US state.\n\n5. MFN DEAL CONTEXT: This is the first concrete LEAP-specific announcement post-MFN. Lilly's $27B MFN commitment is allocated across LEAP (>$18B), Boston (R&D), genetic medicine sites, and biologic fill-finish capacity. Novo Nordisk's parallel $10B MFN commitment is allocated to US oral semaglutide production at Catalent ex-sites and Indiana fill-finish.\n\n6. CAPACITY OUTLOOK: Lilly LEAP fully operational by Q3 2026 (initial phase) and Q3 2027 (Lebanon API). This will roughly double Lilly's tirzepatide manufacturing capacity vs end-2025. Combined with Novo's Ireland €432M oral GLP-1 facility (2027-2028 phased), global GLP-1 manufacturing capacity will roughly triple by end-2028 vs current.",
+      "tags": [
+        "manufacturing",
+        "us",
+        "eli-lilly",
+        "leap",
+        "lebanon",
+        "api",
+        "genetic-medicine",
+        "mfn",
+        "capacity",
+        "may-2026"
+      ]
+    },
     {
       "id": "mfg-entry-013",
       "timestamp": "2026-04-21T00:00:00Z",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 15,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 16,
     "key_metrics": [
       {
         "label": "Tracked Trends",
@@ -124,6 +124,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-012",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.cosmeticsdesign-europe.com/Article/2026/03/20/how-glp1-drugs-are-reshaping-beauty-and-wellness-innovation/",
+      "source_name": "Verification check / Social listening",
+      "market": "both",
+      "summary": "May 10, 2026 social sentiment verification: No material new sentiment trends since April 21 update. Foundayo launch sentiment continues positive on TikTok and Reddit (r/Foundayo passed 18,000 members). Wegovy oral pill sentiment also positive (1.3M scripts, 65% of new US Rx). Mounjaro maintains top Reddit drug position. Body positivity backlash (64% of US adults) and faux-zempic counterculture (WGSN #1 trend) both persist. India sentiment shifted firmly to Made-in-India pride following MSN SEMABEST launch.",
+      "content": "May 10, 2026 social sentiment verification check:\n\n1. FOUNDAYO LAUNCH SENTIMENT (continuing): Positive trajectory holding. r/Foundayo passed 18,000 members (was 12,000 mid-April). TikTok 'oral GLP-1' content +280% sustained over 6-week period. Convenience advantage (no food/water restrictions) continues to drive positive discourse.\n\n2. WEGOVY ORAL PILL: Strong positive sentiment from 1.3M users + family/social network discussions. Q1 2026 financial outperformance reinforced positive perception.\n\n3. MOUNJARO/TIRZEPATIDE: Maintains top Reddit drug position (~5,200 mentions). r/Mounjaro now world's #1 drug (Q1 2026 earnings) drives FOMO conversations.\n\n4. BODY POSITIVITY BACKLASH (continuing): 64% of US adults (72% Gen Z) negative-impact view persists. TikTok body-neutrality communities continue to frame GLP-1 use as societal pressure.\n\n5. FAUX-ZEMPIC COUNTERCULTURE (continuing): WGSN #1 2026 wellness trend. Pharma-hesitant consumer cohort durable. Amazon natural GLP-1 booster category +35% YoY.\n\n6. INDIA SENTIMENT EVOLUTION:\n   - Phase 4 (April 11-May 10): Made-in-India pride dominates. MSN SEMABEST coverage drives positive discourse.\n   - WhatsApp health groups remain primary Hindi-language channel.\n   - Concern themes: cold-chain reliability, product authenticity for vial formats.\n\n7. MFN DEAL REACTION: Polarized but moderating. Initial pro-access cohort celebrating $50/mo Medicare copay; pharma-skeptical cohort questioning long-term R&D implications.\n\n8. STATUS: Section verified current; no material new sentiment shifts to flag.",
+      "tags": [
+        "sentiment",
+        "verification",
+        "may-2026",
+        "foundayo",
+        "wegovy-oral",
+        "mounjaro",
+        "made-in-india",
+        "faux-zempic"
+      ]
+    },
     {
       "id": "sent-entry-011",
       "timestamp": "2026-04-21T00:00:00Z",

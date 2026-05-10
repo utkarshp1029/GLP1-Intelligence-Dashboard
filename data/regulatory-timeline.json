@@ -1,14 +1,37 @@
 {
   "meta": {
     "section_id": "regulatory-timeline",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 14,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 25,
     "key_metrics": [
-      { "label": "Total Regulatory Events", "value": "15" },
-      { "label": "2026 Events", "value": "10" },
-      { "label": "Latest US Action", "value": "Trump MFN deal — Medicare/Medicaid GLP-1 at $50/mo from Jul 2026" },
-      { "label": "CagriSema NDA", "value": "Filed Dec 2025, PDUFA H2 2026 — REDEFINE-4 missed vs tirzepatide" },
-      { "label": "India Brands", "value": "40+ DCGI-approved | MSN SEMABEST latest launch | Novo ₹202/day" }
+      {
+        "label": "Total Regulatory Events",
+        "value": "15"
+      },
+      {
+        "label": "2026 Events",
+        "value": "10"
+      },
+      {
+        "label": "Latest US Action",
+        "value": "Trump MFN deal — Medicare/Medicaid GLP-1 at $50/mo from Jul 2026"
+      },
+      {
+        "label": "CagriSema NDA",
+        "value": "Filed Dec 2025, PDUFA H2 2026 — REDEFINE-4 missed vs tirzepatide"
+      },
+      {
+        "label": "India Brands",
+        "value": "40+ DCGI-approved | MSN SEMABEST latest launch | Novo ₹202/day"
+      },
+      {
+        "label": "CMS BALANCE Update (Apr 22)",
+        "value": "Part D portion DELAYED beyond 2027 | Medicaid still proceeds | Bridge extended to Dec 31, 2027"
+      },
+      {
+        "label": "FDA 503B Action (Apr 30)",
+        "value": "Proposed exclusion of semaglutide/tirzepatide/liraglutide from bulks list — comment period through Jun 29"
+      }
     ]
   },
   "events": [
@@ -114,6 +137,46 @@
   ],
   "entries": [
     {
+      "id": "reg-entry-017",
+      "timestamp": "2026-04-30T00:00:00Z",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list",
+      "source_name": "FDA / Federal Register / JDSupra",
+      "market": "us",
+      "summary": "On April 30, 2026, the FDA proposed to permanently exclude semaglutide, tirzepatide, and liraglutide from the 503B Bulks List, finding no clinical need for outsourcing facility compounding absent a shortage. Federal Register publication May 1. Comment period through June 29, 2026. This effectively closes the legal large-scale compounding route for the three most-prescribed GLP-1 substances — the most consequential FDA action against compounded GLP-1s since the shortage resolution.",
+      "content": "April 30, 2026 represents the FDA's hardest line yet against compounded GLP-1 supply:\n\n1. THE PROPOSAL: FDA proposed to permanently exclude semaglutide, tirzepatide, and liraglutide from the Section 503B Bulks List. Without 503B Bulks List inclusion, outsourcing facilities cannot legally compound these substances except under narrow shortage conditions.\n\n2. RATIONALE: FDA found 'no clinical need' for 503B compounding of these substances given commercial availability of FDA-approved products. This draws a hard line between clinical need and economic need (price savings).\n\n3. PROCESS: Federal Register publication May 1, 2026. Public comment period through June 29, 2026. After review, FDA can finalize the exclusion as binding policy.\n\n4. IMPACT ON 503B FACILITIES: Empower Pharmacy, Olympia Pharmaceuticals, and other 503B compounders that built revenue on compounded GLP-1s face existential business adjustment. Hallandale (503A) and similar pharmacies operating under individual-patient compounding still have a narrower legal path but face the previously-announced 4 prescriptions/month enforcement threshold.\n\n5. PATIENT IMPACT: An estimated 1-1.5M US patients still on compounded GLP-1s as of April 2026. Most likely migration: (a) Foundayo at $149/mo, (b) Wegovy oral at $149/mo, (c) MFN-priced branded at $245/mo Medicare or $350/mo TrumpRx DTC, (d) Novo subscription $249-329/mo.\n\n6. POSITION OF COMPOUNDERS: Outsourcing Facility Association (OFA) lawsuit over original shortage-resolution policy still pending. This new proposal may face additional legal challenge but FDA's hard 'no clinical need' finding is robust.",
+      "tags": [
+        "regulatory",
+        "us",
+        "fda",
+        "compounding",
+        "503b",
+        "semaglutide",
+        "tirzepatide",
+        "liraglutide",
+        "april-2026",
+        "federal-register"
+      ]
+    },
+    {
+      "id": "reg-entry-016",
+      "timestamp": "2026-04-22T00:00:00Z",
+      "source_url": "https://www.aha.org/news/headline/2026-04-22-cms-delays-part-d-portion-balance-model-expansion-glp-1-access",
+      "source_name": "AHA / Axios / CMS",
+      "market": "us",
+      "summary": "CMS announced on April 22, 2026 that the Medicare Part D portion of the BALANCE Model will NOT launch in 2027 as originally planned. Insurer concerns about utilization data and bid-pricing uncertainty drove the delay. The Medicaid portion still proceeds (state opt-ins May 1, 2026 - Jan 1, 2027). The Medicare GLP-1 Bridge has been extended through December 31, 2027 as the primary access vehicle.",
+      "content": "On April 22, 2026, CMS announced a significant policy adjustment to the BALANCE Model (Better Approaches to Lifestyle and Nutrition for Comprehensive hEalth):\n\n1. PART D DELAY: The BALANCE Medicare Part D portion will NOT launch January 1, 2027 as originally scheduled. CMS cited insurer feedback on utilization data uncertainty and the inability to bid Part D plans accurately given the rapidly changing GLP-1 landscape.\n\n2. MEDICAID PROCEEDS: The Medicaid portion of BALANCE proceeds as planned. State opt-in window: May 1, 2026 through January 1, 2027. Multiple states (CA, NY, IL, MA initially expected) preparing to opt in.\n\n3. MEDICARE BRIDGE EXTENDED: The Medicare GLP-1 Bridge program — originally scheduled to run July 1, 2026 through December 31, 2026 — has been extended through December 31, 2027. This becomes the principal Medicare GLP-1 access vehicle while the Part D pilot is reconsidered.\n\n4. IMPLICATIONS: For Wegovy, Zepbound, and Foundayo coverage, eligible Medicare beneficiaries can access at $50/month copay through the Bridge for an extended 18 months (vs original 6). This effectively replaces the planned BALANCE Part D pilot for the near-term.\n\n5. CBO IMPLICATIONS: The original $35.5B 10-year federal cost estimate was largely Part D-driven. The Bridge extension is more bounded and lower-cost; updated CBO scoring expected in Q3 2026.",
+      "tags": [
+        "regulatory",
+        "us",
+        "cms",
+        "medicare",
+        "balance",
+        "bridge",
+        "delay",
+        "april-2026"
+      ]
+    },
+    {
       "id": "reg-entry-015",
       "timestamp": "2026-04-21T00:00:00Z",
       "source_url": "https://cdsco.gov.in/opencms/opencms/en/Notifications/Public-Notices/",
@@ -121,7 +184,18 @@
       "market": "india",
       "summary": "VERIFIED FROM SOURCE: Direct review of cdsco.gov.in Public Notices confirms the March 11, 2026 CDSCO advisory — 'Advisory to all manufacturers, importers and marketing authorization holders' (574 KB PDF, row 8) — addresses advertising/promotion only. It does NOT contain a directive restricting GLP-1 prescribing to endocrinologists. The 'endocrinologist/internal medicine/cardiologist' language in Indian trade press is editorial extrapolation from individual drug approval letters, not a binding blanket directive.",
       "content": "Direct verification against cdsco.gov.in:\n\n1. THE ACTUAL MARCH 11 ADVISORY: Listed in Public Notices as row 8, titled 'Advisory to all manufacturers, importers and marketing authorization holders', dated 2026-Mar-11, 574 KB PDF. File size matches the Medical Dialogues mirror (573.9 KB) confirming same document. Content is focused on: (a) surrogate advertising prohibition, (b) disease-awareness campaign restrictions, (c) influencer engagement bans, (d) misleading therapeutic efficacy claims. It does NOT contain a new binding directive restricting GLP-1 prescribing to specific specialists.\n\n2. WHAT'S NOT ON CDSCO.GOV.IN: After comprehensive search across Public Notices, Drug Alerts, and Circulars sections, there is NO published blanket directive stating 'only endocrinologists can prescribe GLP-1 drugs.' Any language suggesting such a restriction is either: (a) from individual drug approval letters (SEC-recommended labeling conditions), or (b) journalistic paraphrasing.\n\n3. SEC APPROVAL LETTERS: The CDSCO Subject Expert Committee on Endocrinology & Metabolism meeting recommendations PDFs (cdsco.gov.in/Committees section) may contain drug-specific prescriber qualification conditions. Relevant SEC meetings: 09.12.2025 (semaglutide Phase III weight management), 06.11.2025 (semaglutide tablets CV indication). These documents are image-based PDFs and require direct human review to extract prescribing conditions.\n\n4. WHAT IS BINDING: Semaglutide and other GLP-1 drugs are Schedule H prescription drugs. Under Indian law, any Registered Medical Practitioner (MBBS minimum) can legally write a Schedule H prescription. The 'specialist' recommendation in approval letters is a labeling condition, not a criminal prohibition against other prescribers. Diabetologists (MD Internal Medicine with diabetes subspecialty) are covered under 'internal medicine specialists' where that language applies.\n\n5. WHY THIS MATTERS: For any presentation to senior leadership, citing 'CDSCO directive restricting prescribing to endocrinologists' is inaccurate. The accurate framing is: 'GLP-1s are Schedule H prescription drugs; individual drug approval letters recommend specialist prescribing; there is no separate binding CDSCO directive excluding MBBS/diabetologist prescribers.'",
-      "tags": ["regulatory", "india", "cdsco", "verification", "advisory", "march-11", "prescribing", "schedule-h", "source-check", "april-2026"]
+      "tags": [
+        "regulatory",
+        "india",
+        "cdsco",
+        "verification",
+        "advisory",
+        "march-11",
+        "prescribing",
+        "schedule-h",
+        "source-check",
+        "april-2026"
+      ]
     },
     {
       "id": "reg-entry-014",
@@ -131,7 +205,19 @@
       "market": "us",
       "summary": "Trump administration signed MFN pricing agreements with Eli Lilly and Novo Nordisk in April 2026: Medicare/Medicaid GLP-1 prices capped at $245/month with $50 patient copay from July 1, 2026. Lilly committed $27B in US manufacturing; Novo committed $10B. TrumpRx platform to offer semaglutide at $350/month. Combined with Foundayo's $149/month self-pay, this represents the biggest single US GLP-1 access expansion since drug approvals. CBO estimates $35.5B in additional federal GLP-1 spending 2026-2034.",
       "content": "The Trump administration's MFN (Most-Favored-Nation) pricing agreement for GLP-1 drugs, formalized in April 2026, is the most consequential US GLP-1 policy event since Wegovy's obesity approval in 2021. Key terms:\n\n1. PRICE CAP: $245/month negotiated government price for Ozempic, Wegovy, Mounjaro, Zepbound, and Foundayo — applied to Medicare Part D and state Medicaid programs.\n\n2. PATIENT COST: $50/month copay for Medicare Part D beneficiaries, effective July 1, 2026 through the Medicare GLP-1 Bridge program. Does not count toward the $2,100 annual Part D out-of-pocket cap.\n\n3. MEDICAID: Same $245 price available to all state Medicaid programs. Estimated 80M+ Medicaid enrollees become eligible.\n\n4. TRUMPRX PLATFORM: A separate direct-to-consumer platform to offer semaglutide at $350/month to commercially uninsured patients — bridging the gap between $149/month Foundayo self-pay and the branded $900-1,349 list price.\n\n5. MANUFACTURING COMMITMENTS: In exchange for the MFN deal, Eli Lilly committed $27 billion in US manufacturing investment (building on existing LEAP facility in NC). Novo Nordisk committed $10 billion, including US oral semaglutide production (building on the $10B investment announced earlier). These commitments respond to Trump's directive to repatriate pharma manufacturing.\n\n6. MARKET IMPACT: The $50/month Medicare copay is estimated to bring 6-10 million additional Medicare beneficiaries onto GLP-1 therapy. CBO projects $35.5B in incremental federal GLP-1 spending 2026-2034. This is lower than pre-deal estimates partly because the MFN price of $245 is below the original IRA negotiated price for 2027 ($675), suggesting the MFN deal was more favorable to the government than the IRA process would have been.",
-      "tags": ["regulatory", "us", "mfn", "trump", "medicare", "medicaid", "pricing", "eli-lilly", "novo-nordisk", "policy", "april-2026"]
+      "tags": [
+        "regulatory",
+        "us",
+        "mfn",
+        "trump",
+        "medicare",
+        "medicaid",
+        "pricing",
+        "eli-lilly",
+        "novo-nordisk",
+        "policy",
+        "april-2026"
+      ]
     },
     {
       "id": "reg-entry-010",
@@ -141,7 +227,16 @@
       "market": "india",
       "summary": "Legal analysis of CDSCO's GLP-1 advertising advisory characterizes it as regulatory overreach, arguing that disease awareness campaigns that do not name a product or make drug claims were historically permitted — the advisory breaks this precedent not just for GLP-1 drugs but for all prescription drugs.",
       "content": "Arogya Legal's analysis of CDSCO's March 10-12, 2026 advisory banning GLP-1 promotional activities raised significant legal questions about the scope of India's drug advertising laws. The crux of the critique: for decades, disease awareness campaigns that made no product claim, named no drug, and directed patients to registered medical practitioners fell outside the scope of 'advertisement' under the Drugs and Cosmetics Rules. CDSCO's advisory now treats any campaign that creates 'brand recall' or 'product visibility' as a violation — even if no drug is named. This interpretation could affect all Schedule H prescription drugs, not just GLP-1 receptor agonists. The advisory is particularly consequential given the timing: it arrived within days of 40+ generic brands launching simultaneously on March 20. Without direct-to-consumer or physician-directed advertising, the primary customer acquisition channel becomes medical representative visits to endocrinologists — an expensive, slow channel that favors incumbents like Novo Nordisk with established physician relationships. The legal challenge creates uncertainty for the entire pharmaceutical marketing ecosystem in India.",
-      "tags": ["regulatory", "india", "cdsco", "advisory", "advertising-ban", "legal-challenge", "schedule-h", "disease-awareness"]
+      "tags": [
+        "regulatory",
+        "india",
+        "cdsco",
+        "advisory",
+        "advertising-ban",
+        "legal-challenge",
+        "schedule-h",
+        "disease-awareness"
+      ]
     },
     {
       "id": "reg-entry-011",
@@ -151,7 +246,18 @@
       "market": "us",
       "summary": "CMS announced the Medicare GLP-1 Bridge program launching July 1, 2026, providing Medicare Part D beneficiaries access to Wegovy and Zepbound for weight management with a standard $50 monthly copay — the first time Medicare covers GLP-1s specifically for obesity outside a cardiovascular indication.",
       "content": "The Centers for Medicare & Medicaid Services (CMS) formalized the Medicare GLP-1 Bridge program, a demonstration model set to launch July 1, 2026 and run through December 2026. For the first time, eligible Medicare Part D enrollees can access Wegovy (semaglutide 2.4mg) and Zepbound (tirzepatide) specifically for weight management with a $50 monthly copay — well below the $500-1,000/month cash price. CMS will use Humana (the LI NET program administrator) as the central processor. Eligibility is restricted to beneficiaries with BMI >27 and prediabetes or cardiovascular disease, or BMI >30 with hypertension, kidney disease, or heart failure — encompassing approximately 10% of Medicare beneficiaries. The Bridge is a stepping stone to the broader BALANCE Model launching January 1, 2027, which will integrate GLP-1 obesity coverage into standard Medicare Part D plans. Ozempic and Mounjaro (diabetes indication) will cost Medicare $245/month while Wegovy and Zepbound starter doses will be set at $350/month, declining over a two-year period. The 2026 Part D out-of-pocket cap is $2,100. This policy shift represents the most significant US access expansion for GLP-1 anti-obesity drugs since the drugs first launched.",
-      "tags": ["regulatory", "us", "cms", "medicare", "glp-1-bridge", "wegovy", "zepbound", "coverage", "obesity", "2026"]
+      "tags": [
+        "regulatory",
+        "us",
+        "cms",
+        "medicare",
+        "glp-1-bridge",
+        "wegovy",
+        "zepbound",
+        "coverage",
+        "obesity",
+        "2026"
+      ]
     },
     {
       "id": "reg-entry-008",
@@ -161,7 +267,16 @@
       "market": "india",
       "summary": "DCGI intensified nationwide regulatory surveillance on March 24, 2026, conducting audits at 49 entities including online pharmacies, wholesalers, retailers, and wellness clinics — the most aggressive enforcement action on GLP-1 drugs since the patent expiry. Violations risk license cancellation and prosecution.",
       "content": "The Drugs Controller General of India (DCGI) launched a nationwide crackdown on GLP-1 drug supply chains on March 24, 2026, just four days after the semaglutide patent expiry triggered a flood of generic launches. Audits spanned online pharmacy warehouses, drug wholesalers, retailers, and wellness and slimming clinics across multiple regions of the country. The inspections targeted violations related to unauthorized sale, improper prescription practices, and misleading marketing, according to Business Standard. DCGI stated that 'non-compliances will be dealt with strictly,' with penalties including license suspension, license cancellation, fines, and prosecution under the Drugs and Cosmetics Rules. Key enforcement priorities include: (1) reinforcing the original DCGI approval conditions for Wegovy/Ozempic — which recommend prescribing by endocrinologists, internal medicine specialists, or cardiologists for specific indications (note: this is an approval-labeling condition, NOT a new binding directive prohibiting MBBS or diabetologist prescribing — any Registered Medical Practitioner can legally write a Schedule H prescription); (2) enforcing the March 10-12 advisory banning all promotional activities including surrogate advertising via influencers; (3) preventing unauthorized OTC sales at beauty and wellness clinics that are not licensed pharmaceutical retailers; and (4) ensuring cold-chain compliance given that semaglutide requires 2-8°C storage from manufacturing to patient. The DCGI noted that the rapid influx of 10+ generic brands within days of patent expiry creates compliance complexity that requires heightened vigilance. This enforcement action follows India's GLP-1 market growing 177% year-on-year to ₹1,446 crore in Moving Annual Turnover (MAT) as of February 2026.",
-      "tags": ["regulatory", "india", "dcgi", "crackdown", "enforcement", "semaglutide", "supply-chain", "prescription-rules"]
+      "tags": [
+        "regulatory",
+        "india",
+        "dcgi",
+        "crackdown",
+        "enforcement",
+        "semaglutide",
+        "supply-chain",
+        "prescription-rules"
+      ]
     },
     {
       "id": "reg-entry-009",
@@ -171,7 +286,16 @@
       "market": "us",
       "summary": "The FDA issued a formal warning letter to Novo Nordisk on March 5, 2026, citing 'serious violations' in post-marketing adverse event reporting for semaglutide — including three unreported deaths (one suicide) and failure to report within 15-day timelines. FDA called these systemic failures affecting Novo's entire product portfolio.",
       "content": "The FDA's March 5, 2026 warning letter to Novo Nordisk represents a significant regulatory escalation for the world's leading GLP-1 manufacturer. The letter, resulting from a Bioresearch Monitoring Program inspection conducted January 13 to February 7, 2025, identified systemic failures in Novo's post-marketing adverse drug experience (PADE) reporting system. Key violations included: two patient deaths associated with semaglutide use that were not reported to the FDA (dated January 30, 2024 and December 20, 2024); one patient suicide that was not reported at all; one case of suicidal ideation reported late; and multiple serious adverse events — including strokes — that were improperly invalidated because Novo's contractor required patient consent to follow up (a requirement not mandated by PADE regulations). The FDA stressed that the warning letter 'does not mean the medications caused the deaths' but that Novo's surveillance, receipt, evaluation, and reporting systems were systemically deficient. The agency noted the scope and impact of violations extended beyond semaglutide to 'the entire product portfolio,' including liraglutide, nedosiran sodium, and estradiol. Novo Nordisk responded by committing to revise SOPs, shift intake to in-house healthcare professionals, strengthen vendor oversight, and retrospectively review closed pharmacovigilance deviations back to June 2017. The warning letter adds regulatory pressure to a company already managing a forecasted 5-13% revenue decline in 2026 and an 11% workforce reduction.",
-      "tags": ["regulatory", "us", "fda", "warning-letter", "novo-nordisk", "adverse-events", "safety-reporting", "pade"]
+      "tags": [
+        "regulatory",
+        "us",
+        "fda",
+        "warning-letter",
+        "novo-nordisk",
+        "adverse-events",
+        "safety-reporting",
+        "pade"
+      ]
     },
     {
       "id": "reg-entry-001",
@@ -181,7 +305,14 @@
       "market": "india",
       "summary": "UNVERIFIED: Reports of CDSCO draft guidelines limiting obesity GLP-1 prescribing to endocrinologists and bariatric specialists. Not confirmed on cdsco.gov.in Public Notices/Circulars as of April 2026 — likely journalistic paraphrasing of approval-letter labeling, not a separate binding directive.",
       "content": "CAVEAT: As of direct review of cdsco.gov.in Public Notices, Drug Alerts, and Circulars sections (April 21, 2026), no CDSCO 'draft guideline' restricting obesity GLP-1 prescribing to endocrinologists and bariatric specialists has been officially published. The only advisory published is dated March 11, 2026 (row 8 in Public Notices, 574 KB PDF) — titled 'Advisory to all manufacturers, importers and marketing authorization holders' — which addresses ADVERTISING AND PROMOTION, not prescriber qualifications. The 'endocrinologist-only' language circulating in Indian trade media appears to be journalistic extrapolation from individual drug approval-letter labeling, not a separate binding directive. This entry is retained for tracking purposes but flagged UNVERIFIED. Anyone citing prescribing restrictions to leadership should first obtain the actual DCGI approval letters for specific GLP-1 brands (Wegovy, Ozempic, Mounjaro, etc.) to see the precise labeling conditions.",
-      "tags": ["regulatory", "india", "cdsco", "off-label", "obesity", "guidelines"]
+      "tags": [
+        "regulatory",
+        "india",
+        "cdsco",
+        "off-label",
+        "obesity",
+        "guidelines"
+      ]
     },
     {
       "id": "reg-entry-002",
@@ -191,7 +322,14 @@
       "market": "us",
       "summary": "The FDA's updated compounding guidance requires 503B outsourcing facilities to conduct 90-day stability studies for compounded semaglutide formulations, up from the previous 30-day requirement.",
       "content": "The FDA's updated compounding guidance requires 503B outsourcing facilities to conduct 90-day stability studies for compounded semaglutide formulations, up from the previous 30-day requirement. Several smaller compounding pharmacies have indicated they may exit the GLP-1 market due to increased compliance costs.",
-      "tags": ["regulatory", "us", "fda", "compounding", "503b", "semaglutide"]
+      "tags": [
+        "regulatory",
+        "us",
+        "fda",
+        "compounding",
+        "503b",
+        "semaglutide"
+      ]
     },
     {
       "id": "reg-entry-003",
@@ -201,7 +339,15 @@
       "market": "india",
       "summary": "Over 40 Indian manufacturers launched generic semaglutide brands following the March 20 patent expiry, with CDSCO having cleared formulations from Sun Pharma, Zydus, Dr. Reddy's, Natco, and Mankind between September 2025 and February 2026.",
       "content": "Over 40 Indian manufacturers launched generic semaglutide brands following the March 20, 2026 patent expiry, with CDSCO having cleared formulations from Sun Pharma, Zydus, Dr. Reddy's, Natco, Alkem, and Mankind between September 2025 and February 2026. More than 50 brand names are expected across the Indian market through 2026. Natco launched at Rs 1,290 per month, roughly 90% below branded Ozempic pricing of Rs 10,850-16,400, while Zydus introduced an innovative reusable multi-dose pen at approximately Rs 2,200 per month. The scale of competition is unprecedented for a biologic drug in India.",
-      "tags": ["regulatory", "india", "cdsco", "generic", "semaglutide", "patent-expiry", "pricing"]
+      "tags": [
+        "regulatory",
+        "india",
+        "cdsco",
+        "generic",
+        "semaglutide",
+        "patent-expiry",
+        "pricing"
+      ]
     },
     {
       "id": "reg-entry-004",
@@ -211,7 +357,15 @@
       "market": "india",
       "summary": "CDSCO issued a March 12, 2026 advisory barring all pharmaceutical companies from promotional activities for GLP-1 agonist obesity drugs, classifying them as Schedule H prescription-only medicines.",
       "content": "CDSCO issued a March 12, 2026 advisory barring all pharmaceutical companies from promotional activities for GLP-1 agonist obesity drugs, classifying them as Schedule H prescription-only medicines. The advisory explicitly targets surrogate advertising including influencer collaborations, celebrity endorsements, and disease awareness campaigns that indirectly promote specific medications. Companies pivoting to doctor conferences and medical education programs as alternative marketing channels. Penalties for violations include imprisonment of 1-3 years and substantial fines, with potential license suspension by State Drug Controllers.",
-      "tags": ["regulatory", "india", "cdsco", "schedule-h", "advertising-ban", "marketing", "glp-1"]
+      "tags": [
+        "regulatory",
+        "india",
+        "cdsco",
+        "schedule-h",
+        "advertising-ban",
+        "marketing",
+        "glp-1"
+      ]
     },
     {
       "id": "reg-entry-005",
@@ -221,7 +375,15 @@
       "market": "both",
       "summary": "WHO added semaglutide, dulaglutide, liraglutide, and tirzepatide to the Essential Medicines List in September 2025, followed by the first WHO guideline on GLP-1 use for obesity treatment in December 2025.",
       "content": "WHO added GLP-1 receptor agonists (semaglutide, dulaglutide, liraglutide) and tirzepatide to the Essential Medicines List in September 2025 for adults with type 2 diabetes and established cardiovascular disease, chronic kidney disease, or obesity. In December 2025, WHO issued its first guideline on GLP-1 therapies specifically for obesity treatment. The WHO noted that current GLP-1 prices are up to 400 times higher than profitable production costs, and even with rapid production expansion, these therapies are projected to reach fewer than 10% of those who could benefit by 2030. The EML listing enables prioritization of limited resources and supports generic development post-patent expiry.",
-      "tags": ["regulatory", "who", "essential-medicines", "semaglutide", "tirzepatide", "obesity", "access"]
+      "tags": [
+        "regulatory",
+        "who",
+        "essential-medicines",
+        "semaglutide",
+        "tirzepatide",
+        "obesity",
+        "access"
+      ]
     },
     {
       "id": "reg-entry-006",
@@ -231,7 +393,15 @@
       "market": "us",
       "summary": "FDA intensified enforcement against unapproved compounded semaglutide and tirzepatide products following reports of adverse events including hospitalizations from dosing errors with compounded injectables.",
       "content": "FDA received multiple reports of adverse events, some requiring hospitalization, related to dosing errors with compounded injectable semaglutide products. By May 2025, all compounded semaglutide and tirzepatide became unavailable under federal law. Meanwhile, oral Wegovy (semaglutide 25mg tablet) gained FDA approval in December 2025 and was prescribed to approximately 400,000 Americans within its first 10 weeks, far outpacing other GLP-1 launch rates. The oral formulation's rapid adoption underscores pent-up demand for non-injectable obesity treatments, with Novo Nordisk pricing the pill at $299/month through self-pay options.",
-      "tags": ["regulatory", "us", "fda", "compounding", "oral-wegovy", "safety", "off-label"]
+      "tags": [
+        "regulatory",
+        "us",
+        "fda",
+        "compounding",
+        "oral-wegovy",
+        "safety",
+        "off-label"
+      ]
     },
     {
       "id": "reg-entry-007",
@@ -241,7 +411,15 @@
       "market": "both",
       "summary": "India's biosimilar regulatory pathway differs fundamentally from the US FDA's BPCI Act framework, with CDSCO guidelines lacking the legal force of law and following a different approach to reference product selection and interchangeability.",
       "content": "India's regulatory framework for biosimilar peptides, termed 'similar biologics,' operates under the Drugs and Cosmetics Act 1940 rather than dedicated biologics legislation like the US BPCI Act. Key differences include: India's guidelines lack legal enforceability compared to US statutory requirements; CDSCO's 2025 draft guidelines expanded reference product selection to ICH countries, moving closer to FDA standards; India has no defined interchangeability pathway comparable to the FDA's; and Indian testing criteria historically diverge from FDA, EMA, and WHO norms, though the 2025 draft guidelines represent significant strides toward global alignment. This regulatory gap affects India's international biosimilar trade prospects.",
-      "tags": ["regulatory", "india", "us", "biosimilar", "cdsco", "fda", "framework-comparison"]
+      "tags": [
+        "regulatory",
+        "india",
+        "us",
+        "biosimilar",
+        "cdsco",
+        "fda",
+        "framework-comparison"
+      ]
     },
     {
       "id": "reg-entry-008",
@@ -251,7 +429,17 @@
       "market": "us",
       "summary": "FDA approved Eli Lilly's Foundayo (orforglipron) on April 1, 2026 — the first oral non-peptide small-molecule GLP-1 receptor agonist with no food or water restrictions, approved for chronic weight management in adults with obesity.",
       "content": "FDA approved Foundayo (orforglipron 36mg) on April 1, 2026, making it the first oral non-peptide GLP-1 receptor agonist approved for obesity. Unlike oral semaglutide (Rybelsus), Foundayo requires no fasting, food restrictions, or large water volume — patients can take it at any time of day. ATTAIN-1 Phase 3 data showed 27.3 lbs average weight loss at 72 weeks. Self-pay pricing: $149/month; commercial insurance: $25/month; Medicare Part D (July 2026 bridge): $50/month. Retail pharmacy and telehealth launch: April 6, 2026. This is the fifth GLP-1 class approval in the US and represents a major competitive threat to Novo Nordisk's semaglutide franchise.",
-      "tags": ["regulatory", "us", "fda", "approval", "orforglipron", "foundayo", "eli-lilly", "oral-glp1", "obesity"]
+      "tags": [
+        "regulatory",
+        "us",
+        "fda",
+        "approval",
+        "orforglipron",
+        "foundayo",
+        "eli-lilly",
+        "oral-glp1",
+        "obesity"
+      ]
     },
     {
       "id": "reg-entry-009",
@@ -261,7 +449,16 @@
       "market": "india",
       "summary": "India's Ministry of Health issued a formal safety communication on April 1, 2026 warning that GLP-1 drugs carry serious risks including pancreatitis, acute kidney injury, and bowel obstruction, and must only be prescribed by qualified physicians.",
       "content": "The Ministry of Health and Family Welfare issued a public safety warning on April 1, 2026, timed to coincide with the first weeks of widespread generic semaglutide availability at ₹1,290/month. The communication flags pancreatitis, acute kidney injury, and bowel obstruction as serious risks requiring medical supervision, and reiterated that semaglutide is a Schedule H prescription drug requiring a valid prescription from a Registered Medical Practitioner. The original DCGI approval conditions for Wegovy/Ozempic recommend specialist prescribing (endocrinologists, internal medicine specialists, cardiologists for CV indications) for approved indications — T2DM and obesity with comorbidities — but this is a labeling condition, not a binding new directive that excludes diabetologists or MBBS general practitioners from legally writing prescriptions. The warning follows the March 24 DCGI crackdown on 49 unauthorized sellers and addresses concerns that the dramatic price drop enabled by generics could fuel unsafe self-medication.",
-      "tags": ["regulatory", "india", "safety", "ministry-of-health", "cdsco", "semaglutide", "pancreatitis", "prescription"]
+      "tags": [
+        "regulatory",
+        "india",
+        "safety",
+        "ministry-of-health",
+        "cdsco",
+        "semaglutide",
+        "pancreatitis",
+        "prescription"
+      ]
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 17,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
         "label": "Global GLP-1 Market (2025)",
@@ -45,6 +45,26 @@
       {
         "label": "US Market Share Gap",
         "value": "Lilly 60.5% vs Novo 39.1% — widest ever"
+      },
+      {
+        "label": "Lilly Q1 2026 Revenue",
+        "value": "$19.8B (+56% YoY) | Mounjaro $8.7B | Zepbound $4.1B | Combined $12.8B"
+      },
+      {
+        "label": "Lilly Raised 2026 Guidance",
+        "value": "$82-85B (was $80-83B) | EPS $35.50-$37"
+      },
+      {
+        "label": "Mounjaro Status",
+        "value": "World's #1 best-selling drug (Q1 2026)"
+      },
+      {
+        "label": "Novo Wegovy Pill Q1 2026",
+        "value": "$354M sales | ~1.3M scripts | 65% new US Rx share"
+      },
+      {
+        "label": "Foundayo Week 4 (May 2026)",
+        "value": "7,335 scripts | 8,000+ prescribers | 20,000+ patients treated"
       }
     ]
   },
@@ -167,6 +187,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-014",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/lilly-reports-first-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-momentum-of-new-medicines-302758113.html",
+      "source_name": "Lilly IR / CNBC / US News (Reuters)",
+      "market": "global",
+      "summary": "Q1 2026 GLP-1 financial landscape — landmark quarter for both incumbents: (1) Eli Lilly Q1 revenue +56% to $19.8B; Mounjaro $8.7B (world's #1 drug); Zepbound $4.1B; combined $12.8B. Raised 2026 guidance to $82-85B (was $80-83B). (2) Novo Nordisk Q1 +32% CER to DKK 96.8B ($15.2B); oral Wegovy pill stunned at $354M revenue (~2x consensus, 1.3M scripts, 65% new US Rx share). (3) Foundayo modest start — 7,335 scripts in week 4. Lilly's market lead widening; Novo's pill betting paying off.",
+      "content": "Q1 2026 GLP-1 financial results — defining quarter for both companies:\n\n1. ELI LILLY Q1 2026 (reported April 30):\n   - Total revenue: $19.8B (+56% YoY)\n   - Mounjaro: $8.7B → world's #1 best-selling drug\n   - Zepbound: $4.1B (US +79% YoY)\n   - Combined Mounjaro+Zepbound: $12.8B for the quarter\n   - Raised 2026 guidance: $82-85B (from prior $80-83B)\n   - EPS guidance: $35.50-$37\n   - Foundayo (orforglipron) launched April 1; 7,335 scripts in week 4 per IQVIA; 8,000+ prescribers (one-third new to oral GLP-1s); 20,000+ patients treated.\n\n2. NOVO NORDISK Q1 2026 (reported May 6):\n   - Total revenue: DKK 96.8B ($15.2B), +32% at constant FX\n   - Wegovy oral pill (US Jan 2026 launch): DKK 2.26B ($354M) — ~2x consensus estimates\n   - Wegovy pill scripts: ~1.3M; 65% new US GLP-1 prescription share\n   - Wegovy injectable: DKK 18.2B (+12%)\n   - Ozempic: -8% as cannibalization continues\n\n3. RELATIVE COMPETITIVE STANDING:\n   - Lilly continues to widen US share lead — 60.5% (was 56.7% Q4 2025); Novo 39.1% (was 41.3%)\n   - Lilly's tirzepatide combo (Mounjaro+Zepbound) at $51.2B annualized\n   - Novo's Wegovy franchise (injectable + pill) at ~$32B annualized\n\n4. FOUNDAYO vs WEGOVY ORAL HEAD-TO-HEAD:\n   - Wegovy oral (4-month lead): 1.3M scripts, $354M Q1\n   - Foundayo (1-month in market): 7,335 scripts week 4\n   - Foundayo lag attributable to: narrower channel rollout, more conservative DTC marketing, Wegovy oral's first-mover advantage\n   - Foundayo advantage: NO food/water restrictions; cheaper entry-dose pricing ($149 vs $149 — tied)\n\n5. STOCK PERFORMANCE:\n   - Lilly: ~$830 (May 8) — at all-time highs\n   - Novo Nordisk: ~$45 ADR — recovering from April lows but still -36% YoY",
+      "tags": [
+        "revenue",
+        "us",
+        "eli-lilly",
+        "novo-nordisk",
+        "q1-2026",
+        "earnings",
+        "mounjaro",
+        "zepbound",
+        "wegovy-oral",
+        "foundayo",
+        "may-2026"
+      ]
+    },
     {
       "id": "rev-entry-013",
       "timestamp": "2026-04-21T00:00:00Z",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 13,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 14,
     "key_metrics": [
       {
         "label": "Tracked Pharmacies",
@@ -27,6 +27,14 @@
       {
         "label": "Foundayo Impact",
         "value": "Branded oral at $149/mo erodes compounded semaglutide value prop"
+      },
+      {
+        "label": "FDA 503B Action (Apr 30)",
+        "value": "Proposed to EXCLUDE semaglutide, tirzepatide, liraglutide from bulks list — comment period through Jun 29"
+      },
+      {
+        "label": "Patient Migration Path",
+        "value": "Foundayo $149 | Wegovy oral $149 | MFN $245 Medicare | TrumpRx $350 DTC"
       }
     ]
   },
@@ -71,6 +79,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-011",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list",
+      "source_name": "FDA / Federal Register / JDSupra (Orrick)",
+      "market": "us",
+      "summary": "April 30 / May 1 federal action: FDA proposed to permanently exclude semaglutide, tirzepatide, and liraglutide from the 503B Bulks List — finding no clinical need for outsourcing-facility compounding. Federal Register publication May 1. Comment period through June 29, 2026. If finalized, this effectively ends large-scale 503B compounding of the three most-prescribed GLP-1 substances. 503A (individual patient compounding) remains legal but limited to 4 prescriptions/month per the April 1 enforcement threshold. The 'cat-and-mouse' era is ending.",
+      "content": "April 30, 2026 — the FDA's hardest action against compounded GLP-1 supply:\n\n1. THE PROPOSAL: FDA proposes to permanently exclude semaglutide, tirzepatide, and liraglutide from the 503B Bulks List. Without inclusion, 503B outsourcing facilities cannot legally compound these substances absent a shortage. Federal Register notice published May 1, 2026; comment period closes June 29, 2026.\n\n2. FDA RATIONALE: The agency found 'no clinical need' for 503B compounding of these substances given commercial availability of FDA-approved products at affordable post-MFN prices. This draws a hard line between CLINICAL need (legitimate medical need not met by branded products) and ECONOMIC need (cost savings vs branded).\n\n3. WHO IS AFFECTED:\n   - Empower Pharmacy: Already 4 FDA warning letters; 503B GLP-1 production was material revenue.\n   - Olympia Pharmaceuticals: 503B; significant GLP-1 compounding business.\n   - Hallandale Pharmacy: 503A; less affected by 503B exclusion but still subject to 4-rx/month limit.\n   - Various smaller 503B facilities: Existential challenge if rule finalizes.\n\n4. 503A vs 503B DISTINCTION:\n   - 503A (individual-patient compounding): Still legal for individualized medical needs. Subject to 4-prescriptions/month enforcement threshold per FDA April 1 guidance.\n   - 503B (outsourcing facility): Subject to the new bulks list exclusion. If finalized, effectively ends mass-volume compounding.\n\n5. PATIENT MIGRATION (estimated 1-1.5M US patients on compounded GLP-1s):\n   - Foundayo branded $149/mo self-pay → most likely path\n   - Wegovy oral pill $149/mo self-pay → strong alternative\n   - MFN $245/mo Medicare → for eligible Medicare beneficiaries\n   - TrumpRx $350/mo DTC → for commercially uninsured\n   - Novo subscription $249-329/mo → 12-month plan offers best value\n\n6. LEGAL POSITION OF COMPOUNDERS:\n   - Outsourcing Facility Association (OFA) lawsuit over original shortage-resolution policy still pending; no favorable ruling.\n   - The new 503B bulks list proposal may face additional legal challenge but FDA's 'no clinical need' finding is robust.\n   - Industry expectation: FDA finalizes proposal in Q3 2026 with effective date Q4 2026 / Q1 2027.",
+      "tags": [
+        "compounding",
+        "us",
+        "fda",
+        "503b",
+        "503a",
+        "bulks-list",
+        "april-2026",
+        "federal-register",
+        "semaglutide",
+        "tirzepatide",
+        "liraglutide"
+      ]
+    },
     {
       "id": "comp-entry-010",
       "timestamp": "2026-04-21T00:00:00Z",

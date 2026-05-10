@@ -1,16 +1,16 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 43,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 44,
     "key_metrics": [
       {
         "label": "Stories This Week",
-        "value": "8 new (India-Business deep dive)"
+        "value": "5 new (Apr 22 – May 10)"
       },
       {
         "label": "Sources Tracked",
-        "value": "25+"
+        "value": "30+"
       },
       {
         "label": "Markets Covered",
@@ -19,6 +19,31 @@
     ]
   },
   "stories": [
+    {
+      "id": "story-044",
+      "headline": "Lilly Foundayo Reaches 7,335 Prescriptions in Week 4 — Modest but Steady Uptake",
+      "summary": "Eli Lilly's Foundayo (orforglipron) generated 7,335 prescriptions in week 4 post-launch per IQVIA data — modest compared to Wegovy oral but showing steady growth. Lilly reports 8,000+ unique prescribers (one-third new to oral GLP-1s) and 20,000+ patients treated. The lag vs Wegovy oral (which had a 4-month head start and 65% new-Rx share) reflects Lilly's narrower channel rollout and more conservative direct-to-consumer marketing approach.",
+      "market": "us",
+      "category": "business",
+      "timestamp": "2026-05-08",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "US News (Reuters)",
+          "title": "Lilly's obesity pill tops 7,000 prescriptions in fourth week, signals modest uptake",
+          "url": "https://money.usnews.com/investing/news/articles/2026-05-08/lillys-obesity-pill-tops-7-000-prescriptions-in-fourth-week-signals-modest-uptake",
+          "date": "2026-05-08"
+        }
+      ],
+      "tags": [
+        "foundayo",
+        "orforglipron",
+        "eli-lilly",
+        "iqvia",
+        "prescriptions",
+        "uptake"
+      ]
+    },
     {
       "id": "story-040",
       "headline": "Generic Semaglutide Hits 33% India Market Share in 30 Days — Novo's Pricing Power Eroded",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 15,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 16,
     "key_metrics": [
       {
         "label": "Active Safety Signals",
@@ -76,6 +76,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "safety-entry-013",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability",
+      "source_name": "FDA Drug Safety / Verification check",
+      "market": "us",
+      "summary": "May 10, 2026 safety signal verification: No material new FDA actions since April 21 update. Suicide-risk warning label removal (FDA conclusion: NO increased risk) is in implementation phase. Foundayo safety follow-up data due to FDA July 2026 (liver, CV MACE, gastric retention, lactation). Novo Nordisk PADE warning letter remains active. Wegovy HD 7.2mg dysesthesia signal monitoring continues. ADA 2026 (mid-June) expected to surface any new clinical safety data.",
+      "content": "May 10, 2026 safety signal verification check:\n\n1. SUICIDE-RISK LABEL REMOVAL (in implementation):\n   - FDA conclusion (April 2026): NO increased suicide risk with GLP-1 medications.\n   - Warning label removal in active implementation across Wegovy, Ozempic, Saxenda, Mounjaro, Zepbound, Foundayo.\n   - Net effect: lower prescribing friction, simplified labeling, reduced patient anxiety.\n\n2. FOUNDAYO SAFETY FOLLOW-UP (pending July 2026):\n   - FDA requested additional post-market data from Lilly in 4 areas: drug-induced liver injury, CV MACE, retained gastric contents, lactation exposure.\n   - Lilly to submit initial findings by July 2026.\n   - Foundayo remains FDA-approved and widely available during review.\n\n3. NOVO NORDISK PADE STATUS (continuing):\n   - March 5, 2026 warning letter regarding 3 unreported deaths + systemic post-approval drug experience reporting failures remains active.\n   - Novo has submitted remediation plans; FDA has not yet closed the case.\n\n4. WEGOVY HD 7.2mg DYSESTHESIA (continuing):\n   - 22.9% of patients vs 6.0% at 2.4mg standard dose.\n   - No new clinical actions; monitoring continues; informs risk-benefit conversations.\n\n5. FAERS INDICATION DIFFERENCES (continuing):\n   - April 2 analysis confirmed: T2DM patients show retinopathy signals; obesity patients show psychiatric signals.\n   - Reinforces indication-specific prescriber education.\n\n6. NO NEW SAFETY ACTIONS in April 22-May 10 window.\n\n7. NEXT KEY EVENTS:\n   - ADA 2026 Scientific Sessions (June 13-16, Chicago): Expected new clinical safety data on Foundayo, retatrutide, survodutide.\n   - July 2026: Foundayo post-market data due to FDA.\n   - Q3 2026: Possible FDA follow-up on Novo PADE remediation.\n\n8. STATUS: Section verified current; no material new safety signals to flag.",
+      "tags": [
+        "safety",
+        "verification",
+        "may-2026",
+        "fda",
+        "suicide-risk",
+        "foundayo",
+        "wegovy-hd",
+        "novo-pade",
+        "ada-2026"
+      ]
+    },
     {
       "id": "safety-entry-012",
       "timestamp": "2026-04-21T00:00:00Z",

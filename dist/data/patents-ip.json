@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "patents-ip",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 15,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 16,
     "key_metrics": [
       {
         "label": "Markets Open (Semaglutide)",
@@ -31,6 +31,10 @@
       {
         "label": "Sun Pharma Export Status",
         "value": "HC approved April 2026 — joins Dr Reddy's in export market"
+      },
+      {
+        "label": "Tirzepatide Para IV Status (May 13)",
+        "value": "Eligibility window opens May 13 — no public ANDA filings yet; Lilly 21-patent fortress remains"
       }
     ]
   },
@@ -92,6 +96,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "pat-entry-012",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.markmanadvisors.com/blog/2025/2/7/what-is-the-patent-landscape-for-novo-nordisks-semaglutide-products-ozempic-wegovy-and-rybelsus",
+      "source_name": "Markman Advisors / FDA Orange Book",
+      "market": "us",
+      "summary": "Tirzepatide Paragraph IV eligibility window opens May 13, 2026 (4 years after initial Mounjaro approval). As of May 10, 2026, no public ANDA Para IV filings have been disclosed in the FDA Orange Book. Lilly's 21-patent fortress remains: primary composition to 2036, formulations to 2039-2041. Meaningful US generic tirzepatide competition before 2036 considered remote. Recommend tracking FDA Orange Book directly for any disclosed filings post-May 13.",
+      "content": "May 2026 patent landscape update — tirzepatide Paragraph IV milestone:\n\n1. THE MAY 13, 2026 MILESTONE:\n   - Tirzepatide (Mounjaro/Zepbound) becomes eligible for Paragraph IV patent challenges on May 13, 2026 — exactly 4 years after initial Mounjaro FDA approval (May 13, 2022).\n   - Para IV allows generic manufacturers to file ANDAs challenging Lilly's tirzepatide patents.\n   - As of May 10, 2026, no public ANDA Para IV filings have been disclosed in the FDA Orange Book.\n\n2. LILLY'S PATENT FORTRESS:\n   - 21 active US patents on tirzepatide.\n   - Primary composition patent: expires January 2036.\n   - Formulation patents: extend protection to 2039-2041.\n   - Device patents (Mounjaro KwikPen): additional protection.\n   - Lilly's patent strategy is more concentrated than Novo's semaglutide thicket but each individual patent is harder to invalidate.\n\n3. OUTLOOK:\n   - Even if Para IV filings emerge May 13+, meaningful US generic tirzepatide competition before 2036 is considered remote.\n   - The Novo-Teva semaglutide litigation precedent (initial proceedings, decision 2027+) suggests tirzepatide Para IV cases would resolve no earlier than 2028-2029.\n   - India tirzepatide market: Lilly launched Mounjaro in March 2025; patent expiry in India follows the 20-year rule, so 2036+.\n   - China tirzepatide: Patent expiry 2036+.\n\n4. SEMAGLUTIDE LITIGATION CONTINUING:\n   - Teva's Hatch-Waxman Para IV challenge to US9,694,053 (semaglutide composition) continues in Delaware District Court.\n   - Initial proceedings scheduled; decision not expected before late 2027.\n   - If Teva prevails on obviousness, US semaglutide generic entry could accelerate from 2031-2032 to 2028-2029.\n\n5. INDIA PATENT TRACKING:\n   - Delhi HC continues to reject Novo's secondary patent claims (microsphere formulation challenge ruled against Novo).\n   - Sun Pharma joined Dr Reddy's in HC export approval (April).\n   - Section 3(d) evergreening jurisprudence reinforced.\n\n6. ACTION FOR LEADERSHIP:\n   - Track FDA Orange Book directly for tirzepatide ANDA Para IV filings after May 13.\n   - Monitor Teva-Novo Delaware proceedings.\n   - Watch for any India High Court rulings on tirzepatide secondary patents.",
+      "tags": [
+        "patents",
+        "us",
+        "tirzepatide",
+        "paragraph-iv",
+        "may-13",
+        "eli-lilly",
+        "fda-orange-book",
+        "teva",
+        "may-2026"
+      ]
+    },
     {
       "id": "pat-entry-011",
       "timestamp": "2026-04-21T00:00:00Z",

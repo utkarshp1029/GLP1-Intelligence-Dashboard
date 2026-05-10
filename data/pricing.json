@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 11,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 30,
     "key_metrics": [
       {
         "label": "Cheapest India (Vial)",
@@ -31,6 +31,14 @@
       {
         "label": "India vs US Price Ratio",
         "value": "1:43 (₹1,290 vs $149 Foundayo self-pay)"
+      },
+      {
+        "label": "TrumpRx DTC GLP-1 Price (May 5)",
+        "value": "$350/mo injectable | $245/mo Medicare flat — MFN deal w/ 17 manufacturers, $64.3B savings/10yr"
+      },
+      {
+        "label": "Foundayo Pricing Confirmed",
+        "value": "$149/mo (lowest dose) up to $349 (highest) | $25/mo commercial savings | $50/mo Medicare from Jul 1"
       }
     ]
   },
@@ -860,6 +868,26 @@
   ],
   "entries": [
     {
+      "id": "pricing-entry-012",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.whitehouse.gov/research/2026/05/savings-from-most-favored-nation-drug-pricing-policy/",
+      "source_name": "White House / AJMC / Morningstar",
+      "market": "us",
+      "summary": "May 2026 US pricing finalization: Trump Administration formalized MFN agreements with 17 drug manufacturers projecting $64.3B in 10-year savings. DTC injectable GLP-1s on TrumpRx.gov set at $350/month (down from $1,000-$1,350); Medicare doses negotiated to $245/month flat. Foundayo cash-pay tiered at $149-$349/mo by dose; commercial savings card $25/mo; Medicare Part D $50/mo from July 1 via the GLP-1 Bridge.",
+      "content": "May 5, 2026 marks the formalization of the Trump Most-Favored-Nation drug pricing framework:\n\n1. MFN STRUCTURE: White House announced MFN agreements with 17 drug manufacturers including Lilly and Novo Nordisk. CBO-aligned estimate: $64.3B in federal savings over 10 years.\n\n2. TRUMPRX DIRECT-TO-CONSUMER: GLP-1 injectables (Wegovy, Ozempic, Mounjaro, Zepbound) at $350/month direct-to-consumer through TrumpRx.gov platform. This is roughly 65% below pre-MFN list prices ($1,000-$1,350) and roughly matches Novo's existing 12-month subscription rate ($249-329).\n\n3. MEDICARE NEGOTIATED PRICE: $245/month flat-rate for Medicare Part D coverage of all five GLP-1 brands (Ozempic, Wegovy, Mounjaro, Zepbound, Foundayo) — the negotiated MFN price.\n\n4. PATIENT COPAY: $50/month for eligible Medicare Part D beneficiaries through the Medicare GLP-1 Bridge program (effective July 1, 2026). Note: copay does NOT count toward the $2,100 annual Part D out-of-pocket cap or deductible.\n\n5. FOUNDAYO PRICING DETAIL: Lilly's oral GLP-1 Foundayo pricing structure confirmed via Ro: $149/month for lowest dose (3mg), scaling to $349/month for highest dose. Commercial insurance with savings card: $25/month. Medicare Part D: $50/month from July 1 via Bridge program.\n\n6. WHAT THIS MEANS: A typical insured US patient now pays $25-50/month branded — down from $500-1,000/month two years ago. The economic logic for compounded GLP-1s is fully inverted: Foundayo ($149 self-pay) is cheaper than most compounded offerings ($199+) and cheaper than telehealth subscriptions ($249-329).",
+      "tags": [
+        "pricing",
+        "us",
+        "mfn",
+        "trump",
+        "medicare",
+        "foundayo",
+        "wegovy",
+        "trumprx",
+        "may-2026"
+      ]
+    },
+    {
       "id": "pricing-entry-011",
       "timestamp": "2026-04-21T00:00:00Z",
       "source_url": "https://www.cnbc.com/2026/04/01/eli-lilly-glp-1-pill-foundayo-approved-for-obesity.html",
@@ -867,7 +895,17 @@
       "market": "us",
       "summary": "Two landmark April 2026 US pricing events: (1) Foundayo (orforglipron) launched at $149/mo self-pay, $25/mo insured, $50/mo Medicare from July 2026 — creating the cheapest branded oral GLP-1 entry point. (2) Trump MFN deal caps Medicare/Medicaid GLP-1 price at $245/mo ($50 copay) from July 1, 2026 for Wegovy, Ozempic, Mounjaro, Zepbound, and Foundayo. Novo also introduced subscription pricing: $329/mo (3-month) and $249/mo (12-month) for Wegovy/Ozempic. Wegovy HD (7.2mg) priced at $399/mo.",
       "content": "April 2026 US pricing is defined by two seismic events:\n\n1. FOUNDAYO LAUNCH (April 1-6, 2026): Eli Lilly's orforglipron (Foundayo) launched with the most accessible pricing structure in branded GLP-1 history. Self-pay: $149/month for lowest dose (3mg), $199/month for higher doses. Commercial insurance with savings card: $25/month. Medicare Part D from July 1, 2026: $50/month copay. Available at Amazon Pharmacy (same-day delivery in 3,000+ cities), LillyDirect, retail pharmacies, and telehealth providers from April 6. Foundayo has NO food or water restrictions — unlike Wegovy oral pill, which must be taken 30 minutes before eating with only a small amount of water. This convenience advantage is expected to drive significant switching.\n\n2. TRUMP MFN DEAL (confirmed April 2026): Trump administration signed MFN pricing agreements with both Eli Lilly and Novo Nordisk. Government-negotiated price: $245/month for Ozempic, Wegovy, Mounjaro, Zepbound, and Foundayo. Patient copay under Medicare: $50/month from July 1, 2026. State Medicaid programs also get the $245 rate. TrumpRx direct platform: $350/month for semaglutide. Lilly committed $27B in US manufacturing investment; Novo committed $10B. CBO estimates expanded coverage adds $35.5B in federal spending 2026-2034.\n\n3. NOVO SUBSCRIPTION PRICING: In response to Foundayo launch and MFN deal, Novo Nordisk launched subscription pricing in the US: $329/month for 3-month commitment, $249/month for 12-month annual plan. Wegovy HD (7.2mg) injectable: $399/month. Oral Wegovy pill: $149/month (unchanged). This competes directly with Foundayo's self-pay pricing.\n\nNET IMPACT: A patient choosing between branded oral options now pays $149/month (Foundayo or Wegovy oral) without restriction. Medicare patients will pay $50/month starting July. The de facto US out-of-pocket for most insured patients drops from $500-900/month to $25-50/month within 2026.",
-      "tags": ["pricing", "us", "foundayo", "mfn-deal", "medicare", "trump", "novo-subscription", "april-2026", "wegovy-hd"]
+      "tags": [
+        "pricing",
+        "us",
+        "foundayo",
+        "mfn-deal",
+        "medicare",
+        "trump",
+        "novo-subscription",
+        "april-2026",
+        "wegovy-hd"
+      ]
     },
     {
       "id": "pricing-entry-010",
@@ -877,7 +915,17 @@
       "market": "both",
       "summary": "Novo Nordisk cut India prices effective April 1: Ozempic -36%, Wegovy -48%. In the US, Novo launched a $199/month introductory offer for new patients. US list prices for Wegovy, Ozempic, and Rybelsus to drop to $675/month from January 1, 2027 (IRA negotiation outcome). India generics prices forecast to fall 40-50% in FY27 and another 10-30% in FY28.",
       "content": "April 2026 pricing update — two major developments:\n\n1. INDIA: Novo Nordisk cut branded prices effective April 1, 2026: Ozempic -36% and Wegovy -48%. This is a direct response to the generic wave, narrowing the price premium of branded vs generics from 6-8x to 4-5x. Despite cuts, generics remain 3-4x cheaper than post-cut Novo pricing. India generic prices continue to fall: FY27 forecast is an additional 40-50% price decline industrywide as 40+ manufacturers compete. FY28 may see a further 10-30% drop as consolidation eliminates weaker players.\n\n2. US: Novo Nordisk announced a $199/month introductory offer for new Wegovy and Ozempic patients (through NovoCare pharmacy), down from the standard $349/month. This follows Novo's February 2026 announcement of a planned list price reduction to $675/month for Wegovy, Ozempic, and Rybelsus, effective January 1, 2027 — the result of IRA (Inflation Reduction Act) price negotiations. As of April 2026, the US list price remains $1,027 (Ozempic) to $1,349 (Wegovy) per pen, but insured patients pay as little as $25/month. The NovoCare self-pay program at $349/month for most doses is the key benchmark for uninsured US patients.",
-      "tags": ["pricing", "india", "us", "novo-nordisk", "price-cut", "april-2026", "ira-negotiation", "novocare", "fy27-forecast"]
+      "tags": [
+        "pricing",
+        "india",
+        "us",
+        "novo-nordisk",
+        "price-cut",
+        "april-2026",
+        "ira-negotiation",
+        "novocare",
+        "fy27-forecast"
+      ]
     },
     {
       "id": "pricing-entry-008",
@@ -887,7 +935,19 @@
       "market": "india",
       "summary": "Bloomberg confirmed $14/month (₹1,290) as the new India price floor for generic semaglutide — a 91% reduction from branded Ozempic. Comprehensive India price index as of March 30, 2026: vials ₹1,290-₹1,800/month; pens ₹3,400-₹4,500/month; branded Ozempic ₹8,800-₹16,400/month; branded Wegovy ₹10,850-₹16,400/month. Novo NovoCare US self-pay: $349/month most doses.",
       "content": "Bloomberg's landmark March 20 article confirmed the India semaglutide price floor at ₹1,290/month ($14/month) — establishing a new global benchmark for what semaglutide can cost at scale without patent protection. Comprehensive India price index as of March 30, 2026:\n\nVial formats:\n- Natco Semanat: ₹1,290/month (2mg), ₹1,750 (8mg) — cheapest in market\n- Eris Sundae: ₹220/shot (₹880/month at weekly dosing) — via co-marketing with Natco\n- Alkem Semasize/Obesema: ₹1,800/month (disposable pen)\n- Glenmark Glipiq vial: ₹325/week (₹1,300/month)\n\nPen formats:\n- Zydus Semaglyn (reusable): ₹2,200/month\n- Sun Pharma Noveltreat/Sematrinity: ₹3,400-₹4,500/month (European-manufactured)\n- Dr. Reddy's Obeda: ₹4,200/month\n- Mankind Samakind: ₹4,200/month\n- USV Usema: ₹4,200/month\n- Torrent Semalix injectable: ₹3,999/month\n- Zydus/Lupin Semanext/Livarise: ₹4,300/month\n\nBranded originators (Novo Nordisk):\n- Ozempic 0.25mg/0.5mg: ₹8,800-₹11,175/month\n- Ozempic 1mg: ₹16,400-₹22,000/month\n- Wegovy: ₹10,850-₹16,400/month\n\nUS reference pricing (Novo NovoCare self-pay, March 2026):\n- Ozempic/Wegovy most doses: $349/month\n- New patient introductory: $199/month first 2 months\n- Oral Wegovy pill: $149/month (launched January 2026)\n\nPrice erosion forecast: CareEdge projects 40-50% further decline in FY27, additional 10-30% in FY28 as market consolidates.",
-      "tags": ["pricing", "india", "us", "bloomberg", "$14", "generic", "semaglutide", "price-index", "four-tier", "novocare", "oral-wegovy"]
+      "tags": [
+        "pricing",
+        "india",
+        "us",
+        "bloomberg",
+        "$14",
+        "generic",
+        "semaglutide",
+        "price-index",
+        "four-tier",
+        "novocare",
+        "oral-wegovy"
+      ]
     },
     {
       "id": "pricing-entry-007",
@@ -897,7 +957,18 @@
       "market": "india",
       "summary": "India's generic semaglutide market has consolidated into a four-tier price structure: ultra-affordable vials (₹1,290-₹1,800/month), mid-range reusable pens (₹2,200-₹3,999), premium generic pens (₹4,000-₹7,400), and innovator Novo Nordisk (₹8,800-₹16,400). Torrent launched the only oral generic at price TBC. 10 companies launched in the first week.",
       "content": "One week after the March 20 semaglutide patent expiry, India's generic pricing structure has crystallized into four distinct tiers, each serving a different patient segment. Tier 1 (Ultra-affordable vials, ₹1,290-₹1,800/month): Natco (Semanat ₹1,290), Eris/Natco (Sundae ₹220/shot ≈ ₹880/month), Alkem (Semasize/Obesema ₹1,800). These target price-sensitive patients, hospitals, and clinics with bulk purchasing. Tier 2 (Mid-range reusable pens, ₹2,200-₹3,999/month): Zydus (Semaglyn/Mashema/Alterme ~₹2,200 reusable pen), Torrent (Semalix injectable ₹3,999). These offer device reuse to reduce long-term cost. Tier 3 (Premium generic pens, ₹4,000-₹7,400/month): Dr. Reddy's (Obeda ₹4,200), Mankind (Samakind ₹4,200), USV (Usema ₹4,200), Zydus/Lupin (Semanext/Livarise ₹4,300), Sun Pharma (Noveltreat/Sematrinity ₹3,400-₹4,500). European-manufactured pens with DCGI-approved Phase 3 data. Tier 4 (Innovator, ₹8,800-₹16,400/month): Novo Nordisk Ozempic and Wegovy, maintained with modest price cuts. A fifth emerging tier is oral generics: Torrent (Sembolic) is the only oral generic semaglutide (Rybelsus equivalent), though pricing has not yet been disclosed. The oral format could command a premium over vials given its injection-free convenience. Prices expected to fall 40-50% further in FY27 and an additional 10-30% in FY28 as the 40+ manufacturer field consolidates.",
-      "tags": ["pricing", "india", "four-tier", "market-structure", "generic", "semaglutide", "torrent", "alkem", "vials", "pens"]
+      "tags": [
+        "pricing",
+        "india",
+        "four-tier",
+        "market-structure",
+        "generic",
+        "semaglutide",
+        "torrent",
+        "alkem",
+        "vials",
+        "pens"
+      ]
     },
     {
       "id": "pricing-entry-001",

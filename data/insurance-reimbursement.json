@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "insurance-reimbursement",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 15,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 16,
     "key_metrics": [
       {
         "label": "US Commercial Coverage (Ozempic/T2DM)",
@@ -43,6 +43,18 @@
       {
         "label": "State Medicaid Coverage",
         "value": "13 states cover GLP-1s for obesity (FFS, as of Jan 2026)"
+      },
+      {
+        "label": "BALANCE Part D Status (Apr 22)",
+        "value": "DELAYED beyond 2027 | Medicaid still proceeds | Bridge extended to Dec 31, 2027"
+      },
+      {
+        "label": "Bridge Eligibility",
+        "value": "BMI ≥27 + comorbidity OR BMI ≥30 + hypertension/CKD/HF | $50/mo copay | Wegovy, Zepbound, Foundayo confirmed"
+      },
+      {
+        "label": "Wegovy in Bridge (May)",
+        "value": "CONFIRMED participation effective Jul 1, 2026 — Novo Nordisk announcement"
       }
     ]
   },
@@ -120,6 +132,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "ins-entry-012",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.aha.org/news/headline/2026-04-22-cms-delays-part-d-portion-balance-model-expansion-glp-1-access",
+      "source_name": "AHA / Axios / CMS / NPR / Novo Nordisk",
+      "market": "us",
+      "summary": "Two major insurance updates: (1) April 22 — CMS delayed the BALANCE Model Part D portion beyond 2027; Medicare GLP-1 Bridge extended through Dec 31, 2027 to fill the gap. (2) Novo Nordisk confirmed Wegovy participation in the Bridge effective July 1, 2026 — alongside Zepbound and Foundayo. (3) Eligibility: BMI ≥27 with comorbidity OR BMI ≥30 + hypertension/CKD/HF; $50/month copay. Medicaid BALANCE proceeds with state opt-in window through Jan 1, 2027.",
+      "content": "April-May 2026 US insurance landscape — landmark policy adjustments:\n\n1. BALANCE PART D DELAY (April 22):\n   - CMS announced the Medicare Part D portion of BALANCE will NOT launch January 1, 2027.\n   - Insurer concerns: utilization data uncertainty, bid-pricing complexity given rapidly evolving GLP-1 landscape.\n   - Medicaid portion proceeds: state opt-in window May 1, 2026 through January 1, 2027.\n   - Updated CBO scoring expected in Q3 2026.\n\n2. MEDICARE GLP-1 BRIDGE EXTENDED:\n   - Originally planned: July 1, 2026 - December 31, 2026 (6 months).\n   - New duration: July 1, 2026 - December 31, 2027 (18 months).\n   - Becomes the principal Medicare GLP-1 access vehicle while Part D pilot is reconsidered.\n\n3. WEGOVY PARTICIPATION CONFIRMED (May):\n   - Novo Nordisk press release: Wegovy participates in Bridge effective July 1, 2026.\n   - Joins Zepbound and Foundayo in the Bridge formulary.\n   - All three at the negotiated MFN price of $245/month with $50/month patient copay.\n\n4. ELIGIBILITY CRITERIA (Bridge):\n   - BMI ≥27 with at least one comorbidity (T2DM, CV disease, hypertension), OR\n   - BMI ≥30 with hypertension, kidney disease, or heart failure.\n   - Approximately 10% of Medicare beneficiaries qualify.\n   - $50/month copay does NOT count toward $2,100 annual Part D OOP cap or deductible.\n\n5. STATE MEDICAID OPT-IN PROGRESS:\n   - 13 states already cover GLP-1s under FFS as of Jan 2026.\n   - BALANCE Medicaid expands this with federal cost-sharing.\n   - Expected initial opt-ins (May 2026): CA, NY, IL, MA, NJ.\n   - Opt-out trend: 4 states (CA earlier signal reversed; NH, PA, SC tightening obesity coverage).\n\n6. MFN OVERLAY:\n   - All five MFN-included GLP-1 brands (Ozempic, Wegovy, Mounjaro, Zepbound, Foundayo) at $245/month government price.\n   - Patient copay: $50/month under Bridge for eligible Medicare beneficiaries.\n   - TrumpRx DTC: $350/month for commercially uninsured.\n\n7. INDIA CONTEXT (UNCHANGED):\n   - Private insurance still ~8% coverage; GLP-1s broadly excluded.\n   - Generic pricing at ₹1,290/mo makes out-of-pocket affordable for middle-class.",
+      "tags": [
+        "insurance",
+        "us",
+        "cms",
+        "medicare",
+        "balance",
+        "bridge",
+        "wegovy",
+        "zepbound",
+        "foundayo",
+        "delay",
+        "may-2026"
+      ]
+    },
     {
       "id": "ins-entry-011",
       "timestamp": "2026-04-21T00:00:00Z",

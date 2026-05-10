@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supply-chain",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 15,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 16,
     "key_metrics": [
       {
         "label": "Active Shortages",
@@ -71,6 +71,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "sc-entry-013",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+      "source_name": "FDA Drug Shortage Database / Verification check",
+      "market": "both",
+      "summary": "May 10, 2026 supply chain verification: All major GLP-1 products remain off FDA's Drug Shortage Database. Lilly Q1 2026 noted only 'intermittent localized' Mounjaro/Zepbound disruption. Foundayo distribution scaling (8,000+ prescribers in week 4). Lilly's $4.5B LEAP expansion announcement (May 6) reinforces durable capacity buildout. Novo Ireland and India CDMO buildouts proceeding on plan. The April 30 FDA 503B bulks list proposal narrows compounded supply but branded supply remains stable.",
+      "content": "May 10, 2026 supply chain verification check:\n\n1. US DOMESTIC SUPPLY (stable):\n   - All major GLP-1s off FDA Drug Shortage Database.\n   - Lilly Q1 2026 commentary: only 'intermittent localized' Mounjaro/Zepbound disruption.\n   - Foundayo distribution scaling: 8,000+ prescribers in week 4 (LillyDirect + Amazon Pharmacy + retail).\n   - Wegovy oral pill: 1.3M scripts in Q1 — no supply constraints.\n\n2. CAPACITY BUILDOUT (May 6 update):\n   - Lilly LEAP District: $4.5B incremental investment announced; total LEAP capex now $18B+.\n   - Lilly Lebanon Advanced Therapies (LLAT): genetic medicine facility opened.\n   - Lilly Lebanon API site (2027): largest API production site in US history.\n   - Novo Nordisk Ireland (€432M, 2027-2028): on track.\n   - MFN deal commitments: $27B Lilly + $10B Novo US manufacturing.\n\n3. INDIA SUPPLY:\n   - Cold-chain compliance remains #1 operational risk; DCGI monitoring continues.\n   - Dr Reddy's + Sun Pharma export clearances enabling Canada, Brazil, Turkey supply.\n   - 40+ DCGI-approved brands operational.\n   - MSN SEMABEST (April 5 launch) — first fully Made-in-India semaglutide.\n\n4. 503B COMPOUNDED SUPPLY (declining):\n   - April 30 FDA proposal to exclude semaglutide/tirzepatide/liraglutide from bulks list.\n   - Narrows legal compounded supply; patient migration to branded accelerating.\n\n5. NO NEW SHORTAGES OR DISRUPTIONS in April 22-May 10 window.\n\n6. STATUS: Section verified current; no material new supply chain issues to flag.",
+      "tags": [
+        "supply-chain",
+        "verification",
+        "may-2026",
+        "lilly-leap",
+        "novo-ireland",
+        "msn-semabest",
+        "503b",
+        "stable-supply"
+      ]
+    },
     {
       "id": "sc-entry-012",
       "timestamp": "2026-04-21T00:00:00Z",

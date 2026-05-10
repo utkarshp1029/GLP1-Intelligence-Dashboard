@@ -1,14 +1,37 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 13,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
-      { "label": "Phase 3 Candidates", "value": "5 (Orforglipron now APPROVED as Foundayo)" },
-      { "label": "Orforglipron / Foundayo", "value": "FDA APPROVED Apr 1 | $149/mo self-pay | $50/mo Medicare Jul 2026" },
-      { "label": "Best Phase 3 Weight Loss", "value": "28.7% (Retatrutide TRIUMPH-4) | NDA filing Q4 2026" },
-      { "label": "CagriSema", "value": "NDA filed Dec 2025 | REDEFINE-4 missed non-inferiority vs tirzepatide" },
-      { "label": "Retatrutide TRIUMPH-4", "value": "28.7% weight loss + 75.8% knee pain reduction | 7 more trials in 2026" }
+      {
+        "label": "Phase 3 Candidates",
+        "value": "5 (Orforglipron now APPROVED as Foundayo)"
+      },
+      {
+        "label": "Orforglipron / Foundayo",
+        "value": "FDA APPROVED Apr 1 | $149/mo self-pay | $50/mo Medicare Jul 2026"
+      },
+      {
+        "label": "Best Phase 3 Weight Loss",
+        "value": "28.7% (Retatrutide TRIUMPH-4) | NDA filing Q4 2026"
+      },
+      {
+        "label": "CagriSema",
+        "value": "NDA filed Dec 2025 | REDEFINE-4 missed non-inferiority vs tirzepatide"
+      },
+      {
+        "label": "Retatrutide TRIUMPH-4",
+        "value": "28.7% weight loss + 75.8% knee pain reduction | 7 more trials in 2026"
+      },
+      {
+        "label": "Survodutide Phase 3 (Apr 28)",
+        "value": "SYNCHRONIZE-1: 16.6% weight loss vs 3.2% placebo at 76 weeks | Full data ADA Jun 2026"
+      },
+      {
+        "label": "Foundayo Real-World (May)",
+        "value": "7,335 scripts week 4 | 8,000+ prescribers | 20,000+ patients"
+      }
     ]
   },
   "trials": [
@@ -92,6 +115,27 @@
   ],
   "entries": [
     {
+      "id": "trial-entry-014",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.globenewswire.com/news-release/2026/04/28/3282218/0/en/Boehringer-Ingelheim-s-novel-glucagon-GLP-1-dual-agonist-survodutide-achieved-significant-weight-loss-of-16-6-delivering-meaningful-metabolic-improvement-in-people-with-obesity-or-.html",
+      "source_name": "Boehringer Ingelheim / GlobeNewswire / ConscienHealth",
+      "market": "global",
+      "summary": "Boehringer Ingelheim's survodutide hit primary endpoint in Phase 3 SYNCHRONIZE-1: 16.6% weight loss vs 3.2% placebo at 76 weeks; 85.1% achieved ≥5% loss. First Phase 3 readout for a GLP-1/glucagon dual agonist (vs Lilly's tirzepatide GIP/GLP-1 dual or retatrutide GLP-1/GIP/glucagon triple). Survodutide's distinct glucagon-receptor mechanism positions it favorably for MASH where LIVERAGE/LIVERAGE-Cirrhosis trials are ongoing. Full SYNCHRONIZE-1 data at ADA 2026 Scientific Sessions in June.",
+      "content": "April 28, 2026 — Boehringer Ingelheim announced positive Phase 3 SYNCHRONIZE-1 results for survodutide:\n\n1. SYNCHRONIZE-1 PRIMARY RESULTS:\n   - 16.6% mean weight loss (high dose) vs 3.2% placebo at 76 weeks\n   - 85.1% of patients achieved ≥5% weight loss\n   - First Phase 3 obesity readout for a glucagon-containing dual agonist\n   - Full data presentation at ADA 2026 Scientific Sessions (mid-June)\n\n2. MECHANISM POSITIONING:\n   - Survodutide: GLP-1 + glucagon dual agonist\n   - Tirzepatide (Lilly): GLP-1 + GIP dual agonist (~21% weight loss in SURMOUNT)\n   - Retatrutide (Lilly): GLP-1 + GIP + glucagon triple agonist (~28.7% weight loss in TRIUMPH-4)\n   - Survodutide's lower weight-loss numbers vs tirzepatide/retatrutide may be offset by metabolic improvements (BP, lipids, A1c, hepatic fat) attributable to glucagon mechanism.\n\n3. MASH OPPORTUNITY:\n   - Survodutide's glucagon agonism drives stronger energy expenditure and hepatic fat reduction\n   - Phase 3 MASH trials: LIVERAGE (non-cirrhotic) and LIVERAGE-Cirrhosis (cirrhotic)\n   - MASH represents a large unmet need where current GLP-1 monotherapy has not been broadly successful\n   - If LIVERAGE trials read out positive, survodutide could be the first dual-mechanism therapy for liver disease\n\n4. COMMERCIAL OUTLOOK:\n   - Boehringer + Zealand Pharma partnership (royalties to Zealand)\n   - NDA filing expected Q4 2026 / early 2027 if trial pattern holds\n   - FDA approval target: late 2027 / 2028\n   - Differentiation: lower discontinuation rate than retatrutide (8-10% vs 18.2% at high dose)\n\n5. RECEPTOR-LEVEL CONTEXT:\n   - Industry now has at least 4 distinct mechanisms: GLP-1 monotherapy (semaglutide), GIP/GLP-1 dual (tirzepatide), GLP-1/glucagon dual (survodutide, mazdutide), GLP-1/GIP/glucagon triple (retatrutide)\n   - The 'mechanism mosaic' is creating differentiated indication opportunities (MASH, sleep apnea, osteoarthritis, cardiovascular)",
+      "tags": [
+        "pipeline",
+        "survodutide",
+        "boehringer",
+        "phase-3",
+        "synchronize-1",
+        "glucagon",
+        "dual-agonist",
+        "mash",
+        "ada-2026",
+        "april-2026"
+      ]
+    },
+    {
       "id": "trial-entry-013",
       "timestamp": "2026-04-21T00:00:00Z",
       "source_url": "https://www.patientcareonline.com/view/retatrutide-achieves-up-to-28-7-weight-loss-and-marked-knee-pain-reduction-in-phase-3-triumph-4-trial",
@@ -99,7 +143,19 @@
       "market": "both",
       "summary": "April 2026 pipeline recap: Retatrutide TRIUMPH-4 Phase 3 — 28.7% weight loss + 75.8% knee pain reduction (best ever Phase 3 obesity data). CagriSema NDA filed Dec 2025 but REDEFINE-4 missed non-inferiority vs tirzepatide. Foundayo (orforglipron) FDA-approved April 1, available from April 6. Trump MFN deal extends GLP-1 access to Medicare/Medicaid at $50 copay from July 2026.",
       "content": "April 2026 GLP-1 pipeline summary:\n\n1. RETATRUTIDE TRIUMPH-4 CONFIRMED (Eli Lilly): The first Phase 3 data for retatrutide (GLP-1/GIP/glucagon triple agonist) arrived in April 2026. TRIUMPH-4 in patients with obesity + knee osteoarthritis: 28.7% mean body weight reduction at 68 weeks on 12mg dose (equivalent to 71.2 lbs). WOMAC pain scores fell 75.8%. 1-in-8 patients fully pain-free at trial end. Safety note: 18.2% discontinuation rate from adverse events — higher than semaglutide or tirzepatide. Seven more Phase 3 trials (TRIUMPH-1 through 7) expected to read out in 2026. NDA filing target Q4 2026. FDA decision 2027-2028. GlobalData 2031 sales forecast: $15.6 billion.\n\n2. CAGRISEMA NDA REVIEW (Novo Nordisk): Novo filed NDA December 18, 2025 for CagriSema (semaglutide 2.4mg + cagrilintide 2.4mg, once-weekly injectable). REDEFINE-1 trial: 20.4% weight loss vs 3% placebo at 68 weeks — strong absolute result. However, REDEFINE-4 at 84 weeks achieved 23% weight loss but MISSED non-inferiority vs tirzepatide 15mg — the primary endpoint. This miss is commercially significant: it removes the key differentiation argument vs Mounjaro/Zepbound. FDA PDUFA expected H2 2026. If approved, CagriSema is the first GLP-1/amylin combination on market — a mechanistically novel approach.\n\n3. FOUNDAYO APPROVED & LAUNCHED (Eli Lilly): See story-029 for details. Pipeline → Approved. Market available from April 6 via LillyDirect, Amazon Pharmacy, and retail. First non-peptide oral GLP-1 RA with no food/water restrictions. Self-pay $149/mo, Medicare $50/mo from July 2026.\n\n4. MFN DEAL IMPACT ON PIPELINE ECONOMICS: The Trump MFN deal ($245/mo government price, $50 patient copay from July 2026 under Medicare) changes the commercial landscape for all pipeline GLP-1s. Drugs entering market 2027-2029 will likely face immediate MFN pricing pressure if they seek Medicare/Medicaid formulary access. This compresses the expected peak sales for retatrutide and CagriSema relative to pre-MFN forecasts.",
-      "tags": ["pipeline", "retatrutide", "triumph-4", "cagrisema", "redefine-4", "foundayo", "orforglipron", "mfn-deal", "april-2026", "phase-3", "nda"]
+      "tags": [
+        "pipeline",
+        "retatrutide",
+        "triumph-4",
+        "cagrisema",
+        "redefine-4",
+        "foundayo",
+        "orforglipron",
+        "mfn-deal",
+        "april-2026",
+        "phase-3",
+        "nda"
+      ]
     },
     {
       "id": "trial-entry-011",
@@ -109,7 +165,19 @@
       "market": "both",
       "summary": "ACC 2026 / JAMA Cardiology: Tirzepatide reduced a 6-point cardiorenal composite endpoint by 16% vs dulaglutide (23.7% vs 27.4%) in 13,000+ T2DM + CVD patients over ~4 years (SURPASS-CVOT post hoc). All-cause mortality HR 0.84, kidney outcomes HR 0.79.",
       "content": "A post hoc analysis of the SURPASS-CVOT randomized controlled trial presented at the American College of Cardiology (ACC) 2026 Annual Scientific Sessions in New Orleans (March 28-30, 2026) and simultaneously published in JAMA Cardiology provides the most comprehensive cardiorenal evidence to date for tirzepatide versus a GLP-1 monotherapy comparator. The analysis included 13,076 patients with type 2 diabetes and established cardiovascular disease followed for a median of 3.7 years. Tirzepatide reduced the primary 6-point composite cardiorenal endpoint (cardiovascular death, nonfatal MI, nonfatal stroke, heart failure hospitalization, coronary revascularization, and adverse kidney outcomes) by 16% vs dulaglutide (23.7% vs 27.4%; HR 0.84; 95% CI 0.78-0.91; p<0.0001). Component outcomes: all-cause mortality HR 0.84 (p=0.005), coronary revascularization HR 0.84 (p=0.001), adverse kidney outcomes HR 0.79 (p=0.001). The 3-point MACE endpoint (CV death, MI, stroke) was numerically but not statistically significantly different (HR 0.94; p=0.27). Gastrointestinal adverse events were more common with tirzepatide (42.5% vs 35.9%). This is a post hoc analysis of a trial designed to compare tirzepatide vs dulaglutide — not a prespecified superiority test — but the cardiorenal composite finding is robust and consistent across subgroups. Key implication: dual GIP/GLP-1 agonism appears to confer meaningful cardiorenal protection over GLP-1 monotherapy, supporting tirzepatide (and future triple agonists) as the preferred agent in high-CV/CKD-risk patients. Funded by Eli Lilly.",
-      "tags": ["pipeline", "tirzepatide", "eli-lilly", "surpass-cvot", "acc-2026", "cardiorenal", "jama-cardiology", "cardiovascular", "kidney", "post-hoc", "dulaglutide"]
+      "tags": [
+        "pipeline",
+        "tirzepatide",
+        "eli-lilly",
+        "surpass-cvot",
+        "acc-2026",
+        "cardiorenal",
+        "jama-cardiology",
+        "cardiovascular",
+        "kidney",
+        "post-hoc",
+        "dulaglutide"
+      ]
     },
     {
       "id": "trial-entry-009",
@@ -119,7 +187,16 @@
       "market": "both",
       "summary": "Retatrutide (Lilly's triple agonist) scored a 'triple trial triumph' with 26-28.7% weight loss in Phase 3 TRIUMPH-4, but a new safety signal emerged: 18.2% of patients on the high dose discontinued due to adverse events. Seven more Phase 3 readouts expected in 2026 across obesity, sleep apnea, osteoarthritis, back pain, and liver disease.",
       "content": "Eli Lilly's retatrutide (GLP-1/GIP/glucagon triple agonist) achieved an extraordinary Phase 3 milestone in TRIUMPH-4, delivering 28.7% weight loss on-treatment (23.7% treatment-regimen) at 68 weeks with the 12mg dose — the highest ever reported for a pharmaceutical agent in any late-stage obesity trial. The trial also demonstrated approximately 75% pain reduction in knee osteoarthritis patients, significantly expanding the drug's potential beyond metabolic disease. However, BioSpace reporting highlights a new safety signal that emerged at scale: 18.2% of patients on the high dose discontinued due to adverse events (nausea 43.2%, diarrhea 33.1%), a considerably higher discontinuation rate than seen with semaglutide (approximately 10-12%) or tirzepatide. This tolerability question is the central debate among analysts assessing retatrutide's commercial potential vs its efficacy advantage. Seven more Phase 3 readouts are expected in 2026 covering obesity (TRIUMPH-1, with 80-week data potentially showing >30% weight loss), type 2 diabetes (TRANSCEND-T2D-1 already reported 16.8% weight loss), sleep apnea, chronic low back pain, cardiovascular outcomes, and MASH. GlobalData predicts a 2027 approval, with 2031 sales forecasted at $15.6 billion. Citi analysts expect TRIUMPH-1 to specifically hit the 30% weight loss threshold given its 80-week trial length.",
-      "tags": ["pipeline", "retatrutide", "eli-lilly", "phase-3", "triumph-4", "triple-agonist", "safety-signal", "discontinuation"]
+      "tags": [
+        "pipeline",
+        "retatrutide",
+        "eli-lilly",
+        "phase-3",
+        "triumph-4",
+        "triple-agonist",
+        "safety-signal",
+        "discontinuation"
+      ]
     },
     {
       "id": "trial-entry-010",
@@ -129,7 +206,16 @@
       "market": "both",
       "summary": "Orforglipron (Lilly's oral non-peptide GLP-1) has now beaten semaglutide in a head-to-head Type 2 diabetes Phase 3 trial, strengthening its FDA approval case. FDA decision expected Q2 2026 under National Priority Review. If approved, it will be the first oral non-peptide GLP-1 and self-pay pricing is set at $149-399/month — directly challenging injectable market economics.",
       "content": "Eli Lilly's orforglipron has achieved a significant clinical milestone that changes the competitive calculus: in a Phase 3 head-to-head trial (ACHIEVE), orforglipron demonstrated superior A1C reduction compared to Novo Nordisk's semaglutide in type 2 diabetes, making it the first oral GLP-1 to beat the gold-standard injectable in a direct comparison. Combined with the ATTAIN-MAINTAIN data (patients switching from injectable Wegovy maintained weight with only 0.9 kg difference), orforglipron's efficacy-to-convenience trade-off appears highly favorable. The FDA decision is expected in Q2 2026 under the National Priority Review Voucher program, which compressed the review timeline to approximately 6 months. If approved, orforglipron will be the first oral non-peptide GLP-1 agonist — distinct from Novo's oral Wegovy pill (which is still a peptide requiring food restrictions). Orforglipron can be taken without food or water restrictions, a meaningful patient convenience advantage over oral semaglutide. Self-pay pricing is expected at $149-399/month, significantly below the $936-$1,349 range for injectable competitors. Truist Securities estimates Lilly's three-drug incretin franchise (Mounjaro, Zepbound, orforglipron) could reach $101 billion at peak sales, with orforglipron's oral convenience potentially unlocking a previously untapped segment of injection-averse patients. India-specific significance: injection aversion is substantially higher in India than in the US, potentially making an affordable oral GLP-1 even more disruptive in the Indian market once generic versions become available post-patent expiry.",
-      "tags": ["pipeline", "orforglipron", "eli-lilly", "oral-glp1", "phase-3", "fda-approval", "head-to-head", "semaglutide-beat"]
+      "tags": [
+        "pipeline",
+        "orforglipron",
+        "eli-lilly",
+        "oral-glp1",
+        "phase-3",
+        "fda-approval",
+        "head-to-head",
+        "semaglutide-beat"
+      ]
     },
     {
       "id": "trial-entry-001",
@@ -139,7 +225,13 @@
       "market": "both",
       "summary": "Novo Nordisk's CagriSema Phase 3 REDEFINE trial topline results are expected imminently, with analyst consensus expecting weight loss in the 20-22% range.",
       "content": "Novo Nordisk's CagriSema Phase 3 REDEFINE trial topline results are expected imminently, with analyst consensus expecting weight loss in the 20-22% range. The product, combining semaglutide with amylin analog cagrilintide, is positioned as Novo Nordisk's next-generation obesity treatment to maintain market leadership against tirzepatide and retatrutide.",
-      "tags": ["pipeline", "cagrisema", "novo-nordisk", "phase-3", "obesity"]
+      "tags": [
+        "pipeline",
+        "cagrisema",
+        "novo-nordisk",
+        "phase-3",
+        "obesity"
+      ]
     },
     {
       "id": "trial-entry-002",
@@ -149,7 +241,13 @@
       "market": "both",
       "summary": "Eli Lilly confirmed that enrollment is complete for the ACHIEVE Phase 3 program evaluating orforglipron, the first oral non-peptide GLP-1 receptor agonist.",
       "content": "Eli Lilly confirmed that enrollment is complete for the ACHIEVE Phase 3 program evaluating orforglipron, the first oral non-peptide GLP-1 receptor agonist. If successful, orforglipron could dramatically expand the addressable GLP-1 market by eliminating the injection barrier that limits current uptake, particularly in markets like India where injection aversion is significant.",
-      "tags": ["pipeline", "orforglipron", "eli-lilly", "oral", "phase-3"]
+      "tags": [
+        "pipeline",
+        "orforglipron",
+        "eli-lilly",
+        "oral",
+        "phase-3"
+      ]
     },
     {
       "id": "trial-entry-003",
@@ -159,7 +257,15 @@
       "market": "both",
       "summary": "Orforglipron completed its third successful Phase 3 trial (ATTAIN-MAINTAIN), demonstrating that patients switching from injectable Wegovy or Zepbound could maintain weight loss on the oral pill, triggering global regulatory submissions.",
       "content": "Eli Lilly's orforglipron succeeded across all three Phase 3 ATTAIN obesity trials and two ACHIEVE diabetes trials, triggering global regulatory submissions in 2025. In ATTAIN-1, the 36mg dose achieved 7.9-10.5% weight loss at 72 weeks. Critically, ATTAIN-MAINTAIN showed patients switching from injectable Wegovy maintained weight with only 0.9 kg difference, while those from Zepbound maintained with 5.0 kg difference. The oral pill, which can be taken without food or water restrictions unlike oral Wegovy, received National Priority Review Voucher designation with potential US approval in Q2 2026. Self-pay pricing is set at $149-399 per month, significantly below injectable competitors.",
-      "tags": ["pipeline", "orforglipron", "eli-lilly", "oral", "phase-3", "attain", "regulatory-submission"]
+      "tags": [
+        "pipeline",
+        "orforglipron",
+        "eli-lilly",
+        "oral",
+        "phase-3",
+        "attain",
+        "regulatory-submission"
+      ]
     },
     {
       "id": "trial-entry-004",
@@ -169,7 +275,15 @@
       "market": "both",
       "summary": "Boehringer Ingelheim's survodutide, a glucagon/GLP-1 dual agonist, is in Phase 3 across three major programs (SYNCHRONIZE for obesity, LIVERAGE for MASH) with FDA Breakthrough Therapy designation for liver fibrosis.",
       "content": "Survodutide is advancing through a comprehensive Phase 3 program spanning obesity (SYNCHRONIZE-1 and SYNCHRONIZE-2), cardiovascular outcomes (SYNCHRONIZE-CVOT with 5,508 participants), and MASH/liver fibrosis (LIVERAGE, with FDA Breakthrough Therapy designation). Phase 2 data showed up to 19% weight loss at 46 weeks and significant liver fat reduction, positioning the glucagon/GLP-1 dual agonist as potentially superior for MASH patients. However, tolerability remains a concern with 25% discontinuation rates at the highest dose due to gastrointestinal side effects. Full Phase 3 efficacy results from SYNCHRONIZE are anticipated in 2026, with modified dosing strategies being explored to address tolerability.",
-      "tags": ["pipeline", "survodutide", "boehringer-ingelheim", "dual-agonist", "phase-3", "mash", "obesity"]
+      "tags": [
+        "pipeline",
+        "survodutide",
+        "boehringer-ingelheim",
+        "dual-agonist",
+        "phase-3",
+        "mash",
+        "obesity"
+      ]
     },
     {
       "id": "trial-entry-005",
@@ -179,7 +293,15 @@
       "market": "both",
       "summary": "CagriSema's REDEFINE 1 Phase 3 results showed 22.7% weight loss (idealized estimand) but fell short of the anticipated 25% target, while Novo Nordisk filed the NDA with FDA in Q1 2026.",
       "content": "CagriSema's Phase 3 REDEFINE 1 trial in 3,417 adults showed 22.7% mean weight reduction using the idealized estimand (20.4% treatment-policy estimand) at 68 weeks, with 34.7% of patients achieving 25% or greater weight loss. While clinically significant, the result fell short of the anticipated 25% target that analysts had set, causing market skepticism. REDEFINE 2 in patients with type 2 diabetes showed 13.7% weight loss and 73.5% achieving HbA1c of 6.5% or below. Novo Nordisk filed the NDA with FDA in Q1 2026, with potential approval in late 2026 or early 2027. Only 57.3% of patients reached the highest dose by trial end, suggesting the flexible dosing protocol may have limited peak efficacy.",
-      "tags": ["pipeline", "cagrisema", "novo-nordisk", "phase-3", "redefine", "obesity", "fda-filing"]
+      "tags": [
+        "pipeline",
+        "cagrisema",
+        "novo-nordisk",
+        "phase-3",
+        "redefine",
+        "obesity",
+        "fda-filing"
+      ]
     },
     {
       "id": "trial-entry-006",
@@ -189,7 +311,15 @@
       "market": "both",
       "summary": "Retatrutide's Phase 3 TRIUMPH-4 trial delivered record-breaking 28.7% weight loss (on-treatment) at 68 weeks, alongside 75% pain reduction in knee osteoarthritis patients, though 18.2% discontinued due to adverse events at the high dose.",
       "content": "Eli Lilly's retatrutide, the first-in-class GIP/GLP-1/glucagon triple agonist, delivered unprecedented Phase 3 results in TRIUMPH-4: 28.7% weight loss on-treatment (23.7% treatment-regimen) at 68 weeks with the 12mg dose, along with approximately 75% pain reduction in knee osteoarthritis patients. The March 2026 TRANSCEND-T2D-1 results showed 16.8% weight loss and 2.0% HbA1c reduction in type 2 diabetes. However, 18.2% discontinued the high dose due to adverse events (nausea 43.2%, diarrhea 33.1%). With seven more Phase 3 readouts expected in 2026 across obesity, sleep apnea, chronic low back pain, and liver disease, analysts forecast a 2027 approval with $15.6 billion in 2031 sales.",
-      "tags": ["pipeline", "retatrutide", "eli-lilly", "triple-agonist", "phase-3", "triumph", "weight-loss"]
+      "tags": [
+        "pipeline",
+        "retatrutide",
+        "eli-lilly",
+        "triple-agonist",
+        "phase-3",
+        "triumph",
+        "weight-loss"
+      ]
     },
     {
       "id": "trial-entry-007",
@@ -199,7 +329,15 @@
       "market": "both",
       "summary": "Novo Nordisk's amycretin, a GLP-1/amylin dual agonist available in both injectable and oral forms, showed 14.5% weight loss (subcutaneous) and 10.1% (oral) at 36 weeks in Phase 2, advancing to Phase 3 in 2026.",
       "content": "Novo Nordisk's amycretin demonstrated strong Phase 2 results in type 2 diabetes: the subcutaneous formulation achieved 14.5% weight loss and 1.8% HbA1c reduction at 36 weeks, while the oral formulation delivered 10.1% weight loss and 1.5% HbA1c reduction. Weight loss had not yet plateaued at higher doses, suggesting greater efficacy in longer trials. The company is advancing both formulations into Phase 3 for obesity and type 2 diabetes in 2026 across multiple indications. Amycretin's oral formulation is particularly significant as it could offer an alternative to Eli Lilly's orforglipron in the emerging oral GLP-1 market, with Novo positioning it as a potential best-in-class therapy.",
-      "tags": ["pipeline", "amycretin", "novo-nordisk", "oral", "dual-agonist", "phase-2", "phase-3"]
+      "tags": [
+        "pipeline",
+        "amycretin",
+        "novo-nordisk",
+        "oral",
+        "dual-agonist",
+        "phase-2",
+        "phase-3"
+      ]
     },
     {
       "id": "trial-entry-009",
@@ -209,7 +347,17 @@
       "market": "both",
       "summary": "Eli Lilly's retatrutide met primary endpoints in a Phase 3 Type 2 diabetes trial (March 2026): 12mg dose reduced HbA1c by 1.9 percentage points from a baseline of 7.9% at 40 weeks, while also delivering 15% weight loss at the 12mg dose. Weight loss had not plateaued, suggesting continued improvement with longer treatment.",
       "content": "Eli Lilly's retatrutide (GLP-1/GIP/glucagon triple agonist) demonstrated successful Phase 3 results in a new Type 2 diabetes trial reported in March 2026. The 40-week trial enrolled patients with T2DM at a baseline HbA1c of 7.9%. Results: the 12mg dose reduced HbA1c by an average 1.9 percentage points; the 9mg and 4mg groups achieved 1.9% and 1.8% reductions respectively. On weight loss, the 12mg group lost on average 15% of body weight, the 9mg group 14%, and the 4mg group 12% — all substantially better than placebo at 3%. Crucially, weight loss had not plateaued, suggesting results would improve with extended treatment. This builds on the TRIUMPH-4 Phase 3 results (28.7% weight loss in obesity with knee osteoarthritis). Lilly expects to submit a regulatory application for retatrutide in 2026. If approved, retatrutide would represent the first triple-agonist obesity/diabetes drug on the market. GlobalData forecasts retatrutide could generate $15.6 billion in peak sales by 2031. Seven additional Phase 3 readouts are expected through 2026.",
-      "tags": ["pipeline", "retatrutide", "eli-lilly", "triple-agonist", "phase-3", "type-2-diabetes", "HbA1c", "weight-loss", "2026"]
+      "tags": [
+        "pipeline",
+        "retatrutide",
+        "eli-lilly",
+        "triple-agonist",
+        "phase-3",
+        "type-2-diabetes",
+        "HbA1c",
+        "weight-loss",
+        "2026"
+      ]
     },
     {
       "id": "trial-entry-008",
@@ -219,7 +367,16 @@
       "market": "india",
       "summary": "Indian companies including Biocon, Sun Pharma, and Dr. Reddy's are developing biosimilar tirzepatide candidates, though approved products are not expected before 2027 due to patent protection extending to 2036 and significant technical manufacturing hurdles.",
       "content": "Multiple Indian pharmaceutical companies are building biosimilar tirzepatide pipelines: Biocon, Sun Pharma, Dr. Reddy's, Zydus, and Gland Pharma are at various stages of development. Sun Pharma is additionally developing a dual-target drug to compete directly with tirzepatide's mechanism. However, tirzepatide patents extend to at least 2036 in the US, and approved biosimilar products are unlikely before 2027 even in India. Key challenges include the technical complexity of manufacturing large peptide biologics requiring precise protein folding and analytical characterization, cold-chain logistics, and potential patent litigation from Eli Lilly. Indian CDMOs like Gland Pharma and Concord Biotech (OneSource) could play critical roles as contract manufacturers for the global market.",
-      "tags": ["pipeline", "tirzepatide", "biosimilar", "india", "biocon", "sun-pharma", "dr-reddys", "manufacturing"]
+      "tags": [
+        "pipeline",
+        "tirzepatide",
+        "biosimilar",
+        "india",
+        "biocon",
+        "sun-pharma",
+        "dr-reddys",
+        "manufacturing"
+      ]
     }
   ]
 }

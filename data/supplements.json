@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
         "label": "Tracked Supplements",
@@ -182,6 +182,23 @@
     }
   ],
   "entries": [
+    {
+      "id": "supp-entry-013",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.iherb.com/blog/top-wellness-trends/2267",
+      "source_name": "iHerb / Amazon trends / Verification check",
+      "market": "both",
+      "summary": "May 10, 2026 verification: No material new supplement-market developments since the April 21 update. Faux-zempic category continues +35% YoY trajectory. Foundayo's branded $149/mo pricing is competing with high-end supplement stacks ($35-65/mo) but the pharma-hesitant consumer cohort remains durable. India berberine market continues 3x YoY growth. Korglutide remains in market under CDSCO scrutiny. No new high-profile product launches or FDA actions in this window.",
+      "content": "May 10, 2026 supplements market verification check:\n\n1. WGSN \"FAUX-ZEMPIC\" TREND HOLDING: Top 2026 wellness trend through Q2. Pharma-hesitant consumer cohort remains durable despite Foundayo's $149/mo branded pricing.\n\n2. CATEGORY GROWTH: Natural GLP-1 booster category +35% YoY in Q1 2026 (per Amazon US data); momentum continues into Q2.\n\n3. PRODUCT LANDSCAPE UNCHANGED:\n   - California Gold Nutrition GLP-1 Supreme: $35-40/mo\n   - ANTROLIFE GLP-1: $55-65/mo (2-pack)\n   - Pendulum GLP-1 Probiotic: continues market leadership in Akkermansia-focused category\n\n4. INDIA MARKET:\n   - Berberine sales continue 3x YoY growth\n   - Korglutide (Cargen, South Korea) remains on Indian market despite CDSCO scrutiny\n   - No new India-specific supplement launches in April 22-May 10 window\n\n5. NO NEW FDA ACTIONS in window for supplement category.\n\n6. EVIDENCE GAP UNCHANGED: None of natural GLP-1 booster supplements have RCT data comparable to prescription GLP-1 Phase 3 trials. Ingredient-level evidence (berberine, Akkermansia) shows 2-5% weight loss vs 15-28% for prescription GLP-1 RAs.\n\n7. STATUS: Section verified current; no material changes to flag. Next major event to watch: ADA 2026 in mid-June for any clinical data on supplement-prescription interactions.",
+      "tags": [
+        "supplements",
+        "verification",
+        "may-2026",
+        "no-material-change",
+        "faux-zempic",
+        "wgsn"
+      ]
+    },
     {
       "id": "supp-entry-012",
       "timestamp": "2026-04-21T00:00:00Z",

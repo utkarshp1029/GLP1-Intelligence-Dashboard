@@ -1,11 +1,11 @@
 {
-  "last_full_update": "2026-04-21T00:00:00Z",
+  "last_full_update": "2026-05-10T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
       "file": "pricing.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 11,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 30,
       "key_metrics": [
         {
           "label": "Cheapest India (Vial)",
@@ -34,13 +34,21 @@
         {
           "label": "India vs US Price Ratio",
           "value": "1:43 (₹1,290 vs $149 Foundayo self-pay)"
+        },
+        {
+          "label": "TrumpRx DTC GLP-1 Price (May 5)",
+          "value": "$350/mo injectable | $245/mo Medicare flat — MFN deal w/ 17 manufacturers, $64.3B savings/10yr"
+        },
+        {
+          "label": "Foundayo Pricing Confirmed",
+          "value": "$149/mo (lowest dose) up to $349 (highest) | $25/mo commercial savings | $50/mo Medicare from Jul 1"
         }
       ]
     },
     "generics-tracker": {
       "file": "generics-tracker.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 15,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 28,
       "key_metrics": [
         {
           "label": "Total DCGI-Approved Brands",
@@ -65,13 +73,21 @@
         {
           "label": "Price Erosion Forecast",
           "value": "-40-50% in FY27, -10-30% in FY28"
+        },
+        {
+          "label": "India Brand Count (May)",
+          "value": "50+ DCGI-approved generic semaglutide brands"
+        },
+        {
+          "label": "Lilly India Tirzepatide Share (Apr)",
+          "value": "Mounjaro share fell 71% (Feb) to 64% (Mar) as generic semaglutide cannibalizes"
         }
       ]
     },
     "regulatory-timeline": {
       "file": "regulatory-timeline.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 14,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 25,
       "key_metrics": [
         {
           "label": "Total Regulatory Events",
@@ -92,13 +108,21 @@
         {
           "label": "India Brands",
           "value": "40+ DCGI-approved | MSN SEMABEST latest launch | Novo ₹202/day"
+        },
+        {
+          "label": "CMS BALANCE Update (Apr 22)",
+          "value": "Part D portion DELAYED beyond 2027 | Medicaid still proceeds | Bridge extended to Dec 31, 2027"
+        },
+        {
+          "label": "FDA 503B Action (Apr 30)",
+          "value": "Proposed exclusion of semaglutide/tirzepatide/liraglutide from bulks list — comment period through Jun 29"
         }
       ]
     },
     "revenue-financials": {
       "file": "revenue-financials.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 17,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 18,
       "key_metrics": [
         {
           "label": "Global GLP-1 Market (2025)",
@@ -141,13 +165,33 @@
         {
           "label": "US Market Share Gap",
           "value": "Lilly 60.5% vs Novo 39.1% — widest ever"
+        },
+        {
+          "label": "Lilly Q1 2026 Revenue",
+          "value": "$19.8B (+56% YoY) | Mounjaro $8.7B | Zepbound $4.1B | Combined $12.8B"
+        },
+        {
+          "label": "Lilly Raised 2026 Guidance",
+          "value": "$82-85B (was $80-83B) | EPS $35.50-$37"
+        },
+        {
+          "label": "Mounjaro Status",
+          "value": "World's #1 best-selling drug (Q1 2026)"
+        },
+        {
+          "label": "Novo Wegovy Pill Q1 2026",
+          "value": "$354M sales | ~1.3M scripts | 65% new US Rx share"
+        },
+        {
+          "label": "Foundayo Week 4 (May 2026)",
+          "value": "7,335 scripts | 8,000+ prescribers | 20,000+ patients treated"
         }
       ]
     },
     "supplements": {
       "file": "supplements.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 18,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
           "label": "Tracked Supplements",
@@ -178,8 +222,8 @@
     },
     "manufacturing": {
       "file": "manufacturing.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 17,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 18,
       "key_metrics": [
         {
           "label": "Tracked Facilities",
@@ -212,13 +256,21 @@
         {
           "label": "Lilly US Manufacturing Commit",
           "value": "$27B (part of MFN deal)"
+        },
+        {
+          "label": "Lilly LEAP Total Investment (May)",
+          "value": "$18B+ planned | Added $4.5B in May | LLAT genetic medicine facility opened"
+        },
+        {
+          "label": "Lilly Lebanon API (2027)",
+          "value": "Largest API production site in US history"
         }
       ]
     },
     "pipeline-trials": {
       "file": "pipeline-trials.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 13,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
           "label": "Phase 3 Candidates",
@@ -239,13 +291,21 @@
         {
           "label": "Retatrutide TRIUMPH-4",
           "value": "28.7% weight loss + 75.8% knee pain reduction | 7 more trials in 2026"
+        },
+        {
+          "label": "Survodutide Phase 3 (Apr 28)",
+          "value": "SYNCHRONIZE-1: 16.6% weight loss vs 3.2% placebo at 76 weeks | Full data ADA Jun 2026"
+        },
+        {
+          "label": "Foundayo Real-World (May)",
+          "value": "7,335 scripts week 4 | 8,000+ prescribers | 20,000+ patients"
         }
       ]
     },
     "supply-chain": {
       "file": "supply-chain.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 15,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 16,
       "key_metrics": [
         {
           "label": "Active Shortages",
@@ -279,8 +339,8 @@
     },
     "patents-ip": {
       "file": "patents-ip.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 15,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 16,
       "key_metrics": [
         {
           "label": "Markets Open (Semaglutide)",
@@ -309,13 +369,17 @@
         {
           "label": "Sun Pharma Export Status",
           "value": "HC approved April 2026 — joins Dr Reddy's in export market"
+        },
+        {
+          "label": "Tirzepatide Para IV Status (May 13)",
+          "value": "Eligibility window opens May 13 — no public ANDA filings yet; Lilly 21-patent fortress remains"
         }
       ]
     },
     "compounding-pharmacy": {
       "file": "compounding-pharmacy.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 13,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 14,
       "key_metrics": [
         {
           "label": "Tracked Pharmacies",
@@ -340,13 +404,21 @@
         {
           "label": "Foundayo Impact",
           "value": "Branded oral at $149/mo erodes compounded semaglutide value prop"
+        },
+        {
+          "label": "FDA 503B Action (Apr 30)",
+          "value": "Proposed to EXCLUDE semaglutide, tirzepatide, liraglutide from bulks list — comment period through Jun 29"
+        },
+        {
+          "label": "Patient Migration Path",
+          "value": "Foundayo $149 | Wegovy oral $149 | MFN $245 Medicare | TrumpRx $350 DTC"
         }
       ]
     },
     "telehealth-d2c": {
       "file": "telehealth-d2c.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 17,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 18,
       "key_metrics": [
         {
           "label": "Tracked Platforms",
@@ -383,13 +455,21 @@
         {
           "label": "Novo Wegovy Subscription",
           "value": "$329/mo (3-month) | $249/mo (12-month) — compete with telehealth"
+        },
+        {
+          "label": "Hims Q1 2026 Earnings (May 11)",
+          "value": "Consensus EPS $0.13 | Rev $616.85M (+5.3% YoY) | $65M weight-loss headwind from 503A wind-down"
+        },
+        {
+          "label": "Ro Foundayo Offering",
+          "value": "Lilly Foundayo via Ro at $149-349/mo + $25 commercial savings card"
         }
       ]
     },
     "social-sentiment": {
       "file": "social-sentiment.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 15,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 16,
       "key_metrics": [
         {
           "label": "Tracked Trends",
@@ -425,8 +505,8 @@
     },
     "safety-signals": {
       "file": "safety-signals.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 15,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 16,
       "key_metrics": [
         {
           "label": "Active Safety Signals",
@@ -460,8 +540,8 @@
     },
     "insurance-reimbursement": {
       "file": "insurance-reimbursement.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 15,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 16,
       "key_metrics": [
         {
           "label": "US Commercial Coverage (Ozempic/T2DM)",
@@ -502,21 +582,33 @@
         {
           "label": "State Medicaid Coverage",
           "value": "13 states cover GLP-1s for obesity (FFS, as of Jan 2026)"
+        },
+        {
+          "label": "BALANCE Part D Status (Apr 22)",
+          "value": "DELAYED beyond 2027 | Medicaid still proceeds | Bridge extended to Dec 31, 2027"
+        },
+        {
+          "label": "Bridge Eligibility",
+          "value": "BMI ≥27 + comorbidity OR BMI ≥30 + hypertension/CKD/HF | $50/mo copay | Wegovy, Zepbound, Foundayo confirmed"
+        },
+        {
+          "label": "Wegovy in Bridge (May)",
+          "value": "CONFIRMED participation effective Jul 1, 2026 — Novo Nordisk announcement"
         }
       ]
     },
     "news-hub": {
       "file": "news-hub.json",
-      "last_updated": "2026-04-21T00:00:00Z",
-      "entry_count": 43,
+      "last_updated": "2026-05-10T00:00:00Z",
+      "entry_count": 44,
       "key_metrics": [
         {
           "label": "Stories This Week",
-          "value": "8 new (India-Business deep dive)"
+          "value": "5 new (Apr 22 – May 10)"
         },
         {
           "label": "Sources Tracked",
-          "value": "25+"
+          "value": "30+"
         },
         {
           "label": "Markets Covered",

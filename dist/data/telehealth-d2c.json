@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-04-21T00:00:00Z",
-    "entry_count": 17,
+    "last_updated": "2026-05-10T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
         "label": "Tracked Platforms",
@@ -39,6 +39,14 @@
       {
         "label": "Novo Wegovy Subscription",
         "value": "$329/mo (3-month) | $249/mo (12-month) — compete with telehealth"
+      },
+      {
+        "label": "Hims Q1 2026 Earnings (May 11)",
+        "value": "Consensus EPS $0.13 | Rev $616.85M (+5.3% YoY) | $65M weight-loss headwind from 503A wind-down"
+      },
+      {
+        "label": "Ro Foundayo Offering",
+        "value": "Lilly Foundayo via Ro at $149-349/mo + $25 commercial savings card"
       }
     ]
   },
@@ -148,6 +156,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "th-entry-012",
+      "timestamp": "2026-05-10T00:00:00Z",
+      "source_url": "https://www.morningstar.com/news/pr-newswire/20260409ny30118/ro-offers-eli-lillys-foundayo-the-newest-glp-1-innovation",
+      "source_name": "Morningstar / PR Newswire / MSN-Reuters",
+      "market": "us",
+      "summary": "May 2026 telehealth update: (1) Hims & Hers Q1 2026 results scheduled May 11 — consensus EPS $0.13, revenue $616.85M (+5.3% YoY), with material $65M Q1 weight-loss headwind from FDA 503A enforcement and Novo deal requiring end of compounded GLP-1 advertising. (2) Ro launched Foundayo distribution at $149-349/mo plus $25 commercial savings card — first major telehealth platform to offer Lilly's oral GLP-1. (3) Compounded GLP-1 telehealth model effectively over post-FDA April 30 503B bulks list proposal.",
+      "content": "May 2026 telehealth/D2C GLP-1 landscape:\n\n1. HIMS & HERS Q1 2026 (reporting May 11):\n   - Consensus EPS: $0.13\n   - Consensus revenue: $616.85M (+5.3% YoY)\n   - Material headwind: $65M Q1 weight-loss revenue impact from FDA 503A enforcement (4-rx/month threshold) and Novo settlement requiring end of compounded GLP-1 advertising.\n   - Pivot to branded GLP-1 distribution underway: Ozempic at $1,799/mo; Wegovy at $1,999/mo; injectable plans from $199/mo with 6-month upfront.\n   - Net: Hims is in transition — losing compounded margin, gaining branded distribution but at lower margin per script.\n\n2. RO + FOUNDAYO PARTNERSHIP (April 9 launch, ongoing):\n   - Ro became one of the first major telehealth platforms to offer Lilly's Foundayo.\n   - Pricing: $149-349/mo cash-pay (by dose); $25/mo commercial insurance savings card.\n   - This positions Ro as the channel for patients who want oral GLP-1 without the Wegovy-pill food restrictions.\n\n3. NOVO NORDISK DIRECT:\n   - Subscription pricing maintained: $329/mo (3-month commitment), $249/mo (12-month annual plan) for Wegovy.\n   - Wegovy HD 7.2mg: $399/mo.\n   - Oral Wegovy pill: $149/mo (unchanged).\n   - Bypasses telehealth intermediaries; competes directly with Ro/Hims.\n\n4. WEIGHTWATCHERS:\n   - $349/mo branded medication post-March 31 intro offer expiry.\n   - $74/mo annual membership; $149/mo rolling monthly.\n\n5. POST-FDA 503B PROPOSAL IMPACT (April 30):\n   - Compounded GLP-1 telehealth model effectively dead.\n   - Surviving D2C value props: convenience (telehealth consult + delivery), price advantage on branded products, integration with diet/lifestyle programs.\n   - The $199/mo compounded era is fully over.\n\n6. INDIA E-PHARMACY (UNCHANGED):\n   - Tata 1mg, PharmEasy, Netmeds continue dominance.\n   - Generic semaglutide at ₹1,290-4,500/mo — D2C pricing advantage moot vs retail.",
+      "tags": [
+        "telehealth",
+        "us",
+        "hims",
+        "ro",
+        "foundayo",
+        "weightwatchers",
+        "novo-subscription",
+        "503a-enforcement",
+        "may-2026"
+      ]
+    },
     {
       "id": "th-entry-011",
       "timestamp": "2026-04-21T00:00:00Z",
