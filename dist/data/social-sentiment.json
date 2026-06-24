@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 16,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 17,
     "key_metrics": [
       {
         "label": "Tracked Trends",
@@ -33,6 +33,18 @@
       {
         "label": "India Sentiment Shift",
         "value": "Positive (affordability) → Mixed (safety concerns + MSN Made-in-India pride)"
+      },
+      {
+        "label": "Reddit AI Study (May 24)",
+        "value": "400K+ posts | 70K+ users | 44% report ≥1 side effect"
+      },
+      {
+        "label": "Hidden Side Effects Surfaced",
+        "value": "Menstrual irregularities (~4%), fatigue (2nd most common), temp dysregulation"
+      },
+      {
+        "label": "r/Foundayo Growth",
+        "value": "~20K members by mid-June"
       }
     ]
   },
@@ -124,6 +136,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-013",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260523103914.htm",
+      "source_name": "ScienceDaily / U. Maryland",
+      "market": "us",
+      "summary": "May-June 2026 social sentiment: (1) Major U. Maryland AI study (May 24) analyzed 400K+ Reddit posts from ~70K users across r/Mounjaro, r/Zepbound, r/Semaglutide, r/Ozempic, r/WegovyWeightLoss — surfaced hidden side effects including menstrual irregularities (~4%), fatigue (2nd most common), and temperature dysregulation that were under-represented in clinical trials. 44% mentioned ≥1 side effect. (2) r/Foundayo growth to ~20K members by mid-June. (3) ADA 2026 generated unprecedented social media discussion of retatrutide (30%+ weight loss). (4) Faux-zempic counterculture continues, body positivity discourse persists.",
+      "content": "May-June 2026 GLP-1 social sentiment:\n\n1. U. MARYLAND REDDIT AI STUDY (May 24, ScienceDaily):\n   - LLM-based analysis of 400K+ posts from ~70K unique users\n   - Subreddits covered: r/Mounjaro (5,200+ posts), r/Zepbound, r/Semaglutide, r/Ozempic, r/WegovyWeightLoss\n   - 44% of users mentioned ≥1 side effect\n   - GI events still dominant\n   - **Newly surfaced clusters NOT prominent in clinical trials:**\n     - Menstrual irregularities (~4% of users)\n     - Fatigue (2nd most common)\n     - Temperature dysregulation (chills, hot flashes)\n   - Study validates Reddit as real-world pharmacovigilance signal\n\n2. ADA 2026 SOCIAL MEDIA IMPACT (June 5-8):\n   - Retatrutide TRIUMPH-1 data drove unprecedented Reddit and Twitter/X engagement\n   - 30%+ weight loss benchmark setting new patient expectations\n   - CagriSema REIMAGINE generated polarized discourse (positive efficacy vs SEMA-redundancy concerns)\n   - Foundayo ACHIEVE-3 head-to-head vs oral sema reinforced Lilly oral preference\n   - 4 new Phase 3 contenders (Pfizer, AZ, Innovent, Sciwind) became 'GLP-1 of the future' talking points\n\n3. r/FOUNDAYO GROWTH:\n   - April 1 launch: ~12K members\n   - Mid-May: ~18K members\n   - Mid-June: ~20K members\n   - Sentiment overwhelmingly positive (convenience, $149 self-pay)\n\n4. INDIA SENTIMENT EVOLUTION (Phase 5):\n   - Phase 1 (Mar 20-27): Affordability celebration\n   - Phase 2 (Mar 28-Apr 10): Safety concerns post-IMA warning\n   - Phase 3 (Apr 11-May 10): Made-in-India pride (MSN SEMABEST)\n   - Phase 4 (May 20-Jun 24): Oral generic excitement (Dr Reddy's Obeda Tablets)\n   - WhatsApp health groups remain primary Hindi-language channel\n\n5. WEGOVY ORAL DISCOURSE (3M+ Rx milestone June 7):\n   - 'One fill every 5 seconds' = viral talking point\n   - Reddit positive sentiment dominant\n   - Comparison threads vs Foundayo (convenience vs food restriction)\n\n6. FAUX-ZEMPIC COUNTERCULTURE (continuing):\n   - WGSN #1 2026 wellness trend\n   - Natural GLP-1 booster category sustained growth\n   - Mainstream pharma adoption + this counterculture coexist\n\n7. BODY POSITIVITY DISCOURSE (sustained):\n   - 64% US adults (72% Gen Z) say GLP-1 popularity is harming body positivity (April baseline holding)\n   - Hollywood 'Ozempic speculation' continues\n   - TikTok body-neutral communities continue to frame as societal pressure\n\n8. MFN DEAL DISCOURSE (moderating):\n   - Pro-access cohort celebrating $50/mo Medicare copay (July 1 launch)\n   - Pharma-skeptical cohort questioning R&D implications\n   - TrumpRx $350/mo brand generating polarized response\n\n9. ADA 2026 NEW MOLECULE DISCOURSE:\n   - Retatrutide: 'Retatrutide will be Mounjaro 2.0' = dominant narrative\n   - Mazdutide (Innovent): 'Chinese GLP-1' framing\n   - Ecnoglutide (Sciwind): Beat-Wegovy threads\n   - Berobenatide (Pfizer): Monthly dosing convenience discussions\n   - Elecoglipron (AZ): Oral small-molecule alternative to Wegovy oral",
+      "tags": [
+        "sentiment",
+        "us",
+        "india",
+        "reddit-ai-study",
+        "umd",
+        "foundayo",
+        "ada-2026",
+        "retatrutide",
+        "dr-reddys-oral",
+        "may-june-2026"
+      ]
+    },
     {
       "id": "sent-entry-012",
       "timestamp": "2026-05-10T00:00:00Z",

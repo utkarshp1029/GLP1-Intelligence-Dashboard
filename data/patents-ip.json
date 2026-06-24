@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "patents-ip",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 16,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 17,
     "key_metrics": [
       {
         "label": "Markets Open (Semaglutide)",
@@ -35,6 +35,14 @@
       {
         "label": "Tirzepatide Para IV Status (May 13)",
         "value": "Eligibility window opens May 13 — no public ANDA filings yet; Lilly 21-patent fortress remains"
+      },
+      {
+        "label": "Tirzepatide Para IV (May 13)",
+        "value": "Eligibility window OPEN | NO public ANDA filings yet as of Jun 24"
+      },
+      {
+        "label": "India Tirzepatide Patent",
+        "value": "~2033-2036 expiry | Currently Mounjaro + Cipla Yurpeak duopoly"
       }
     ]
   },
@@ -96,6 +104,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "pat-entry-013",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://ipfray.com/another-semaglutide-generic-enters-india-as-novo-nordisk-patent-expires-delhi-high-court-denies-injunction/",
+      "source_name": "IP Fray / FDA Orange Book / Markman Advisors",
+      "market": "both",
+      "summary": "June 2026 patent landscape: (1) US Tirzepatide Paragraph IV eligibility window opened May 13 — NO public ANDA filings in FDA Orange Book as of June 24, 2026. (2) India semaglutide post-patent expiry: Delhi HC continues denying Novo's secondary-formulation injunctions; Torrent, Dr Reddy's, Cipla et al. continue manufacturing and selling. (3) India tirzepatide remains Mounjaro + Cipla Yurpeak duopoly until ~2033-2036 patent expiry. (4) Teva-Novo US semaglutide composition challenge continues in Delaware District Court; decision not expected before late 2027.",
+      "content": "June 2026 patent/IP landscape:\n\n1. TIRZEPATIDE PARAGRAPH IV (US) — MILESTONE PASSED:\n   - Eligibility window opened May 13, 2026 (4 years after Mounjaro approval)\n   - As of June 24, 2026: NO public ANDA filings disclosed in FDA Orange Book\n   - Lilly's 21-patent fortress remains intact\n     - Primary composition patent: expires January 2036\n     - Formulation patents: extend to 2039-2041\n     - Device patents (Mounjaro KwikPen): additional protection\n   - First-filer incentive (180-day exclusivity) makes filing attractive once any generic challenger believes it has invalidity case\n   - Industry expectation: filing could come Q3-Q4 2026 but not necessarily public until ~90 days into court process\n\n2. INDIA SEMAGLUTIDE (post March 20 patent expiry):\n   - Novo's primary composition patent expired March 20, 2026\n   - Novo's SNAC/granule formulation patent infringement suits in Delhi HC vs Torrent, Dr Reddy's:\n     - Initial ex parte injunction DENIED pre-expiry\n     - Subsequent suits continuing on merits\n     - No interim injunctions granted\n   - 50+ generic semaglutide brands operational in India\n   - Dr Reddy's oral Obeda Tablets launched May 20 (oral generic semaglutide)\n   - Delhi HC's evergreening rejections continue to set precedent\n\n3. INDIA TIRZEPATIDE — CRITICAL CLARIFICATION:\n   - Tirzepatide India patent expiry: ~2033-2036 (NOT NOW)\n   - Current Indian market: Mounjaro (Lilly) + Cipla Yurpeak ONLY (duopoly)\n   - Both priced ₹3,500-₹4,375/weekly injection\n   - Generic tirzepatide entry in India: not expected for ~7-10 years\n   - Indian regulatory pathway: SND (Subsequent New Drug) requires Phase 3 in Indian patients\n   - Yurpeak is Cipla's LICENSED brand under Lilly partnership, NOT generic\n\n4. TEVA-NOVO US SEMAGLUTIDE (Delaware District Court):\n   - Teva Hatch-Waxman Paragraph IV challenge to US9,694,053\n   - Initial proceedings continuing\n   - Decision not expected before late 2027\n   - If Teva prevails on obviousness: US semaglutide generic entry could accelerate from 2031-2032 to 2028-2029\n\n5. MFN DEAL AS PATENT POLICY:\n   - Trump MFN deal effectively a 'soft march-in rights' mechanism\n   - Extracts pricing concessions without invoking formal compulsory licensing\n   - Reduces political urgency for accelerating generic entry through patent challenges\n   - But does NOT change underlying patent expiry dates\n\n6. PATENT CLIFFS — UPCOMING:\n   - Semaglutide India: EXPIRED March 2026\n   - Tirzepatide US Para IV eligibility: OPENED May 13, 2026\n   - Semaglutide US: 2031-2032 (per Novo composition patent + extensions)\n   - Tirzepatide US: 2036 (composition) / 2039-2041 (formulations)\n   - Tirzepatide India: ~2033-2036\n   - Liraglutide globally: Expired 2024-2025 (mostly)\n\n7. SECONDARY PATENT JURISPRUDENCE:\n   - Delhi HC continues evergreening rejection pattern (Section 3(d))\n   - US Teva challenge tests obviousness over GLP-1 analogs\n   - I-MAK analysis: Novo holds 320 US semaglutide applications (154 granted) — patent thicket strategy",
+      "tags": [
+        "patents",
+        "us",
+        "india",
+        "tirzepatide-para-iv",
+        "delhi-hc",
+        "teva-novo",
+        "lilly-fortress",
+        "cipla-yurpeak",
+        "june-2026"
+      ]
+    },
     {
       "id": "pat-entry-012",
       "timestamp": "2026-05-10T00:00:00Z",

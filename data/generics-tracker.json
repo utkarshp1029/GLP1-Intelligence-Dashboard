@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 28,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 29,
     "key_metrics": [
       {
         "label": "Total DCGI-Approved Brands",
@@ -35,6 +35,26 @@
       {
         "label": "Lilly India Tirzepatide Share (Apr)",
         "value": "Mounjaro share fell 71% (Feb) to 64% (Mar) as generic semaglutide cannibalizes"
+      },
+      {
+        "label": "Total India Brands (Jun)",
+        "value": "50+ semaglutide brands | Tirzepatide remains Mounjaro+Cipla Yurpeak duopoly (~2033-2036 generic entry)"
+      },
+      {
+        "label": "Torrent Market Share (May)",
+        "value": "~38% of India generic semaglutide value within first 30 days"
+      },
+      {
+        "label": "India GLP-1 Market (May)",
+        "value": "₹1,736cr — tirzepatide 63% / semaglutide 30%"
+      },
+      {
+        "label": "Dr Reddy's Oral Generic (May 20)",
+        "value": "Obeda Tablets ₹99/3mg | ₹135/7mg | ₹225/14mg — first oral generic semaglutide tablet"
+      },
+      {
+        "label": "Tirzepatide Para IV (May 13)",
+        "value": "No public ANDA filings yet — FDA Orange Book monitoring"
       }
     ]
   },
@@ -213,6 +233,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-017",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://medicaldialogues.in/news/industry/pharma/torrent-emerges-early-leader-in-indias-generic-semaglutide-race-with-38-market-share-report-170319",
+      "source_name": "Medical Dialogues / Business Today / DermaVue / Markman Advisors",
+      "market": "india",
+      "summary": "May-June 2026 generics update: (1) Torrent emerged as #1 in India generic semaglutide with ~38% of value share within first 30 days. (2) India total GLP-1 market reached ₹1,736cr (May), with tirzepatide 63% (₹1,094cr) and semaglutide 30% (₹528cr). (3) Dr Reddy's launched oral semaglutide Obeda Tablets May 20 — first oral generic in India at ₹99-225/dose (80-90% under Rybelsus). (4) CORRECTION: India tirzepatide market is NOT a multi-brand generic field — it's a Mounjaro + Cipla Yurpeak duopoly until ~2033-2036 patent expiry. (5) US Tirzepatide Paragraph IV window opened May 13; no public ANDA filings yet.",
+      "content": "May-June 2026 India generics market dynamics:\n\n1. TORRENT EARLY LEADER (Medical Dialogues May 21):\n   - ~38% value share of Indian generic semaglutide within first 30 days post-launch\n   - Lead products: Sembolic (oral, first in market), Semalix (injectable ₹3,999/mo)\n   - Drove fastest market expansion from ₹545cr (Apr 2025) → ₹1,736cr (Apr-May 2026)\n\n2. INDIA TOTAL GLP-1 MARKET (May 2026):\n   - Total: ₹1,736cr (vs ₹1,579cr April, ₹545cr April 2025)\n   - Tirzepatide value: ₹1,094cr (63%) — Mounjaro + Cipla Yurpeak duopoly\n   - Semaglutide value: ₹528cr (30%) — 20-40+ generic brands competing\n   - Other (liraglutide, dulaglutide, exenatide): ~7%\n\n3. DR REDDY'S ORAL OBEDA TABLETS (May 20):\n   - Rs 99 (3mg), Rs 135 (7mg), Rs 225 (14mg) per tablet\n   - First oral generic semaglutide tablet in India\n   - 80-90% undercut to Novo's Rybelsus\n   - Approval based on Phase 3 in 288 Indian T2D patients (non-inferiority)\n   - Dr Reddy's now spans oral + injectable formats — pressures Torrent's first-mover oral lead\n\n4. CORRECTION TO PRIOR TRACKER FRAMING:\n   - 'India tirzepatide market 13+ brands' was INCORRECT\n   - True structure: Mounjaro (Lilly) + Cipla Yurpeak — duopoly only\n   - Both priced ₹3,500-₹4,375/weekly injection\n   - Generic tirzepatide entry expected ~2033-2036 (Lilly Indian patent timelines)\n   - 50+ brand count applies to SEMAGLUTIDE only (post March 20, 2026 patent expiry)\n\n5. US TIRZEPATIDE PARAGRAPH IV (May 13 milestone):\n   - Eligibility window opened May 13, 2026 (4 years post Mounjaro approval)\n   - As of June 24, 2026: NO public ANDA filings in FDA Orange Book\n   - Lilly's 21-patent fortress remains: primary composition 2036, formulation 2039-2041\n   - Meaningful US generic competition before 2036 considered remote\n\n6. INDIAN GENERIC SEMAGLUTIDE COMPETITIVE LANDSCAPE:\n   - Tier 1 (vials): Natco ₹1,290, Eris ₹220/shot, Alkem ₹1,800\n   - Tier 2 (oral): Dr Reddy's Obeda Tablets ₹99-225/dose, Torrent Sembolic\n   - Tier 3 (premium pens): Dr Reddy's Obeda pen ₹4,200, Sun Pharma Noveltreat ₹3,400-4,500\n   - Survivors will need: clinical data, device innovation, distribution depth, OR price leadership\n   - Consolidation to 5-8 dominant brands expected within 18-24 months",
+      "tags": [
+        "generics",
+        "india",
+        "us",
+        "torrent",
+        "dr-reddys-oral-obeda",
+        "tirzepatide-correction",
+        "cipla-yurpeak",
+        "paragraph-iv",
+        "may-june-2026"
+      ]
+    },
     {
       "id": "gen-entry-016",
       "timestamp": "2026-05-10T00:00:00Z",

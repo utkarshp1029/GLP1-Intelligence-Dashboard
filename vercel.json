@@ -1,6 +1,6 @@
 {
-  "buildCommand": null,
+  "buildCommand": "rm -rf public/data && cp -r data public/data && npm run build",
   "outputDirectory": "dist",
-  "installCommand": "echo skip",
+  "framework": "vite",
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }

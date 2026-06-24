@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "regulatory-timeline",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 25,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 26,
     "key_metrics": [
       {
         "label": "Total Regulatory Events",
@@ -31,6 +31,18 @@
       {
         "label": "FDA 503B Action (Apr 30)",
         "value": "Proposed exclusion of semaglutide/tirzepatide/liraglutide from bulks list — comment period through Jun 29"
+      },
+      {
+        "label": "Medicare GLP-1 Bridge Status",
+        "value": "JULY 1 LAUNCH CONFIRMED | $50/mo copay | Extended to Dec 31, 2027"
+      },
+      {
+        "label": "FDA 503B Bulks Action",
+        "value": "Comment period closes Jun 29 | NO final action yet | Q3 2026 expected"
+      },
+      {
+        "label": "Lilly v. Empower (May 16)",
+        "value": "SDTX preserved Lanham Act + unfair competition claims"
       }
     ]
   },
@@ -136,6 +148,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "reg-entry-018",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026",
+      "source_name": "CMS / AMCP / Medicare Rights Center / NCPA",
+      "market": "us",
+      "summary": "June 2026 regulatory landscape — Medicare GLP-1 Bridge July 1 launch confirmed. CMS released education materials June 3; pharmacy webinar June 11 (CMS) and June 17 (NCPA). FDA 503B bulks list comment period closes June 29 — NO final action yet. Eligibility: BMI ≥35, OR ≥30 w/ HF/HTN/CKD, OR ≥27 w/ prediabetes/MI/stroke/PAD. $50/mo flat copay (no dose escalation). Demonstration extended through Dec 31, 2027. ADA 2026 (June 5-8 New Orleans) major industry inflection point.",
+      "content": "June 2026 regulatory action summary:\n\n1. MEDICARE GLP-1 BRIDGE — JULY 1 LAUNCH (confirmed):\n   - Effective July 1, 2026\n   - Demonstration runs through December 31, 2027 (extended from initial 6 months)\n   - $50/month flat patient copay (does NOT escalate with dose)\n   - Does NOT count toward Part D $2,100 OOP cap or deductible\n   - Eligibility criteria (one of):\n     - BMI ≥35\n     - BMI ≥30 with heart failure, uncontrolled hypertension, or chronic kidney disease\n     - BMI ≥27 with prediabetes, prior myocardial infarction, stroke, or symptomatic peripheral arterial disease\n   - Covered drugs: Wegovy (injectable + pill), Foundayo (all formulations), Zepbound KwikPen\n   - Humana serves as central processor (LI NET program administrator)\n   - Prior-auth requests cannot be accepted until July 1, 2026\n   - CMS education materials released June 3; NCPA webinar June 17; CMS pharmacy webinar June 11\n\n2. FDA 503B BULKS LIST (status June 24):\n   - Proposal published April 30, 2026 (Federal Register May 1)\n   - Proposes permanent exclusion of semaglutide, tirzepatide, liraglutide from 503B bulks\n   - Comment period CLOSES June 29, 2026 (5 days from now)\n   - NO final action as of June 24, 2026\n   - Final determination expected Q3 2026\n   - If finalized: forecloses large-scale 503B compounding even under future shortage\n\n3. CMS BALANCE MODEL (Part D delay continuing):\n   - Medicare Part D portion delayed indefinitely (announced April 22)\n   - Medicare GLP-1 Bridge extended through Dec 31, 2027 to fill gap\n   - Medicaid portion proceeds: state opt-in window through January 1, 2027\n   - State Medicaid Agency RFA deadline: July 31, 2026\n\n4. LILLY v. EMPOWER PHARMACY (May 16 SDTX ruling):\n   - Court trimmed but preserved key claims\n   - Lanham Act false advertising claims survive\n   - Unfair competition claims survive\n   - Case proceeds to full merits trial\n   - Keeps largest 503A GLP-1 compounder exposed to liability\n\n5. NOVO NORDISK BLOOMINGTON FDA INSPECTION:\n   - April 24, 2026 re-inspection completed\n   - 90-day classification deadline: late July 2026\n   - November 2025 warning letter for extrinsic contamination (hair, pest)\n   - Risk: $11B Catalent acquisition payoff; Wegovy supply expansion\n\n6. ADA 2026 INFLECTION (June 5-8, New Orleans):\n   - Retatrutide TRIUMPH-1: 30.3% weight loss at 104 weeks (new efficacy benchmark)\n   - CagriSema REIMAGINE: beats semaglutide head-to-head\n   - Foundayo ACHIEVE-3: beats oral semaglutide\n   - Survodutide SYNCHRONIZE-MASLD: 63% liver fat reduction\n   - 4 new Phase 3 contenders: Pfizer berobenatide, AZ elecoglipron, Innovent mazdutide, Sciwind ecnoglutide\n\n7. INDIA REGULATORY (status quo since May update):\n   - CDSCO March 11 advisory continues (advertising restrictions)\n   - DCGI ongoing inspections (49 entities under monitoring)\n   - Delhi HC denied Novo injunctions; semaglutide patent expired March 20\n   - Sun Pharma + Dr Reddy's HC export clearance",
+      "tags": [
+        "regulatory",
+        "us",
+        "medicare-bridge",
+        "fda-503b",
+        "balance-model",
+        "lilly-empower",
+        "novo-bloomington",
+        "ada-2026",
+        "june-2026"
+      ]
+    },
     {
       "id": "reg-entry-017",
       "timestamp": "2026-04-30T00:00:00Z",

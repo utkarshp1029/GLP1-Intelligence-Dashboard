@@ -5,9 +5,12 @@ import path from 'path'
 import fs from 'fs'
 
 const isProd = process.env.NODE_ENV === 'production';
+const isVercel = !!process.env.VERCEL;
+// Vercel serves at root; GitHub Pages serves at /GLP1-Intelligence-Dashboard/
+const productionBase = isVercel ? '/' : '/GLP1-Intelligence-Dashboard/';
 
 export default defineConfig({
-  base: isProd ? '/GLP1-Intelligence-Dashboard/' : '/',
+  base: isProd ? productionBase : '/',
   plugins: [
     react(),
     tailwindcss(),

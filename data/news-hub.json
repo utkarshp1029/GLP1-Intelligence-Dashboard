@@ -1,16 +1,20 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 44,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 50,
     "key_metrics": [
       {
         "label": "Stories This Week",
-        "value": "5 new (Apr 22 – May 10)"
+        "value": "6 new (May 11 – Jun 24)"
+      },
+      {
+        "label": "ADA 2026 Highlights",
+        "value": "Retatrutide 30.3% @ 104w, CagriSema beat semaglutide, Foundayo beat oral sema"
       },
       {
         "label": "Sources Tracked",
-        "value": "30+"
+        "value": "35+"
       },
       {
         "label": "Markets Covered",
@@ -19,6 +23,140 @@
     ]
   },
   "stories": [
+    {
+      "id": "story-047",
+      "headline": "CagriSema REIMAGINE: Beats Wegovy on A1C and Weight — Closes Tirzepatide Gap",
+      "summary": "Novo Nordisk's CagriSema (cagrilintide + semaglutide) presented full REIMAGINE 1-3 data at ADA 2026: in T2D (REIMAGINE-2, n=2,713), CagriSema delivered −1.91% A1C reduction and −14.2% weight loss at 68 weeks vs −1.75% / −10.2% for semaglutide 2.4mg. REIMAGINE-3 basal-insulin add-on: −2.33% A1C, −12.0% weight. REIMAGINE-1 drug-naïve: −1.8% A1C, −13.8% weight. FDA weight-management decision expected Q4 2026. CagriSema partially recovers from the earlier REDEFINE-4 tirzepatide-noninferiority miss.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-06-07",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "PR Newswire / Novo Nordisk",
+          "title": "Novo Nordisk's CagriSema demonstrated significant reduction in HbA1c and weight at ADA 2026",
+          "url": "https://www.prnewswire.com/news-releases/novo-nordisks-cagrisema-2-4-mg--2-4-mg-demonstrated-significant-reduction-in-hba1c-and-weight-across-multiple-studies-in-the-reimagine-program-presented-at-ada-2026--302793443.html",
+          "date": "2026-06-07"
+        }
+      ],
+      "tags": [
+        "cagrisema",
+        "novo-nordisk",
+        "reimagine",
+        "ada-2026",
+        "phase-3",
+        "diabetes"
+      ]
+    },
+    {
+      "id": "story-046",
+      "headline": "Wegovy Pill Crosses 3 Million US Prescriptions in 5 Months — One Fill Every 5 Seconds",
+      "summary": "Novo Nordisk announced at ADA 2026 (June 7) that oral Wegovy 25mg has crossed 3 million US prescriptions since its January 5 launch — equivalent to one fill every ~5 seconds. After taking 5 months to reach 1M, the next 2M came in just 10 weeks. Over 80% of new fills go to GLP-1-naïve patients, validating the convenience thesis. Now the strongest GLP-1 launch by volume on record, supporting Novo's Q1 stunner of $354M Wegovy-pill revenue.",
+      "market": "us",
+      "category": "business",
+      "timestamp": "2026-06-07",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "PR Newswire / Novo Nordisk",
+          "title": "Wegovy pill prescriptions surpass 3 million; 1 filled every 5 seconds",
+          "url": "https://www.prnewswire.com/news-releases/wegovy-pill-prescriptions-surpass-3-million-1-filled-roughly-every-5-seconds-bringing-glp-1-therapy-to-people-with-obesity-previously-untreated-while-novo-nordisk-unveils-new-data-at-ada-2026-302793337.html",
+          "date": "2026-06-07"
+        }
+      ],
+      "tags": [
+        "novo-nordisk",
+        "wegovy-oral",
+        "3-million-rx",
+        "us",
+        "ada-2026",
+        "launch"
+      ]
+    },
+    {
+      "id": "story-045",
+      "headline": "ADA 2026 Marquee Readout: Retatrutide Phase 3 TRIUMPH-1 Hits 30.3% Weight Loss at 104 Weeks",
+      "summary": "At ADA 2026 (June 5-8, New Orleans), Eli Lilly presented full TRIUMPH-1 data: retatrutide delivered 19.0% / 25.9% / 28.3% weight loss at 4/9/12 mg doses over 80 weeks (n=2,339); extension data showed 30.3% (~85 lbs) at 104 weeks in BMI ≥35 patients. 65.3% of 12 mg patients dropped below BMI 30; 45.3% achieved ≥30% loss. Companion TRANSCEND-T2D-1 in diabetes: up to 2.0% A1C reduction and 16.8% weight loss. NDA filing targeted 2027. Simultaneously published in The Lancet — sets new efficacy bar for the GLP-1 era.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-06-06",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "PR Newswire / Eli Lilly",
+          "title": "Lilly's triple agonist retatrutide drove substantial improvements at ADA 2026",
+          "url": "https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-drove-substantial-improvements-in-weight-a1c-knee-osteoarthritis-pain-and-obstructive-sleep-apnea-demonstrating-its-remarkable-potential-to-treat-obesity-and-its-complications-302793169.html",
+          "date": "2026-06-06"
+        },
+        {
+          "publication": "IndexBox / Reuters",
+          "title": "Eli Lilly Shares Rise 4% on Promising Retatrutide Obesity Data",
+          "url": "https://www.indexbox.io/blog/eli-lilly-shares-rise-4-on-promising-retatrutide-obesity-drug-data/",
+          "date": "2026-06-08"
+        }
+      ],
+      "tags": [
+        "retatrutide",
+        "eli-lilly",
+        "ada-2026",
+        "phase-3",
+        "triumph-1",
+        "30-percent",
+        "lancet",
+        "global"
+      ]
+    },
+    {
+      "id": "story-048",
+      "headline": "Dr Reddy's Launches Oral Semaglutide 'Obeda Tablets' in India at ₹99/Pill",
+      "summary": "Dr Reddy's launched the first oral generic semaglutide in India on May 20, 2026 — Obeda Tablets at Rs 99 (3mg), Rs 135 (7mg), Rs 225 (14mg). This undercuts Novo's Rybelsus by 80-90% and Torrent's injectable Semalix (~Rs 3,999/mo) by an even wider margin. Approval followed Phase 3 in 288 Indian T2D patients showing non-inferiority to the innovator. Combined with the existing Obeda pen (Rs 4,200/mo), Dr Reddy's now spans both oral and injectable formats — pressuring Torrent's first-mover oral lead.",
+      "market": "india",
+      "category": "launch",
+      "timestamp": "2026-05-20",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Business Today",
+          "title": "Dr Reddy's launches oral semaglutide tablets at Rs 99 per pill in India",
+          "url": "https://www.businesstoday.in/industry/pharma/story/dr-reddys-launches-oral-semaglutide-tablets-at-rs99-per-pill-in-india-532551-2026-05-20",
+          "date": "2026-05-20"
+        }
+      ],
+      "tags": [
+        "dr-reddys",
+        "obeda",
+        "oral-semaglutide",
+        "india",
+        "generic",
+        "rybelsus"
+      ]
+    },
+    {
+      "id": "story-049",
+      "headline": "Hims & Hers Posts $92M Q1 Loss in Branded GLP-1 Pivot — Margins Compress 8 Points",
+      "summary": "Hims & Hers reported Q1 revenue of $608.1M (+4% YoY) but net income swung from +$49.5M (Q1 2025) to −$92.1M (Q1 2026, −$0.41/share). Gross margin compressed 73% → 65% as compounded GLP-1 phased out and branded Wegovy added. Within 6 weeks of branded Wegovy add, Hims fulfilled 125,000+ shipments and projects 100,000+ new weight-loss subs/month. FY26 revenue guidance raised to $2.8-$3.0B. Subscribers ~2.6M (+9% YoY). Q2 guide: $680M-$700M, above consensus.",
+      "market": "us",
+      "category": "business",
+      "timestamp": "2026-05-11",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Fierce Healthcare",
+          "title": "Hims & Hers posts $92M loss in Q1 as it shifts to branded GLP-1 medications",
+          "url": "https://www.fiercehealthcare.com/health-tech/hims-hers-posts-92m-loss-q1-it-shifts-branded-glp-1-medications",
+          "date": "2026-05-11"
+        }
+      ],
+      "tags": [
+        "hims-hers",
+        "telehealth",
+        "q1-2026",
+        "earnings",
+        "branded-pivot",
+        "wegovy",
+        "us"
+      ]
+    },
     {
       "id": "story-044",
       "headline": "Lilly Foundayo Reaches 7,335 Prescriptions in Week 4 — Modest but Steady Uptake",
@@ -42,6 +180,38 @@
         "iqvia",
         "prescriptions",
         "uptake"
+      ]
+    },
+    {
+      "id": "story-050",
+      "headline": "Mounjaro Officially Dethrones Keytruda as World's Top-Selling Drug",
+      "summary": "Bloomberg confirmed in May 2026 that tirzepatide (Mounjaro + Zepbound) has overtaken Merck's Keytruda as the world's top-selling medication, with $8.7B in Q1 2026 revenue alone (combined $12.8B with Zepbound). The milestone caps the GLP-1 era as the defining therapeutic category of the decade. Berenberg followed on June 22 by raising Lilly's price target to $1,135; consensus 12-month target $1,229.85 (Buy, 20 analysts). LLY +9% YTD; Novo Nordisk −17%.",
+      "market": "global",
+      "category": "business",
+      "timestamp": "2026-05-06",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Bloomberg",
+          "title": "Lilly's Mounjaro Overtakes Merck's King Keytruda as World's Top-Selling Drug",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-06/lilly-s-mounjaro-overtakes-merck-s-king-keytruda-as-world-s-top-selling-drug",
+          "date": "2026-05-06"
+        },
+        {
+          "publication": "MarketBeat",
+          "title": "Berenberg raises Lilly price target to $1,135",
+          "url": "https://www.marketbeat.com/stocks/NYSE/LLY/forecast/",
+          "date": "2026-06-22"
+        }
+      ],
+      "tags": [
+        "eli-lilly",
+        "mounjaro",
+        "keytruda",
+        "global",
+        "best-selling-drug",
+        "stock",
+        "berenberg"
       ]
     },
     {

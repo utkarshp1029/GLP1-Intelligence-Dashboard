@@ -1,11 +1,11 @@
 {
-  "last_full_update": "2026-05-10T00:00:00Z",
+  "last_full_update": "2026-06-24T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
       "file": "pricing.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 30,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 31,
       "key_metrics": [
         {
           "label": "Cheapest India (Vial)",
@@ -42,13 +42,25 @@
         {
           "label": "Foundayo Pricing Confirmed",
           "value": "$149/mo (lowest dose) up to $349 (highest) | $25/mo commercial savings | $50/mo Medicare from Jul 1"
+        },
+        {
+          "label": "Medicare GLP-1 Bridge (Jul 1)",
+          "value": "Launch confirmed | $50/mo copay | Wegovy + Pill + Zepbound KwikPen + Foundayo | Through Dec 31 2027"
+        },
+        {
+          "label": "India Oral Generic Floor (May)",
+          "value": "Dr Reddy's Obeda Tablets — ₹99 (3mg) | ₹135 (7mg) | ₹225 (14mg) — undercuts Rybelsus 80-90%"
+        },
+        {
+          "label": "CVS Caremark Action (Jun 1)",
+          "value": "Foundayo new-to-market block dropped | Zepbound back on preferred formulary Oct 1"
         }
       ]
     },
     "generics-tracker": {
       "file": "generics-tracker.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 28,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 29,
       "key_metrics": [
         {
           "label": "Total DCGI-Approved Brands",
@@ -81,13 +93,33 @@
         {
           "label": "Lilly India Tirzepatide Share (Apr)",
           "value": "Mounjaro share fell 71% (Feb) to 64% (Mar) as generic semaglutide cannibalizes"
+        },
+        {
+          "label": "Total India Brands (Jun)",
+          "value": "50+ semaglutide brands | Tirzepatide remains Mounjaro+Cipla Yurpeak duopoly (~2033-2036 generic entry)"
+        },
+        {
+          "label": "Torrent Market Share (May)",
+          "value": "~38% of India generic semaglutide value within first 30 days"
+        },
+        {
+          "label": "India GLP-1 Market (May)",
+          "value": "₹1,736cr — tirzepatide 63% / semaglutide 30%"
+        },
+        {
+          "label": "Dr Reddy's Oral Generic (May 20)",
+          "value": "Obeda Tablets ₹99/3mg | ₹135/7mg | ₹225/14mg — first oral generic semaglutide tablet"
+        },
+        {
+          "label": "Tirzepatide Para IV (May 13)",
+          "value": "No public ANDA filings yet — FDA Orange Book monitoring"
         }
       ]
     },
     "regulatory-timeline": {
       "file": "regulatory-timeline.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 25,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 26,
       "key_metrics": [
         {
           "label": "Total Regulatory Events",
@@ -116,13 +148,25 @@
         {
           "label": "FDA 503B Action (Apr 30)",
           "value": "Proposed exclusion of semaglutide/tirzepatide/liraglutide from bulks list — comment period through Jun 29"
+        },
+        {
+          "label": "Medicare GLP-1 Bridge Status",
+          "value": "JULY 1 LAUNCH CONFIRMED | $50/mo copay | Extended to Dec 31, 2027"
+        },
+        {
+          "label": "FDA 503B Bulks Action",
+          "value": "Comment period closes Jun 29 | NO final action yet | Q3 2026 expected"
+        },
+        {
+          "label": "Lilly v. Empower (May 16)",
+          "value": "SDTX preserved Lanham Act + unfair competition claims"
         }
       ]
     },
     "revenue-financials": {
       "file": "revenue-financials.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 18,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
           "label": "Global GLP-1 Market (2025)",
@@ -185,13 +229,33 @@
         {
           "label": "Foundayo Week 4 (May 2026)",
           "value": "7,335 scripts | 8,000+ prescribers | 20,000+ patients treated"
+        },
+        {
+          "label": "Mounjaro = World #1 Drug",
+          "value": "Confirmed May 2026 (Bloomberg) — overtakes Keytruda"
+        },
+        {
+          "label": "Lilly Berenberg Target (Jun 22)",
+          "value": "$1,135 PT (was $1,050) | LLY +9% YTD | Consensus $1,229.85 (Buy, 20 analysts)"
+        },
+        {
+          "label": "Novo YTD Performance",
+          "value": "-17% YTD; Wegovy oral (Q1: $354M, now >3M Rx in 5 months) the bright spot"
+        },
+        {
+          "label": "Hims & Hers Q1 2026",
+          "value": "$92M LOSS in branded pivot | Margins 73%→65% | Rev $608M (+4%)"
+        },
+        {
+          "label": "WeightWatchers Q1 Clinical Subs",
+          "value": "+51% QoQ to 197K | Clinical Rev $39M (+32% YoY)"
         }
       ]
     },
     "supplements": {
       "file": "supplements.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 19,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 20,
       "key_metrics": [
         {
           "label": "Tracked Supplements",
@@ -217,13 +281,21 @@
         {
           "label": "US Market Growth",
           "value": "+35% YoY (natural GLP-1 booster category) Q1 2026"
+        },
+        {
+          "label": "ADA 2026 BELIEVE (Jun 7)",
+          "value": "Bimagrumab + sema reduces lean-mass loss to ~7% vs typical 25-40%"
+        },
+        {
+          "label": "Activity Decline Signal (Jun 14)",
+          "value": "Fitbit study: GLP-1 Rx → daily steps -560 — reinforces protein+creatine stack"
         }
       ]
     },
     "manufacturing": {
       "file": "manufacturing.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 18,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
           "label": "Tracked Facilities",
@@ -264,13 +336,25 @@
         {
           "label": "Lilly Lebanon API (2027)",
           "value": "Largest API production site in US history"
+        },
+        {
+          "label": "Lilly Indiana Cumulative (since 2020)",
+          "value": ">$21B total commitments"
+        },
+        {
+          "label": "Novo Bloomington Risk (late Jul)",
+          "value": "FDA 90-day classification deadline after April 24 re-inspection; risks $11B Catalent payoff"
+        },
+        {
+          "label": "Lebanon API Site (2027)",
+          "value": "Will produce Zepbound, Mounjaro, Foundayo, retatrutide"
         }
       ]
     },
     "pipeline-trials": {
       "file": "pipeline-trials.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 19,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 24,
       "key_metrics": [
         {
           "label": "Phase 3 Candidates",
@@ -282,7 +366,7 @@
         },
         {
           "label": "Best Phase 3 Weight Loss",
-          "value": "28.7% (Retatrutide TRIUMPH-4) | NDA filing Q4 2026"
+          "value": "30.3% at 104 weeks (Retatrutide TRIUMPH-1 BMI ≥35 extension)"
         },
         {
           "label": "CagriSema",
@@ -299,13 +383,33 @@
         {
           "label": "Foundayo Real-World (May)",
           "value": "7,335 scripts week 4 | 8,000+ prescribers | 20,000+ patients"
+        },
+        {
+          "label": "Retatrutide TRIUMPH-1",
+          "value": "19.0% / 25.9% / 28.3% @ 80wk; 65.3% reached BMI <30; NDA 2027; published in The Lancet"
+        },
+        {
+          "label": "CagriSema REIMAGINE (ADA)",
+          "value": "-1.91% A1c | -14.2% weight (REIMAGINE-2 vs sema 2.4mg)"
+        },
+        {
+          "label": "Foundayo ACHIEVE-3 (ADA)",
+          "value": "-2.2% A1c | 9.2% weight loss — beats oral sema 14mg head-to-head"
+        },
+        {
+          "label": "Survodutide SYNCHRONIZE-MASLD",
+          "value": "63.1% liver fat reduction | 16.6% weight loss"
+        },
+        {
+          "label": "New Phase 3 Entrants",
+          "value": "Mazdutide (Innovent 20.1%) | Ecnoglutide (Sciwind beats Wegovy) | Berobenatide (Pfizer 15.9%) | Elecoglipron (AZ to Phase 3)"
         }
       ]
     },
     "supply-chain": {
       "file": "supply-chain.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 16,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 17,
       "key_metrics": [
         {
           "label": "Active Shortages",
@@ -334,13 +438,25 @@
         {
           "label": "India Export Enabler",
           "value": "Dr Reddy's + Sun Pharma have HC export clearance"
+        },
+        {
+          "label": "Novo Bloomington Status (late Jul)",
+          "value": "FDA 90-day classification deadline after April 24 re-inspection"
+        },
+        {
+          "label": "Lilly Lebanon API (2027)",
+          "value": "$4.5B incremental investment confirmed | Products: Zepbound, Mounjaro, Foundayo, retatrutide"
+        },
+        {
+          "label": "Wegovy Pill Supply",
+          "value": "3M+ Rx in 5 months | One fill every 5 seconds | No constraint"
         }
       ]
     },
     "patents-ip": {
       "file": "patents-ip.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 16,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 17,
       "key_metrics": [
         {
           "label": "Markets Open (Semaglutide)",
@@ -373,13 +489,21 @@
         {
           "label": "Tirzepatide Para IV Status (May 13)",
           "value": "Eligibility window opens May 13 — no public ANDA filings yet; Lilly 21-patent fortress remains"
+        },
+        {
+          "label": "Tirzepatide Para IV (May 13)",
+          "value": "Eligibility window OPEN | NO public ANDA filings yet as of Jun 24"
+        },
+        {
+          "label": "India Tirzepatide Patent",
+          "value": "~2033-2036 expiry | Currently Mounjaro + Cipla Yurpeak duopoly"
         }
       ]
     },
     "compounding-pharmacy": {
       "file": "compounding-pharmacy.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 14,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 15,
       "key_metrics": [
         {
           "label": "Tracked Pharmacies",
@@ -412,13 +536,21 @@
         {
           "label": "Patient Migration Path",
           "value": "Foundayo $149 | Wegovy oral $149 | MFN $245 Medicare | TrumpRx $350 DTC"
+        },
+        {
+          "label": "FDA 503B Bulks Action",
+          "value": "Comment period closes June 29, 2026 | NO final action as of Jun 24 | Final expected Q3 2026"
+        },
+        {
+          "label": "Lilly v. Empower (May 16)",
+          "value": "SDTX trimmed but preserved Lanham Act + unfair-competition claims — proceeds to merits trial"
         }
       ]
     },
     "telehealth-d2c": {
       "file": "telehealth-d2c.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 18,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
           "label": "Tracked Platforms",
@@ -463,13 +595,25 @@
         {
           "label": "Ro Foundayo Offering",
           "value": "Lilly Foundayo via Ro at $149-349/mo + $25 commercial savings card"
+        },
+        {
+          "label": "Hims Q1 2026 Results",
+          "value": "Rev $608M (+4%) | Loss -$92M | Gross margin 73%→65% | 125K Wegovy shipments in 6 weeks"
+        },
+        {
+          "label": "WeightWatchers Clinical Subs",
+          "value": "197K (+46% YoY, +51% QoQ) | Clinical Rev $39M (+32%)"
+        },
+        {
+          "label": "CVS Caremark (Jun 1)",
+          "value": "Foundayo new-to-market block dropped | Zepbound back preferred Oct 1"
         }
       ]
     },
     "social-sentiment": {
       "file": "social-sentiment.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 16,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 17,
       "key_metrics": [
         {
           "label": "Tracked Trends",
@@ -500,13 +644,25 @@
         {
           "label": "India Sentiment Shift",
           "value": "Positive (affordability) → Mixed (safety concerns + MSN Made-in-India pride)"
+        },
+        {
+          "label": "Reddit AI Study (May 24)",
+          "value": "400K+ posts | 70K+ users | 44% report ≥1 side effect"
+        },
+        {
+          "label": "Hidden Side Effects Surfaced",
+          "value": "Menstrual irregularities (~4%), fatigue (2nd most common), temp dysregulation"
+        },
+        {
+          "label": "r/Foundayo Growth",
+          "value": "~20K members by mid-June"
         }
       ]
     },
     "safety-signals": {
       "file": "safety-signals.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 16,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 17,
       "key_metrics": [
         {
           "label": "Active Safety Signals",
@@ -535,13 +691,25 @@
         {
           "label": "Novo PADE Status",
           "value": "Warning letter Mar 5 remains active — systemic reporting failures"
+        },
+        {
+          "label": "Reddit AI Analysis (May 24)",
+          "value": "400K+ posts analyzed | 4% reported menstrual irregularities | 44% mentioned ≥1 side effect"
+        },
+        {
+          "label": "GLP-1 Activity Signal (Jun 14)",
+          "value": "Fitbit study (n=753): daily steps -560 | MVPA -6 min/day post-Rx | Muscle preservation concern"
+        },
+        {
+          "label": "Foundayo Post-Market Data Due",
+          "value": "July 2026 — liver, CV MACE, gastric retention, lactation"
         }
       ]
     },
     "insurance-reimbursement": {
       "file": "insurance-reimbursement.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 16,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 17,
       "key_metrics": [
         {
           "label": "US Commercial Coverage (Ozempic/T2DM)",
@@ -594,21 +762,37 @@
         {
           "label": "Wegovy in Bridge (May)",
           "value": "CONFIRMED participation effective Jul 1, 2026 — Novo Nordisk announcement"
+        },
+        {
+          "label": "Medicare Bridge Eligibility (Confirmed)",
+          "value": "BMI ≥35 OR ≥30+HF/HTN/CKD OR ≥27+prediabetes/MI/stroke/PAD"
+        },
+        {
+          "label": "State Medicaid BALANCE RFA Deadline",
+          "value": "July 31, 2026"
+        },
+        {
+          "label": "Bridge Demonstration End",
+          "value": "December 31, 2027"
         }
       ]
     },
     "news-hub": {
       "file": "news-hub.json",
-      "last_updated": "2026-05-10T00:00:00Z",
-      "entry_count": 44,
+      "last_updated": "2026-06-24T00:00:00Z",
+      "entry_count": 50,
       "key_metrics": [
         {
           "label": "Stories This Week",
-          "value": "5 new (Apr 22 – May 10)"
+          "value": "6 new (May 11 – Jun 24)"
+        },
+        {
+          "label": "ADA 2026 Highlights",
+          "value": "Retatrutide 30.3% @ 104w, CagriSema beat semaglutide, Foundayo beat oral sema"
         },
         {
           "label": "Sources Tracked",
-          "value": "30+"
+          "value": "35+"
         },
         {
           "label": "Markets Covered",

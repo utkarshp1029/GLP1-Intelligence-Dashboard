@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
         "label": "Tracked Facilities",
@@ -43,6 +43,18 @@
       {
         "label": "Lilly Lebanon API (2027)",
         "value": "Largest API production site in US history"
+      },
+      {
+        "label": "Lilly Indiana Cumulative (since 2020)",
+        "value": ">$21B total commitments"
+      },
+      {
+        "label": "Novo Bloomington Risk (late Jul)",
+        "value": "FDA 90-day classification deadline after April 24 re-inspection; risks $11B Catalent payoff"
+      },
+      {
+        "label": "Lebanon API Site (2027)",
+        "value": "Will produce Zepbound, Mounjaro, Foundayo, retatrutide"
       }
     ]
   },
@@ -102,6 +114,24 @@
     }
   ],
   "entries": [
+    {
+      "id": "mfg-entry-015",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.pharmamanufacturing.com/compliance/article/55382580/novo-nordisks-troubled-indiana-site-hit-with-form-483-following-fda-re-inspection",
+      "source_name": "WFYI / Pharma Manufacturing / Jefferies",
+      "market": "us",
+      "summary": "Two major June 2026 manufacturing developments: (1) Lilly Lebanon LEAP — $4.5B incremental investment confirmed (May 6); cumulative Indiana commitments since 2020 now exceed $21B. Lebanon API plant (opens 2027) will produce Zepbound, Mounjaro, Foundayo, AND retatrutide — securing 5+ year supply runway. (2) Novo Nordisk Bloomington (former Catalent acquisition site) faces FDA 90-day classification deadline in late July following April 24 re-inspection — site previously received Nov 2025 warning letter for extrinsic contamination (hair, pest infestation). Could threaten $11B Catalent acquisition payoff and Wegovy supply.",
+      "content": "May-June 2026 manufacturing landscape:\n\n1. LILLY LEAP DISTRICT EXPANSION (May 6):\n   - $4.5B incremental investment across two Lebanon sites\n   - Cumulative Indiana commitments since 2020: >$21B\n   - Lebanon API plant opens 2027 — products: Zepbound, Mounjaro, Foundayo, retatrutide\n   - Largest API production site in US history (will rival anything globally)\n   - LLAT (Lilly Lebanon Advanced Therapies) genetic medicine facility opened\n   - Aligns with $27B MFN-deal manufacturing commitment\n\n2. NOVO BLOOMINGTON SITUATION (CRITICAL):\n   - Former Catalent acquisition ($11B paid 2025)\n   - November 2025 warning letter: extrinsic contamination (hair, pest infestation)\n   - FDA re-inspection completed April 24, 2026\n   - 90-day classification deadline: late July 2026\n   - Jefferies note flagged risk to $11B Catalent acquisition payoff\n   - Could affect Wegovy supply expansion capacity\n   - Outcome scenarios: (a) classification accepted → site cleared, (b) extended observation, (c) consent decree → severe impact\n\n3. NOVO IRELAND (€432M, 2027-2028) — ON TRACK:\n   - Athlone facility for oral semaglutide (Wegovy pill, Rybelsus)\n   - Phased completion through 2028\n   - Critical for Wegovy oral's 3M+ Rx run-rate\n\n4. INDIA CAPACITY:\n   - MSN SEMABEST (April launch) — first fully Made-in-India semaglutide (API + formulation + pen)\n   - Dr Reddy's oral Obeda tablets launch (May 20) shows India can deliver tablet formulations\n   - Hetero Truglyx/Rolmodl/Moto G across 75+ countries\n   - Sun Pharma + Dr Reddy's both have HC export clearance\n   - India domestic capacity: ~2M pens/month by end 2026 (industry estimate)\n\n5. MFN MANUFACTURING COMMITMENTS:\n   - Eli Lilly: $27B US (LEAP + Boston + genetic medicine + biologic fill-finish)\n   - Novo Nordisk: $10B US (Bloomington + Indiana fill-finish + oral pill production)\n   - Combined: $37B US pharma manufacturing buildout\n   - 1,200+ direct jobs at LEAP combined\n\n6. CAPACITY OUTLOOK:\n   - Lilly LEAP Phase 1 operational: Q3 2026\n   - Lilly Lebanon API: Q3 2027\n   - Novo Ireland: phased 2027-2028\n   - Combined: global GLP-1 manufacturing capacity to roughly triple by end-2028 vs current",
+      "tags": [
+        "manufacturing",
+        "us",
+        "lilly-leap",
+        "lebanon-api",
+        "novo-bloomington",
+        "fda-inspection",
+        "june-2026"
+      ]
+    },
     {
       "id": "mfg-entry-014",
       "timestamp": "2026-05-10T00:00:00Z",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 30,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 31,
     "key_metrics": [
       {
         "label": "Cheapest India (Vial)",
@@ -39,6 +39,18 @@
       {
         "label": "Foundayo Pricing Confirmed",
         "value": "$149/mo (lowest dose) up to $349 (highest) | $25/mo commercial savings | $50/mo Medicare from Jul 1"
+      },
+      {
+        "label": "Medicare GLP-1 Bridge (Jul 1)",
+        "value": "Launch confirmed | $50/mo copay | Wegovy + Pill + Zepbound KwikPen + Foundayo | Through Dec 31 2027"
+      },
+      {
+        "label": "India Oral Generic Floor (May)",
+        "value": "Dr Reddy's Obeda Tablets — ₹99 (3mg) | ₹135 (7mg) | ₹225 (14mg) — undercuts Rybelsus 80-90%"
+      },
+      {
+        "label": "CVS Caremark Action (Jun 1)",
+        "value": "Foundayo new-to-market block dropped | Zepbound back on preferred formulary Oct 1"
       }
     ]
   },
@@ -867,6 +879,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "pricing-entry-013",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026",
+      "source_name": "Medicare Rights Center / AMCP / CMS / Business Today / BioPharma Dive",
+      "market": "both",
+      "summary": "June 2026 pricing landscape — three major shifts: (1) Medicare GLP-1 Bridge launches July 1 with $50/mo flat copay (does NOT escalate with dose); eligible BMI ≥35, OR ≥30 w/ HF/HTN/CKD, OR ≥27 w/ prediabetes/MI/stroke/PAD. Demonstration runs through Dec 31, 2027. (2) Dr Reddy's launched oral semaglutide Obeda Tablets in India May 20 at ₹99/3mg, ₹135/7mg, ₹225/14mg — sub-₹100 floor for branded GLP-1. (3) CVS Caremark dropped its Foundayo new-to-market block June 1 and will add Zepbound back to preferred formulary October 1, 2026.",
+      "content": "June 2026 GLP-1 pricing landscape:\n\n1. MEDICARE GLP-1 BRIDGE — JULY 1 LAUNCH (confirmed):\n   - Flat $50/month patient copay across Wegovy (injectable + pill), Zepbound KwikPen, Foundayo (all formulations).\n   - Copay does NOT count toward Part D $2,100 OOP cap or deductible.\n   - Eligibility: BMI ≥35, OR BMI ≥30 with heart failure / uncontrolled hypertension / CKD, OR BMI ≥27 with prediabetes / prior MI / stroke / symptomatic PAD.\n   - Demonstration runs through December 31, 2027 (extended from original 6 months).\n   - Humana serves as central processor (LI NET program administrator).\n   - CMS released prescriber/pharmacy education materials June 3; NCPA hosted pharmacy webinar June 17.\n   - Prior-auth requests cannot be accepted until July 1, 2026.\n\n2. INDIA — DR REDDY'S OBEDA TABLETS (May 20):\n   - Rs 99 (3mg) → Rs 135 (7mg) → Rs 225 (14mg) per tablet.\n   - Daily oral dosing → ~Rs 2,970/mo at top dose, ~Rs 6,750/mo at 14mg.\n   - 80-90% undercut to Novo's Rybelsus.\n   - Approval based on Phase 3 in 288 Indian T2D patients showing non-inferiority to innovator.\n   - Dr Reddy's now spans oral + injectable Obeda — pressures Torrent's Sembolic first-mover oral lead.\n\n3. CVS CAREMARK FORMULARY (June 1 / October 1):\n   - June 1: Removed new-to-market block on Foundayo.\n   - October 1: Zepbound returns as preferred commercial-formulary option.\n   - Drives commercial-insured prescription volume for both Lilly products.\n\n4. INDIA GENERIC PRICE EROSION:\n   - Tier 1 (vials): Natco ₹1,290, Eris ₹220/shot, Alkem ₹1,800.\n   - Tier 2 (oral): Dr Reddy's Obeda Tablets ₹99-225/dose, Torrent Sembolic.\n   - Tier 3 (premium pens): Dr Reddy's Obeda pen ₹4,200, Sun Pharma Noveltreat ₹3,400-4,500.\n   - Novo Ozempic post-Apr 1 cuts: ₹202/day patient-centred pricing.\n\n5. US POST-MFN DEAL STATE:\n   - TrumpRx DTC: $350/month for GLP-1 injectables.\n   - MFN Medicare/Medicaid negotiated price: $245/month government.\n   - Foundayo self-pay: $149-349/month by dose.\n   - Novo subscription: $249 (12-month) / $329 (3-month).\n   - Hims branded Wegovy: $1,799/mo.",
+      "tags": [
+        "pricing",
+        "us",
+        "india",
+        "medicare-bridge",
+        "dr-reddys-obeda-oral",
+        "cvs-caremark",
+        "foundayo",
+        "zepbound",
+        "june-2026"
+      ]
+    },
     {
       "id": "pricing-entry-012",
       "timestamp": "2026-05-10T00:00:00Z",

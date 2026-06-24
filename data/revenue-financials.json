@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
         "label": "Global GLP-1 Market (2025)",
@@ -65,6 +65,26 @@
       {
         "label": "Foundayo Week 4 (May 2026)",
         "value": "7,335 scripts | 8,000+ prescribers | 20,000+ patients treated"
+      },
+      {
+        "label": "Mounjaro = World #1 Drug",
+        "value": "Confirmed May 2026 (Bloomberg) — overtakes Keytruda"
+      },
+      {
+        "label": "Lilly Berenberg Target (Jun 22)",
+        "value": "$1,135 PT (was $1,050) | LLY +9% YTD | Consensus $1,229.85 (Buy, 20 analysts)"
+      },
+      {
+        "label": "Novo YTD Performance",
+        "value": "-17% YTD; Wegovy oral (Q1: $354M, now >3M Rx in 5 months) the bright spot"
+      },
+      {
+        "label": "Hims & Hers Q1 2026",
+        "value": "$92M LOSS in branded pivot | Margins 73%→65% | Rev $608M (+4%)"
+      },
+      {
+        "label": "WeightWatchers Q1 Clinical Subs",
+        "value": "+51% QoQ to 197K | Clinical Rev $39M (+32% YoY)"
       }
     ]
   },
@@ -187,6 +207,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-015",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-06/lilly-s-mounjaro-overtakes-merck-s-king-keytruda-as-world-s-top-selling-drug",
+      "source_name": "Bloomberg / Fierce Healthcare / GlobeNewswire / MarketBeat",
+      "market": "global",
+      "summary": "May-June 2026 financial milestones: (1) Mounjaro officially the world's #1 best-selling drug ($8.7B Q1) — overtaking Keytruda (Bloomberg May 6). (2) LLY +9% YTD; Berenberg raised target to $1,135 on June 22; consensus $1,229.85. (3) Novo Nordisk -17% YTD despite Wegovy oral crossing 3M scripts in 5 months. (4) Hims & Hers $92M Q1 LOSS in branded pivot — gross margin 73%→65%; FY26 guidance raised to $2.8-3B. (5) WeightWatchers Sequence clinical subs +51% QoQ to 197K; clinical revenue $39M (+32%). The GLP-1 economic landscape continues to reshape pharma.",
+      "content": "May-June 2026 financial landscape — landmark period:\n\n1. MOUNJARO = WORLD'S #1 BEST-SELLING DRUG (Bloomberg May 6):\n   - Tirzepatide (Mounjaro) Q1 2026 revenue: $8.7B\n   - Overtakes Merck's Keytruda for top spot\n   - Combined Mounjaro+Zepbound: $12.8B Q1\n   - Caps the GLP-1 era as the defining therapeutic category of the decade\n\n2. ELI LILLY STOCK PERFORMANCE:\n   - Trading ~$830 (May) → mid-$900s (June)\n   - +9% YTD\n   - Berenberg target raise to $1,135 (June 22, from $1,050)\n   - Consensus 12-month target: $1,229.85 (Buy rating, 20 analysts)\n   - Key catalysts: retatrutide TRIUMPH-1 (June 6), MFN deal manufacturing buildout, Medicare Bridge expanded addressable market (~40M+ Americans)\n\n3. NOVO NORDISK PERFORMANCE:\n   - YTD -17% (vs LLY +9%)\n   - Brightest spot: Wegovy oral crossed 3M scripts in 5 months (1 fill every 5 seconds)\n   - Q1 2026 sales DKK 96.8B ($15.2B), +32% CER\n   - Wegovy injectable +12%; Ozempic -8% (cannibalization continues)\n   - Bloomington (former Catalent) site under FDA 90-day classification deadline → late July\n\n4. HIMS & HERS Q1 2026 (reported May 11):\n   - Revenue: $608.1M (+4% YoY)\n   - Net income: -$92.1M (was +$49.5M Q1 2025) — $141.6M swing\n   - EPS: -$0.41\n   - Gross margin: 65% (was 73%)\n   - 125,000+ branded Wegovy shipments in first 6 weeks of branded rollout\n   - FY26 guidance raised to $2.8B-$3.0B (was $2.5B-$2.7B)\n   - Q2 guide: $680M-$700M (above $659M consensus)\n   - Subscribers: ~2.6M (+9% YoY)\n   - Adjusted EBITDA: $44.3M (7% margin) — down from $91.1M Q1 2025\n\n5. WEIGHTWATCHERS Q1 2026 (reported May 7):\n   - Total subscribers: 2.7M (flat YoY)\n   - Clinical/Sequence subs: 197K (+46% YoY, +51% QoQ)\n   - Clinical revenue: $39M (+32% YoY)\n   - Net loss: -$52.0M\n   - Adjusted gross margin: 73.6%\n   - FY26 guidance reaffirmed: $620M-$635M revenue, $105M-$115M EBITDA\n\n6. INDIA MARKET DYNAMICS (May data):\n   - Total Indian GLP-1 market: ₹1,579cr (April) → ₹1,736cr (May)\n   - Tirzepatide remains 63% of value (₹1,094cr) — Mounjaro + Cipla Yurpeak duopoly\n   - Semaglutide 30% of value (₹528cr) — 20-40+ generic brands\n   - Lilly India value share: 56% (was 61% Feb)\n   - Novo India value share: 25% (stable)\n   - Torrent took ~38% of Indian generic semaglutide value share within 30 days of launch\n\n7. MEDICARE BRIDGE ADDRESSABLE MARKET:\n   - ~8.5M current GLP-1 patients on Medicare\n   - +40M expansion possible under July 1 Bridge eligibility\n   - $245/mo MFN price; $50/mo patient copay\n   - CBO estimates $35.5B incremental federal spending 2026-2034 (revised pending BALANCE Part D delay)",
+      "tags": [
+        "revenue",
+        "global",
+        "us",
+        "india",
+        "lilly",
+        "novo-nordisk",
+        "mounjaro-keytruda",
+        "hims-hers",
+        "weightwatchers",
+        "ada-2026",
+        "may-june-2026"
+      ]
+    },
     {
       "id": "rev-entry-014",
       "timestamp": "2026-05-10T00:00:00Z",

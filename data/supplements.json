@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
         "label": "Tracked Supplements",
@@ -28,6 +28,14 @@
       {
         "label": "US Market Growth",
         "value": "+35% YoY (natural GLP-1 booster category) Q1 2026"
+      },
+      {
+        "label": "ADA 2026 BELIEVE (Jun 7)",
+        "value": "Bimagrumab + sema reduces lean-mass loss to ~7% vs typical 25-40%"
+      },
+      {
+        "label": "Activity Decline Signal (Jun 14)",
+        "value": "Fitbit study: GLP-1 Rx → daily steps -560 — reinforces protein+creatine stack"
       }
     ]
   },
@@ -183,13 +191,33 @@
   ],
   "entries": [
     {
+      "id": "supp-entry-014",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://diabetes.org/newsroom/press-releases/new-glp-1-therapies-enhance-quality-weight-loss-improving-muscle-0",
+      "source_name": "American Diabetes Association / ScienceDaily",
+      "market": "both",
+      "summary": "May-June 2026 supplements landscape: Two pieces of new clinical evidence support the supplement-stack adjunctive thesis. (1) ADA 2026 BELIEVE late-breaker (June 7): myostatin inhibitor bimagrumab + semaglutide cut lean-mass fraction of weight loss to ~7% vs typical 25-40%. Validated supplement-stack thesis: protein (1.2-1.6 g/kg/day) + creatine + electrolytes + vitamin D. (2) Fitbit wearable study (n=753, June 14): GLP-1 users lose ~560 steps/day and ~6 min/day MVPA after starting therapy — deepens muscle-preservation concern. Natural GLP-1 booster category continues +35% YoY trajectory. India berberine market continues 3x YoY growth.",
+      "content": "May-June 2026 supplements market update:\n\n1. ADA 2026 BELIEVE STUDY (June 7):\n   - Myostatin inhibitor bimagrumab + semaglutide combination\n   - Lean-mass loss reduced to ~7% of total weight loss\n   - Typical GLP-1 monotherapy: 25-40% of weight loss is lean mass\n   - Validates adjunctive supplement-stack thesis\n   - Bimagrumab itself is investigational (Lilly licensed)\n   - Patient relevance: supplement stack as low-cost adjunctive while bimagrumab moves through Phase 3\n\n2. RECOMMENDED SUPPLEMENT STACK (validated):\n   - Protein: 1.2-1.6 g/kg/day (whey, casein, plant)\n   - Creatine: 3-5 g/day\n   - Electrolytes (potassium, magnesium)\n   - Vitamin D\n   - This stack is now backed by emerging ADA 2026 clinical data\n\n3. ACTIVITY DECLINE SIGNAL (Fitbit study June 14):\n   - 753 GLP-1 users tracked\n   - Daily steps: 5,047 → 4,487 (-560 steps/day)\n   - MVPA: 28 → 22 min/day (-6 min/day)\n   - Steepest decline in men and joint/muscle pain reporters\n   - Reinforces case for adjunctive supplements + structured exercise\n\n4. FAUX-ZEMPIC CATEGORY GROWTH:\n   - Natural GLP-1 booster category +35% YoY (Q1 2026 Amazon US)\n   - Q2 2026 trajectory holding\n   - WGSN #1 2026 wellness trend\n   - Market size estimate: $1.5B US (up from $1.2B in 2025)\n\n5. KEY PRODUCTS (unchanged inventory but rising volumes):\n   - California Gold Nutrition GLP-1 Supreme: $35-40/mo\n   - ANTROLIFE GLP-1: $55-65/mo (2-pack)\n   - Pendulum GLP-1 Probiotic: continues Akkermansia-focused leadership\n   - Pure Encapsulations Berberine: $25-35/mo\n\n6. INDIA MARKET:\n   - Berberine continues 3x YoY growth trajectory\n   - Patanjali, Himalaya launching 'metabolic health' formulations\n   - Korglutide (Cargen, South Korea) remains on Indian market under CDSCO scrutiny\n   - Dr Reddy's oral Obeda Tablets at ₹99-225 reshape supplement competition for mass-market\n\n7. EVIDENCE GAP NARROWING:\n   - Berberine: 2-5% weight loss (modest vs prescription GLP-1)\n   - Akkermansia: 1-3% weight loss (limited)\n   - Combined stacks: emerging but not Phase 3 grade\n   - Adjunctive use (with GLP-1 prescription) increasingly evidence-backed\n\n8. SUPPLEMENT-PRESCRIPTION INTERACTION:\n   - Most stack supplements safe with GLP-1 Rx\n   - Berberine + GLP-1: monitor blood glucose (additive hypoglycemia risk)\n   - Akkermansia + GLP-1: synergistic gut-mediated effects emerging\n   - No new FDA warnings on supplement-prescription interactions",
+      "tags": [
+        "supplements",
+        "ada-2026",
+        "believe-study",
+        "bimagrumab",
+        "lean-mass",
+        "fitbit-activity",
+        "faux-zempic",
+        "berberine",
+        "may-june-2026"
+      ]
+    },
+    {
       "id": "supp-entry-013",
       "timestamp": "2026-05-10T00:00:00Z",
       "source_url": "https://www.iherb.com/blog/top-wellness-trends/2267",
       "source_name": "iHerb / Amazon trends / Verification check",
       "market": "both",
       "summary": "May 10, 2026 verification: No material new supplement-market developments since the April 21 update. Faux-zempic category continues +35% YoY trajectory. Foundayo's branded $149/mo pricing is competing with high-end supplement stacks ($35-65/mo) but the pharma-hesitant consumer cohort remains durable. India berberine market continues 3x YoY growth. Korglutide remains in market under CDSCO scrutiny. No new high-profile product launches or FDA actions in this window.",
-      "content": "May 10, 2026 supplements market verification check:\n\n1. WGSN \"FAUX-ZEMPIC\" TREND HOLDING: Top 2026 wellness trend through Q2. Pharma-hesitant consumer cohort remains durable despite Foundayo's $149/mo branded pricing.\n\n2. CATEGORY GROWTH: Natural GLP-1 booster category +35% YoY in Q1 2026 (per Amazon US data); momentum continues into Q2.\n\n3. PRODUCT LANDSCAPE UNCHANGED:\n   - California Gold Nutrition GLP-1 Supreme: $35-40/mo\n   - ANTROLIFE GLP-1: $55-65/mo (2-pack)\n   - Pendulum GLP-1 Probiotic: continues market leadership in Akkermansia-focused category\n\n4. INDIA MARKET:\n   - Berberine sales continue 3x YoY growth\n   - Korglutide (Cargen, South Korea) remains on Indian market despite CDSCO scrutiny\n   - No new India-specific supplement launches in April 22-May 10 window\n\n5. NO NEW FDA ACTIONS in window for supplement category.\n\n6. EVIDENCE GAP UNCHANGED: None of natural GLP-1 booster supplements have RCT data comparable to prescription GLP-1 Phase 3 trials. Ingredient-level evidence (berberine, Akkermansia) shows 2-5% weight loss vs 15-28% for prescription GLP-1 RAs.\n\n7. STATUS: Section verified current; no material changes to flag. Next major event to watch: ADA 2026 in mid-June for any clinical data on supplement-prescription interactions.",
+      "content": "May 10, 2026 supplements market verification check:\n\n1. WGSN \"FAUX-ZEMPIC\" TREND HOLDING: Top 2026 wellness trend through Q2. Pharma-hesitant consumer cohort remains durable despite Foundayo's $149/mo branded pricing.\n\n2. CATEGORY GROWTH: Natural GLP-1 booster category +35% YoY in Q1 2026 (per Amazon US data); momentum continues into Q2.\n\n3. PRODUCT LANDSCAPE UNCHANGED:\n   - California Gold Nutrition GLP-1 Supreme: $35-40/mo\n   - ANTROLIFE GLP-1: $55-65/mo (2-pack)\n   - Pendulum GLP-1 Probiotic: continues market leadership in Akkermansia-focused category\n\n4. INDIA MARKET:\n   - Berberine sales continue 3x YoY growth\n   - Korglutide (Cargen, South Korea) remains on Indian market despite CDSCO scrutiny\n   - No new India-specific supplement launches in April 22-May 10 window\n\n5. NO NEW FDA ACTIONS in window for supplement category.\n\n6. EVIDENCE GAP UNCHANGED: None of natural GLP-1 booster supplements have RCT data comparable to prescription GLP-1 Phase 3 trials. Ingredient-level evidence (berberine, Akkermansia) shows 2-5% weight loss vs 15-28% for prescription GLP-1 RAs.\n\n7. STATUS: Section verified current; no material changes to flag. Next major event to watch: ADA 2026 in June (5-8, New Orleans) for any clinical data on supplement-prescription interactions.",
       "tags": [
         "supplements",
         "verification",

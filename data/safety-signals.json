@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 16,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 17,
     "key_metrics": [
       {
         "label": "Active Safety Signals",
@@ -31,6 +31,18 @@
       {
         "label": "Novo PADE Status",
         "value": "Warning letter Mar 5 remains active — systemic reporting failures"
+      },
+      {
+        "label": "Reddit AI Analysis (May 24)",
+        "value": "400K+ posts analyzed | 4% reported menstrual irregularities | 44% mentioned ≥1 side effect"
+      },
+      {
+        "label": "GLP-1 Activity Signal (Jun 14)",
+        "value": "Fitbit study (n=753): daily steps -560 | MVPA -6 min/day post-Rx | Muscle preservation concern"
+      },
+      {
+        "label": "Foundayo Post-Market Data Due",
+        "value": "July 2026 — liver, CV MACE, gastric retention, lactation"
       }
     ]
   },
@@ -77,13 +89,32 @@
   ],
   "entries": [
     {
+      "id": "safety-entry-014",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260523103914.htm",
+      "source_name": "ScienceDaily / U. Maryland / ADA 2026",
+      "market": "us",
+      "summary": "May-June 2026 safety signals: (1) U. Maryland AI scan of 400K+ Reddit posts (May 24): ~4% reported menstrual irregularities; fatigue is 2nd most common symptom despite low representation in trials; 44% mentioned ≥1 side effect. (2) Fitbit wearable study (n=753, June 14): GLP-1 users' daily steps dropped 5,047→4,487; MVPA dropped 28→22 min/day after starting therapy — deepens muscle-preservation concern. (3) ADA 2026 BELIEVE study showed bimagrumab + semaglutide reduces lean-mass loss from typical 25-40% to ~7%. (4) Foundayo post-market data still due July 2026.",
+      "content": "May-June 2026 GLP-1 safety landscape:\n\n1. REDDIT AI ANALYSIS (U. Maryland, May 24):\n   - LLM-based analysis of 400K+ posts from ~70K users\n   - Subreddits: r/Mounjaro, r/Zepbound, r/Semaglutide, r/Ozempic, r/WegovyWeightLoss\n   - 44% of users mentioned ≥1 side effect\n   - GI events remain dominant (~60% of side-effect mentions)\n   - ~4% reported menstrual irregularities (under-represented in trials)\n   - Fatigue is 2nd-most-common symptom (also under-represented in trials)\n   - Emerging cluster: temperature dysregulation (chills, hot flashes)\n\n2. PHYSICAL ACTIVITY DECLINE (ScienceDaily June 14):\n   - Fitbit data analysis: 753 GLP-1 users (78.6% women, avg age 52.7y)\n   - Daily steps: 5,047 → 4,487 after starting therapy (-560 steps/day)\n   - MVPA: 28 → 22 min/day (-6 min/day)\n   - Steepest decline in men and those reporting joint/muscle pain\n   - Deepens muscle-preservation concern that drives supplement-stack thesis\n\n3. ADA 2026 BELIEVE STUDY (lean mass preservation, June 7):\n   - Bimagrumab + semaglutide combination\n   - Lean-mass loss fraction: ~7% of total weight loss (typical: 25-40%)\n   - Validates protein (1.2-1.6 g/kg/day) + creatine + electrolytes + vitamin D supplement stack as adjunctive care\n\n4. FOUNDAYO POST-MARKET DATA (pending July 2026):\n   - FDA-mandated 4 PMR studies at April 2026 approval\n     - Cardiovascular MACE\n     - Drug-induced liver injury\n     - Pediatric / pregnancy / lactation exposure\n     - 15-year medullary thyroid carcinoma monitoring\n   - Initial findings expected July 2026\n   - Foundayo remains widely available\n\n5. SUICIDE-RISK LABEL REMOVAL (continuing implementation):\n   - FDA conclusion (April 2026): NO increased suicide risk\n   - Label removal across Wegovy, Ozempic, Saxenda, Mounjaro, Zepbound, Foundayo\n   - Net effect: reduced prescribing friction\n\n6. NOVO NORDISK PADE STATUS (continuing):\n   - March 5, 2026 warning letter for 3 unreported deaths + systemic reporting failures\n   - Novo submitted remediation plans\n   - FDA has not yet closed the case (as of June 24)\n\n7. WEGOVY HD 7.2mg DYSESTHESIA (continuing monitoring):\n   - 22.9% at 7.2mg vs 6.0% at 2.4mg standard dose\n   - No new clinical actions; informs risk-benefit conversations\n\n8. SURVODUTIDE GI TOLERABILITY (ADA 2026):\n   - 19% GI-related discontinuation rate at high doses\n   - Higher than survodutide Phase 2 (8-10%) and tirzepatide (~12%)\n   - Could limit broad adoption despite efficacy advantages\n\n9. RETATRUTIDE GI TOLERABILITY (TRIUMPH-1):\n   - 18.2% discontinuation rate at 12mg high dose\n   - Lilly position: titration protocol can mitigate\n   - Standard tradeoff for higher efficacy\n\n10. INDIA SAFETY POSITION (unchanged):\n   - CDSCO March 10/11 advisory continues\n   - DCGI inspections continuing\n   - Ministry of Health April 1 safety warning continuing",
+      "tags": [
+        "safety",
+        "us",
+        "reddit-ai-analysis",
+        "activity-decline",
+        "ada-2026",
+        "believe-study",
+        "foundayo-post-market",
+        "may-june-2026"
+      ]
+    },
+    {
       "id": "safety-entry-013",
       "timestamp": "2026-05-10T00:00:00Z",
       "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability",
       "source_name": "FDA Drug Safety / Verification check",
       "market": "us",
       "summary": "May 10, 2026 safety signal verification: No material new FDA actions since April 21 update. Suicide-risk warning label removal (FDA conclusion: NO increased risk) is in implementation phase. Foundayo safety follow-up data due to FDA July 2026 (liver, CV MACE, gastric retention, lactation). Novo Nordisk PADE warning letter remains active. Wegovy HD 7.2mg dysesthesia signal monitoring continues. ADA 2026 (mid-June) expected to surface any new clinical safety data.",
-      "content": "May 10, 2026 safety signal verification check:\n\n1. SUICIDE-RISK LABEL REMOVAL (in implementation):\n   - FDA conclusion (April 2026): NO increased suicide risk with GLP-1 medications.\n   - Warning label removal in active implementation across Wegovy, Ozempic, Saxenda, Mounjaro, Zepbound, Foundayo.\n   - Net effect: lower prescribing friction, simplified labeling, reduced patient anxiety.\n\n2. FOUNDAYO SAFETY FOLLOW-UP (pending July 2026):\n   - FDA requested additional post-market data from Lilly in 4 areas: drug-induced liver injury, CV MACE, retained gastric contents, lactation exposure.\n   - Lilly to submit initial findings by July 2026.\n   - Foundayo remains FDA-approved and widely available during review.\n\n3. NOVO NORDISK PADE STATUS (continuing):\n   - March 5, 2026 warning letter regarding 3 unreported deaths + systemic post-approval drug experience reporting failures remains active.\n   - Novo has submitted remediation plans; FDA has not yet closed the case.\n\n4. WEGOVY HD 7.2mg DYSESTHESIA (continuing):\n   - 22.9% of patients vs 6.0% at 2.4mg standard dose.\n   - No new clinical actions; monitoring continues; informs risk-benefit conversations.\n\n5. FAERS INDICATION DIFFERENCES (continuing):\n   - April 2 analysis confirmed: T2DM patients show retinopathy signals; obesity patients show psychiatric signals.\n   - Reinforces indication-specific prescriber education.\n\n6. NO NEW SAFETY ACTIONS in April 22-May 10 window.\n\n7. NEXT KEY EVENTS:\n   - ADA 2026 Scientific Sessions (June 13-16, Chicago): Expected new clinical safety data on Foundayo, retatrutide, survodutide.\n   - July 2026: Foundayo post-market data due to FDA.\n   - Q3 2026: Possible FDA follow-up on Novo PADE remediation.\n\n8. STATUS: Section verified current; no material new safety signals to flag.",
+      "content": "May 10, 2026 safety signal verification check:\n\n1. SUICIDE-RISK LABEL REMOVAL (in implementation):\n   - FDA conclusion (April 2026): NO increased suicide risk with GLP-1 medications.\n   - Warning label removal in active implementation across Wegovy, Ozempic, Saxenda, Mounjaro, Zepbound, Foundayo.\n   - Net effect: lower prescribing friction, simplified labeling, reduced patient anxiety.\n\n2. FOUNDAYO SAFETY FOLLOW-UP (pending July 2026):\n   - FDA requested additional post-market data from Lilly in 4 areas: drug-induced liver injury, CV MACE, retained gastric contents, lactation exposure.\n   - Lilly to submit initial findings by July 2026.\n   - Foundayo remains FDA-approved and widely available during review.\n\n3. NOVO NORDISK PADE STATUS (continuing):\n   - March 5, 2026 warning letter regarding 3 unreported deaths + systemic post-approval drug experience reporting failures remains active.\n   - Novo has submitted remediation plans; FDA has not yet closed the case.\n\n4. WEGOVY HD 7.2mg DYSESTHESIA (continuing):\n   - 22.9% of patients vs 6.0% at 2.4mg standard dose.\n   - No new clinical actions; monitoring continues; informs risk-benefit conversations.\n\n5. FAERS INDICATION DIFFERENCES (continuing):\n   - April 2 analysis confirmed: T2DM patients show retinopathy signals; obesity patients show psychiatric signals.\n   - Reinforces indication-specific prescriber education.\n\n6. NO NEW SAFETY ACTIONS in April 22-May 10 window.\n\n7. NEXT KEY EVENTS:\n   - ADA 2026 Scientific Sessions (June 5-8, New Orleans): Expected new clinical safety data on Foundayo, retatrutide, survodutide.\n   - July 2026: Foundayo post-market data due to FDA.\n   - Q3 2026: Possible FDA follow-up on Novo PADE remediation.\n\n8. STATUS: Section verified current; no material new safety signals to flag.",
       "tags": [
         "safety",
         "verification",

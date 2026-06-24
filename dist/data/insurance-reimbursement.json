@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "insurance-reimbursement",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 16,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 17,
     "key_metrics": [
       {
         "label": "US Commercial Coverage (Ozempic/T2DM)",
@@ -55,6 +55,18 @@
       {
         "label": "Wegovy in Bridge (May)",
         "value": "CONFIRMED participation effective Jul 1, 2026 — Novo Nordisk announcement"
+      },
+      {
+        "label": "Medicare Bridge Eligibility (Confirmed)",
+        "value": "BMI ≥35 OR ≥30+HF/HTN/CKD OR ≥27+prediabetes/MI/stroke/PAD"
+      },
+      {
+        "label": "State Medicaid BALANCE RFA Deadline",
+        "value": "July 31, 2026"
+      },
+      {
+        "label": "Bridge Demonstration End",
+        "value": "December 31, 2027"
       }
     ]
   },
@@ -132,6 +144,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "ins-entry-013",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.amcp.org/regulatory-newsbreak/regulatory-newsbreak-cms-releases-educational-materials-medicare-glp-1-bridge",
+      "source_name": "CMS / AMCP / Medicare Rights Center / NCPA / NPR",
+      "market": "us",
+      "summary": "June 2026 insurance landscape — Medicare GLP-1 Bridge implementation ramp-up: CMS released prescriber/pharmacy education June 3; pharmacy webinar June 11; NCPA webinar June 17. Final eligibility criteria confirmed: BMI ≥35, OR ≥30 + HF/HTN/CKD, OR ≥27 + prediabetes/MI/stroke/PAD. Demonstration extended through Dec 31, 2027. State Medicaid BALANCE RFA deadline July 31. Wegovy + injection/pill, Foundayo all formulations, Zepbound KwikPen at $50/mo. Total addressable expansion: ~40M Americans beyond current ~8.5M.",
+      "content": "June 2026 US insurance implementation update:\n\n1. MEDICARE GLP-1 BRIDGE — JULY 1 LAUNCH PREP:\n   - CMS released prescriber/pharmacy education materials June 3\n   - CMS-staffed pharmacy webinar June 11\n   - NCPA independent pharmacy webinar June 17 (recording posted June 22)\n   - On-demand training resources available at cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge\n\n2. ELIGIBILITY CRITERIA (FINAL):\n   - BMI ≥35\n   - OR BMI ≥30 with: heart failure, uncontrolled hypertension, OR chronic kidney disease\n   - OR BMI ≥27 with: prediabetes, prior myocardial infarction, stroke, OR symptomatic peripheral arterial disease\n   - Estimated ~40M Americans eligible (vs ~8.5M current Medicare GLP-1 patients)\n\n3. COVERED FORMULATIONS:\n   - Wegovy (injectable, all doses)\n   - Wegovy oral pill\n   - Foundayo (all formulations)\n   - Zepbound KwikPen\n   - NOT included: Ozempic (T2D, separate Part D coverage), Mounjaro (T2D)\n\n4. PATIENT COST:\n   - $50/month flat copay (NO escalation with dose)\n   - Does NOT count toward Part D $2,100 OOP cap or deductible\n   - Outside Part D benefit structure (technically supplemental benefit)\n\n5. DEMONSTRATION TIMELINE:\n   - Launch: July 1, 2026\n   - End: December 31, 2027 (extended from initial Dec 31, 2026)\n   - Total: 18 months\n\n6. STATE MEDICAID BALANCE:\n   - State opt-in window: May 1, 2026 - January 1, 2027\n   - State Medicaid Agency RFA deadline: July 31, 2026\n   - Expected initial opt-ins: CA, NY, IL, MA, NJ\n   - 13 states already cover GLP-1s for obesity under FFS (Jan 2026 baseline)\n   - Trend reversal in: NH, PA, SC (tightening obesity coverage)\n\n7. NO OPT-IN ANNOUNCEMENTS in May 11-Jun 24 window:\n   - State announcements expected mid-late June, July\n   - RFA deadline drives clustering around July 25-31\n\n8. PROCESSING ARCHITECTURE:\n   - Humana = central processor (LI NET program administrator)\n   - Part D plans carry no risk for Bridge claims\n   - Prior-auth requests cannot be accepted until July 1, 2026\n\n9. MFN OVERLAY ($245 government negotiated price):\n   - All five MFN GLP-1 brands (Ozempic, Wegovy, Mounjaro, Zepbound, Foundayo)\n   - $50/mo patient copay via Bridge\n   - TrumpRx DTC alternative: $350/mo for commercially uninsured\n\n10. INDIA CONTEXT (unchanged):\n   - Private insurance ~8% coverage; GLP-1s excluded\n   - Generic pricing at ₹1,290-4,500/mo makes out-of-pocket manageable\n   - Dr Reddy's oral Obeda Tablets ₹99-225/dose furthers affordability",
+      "tags": [
+        "insurance",
+        "us",
+        "medicare-bridge",
+        "july-1",
+        "balance-model",
+        "eligibility",
+        "humana",
+        "june-2026"
+      ]
+    },
     {
       "id": "ins-entry-012",
       "timestamp": "2026-05-10T00:00:00Z",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
         "label": "Tracked Platforms",
@@ -47,6 +47,18 @@
       {
         "label": "Ro Foundayo Offering",
         "value": "Lilly Foundayo via Ro at $149-349/mo + $25 commercial savings card"
+      },
+      {
+        "label": "Hims Q1 2026 Results",
+        "value": "Rev $608M (+4%) | Loss -$92M | Gross margin 73%→65% | 125K Wegovy shipments in 6 weeks"
+      },
+      {
+        "label": "WeightWatchers Clinical Subs",
+        "value": "197K (+46% YoY, +51% QoQ) | Clinical Rev $39M (+32%)"
+      },
+      {
+        "label": "CVS Caremark (Jun 1)",
+        "value": "Foundayo new-to-market block dropped | Zepbound back preferred Oct 1"
       }
     ]
   },
@@ -156,6 +168,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "th-entry-013",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.fiercehealthcare.com/health-tech/hims-hers-posts-92m-loss-q1-it-shifts-branded-glp-1-medications",
+      "source_name": "Fierce Healthcare / Motley Fool / GlobeNewswire / BioPharma Dive",
+      "market": "us",
+      "summary": "May-June 2026 telehealth/D2C landscape: (1) Hims & Hers Q1 reported $608.1M revenue (+4%) but $92M LOSS in deliberate branded-GLP-1 pivot — margins compressed 73%→65%; 125K Wegovy shipments in first 6 weeks; FY26 guide raised to $2.8-3B. (2) WeightWatchers Sequence clinical subs +51% QoQ to 197K; clinical revenue $39M (+32%); FY26 guide reaffirmed $620-635M. (3) CVS Caremark dropped Foundayo new-to-market block June 1; Zepbound returns to preferred formulary October 1. The branded-vs-compounded inflection is complete.",
+      "content": "May-June 2026 telehealth/D2C GLP-1 market:\n\n1. HIMS & HERS Q1 2026 (reported May 11):\n   - Revenue: $608.1M (+4% YoY)\n   - Net income: -$92.1M (was +$49.5M Q1 2025) — $141.6M YoY swing\n   - EPS: -$0.41\n   - Gross margin: 65% (was 73%) — 8-point compression\n   - Branded Wegovy: 125,000+ shipments in first 6 weeks\n   - Projects 100,000+ new weight-loss subs/month\n   - Subscribers: ~2.6M (+9% YoY)\n   - Adjusted EBITDA: $44.3M (7% margin) — was $91.1M Q1 2025\n   - FY26 guidance RAISED: $2.8B-$3.0B (was $2.5B-$2.7B)\n   - Q2 guide: $680M-$700M (above $659M consensus)\n   - Strategic positioning: deliberate margin trade for durable branded GLP-1 subscriber economics\n\n2. WEIGHTWATCHERS Q1 2026 (reported May 7):\n   - Total subs: 2.7M (flat YoY)\n   - Clinical/Sequence subs: 197K (+46% YoY, +51% QoQ)\n   - Clinical revenue: $39M (+32% YoY)\n   - Net loss: -$52.0M\n   - Adjusted gross margin: 73.6%\n   - FY26 guidance reaffirmed: $620M-$635M revenue, $105M-$115M EBITDA\n\n3. CVS CAREMARK FORMULARY ACTIONS (June 1 / October 1):\n   - June 1: Removed new-to-market block on Foundayo (significant for Lilly's commercial volume)\n   - October 1: Zepbound returns as preferred commercial-formulary option\n   - Drives commercial-insured prescription growth\n\n4. RO (ROMAN) STATUS:\n   - Continued branded distribution (Foundayo, Wegovy, Mounjaro, Zepbound)\n   - Foundayo at $149-349/mo + $25/mo commercial savings card\n   - Membership $145/mo + medication separately\n\n5. NOVO DIRECT SUBSCRIPTION:\n   - $329/mo (3-month commitment), $249/mo (12-month annual plan)\n   - Wegovy HD 7.2mg: $399/mo\n   - Oral Wegovy pill: $149/mo (unchanged)\n   - Continues to bypass telehealth intermediaries\n\n6. FOUNDAYO DISTRIBUTION STATUS:\n   - ~20K patients by mid-May\n   - ~17K weekly Rx by week 8\n   - Channel mix: 45% LillyDirect / 35% telehealth / 20% retail\n\n7. INDIA E-PHARMACY (unchanged):\n   - Tata 1mg, PharmEasy, Netmeds continue dominance\n   - Generic semaglutide and oral Obeda Tablets driving e-pharmacy revenue\n   - Dr Reddy's Obeda Tablets ₹99-225 making D2C economically attractive\n\n8. POST-COMPOUNDING ERA:\n   - $199/mo compounded model fully sunset\n   - Surviving D2C value: convenience (telehealth consult + delivery), branded price advantage, integrated diet/lifestyle\n   - FY26 will be the first full year of branded-only D2C economics",
+      "tags": [
+        "telehealth",
+        "us",
+        "hims-hers",
+        "weightwatchers",
+        "ro",
+        "cvs-caremark",
+        "foundayo",
+        "zepbound",
+        "may-june-2026"
+      ]
+    },
     {
       "id": "th-entry-012",
       "timestamp": "2026-05-10T00:00:00Z",

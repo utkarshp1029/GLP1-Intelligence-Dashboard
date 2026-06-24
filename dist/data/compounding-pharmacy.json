@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 14,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 15,
     "key_metrics": [
       {
         "label": "Tracked Pharmacies",
@@ -35,6 +35,14 @@
       {
         "label": "Patient Migration Path",
         "value": "Foundayo $149 | Wegovy oral $149 | MFN $245 Medicare | TrumpRx $350 DTC"
+      },
+      {
+        "label": "FDA 503B Bulks Action",
+        "value": "Comment period closes June 29, 2026 | NO final action as of Jun 24 | Final expected Q3 2026"
+      },
+      {
+        "label": "Lilly v. Empower (May 16)",
+        "value": "SDTX trimmed but preserved Lanham Act + unfair-competition claims — proceeds to merits trial"
       }
     ]
   },
@@ -79,6 +87,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-012",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://endpoints.news/court-dismisses-part-of-lilly-lawsuit-against-empower-some-claims-can-proceed/",
+      "source_name": "Endpoints News / Federal Register / FDA",
+      "market": "us",
+      "summary": "Compounding sector status (June 24, 2026): (1) FDA 503B bulks list proposal — comment period closes June 29, 2026; NO final action issued yet; final expected Q3 2026. (2) Lilly v. Empower Pharmacy — SDTX ruled May 16, 2026, trimming but preserving Lanham Act and unfair-competition claims tied to 'untested and unapproved' compounded tirzepatide; case proceeds to full merits. (3) 503A 4-rx/month enforcement threshold continues. (4) Compounded GLP-1 patient migration to branded continues — Hims branded Wegovy fulfilled 125K shipments in 6 weeks.",
+      "content": "May-June 2026 compounding pharmacy landscape:\n\n1. FDA 503B BULKS LIST PROPOSAL (status — June 24, 2026):\n   - Proposal published April 30, 2026 (Federal Register May 1)\n   - Proposes permanent exclusion of semaglutide, tirzepatide, liraglutide from 503B bulks list\n   - 'No clinical need' finding by FDA — clinical vs economic need distinction\n   - Comment period CLOSES June 29, 2026 (5 days from now)\n   - NO final action as of June 24, 2026\n   - Final determination expected Q3 2026\n   - If finalized: forecloses large-scale 503B compounding even under future shortage declarations\n\n2. LILLY v. EMPOWER PHARMACY (SDTX ruling May 16):\n   - Filed July 2025\n   - SDTX trimmed parts of complaint but PRESERVED:\n     - Lanham Act false advertising claims\n     - Unfair competition claims\n     - Both tied to 'untested and unapproved' compounded tirzepatide\n   - Proceeds to full merits trial\n   - Keeps largest 503A GLP-1 compounder exposed to liability\n   - Concurrent with FDA's broader 503B bulks proposal threatening bulk-API supply\n\n3. 503A 4-RX/MONTH ENFORCEMENT (continuing):\n   - FDA April 1, 2026 clarification: 503A pharmacies filling ≤4 rx/month per essentially-copy drug face limited enforcement; above that, active enforcement\n   - Empower, Hallandale, Olympia, BMI all operating under this threshold\n   - Effectively kills scale economics for compounders targeting GLP-1 as mass-market product\n\n4. PATIENT MIGRATION TO BRANDED (accelerating):\n   - Hims fulfilled 125K+ branded Wegovy shipments in first 6 weeks\n   - Hims projects 100K+ new weight-loss subs/month\n   - WeightWatchers Sequence clinical subs +51% QoQ to 197K\n   - Foundayo branded $149/mo ($25/mo with commercial savings card) — competitively priced vs compounded\n   - Wegovy oral pill at $149/mo — convenience play\n   - Total compounded-to-branded migration estimate: 600K-1M patients in Q2 2026\n\n5. INDUSTRY STATUS:\n   - Empower Pharmacy: 4 FDA warning letters; Lilly lawsuit proceeds; 503B exclusion looms\n   - Olympia Pharmaceuticals: 503B; existential challenge if rule finalizes\n   - Hallandale Pharmacy: 503A; less affected by 503B exclusion but subject to 4-rx/mo limit\n   - Smaller 503A pharmacies: Operating in increasingly narrow legal space\n\n6. OUTLOOK:\n   - Q3 2026 FDA finalizes 503B exclusion → effective Q4 2026 / Q1 2027\n   - Lilly v. Empower likely settles or goes to trial in 2027\n   - Compounded GLP-1 industry fully sunset by end 2027 baseline scenario\n   - Surviving paths: legitimate 503A individualized compounding for medical necessity (not price)",
+      "tags": [
+        "compounding",
+        "us",
+        "fda",
+        "503b",
+        "lilly-vs-empower",
+        "lanham-act",
+        "503a-enforcement",
+        "branded-migration",
+        "june-2026"
+      ]
+    },
     {
       "id": "comp-entry-011",
       "timestamp": "2026-05-10T00:00:00Z",

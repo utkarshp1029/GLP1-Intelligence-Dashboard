@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supply-chain",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 16,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 17,
     "key_metrics": [
       {
         "label": "Active Shortages",
@@ -31,6 +31,18 @@
       {
         "label": "India Export Enabler",
         "value": "Dr Reddy's + Sun Pharma have HC export clearance"
+      },
+      {
+        "label": "Novo Bloomington Status (late Jul)",
+        "value": "FDA 90-day classification deadline after April 24 re-inspection"
+      },
+      {
+        "label": "Lilly Lebanon API (2027)",
+        "value": "$4.5B incremental investment confirmed | Products: Zepbound, Mounjaro, Foundayo, retatrutide"
+      },
+      {
+        "label": "Wegovy Pill Supply",
+        "value": "3M+ Rx in 5 months | One fill every 5 seconds | No constraint"
       }
     ]
   },
@@ -71,6 +83,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "sc-entry-014",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.pharmamanufacturing.com/compliance/article/55382580/novo-nordisks-troubled-indiana-site-hit-with-form-483-following-fda-re-inspection",
+      "source_name": "Pharma Manufacturing / FDA Drug Shortage Database / Verification check",
+      "market": "both",
+      "summary": "May-June 2026 supply chain: All major GLP-1 products remain off FDA Drug Shortage Database. Wegovy oral pill scaled to 3M+ Rx in 5 months without supply constraint. Foundayo distribution scaling. Lilly LEAP $4.5B incremental investment confirmed May 6. Novo Bloomington (Catalent acquisition site) faces FDA 90-day classification deadline late July — outcome will affect $11B Catalent payoff and Wegovy supply expansion. India export progress: Dr Reddy's, Sun Pharma, Hetero all operational across 75+ countries. 503B bulks list ruling pending could reshape compounded supply.",
+      "content": "May-June 2026 GLP-1 supply chain landscape:\n\n1. US DOMESTIC SUPPLY (stable):\n   - All major GLP-1s OFF FDA Drug Shortage Database\n   - Wegovy oral pill: 3M+ Rx in 5 months (one fill every 5 seconds) — no constraint\n   - Foundayo distribution scaling: 8,000+ prescribers, 20,000+ patients\n   - Mounjaro/Zepbound: only 'intermittent localized' disruption per Q1 commentary\n\n2. LILLY CAPACITY BUILDOUT (CONFIRMED MAY 6):\n   - LEAP District: $4.5B incremental investment\n   - Cumulative Indiana commitment since 2020: >$21B\n   - Lebanon API plant (opens 2027): largest US API site; produces Zepbound, Mounjaro, Foundayo, retatrutide\n   - LLAT genetic medicine facility: opened May 2026\n\n3. NOVO BLOOMINGTON SITUATION (CRITICAL):\n   - Former Catalent acquisition ($11B paid 2025)\n   - November 2025 warning letter (extrinsic contamination)\n   - April 24, 2026 FDA re-inspection completed\n   - 90-day classification deadline: late July 2026\n   - Outcomes: (a) accepted classification → cleared, (b) extended observation, (c) consent decree\n   - Risk: $11B Catalent payoff value; Wegovy supply expansion\n\n4. NOVO IRELAND (€432M, 2027-2028) — ON TRACK:\n   - Athlone facility for oral semaglutide (Wegovy pill, Rybelsus)\n   - Critical for Wegovy oral's 3M+ Rx run-rate\n\n5. INDIA SUPPLY:\n   - Dr Reddy's: launched oral Obeda Tablets May 20 (1B+ tablet/year capacity)\n   - Sun Pharma: HC export clearance; Noveltreat/Sematrinity to 80+ countries\n   - Hetero: Truglyx/Rolmodl/Moto G to 75+ countries\n   - MSN SEMABEST (April launch) — first fully Made-in-India semaglutide\n   - Cold-chain compliance remains #1 operational risk; DCGI monitoring continues\n   - Domestic capacity: ~2M pens/month by end 2026 (industry estimate)\n\n6. 503B COMPOUNDED SUPPLY (declining):\n   - FDA April 30 proposal: exclude sema/tirz/lira from 503B bulks list\n   - Comment period closes June 29; final action Q3 2026\n   - If finalized: ends large-scale 503B compounded supply\n   - Patient migration to branded accelerating (Hims 125K Wegovy shipments in 6 weeks)\n\n7. MFN MANUFACTURING INVESTMENT (combined $37B):\n   - Eli Lilly: $27B US (LEAP + Boston + biologics)\n   - Novo Nordisk: $10B US (Bloomington + Indiana fill-finish + oral pill)\n   - 1,200+ direct jobs at LEAP combined\n\n8. CAPACITY OUTLOOK:\n   - Lilly LEAP Phase 1: Q3 2026\n   - Lilly Lebanon API: Q3 2027\n   - Novo Ireland: phased 2027-2028\n   - Combined: global GLP-1 manufacturing capacity to roughly triple by end-2028 vs current\n\n9. NO MAJOR SHORTAGES OR DISRUPTIONS in May 11-June 24 window\n\n10. STATUS: Section verified current; Bloomington outcome late July is key watch",
+      "tags": [
+        "supply-chain",
+        "us",
+        "india",
+        "global",
+        "lilly-leap",
+        "novo-bloomington",
+        "fda-503b",
+        "wegovy-oral-3m",
+        "may-june-2026"
+      ]
+    },
     {
       "id": "sc-entry-013",
       "timestamp": "2026-05-10T00:00:00Z",

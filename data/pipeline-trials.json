@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-05-10T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-06-24T00:00:00Z",
+    "entry_count": 24,
     "key_metrics": [
       {
         "label": "Phase 3 Candidates",
@@ -14,7 +14,7 @@
       },
       {
         "label": "Best Phase 3 Weight Loss",
-        "value": "28.7% (Retatrutide TRIUMPH-4) | NDA filing Q4 2026"
+        "value": "30.3% at 104 weeks (Retatrutide TRIUMPH-1 BMI ≥35 extension)"
       },
       {
         "label": "CagriSema",
@@ -31,6 +31,26 @@
       {
         "label": "Foundayo Real-World (May)",
         "value": "7,335 scripts week 4 | 8,000+ prescribers | 20,000+ patients"
+      },
+      {
+        "label": "Retatrutide TRIUMPH-1",
+        "value": "19.0% / 25.9% / 28.3% @ 80wk; 65.3% reached BMI <30; NDA 2027; published in The Lancet"
+      },
+      {
+        "label": "CagriSema REIMAGINE (ADA)",
+        "value": "-1.91% A1c | -14.2% weight (REIMAGINE-2 vs sema 2.4mg)"
+      },
+      {
+        "label": "Foundayo ACHIEVE-3 (ADA)",
+        "value": "-2.2% A1c | 9.2% weight loss — beats oral sema 14mg head-to-head"
+      },
+      {
+        "label": "Survodutide SYNCHRONIZE-MASLD",
+        "value": "63.1% liver fat reduction | 16.6% weight loss"
+      },
+      {
+        "label": "New Phase 3 Entrants",
+        "value": "Mazdutide (Innovent 20.1%) | Ecnoglutide (Sciwind beats Wegovy) | Berobenatide (Pfizer 15.9%) | Elecoglipron (AZ to Phase 3)"
       }
     ]
   },
@@ -115,13 +135,106 @@
   ],
   "entries": [
     {
+      "id": "trial-entry-019",
+      "timestamp": "2026-06-24T00:00:00Z",
+      "source_url": "https://www.clinicaltrialsarena.com/news/ada-2026-conference-obesity-highlights-eli-lilly-boehringer-ingelheim-sciwind-biosciences/",
+      "source_name": "Clinical Trials Arena / Pfizer / AstraZeneca / Innovent / Sciwind",
+      "market": "global",
+      "summary": "ADA 2026 also surfaced 4 NEW Phase 2b/3 GLP-1 contenders: (1) Pfizer berobenatide VESPER-1 — 15.9% weight loss at 32 weeks weekly + monthly maintenance dosing option. (2) AstraZeneca elecoglipron VISTA — 11.8% weight loss at 36 weeks oral small-molecule; advancing to Phase 3. (3) Innovent mazdutide GLORY-2 — 20.1% weight loss in non-diabetic Chinese adults. (4) Sciwind ecnoglutide SLIMMER-UP-SWITCH — beats Wegovy head-to-head: 12.8% vs 9.5% weight loss at 20 weeks. The Phase 3 GLP-1 competitive field is now ~8 distinct molecules.",
+      "content": "ADA 2026 expanded competitive set — 4 newly advanced GLP-1 contenders:\n\n1. PFIZER BEROBENATIDE (Phase 2b VESPER program):\n   - VESPER-1 weekly 2.4mg: 15.9% weight loss at 32 weeks (non-placebo-adjusted)\n   - VESPER-2 T2D: -2.2% A1C on weekly 1.6mg at 28 weeks\n   - VESPER-3 monthly maintenance: 12.3% placebo-adjusted weight loss at 28 weeks\n   - 10 Phase 3 starts planned 2026\n   - Differentiation: monthly maintenance dosing option\n\n2. ASTRAZENECA ELECOGLIPRON (Oral, Phase 2b VISTA → Phase 3):\n   - VISTA Phase 2b (n=310): 75mg daily delivered 10.5% weight loss at 26 weeks vs 0.6% placebo, rising to 11.8% at 36 weeks (no plateau)\n   - 88.8% achieved ≥5% loss\n   - SOLSTICE T2D also met endpoints\n   - Simultaneously published in The Lancet\n   - Advancing to Phase 3 obesity + T2D + CV/kidney outcomes\n   - Differentiation: small-molecule oral; AZ first major entry into GLP-1\n\n3. INNOVENT MAZDUTIDE (Phase 3 GLORY-2, China):\n   - GLORY-2: 18.55% weight loss at 60 weeks vs 3.02% placebo\n   - 20.08% in non-diabetic subgroup\n   - 44% reached ≥20% weight loss\n   - DREAMS-3 head-to-head vs semaglutide in T2D+obesity also positive\n   - Phase 1b adolescent PK study included\n   - Differentiation: Chinese market entry; competitive vs survodutide/CagriSema globally\n\n4. SCIWIND ECNOGLUTIDE (Phase 3 SLIMMER-UP-SWITCH, China):\n   - 12.8% weight loss at 20 weeks vs 9.5% for semaglutide\n   - 74% reached ≥10% weight loss vs 40% on semaglutide\n   - 35% greater body weight reduction vs Wegovy\n   - Differentiation: beats Wegovy head-to-head in Chinese population\n\n5. COMPETITIVE SET (POST-ADA 2026):\n   - APPROVED: Wegovy/Ozempic (Novo), Mounjaro/Zepbound (Lilly), Foundayo (Lilly oral), Wegovy oral (Novo), Rybelsus (Novo oral)\n   - FILED/UNDER REVIEW: CagriSema (Novo, Q4 2026 PDUFA)\n   - PHASE 3 LATE: Retatrutide (Lilly, NDA 2027), Survodutide (Boehringer, NDA Q4 2026/early 2027)\n   - PHASE 3 ADVANCING: Mazdutide (Innovent), Ecnoglutide (Sciwind), Elecoglipron (AZ, Phase 3 starts 2026), Berobenatide (Pfizer, 10 Phase 3 starts 2026)\n   - The competitive field is now ~8 distinct molecules with mechanism diversity (GLP-1 mono, GIP/GLP-1 dual, glucagon/GLP-1 dual, GLP-1/GIP/glucagon triple, GLP-1/amylin combo, oral small-molecule)",
+      "tags": [
+        "pipeline",
+        "ada-2026",
+        "pfizer-berobenatide",
+        "az-elecoglipron",
+        "innovent-mazdutide",
+        "sciwind-ecnoglutide",
+        "competitive-landscape"
+      ]
+    },
+    {
+      "id": "trial-entry-018",
+      "timestamp": "2026-06-07T00:00:00Z",
+      "source_url": "https://www.globenewswire.com/news-release/2026/06/07/3307741/0/en/Boehringer-Ingelheim-s-survodutide-Phase-III-trial-showed-targeted-34-visceral-and-63-liver-fat-reduction-while-minimizing-lean-mass-loss-in-pre-specified-analysis-supporting-impro.html",
+      "source_name": "GlobeNewswire / Boehringer Ingelheim",
+      "market": "global",
+      "summary": "Boehringer Ingelheim presented full survodutide SYNCHRONIZE data at ADA 2026: weight loss up to 16.6% vs 3.2% placebo at 76 weeks (p<0.0001). 34% visceral fat reduction, 63.1% liver fat reduction. Critically, SYNCHRONIZE-MASLD subgroup: 84.2% achieved ≥30% liver fat reduction vs 24.3% placebo; 12.2% weight loss vs 1.0%. Lean mass loss only 10.8% of total tissue change — improves on typical GLP-1 monotherapy. **Tolerability concern: 19% GI-related discontinuation rate.** First Phase 3 GLP-1/glucagon dual agonist; MASH Phase 3 LIVERAGE / LIVERAGE-Cirrhosis pending.",
+      "content": "ADA 2026 — Boehringer survodutide SYNCHRONIZE detailed readout:\n\n1. SYNCHRONIZE-1 (PRIMARY, OBESITY):\n   - 16.6% weight loss vs 3.2% placebo at 76 weeks (p<0.0001)\n   - 85.1% achieved ≥5% loss\n   - 34% visceral adipose tissue reduction (CT-measured)\n   - 63.1% hepatic fat reduction (MRI-PDFF)\n\n2. SYNCHRONIZE-MASLD SUBGROUP:\n   - 84.2% achieved ≥30% liver fat reduction vs 24.3% placebo\n   - 12.2% weight loss vs 1.0% placebo\n   - Validates glucagon-mechanism MASLD hypothesis\n\n3. LEAN MASS PRESERVATION:\n   - 10.8% of total tissue change is lean mass\n   - Better than typical 25-40% lean-mass loss with sema/tirz\n   - Glucagon receptor agonism preserves muscle via energy expenditure\n\n4. TOLERABILITY CONCERN:\n   - **19% GI-related discontinuation rate** — substantially higher than survodutide P2 (8-10%) and tirzepatide (~12%)\n   - Could limit broad adoption despite efficacy/liver advantages\n\n5. MASH PHASE 3 PENDING:\n   - LIVERAGE (non-cirrhotic): readout 2027\n   - LIVERAGE-Cirrhosis: readout 2027-2028\n   - If positive, survodutide would be first dual-mechanism MASH therapy\n\n6. COMPETITIVE POSITIONING:\n   - 16.6% obesity weight loss: below tirzepatide (~22%), retatrutide (~28%), CagriSema (~14.2%)\n   - But: best-in-class MASLD/MASH efficacy + lean mass preservation\n   - Niche play: high-CV/CKD-risk + metabolic dysfunction-associated liver disease patients\n\n7. REGULATORY OUTLOOK:\n   - NDA filing target Q4 2026 / early 2027\n   - FDA decision target 2028\n   - Boehringer + Zealand Pharma royalty arrangement",
+      "tags": [
+        "pipeline",
+        "survodutide",
+        "boehringer-ingelheim",
+        "ada-2026",
+        "synchronize",
+        "phase-3",
+        "glucagon",
+        "mash"
+      ]
+    },
+    {
+      "id": "trial-entry-017",
+      "timestamp": "2026-06-08T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/lillys-oral-glp-1-foundayo-orforglipron-delivered-superior-a1c-control-and-weight-loss-in-three-pivotal-type-2-diabetes-trials-302793407.html",
+      "source_name": "PR Newswire / Eli Lilly",
+      "market": "global",
+      "summary": "Foundayo (orforglipron) ACHIEVE program at ADA 2026 (June 8): three pivotal T2D trials. (a) ACHIEVE-3 (n=1,698): Foundayo 17.2mg = -2.2% A1C, 9.2% (19.7 lbs) weight loss at 52 weeks vs -1.4% A1C and 5.3% weight for oral semaglutide 14mg — 73.6% greater relative weight loss. (b) ACHIEVE-2 (n=962): -1.7% A1C, 7.3% weight vs dapagliflozin. (c) ACHIEVE-5 (insulin add-on): -2.1% A1C vs -0.8% placebo. T2D submission planned end Q2 2026. Reinforces Foundayo's oral convenience + efficacy positioning.",
+      "content": "ADA 2026 (June 8) — Eli Lilly Foundayo (orforglipron) full T2D ACHIEVE readout:\n\n1. ACHIEVE-3 (HEAD-TO-HEAD vs ORAL SEMAGLUTIDE, n=1,698, 52 weeks):\n   - Foundayo 17.2mg: -2.2% A1C, 9.2% (19.7 lbs) weight loss\n   - Oral semaglutide 14mg: -1.4% A1C, 5.3% weight loss\n   - Foundayo delivered 73.6% greater relative weight loss\n   - Foundayo retains convenience edge (no food/water restriction)\n\n2. ACHIEVE-2 (vs SGLT2):\n   - Foundayo vs dapagliflozin (n=962)\n   - Foundayo: -1.7% A1C, 7.3% weight loss\n   - Strong showing across mechanism comparators\n\n3. ACHIEVE-5 (INSULIN ADD-ON):\n   - Foundayo: -2.1% A1C vs -0.8% placebo\n   - Comparable to CagriSema REIMAGINE-3 (-2.33% A1C add-on)\n\n4. REGULATORY:\n   - T2D submission planned end Q2 2026\n   - Obesity indication already approved (April 1, 2026)\n   - Diabetes label expansion likely 2027\n\n5. COMMERCIAL CONTEXT:\n   - Foundayo currently at $149-349/mo cash-pay; $25/mo commercial savings; $50/mo Medicare from July 1 via Bridge.\n   - 7,335 scripts in week 4 (modest vs Wegovy oral's 1.3M Q1)\n   - Ro distribution launched April 9; CVS Caremark new-to-market block dropped June 1\n   - 8,000+ prescribers (one-third new to oral GLP-1s); 20,000+ patients treated\n\n6. POSITIONING vs WEGOVY ORAL:\n   - Wegovy oral 25mg: ~17% weight loss (OASIS)\n   - Foundayo 17.2mg in T2D: 9.2% weight loss (note: T2D patients lose less than obesity patients)\n   - Direct obesity Phase 3 head-to-head data still pending\n   - Foundayo's primary advantage remains convenience (no food/water restriction)",
+      "tags": [
+        "pipeline",
+        "foundayo",
+        "orforglipron",
+        "eli-lilly",
+        "ada-2026",
+        "achieve-3",
+        "phase-3",
+        "diabetes"
+      ]
+    },
+    {
+      "id": "trial-entry-016",
+      "timestamp": "2026-06-07T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/novo-nordisks-cagrisema-2-4-mg--2-4-mg-demonstrated-significant-reduction-in-hba1c-and-weight-across-multiple-studies-in-the-reimagine-program-presented-at-ada-2026--302793443.html",
+      "source_name": "PR Newswire / Novo Nordisk / The Lancet",
+      "market": "global",
+      "summary": "CagriSema REIMAGINE 1-3 Phase 3 program at ADA 2026: (a) REIMAGINE-2 (T2D, n=2,713): -1.91% A1C, -14.2% weight vs -1.75% / -10.2% for semaglutide 2.4mg at 68 weeks — beats sema head-to-head. (b) REIMAGINE-3 (basal insulin add-on): -2.33% A1C, -12.0% weight. (c) REIMAGINE-1 (drug-naïve): -1.8% A1C, -13.8% weight. FDA weight-management decision expected Q4 2026. Partially rehabilitates Novo's CagriSema franchise after earlier REDEFINE-4 tirzepatide-noninferiority miss.",
+      "content": "ADA 2026 (June 7) — Novo Nordisk CagriSema REIMAGINE program full Phase 3 readout:\n\n1. REIMAGINE-2 (T2D, n=2,713, 68 weeks):\n   - CagriSema: -1.91% A1C, -14.2% weight loss\n   - Semaglutide 2.4mg comparator: -1.75% A1C, -10.2% weight loss\n   - Superiority demonstrated for both endpoints vs Novo's own sema 2.4mg\n\n2. REIMAGINE-3 (basal insulin add-on):\n   - CagriSema: -2.33% A1C, -12.0% weight loss vs placebo\n   - Strong showing in difficult-to-treat insulin-dependent T2D\n\n3. REIMAGINE-1 (drug-naïve T2D):\n   - CagriSema: -1.8% A1C, -13.8% weight loss\n\n4. REGULATORY UPDATE:\n   - NDA filed December 2025\n   - FDA weight-management decision expected Q4 2026 (PDUFA)\n   - Diabetes indication submission progressing in parallel\n\n5. CONTEXT (CagriSema franchise rehabilitation):\n   - REIMAGINE program shows clear superiority over semaglutide monotherapy\n   - HOWEVER: REDEFINE-4 earlier missed non-inferiority vs tirzepatide 15mg\n   - CagriSema occupies the 'better than sema, worse than tirz' efficacy space\n   - Commercial positioning: 'natural successor to semaglutide' rather than tirzepatide rival\n\n6. COMPETITIVE LANDSCAPE (ADA 2026 vintages):\n   - Retatrutide 12mg: 28.3% weight (80wk) / 30.3% (104wk)\n   - Tirzepatide 15mg: ~22% weight (SURMOUNT)\n   - CagriSema: ~14.2% weight (REIMAGINE-2)\n   - Survodutide: 16.6% weight (SYNCHRONIZE-1)\n   - Wegovy oral 25mg: ~17% weight (OASIS)\n   - Foundayo 17.2mg: 9.2% weight (ACHIEVE-3 vs oral sema)",
+      "tags": [
+        "pipeline",
+        "cagrisema",
+        "novo-nordisk",
+        "ada-2026",
+        "reimagine",
+        "phase-3",
+        "diabetes"
+      ]
+    },
+    {
+      "id": "trial-entry-015",
+      "timestamp": "2026-06-06T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-drove-substantial-improvements-in-weight-a1c-knee-osteoarthritis-pain-and-obstructive-sleep-apnea-demonstrating-its-remarkable-potential-to-treat-obesity-and-its-complications-302793169.html",
+      "source_name": "PR Newswire / Eli Lilly / The Lancet",
+      "market": "global",
+      "summary": "ADA 2026 marquee readout (June 6): Retatrutide TRIUMPH-1 Phase 3 in obesity (n=2,339): 19.0% / 25.9% / 28.3% weight loss at 4/9/12mg over 80 weeks. 65.3% of 12mg patients reached BMI <30; 45.3% achieved ≥30% loss. Extension to 104 weeks in BMI ≥35: 30.3% (~85 lbs). TRANSCEND-T2D-1: up to 2.0% A1C reduction, 16.8% weight loss in T2D. Knee OA pain reduction 73.1% (TRIUMPH-4 expanded); OSA severity reduction 60.6%. NDA filing 2027. Lancet publication. New efficacy benchmark for GLP-1 era.",
+      "content": "ADA 2026 Scientific Sessions (June 5-8, New Orleans) — Eli Lilly retatrutide TRIUMPH-1 marquee readout:\n\n1. PRIMARY ENDPOINT (TRIUMPH-1, n=2,339, 80 weeks):\n   - 4mg dose: 19.0% mean weight loss\n   - 9mg dose: 25.9% mean weight loss\n   - 12mg dose: 28.3% mean weight loss\n   - 65.3% of 12mg patients dropped below BMI 30\n   - 45.3% of 12mg patients achieved ≥30% weight loss\n   - 104-week extension data in BMI ≥35: 30.3% (~85 lbs)\n\n2. TRANSCEND-T2D-1 (DIABETES):\n   - Up to 2.0% A1C reduction\n   - 16.8% weight loss\n   - Best-in-class diabetes weight loss data\n\n3. EXPANDED INDICATION DATA:\n   - TRIUMPH-4 expanded knee OA: 73.1% pain reduction\n   - Obstructive sleep apnea (TRIUMPH-OSA): 60.6% severity reduction\n   - Cardiovascular and renal outcomes pending\n\n4. REGULATORY TIMELINE:\n   - NDA filing target: 2027\n   - FDA decision expected 2028\n   - Simultaneously published in The Lancet\n\n5. COMPETITIVE POSITIONING:\n   - Beats tirzepatide (~21% weight loss in SURMOUNT) by ~7-9 percentage points\n   - Beats semaglutide (~15%) by 13+ percentage points\n   - Beats CagriSema (~14.2%) by 14+ percentage points\n   - Beats survodutide (16.6%) by 12+ percentage points\n   - Triple-agonism (GLP-1 + GIP + glucagon) is the new mechanism benchmark\n\n6. SAFETY:\n   - High dose discontinuation rate at 12mg: 18.2% (vs 10-12% for semaglutide)\n   - GI tolerability remains the primary tradeoff for higher efficacy\n   - Lilly position: titration protocol can mitigate\n\n7. MARKET IMPACT:\n   - LLY stock +4% on June 8 readout\n   - Berenberg raised price target to $1,135 (June 22)\n   - Analyst consensus: Buy, $1,229.85 12-month target",
+      "tags": [
+        "pipeline",
+        "retatrutide",
+        "eli-lilly",
+        "ada-2026",
+        "triumph-1",
+        "phase-3",
+        "30-percent",
+        "the-lancet"
+      ]
+    },
+    {
       "id": "trial-entry-014",
       "timestamp": "2026-05-10T00:00:00Z",
       "source_url": "https://www.globenewswire.com/news-release/2026/04/28/3282218/0/en/Boehringer-Ingelheim-s-novel-glucagon-GLP-1-dual-agonist-survodutide-achieved-significant-weight-loss-of-16-6-delivering-meaningful-metabolic-improvement-in-people-with-obesity-or-.html",
       "source_name": "Boehringer Ingelheim / GlobeNewswire / ConscienHealth",
       "market": "global",
       "summary": "Boehringer Ingelheim's survodutide hit primary endpoint in Phase 3 SYNCHRONIZE-1: 16.6% weight loss vs 3.2% placebo at 76 weeks; 85.1% achieved ≥5% loss. First Phase 3 readout for a GLP-1/glucagon dual agonist (vs Lilly's tirzepatide GIP/GLP-1 dual or retatrutide GLP-1/GIP/glucagon triple). Survodutide's distinct glucagon-receptor mechanism positions it favorably for MASH where LIVERAGE/LIVERAGE-Cirrhosis trials are ongoing. Full SYNCHRONIZE-1 data at ADA 2026 Scientific Sessions in June.",
-      "content": "April 28, 2026 — Boehringer Ingelheim announced positive Phase 3 SYNCHRONIZE-1 results for survodutide:\n\n1. SYNCHRONIZE-1 PRIMARY RESULTS:\n   - 16.6% mean weight loss (high dose) vs 3.2% placebo at 76 weeks\n   - 85.1% of patients achieved ≥5% weight loss\n   - First Phase 3 obesity readout for a glucagon-containing dual agonist\n   - Full data presentation at ADA 2026 Scientific Sessions (mid-June)\n\n2. MECHANISM POSITIONING:\n   - Survodutide: GLP-1 + glucagon dual agonist\n   - Tirzepatide (Lilly): GLP-1 + GIP dual agonist (~21% weight loss in SURMOUNT)\n   - Retatrutide (Lilly): GLP-1 + GIP + glucagon triple agonist (~28.7% weight loss in TRIUMPH-4)\n   - Survodutide's lower weight-loss numbers vs tirzepatide/retatrutide may be offset by metabolic improvements (BP, lipids, A1c, hepatic fat) attributable to glucagon mechanism.\n\n3. MASH OPPORTUNITY:\n   - Survodutide's glucagon agonism drives stronger energy expenditure and hepatic fat reduction\n   - Phase 3 MASH trials: LIVERAGE (non-cirrhotic) and LIVERAGE-Cirrhosis (cirrhotic)\n   - MASH represents a large unmet need where current GLP-1 monotherapy has not been broadly successful\n   - If LIVERAGE trials read out positive, survodutide could be the first dual-mechanism therapy for liver disease\n\n4. COMMERCIAL OUTLOOK:\n   - Boehringer + Zealand Pharma partnership (royalties to Zealand)\n   - NDA filing expected Q4 2026 / early 2027 if trial pattern holds\n   - FDA approval target: late 2027 / 2028\n   - Differentiation: lower discontinuation rate than retatrutide (8-10% vs 18.2% at high dose)\n\n5. RECEPTOR-LEVEL CONTEXT:\n   - Industry now has at least 4 distinct mechanisms: GLP-1 monotherapy (semaglutide), GIP/GLP-1 dual (tirzepatide), GLP-1/glucagon dual (survodutide, mazdutide), GLP-1/GIP/glucagon triple (retatrutide)\n   - The 'mechanism mosaic' is creating differentiated indication opportunities (MASH, sleep apnea, osteoarthritis, cardiovascular)",
+      "content": "April 28, 2026 — Boehringer Ingelheim announced positive Phase 3 SYNCHRONIZE-1 results for survodutide:\n\n1. SYNCHRONIZE-1 PRIMARY RESULTS:\n   - 16.6% mean weight loss (high dose) vs 3.2% placebo at 76 weeks\n   - 85.1% of patients achieved ≥5% weight loss\n   - First Phase 3 obesity readout for a glucagon-containing dual agonist\n   - Full data presentation at ADA 2026 Scientific Sessions (June 5-8, New Orleans)\n\n2. MECHANISM POSITIONING:\n   - Survodutide: GLP-1 + glucagon dual agonist\n   - Tirzepatide (Lilly): GLP-1 + GIP dual agonist (~21% weight loss in SURMOUNT)\n   - Retatrutide (Lilly): GLP-1 + GIP + glucagon triple agonist (~28.7% weight loss in TRIUMPH-4)\n   - Survodutide's lower weight-loss numbers vs tirzepatide/retatrutide may be offset by metabolic improvements (BP, lipids, A1c, hepatic fat) attributable to glucagon mechanism.\n\n3. MASH OPPORTUNITY:\n   - Survodutide's glucagon agonism drives stronger energy expenditure and hepatic fat reduction\n   - Phase 3 MASH trials: LIVERAGE (non-cirrhotic) and LIVERAGE-Cirrhosis (cirrhotic)\n   - MASH represents a large unmet need where current GLP-1 monotherapy has not been broadly successful\n   - If LIVERAGE trials read out positive, survodutide could be the first dual-mechanism therapy for liver disease\n\n4. COMMERCIAL OUTLOOK:\n   - Boehringer + Zealand Pharma partnership (royalties to Zealand)\n   - NDA filing expected Q4 2026 / early 2027 if trial pattern holds\n   - FDA approval target: late 2027 / 2028\n   - Differentiation: lower discontinuation rate than retatrutide (8-10% vs 18.2% at high dose)\n\n5. RECEPTOR-LEVEL CONTEXT:\n   - Industry now has at least 4 distinct mechanisms: GLP-1 monotherapy (semaglutide), GIP/GLP-1 dual (tirzepatide), GLP-1/glucagon dual (survodutide, mazdutide), GLP-1/GIP/glucagon triple (retatrutide)\n   - The 'mechanism mosaic' is creating differentiated indication opportunities (MASH, sleep apnea, osteoarthritis, cardiovascular)",
       "tags": [
         "pipeline",
         "survodutide",
