@@ -5,86 +5,40 @@
     "entry_count": 19,
     "key_metrics": [
       {
-        "label": "Global GLP-1 Market (2025)",
-        "value": "$70.08B",
-        "delta": "+45%",
-        "delta_direction": "up"
+        "label": "Global GLP-1 Market 2025",
+        "value": "$70.08B"
       },
       {
-        "label": "Global GLP-1 Market (2026 est.)",
-        "value": "$86.93B",
-        "delta": "+24%",
-        "delta_direction": "up"
+        "label": "Global GLP-1 Market 2026",
+        "value": "$86.93B (est.)"
       },
       {
-        "label": "India GLP-1 Market (2024)",
-        "value": "$110.55M (USD)",
-        "delta": "+34.3% CAGR",
-        "delta_direction": "up"
+        "label": "Lilly Q1 2026",
+        "value": "$19.8B (+56%)"
       },
       {
-        "label": "Lilly FY2025 Tirzepatide Revenue",
-        "value": "$36.5B (Mounjaro+Zepbound)"
+        "label": "Lilly Mounjaro Q1",
+        "value": "$8.7B · world's #1 drug"
       },
       {
-        "label": "Novo Nordisk FY2025 GLP-1 Revenue",
-        "value": "$31.2B"
+        "label": "Lilly 2026 Guidance",
+        "value": "$82–85B (raised)"
       },
       {
-        "label": "Lilly 2026 Revenue Guidance",
-        "value": "$80-83B (Foundayo launch + retatrutide data boost)"
+        "label": "Novo Q1 Wegovy Pill",
+        "value": "$354M · 3M+ Rx in 5 months"
       },
       {
-        "label": "Novo 2026 Outlook",
-        "value": "-5% to -13% (constant FX)"
+        "label": "Lilly YTD vs Novo YTD",
+        "value": "+9% vs −17%"
       },
       {
-        "label": "Novo Nordisk Stock (Apr 21)",
-        "value": "$36.05 (-44% YoY, continued pressure from Foundayo approval)"
+        "label": "Hims Q1",
+        "value": "$92M loss (branded pivot)"
       },
       {
-        "label": "US Market Share Gap",
-        "value": "Lilly 60.5% vs Novo 39.1% — widest ever"
-      },
-      {
-        "label": "Lilly Q1 2026 Revenue",
-        "value": "$19.8B (+56% YoY) | Mounjaro $8.7B | Zepbound $4.1B | Combined $12.8B"
-      },
-      {
-        "label": "Lilly Raised 2026 Guidance",
-        "value": "$82-85B (was $80-83B) | EPS $35.50-$37"
-      },
-      {
-        "label": "Mounjaro Status",
-        "value": "World's #1 best-selling drug (Q1 2026)"
-      },
-      {
-        "label": "Novo Wegovy Pill Q1 2026",
-        "value": "$354M sales | ~1.3M scripts | 65% new US Rx share"
-      },
-      {
-        "label": "Foundayo Week 4 (May 2026)",
-        "value": "7,335 scripts | 8,000+ prescribers | 20,000+ patients treated"
-      },
-      {
-        "label": "Mounjaro = World #1 Drug",
-        "value": "Confirmed May 2026 (Bloomberg) — overtakes Keytruda"
-      },
-      {
-        "label": "Lilly Berenberg Target (Jun 22)",
-        "value": "$1,135 PT (was $1,050) | LLY +9% YTD | Consensus $1,229.85 (Buy, 20 analysts)"
-      },
-      {
-        "label": "Novo YTD Performance",
-        "value": "-17% YTD; Wegovy oral (Q1: $354M, now >3M Rx in 5 months) the bright spot"
-      },
-      {
-        "label": "Hims & Hers Q1 2026",
-        "value": "$92M LOSS in branded pivot | Margins 73%→65% | Rev $608M (+4%)"
-      },
-      {
-        "label": "WeightWatchers Q1 Clinical Subs",
-        "value": "+51% QoQ to 197K | Clinical Rev $39M (+32% YoY)"
+        "label": "Berenberg PT (Lilly)",
+        "value": "$1,135 · consensus $1,229"
       }
     ]
   },

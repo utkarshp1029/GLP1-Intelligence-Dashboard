@@ -6,43 +6,31 @@
     "key_metrics": [
       {
         "label": "Active Shortages",
-        "value": "Saxenda/Victoza (liraglutide only)"
+        "value": "Saxenda / Victoza only"
       },
       {
-        "label": "Semaglutide/Tirzepatide",
-        "value": "Available — no active shortage"
+        "label": "Semaglutide & Tirzepatide",
+        "value": "No shortage"
       },
       {
-        "label": "Most Reliable Supply",
-        "value": "Oral Wegovy pill (Jan 2026) — never shorted"
+        "label": "Wegovy Pill",
+        "value": "3M+ Rx · 1 fill every 5s"
       },
       {
-        "label": "Novo NovoCare Self-Pay",
-        "value": "$349/mo (most doses); $199/mo intro offer"
+        "label": "India Cold-Chain",
+        "value": "DCGI flagged risk"
       },
       {
-        "label": "India Supply Risk",
-        "value": "Generic cold-chain compliance under DCGI scrutiny"
+        "label": "India Export Cleared",
+        "value": "Dr Reddy's + Sun Pharma"
       },
       {
-        "label": "Latest Status (Apr 21)",
-        "value": "No FDA shortages across all GLP-1 products — stable supply"
+        "label": "Lilly Lebanon API",
+        "value": "Opens 2027 · largest US site"
       },
       {
-        "label": "India Export Enabler",
-        "value": "Dr Reddy's + Sun Pharma have HC export clearance"
-      },
-      {
-        "label": "Novo Bloomington Status (late Jul)",
-        "value": "FDA 90-day classification deadline after April 24 re-inspection"
-      },
-      {
-        "label": "Lilly Lebanon API (2027)",
-        "value": "$4.5B incremental investment confirmed | Products: Zepbound, Mounjaro, Foundayo, retatrutide"
-      },
-      {
-        "label": "Wegovy Pill Supply",
-        "value": "3M+ Rx in 5 months | One fill every 5 seconds | No constraint"
+        "label": "Novo Bloomington",
+        "value": "FDA classification late Jul"
       }
     ]
   },

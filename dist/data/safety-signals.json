@@ -9,40 +9,32 @@
         "value": "6"
       },
       {
-        "label": "FDA Warning (Novo Nordisk)",
-        "value": "Mar 5 — 3 unreported deaths + systemic PADE failures"
+        "label": "Novo PADE Warning (Mar 5)",
+        "value": "3 unreported deaths"
       },
       {
-        "label": "New FAERS Finding (Apr 2)",
-        "value": "Indication-specific clusters: T2DM→retinopathy; Obesity→suicidal ideation"
+        "label": "FAERS T2D vs Obesity",
+        "value": "Distinct AE profiles"
       },
       {
-        "label": "New Signal (Wegovy HD)",
-        "value": "Dysesthesia 22.9% at 7.2mg"
+        "label": "Wegovy HD Dysesthesia",
+        "value": "22.9% @ 7.2mg vs 6% @ 2.4mg"
       },
       {
-        "label": "FDA Suicide Risk Finding (Apr)",
-        "value": "NO increased suicide risk found — warning label removal requested"
+        "label": "Suicide Risk Review",
+        "value": "No increased risk (Apr 2026)"
       },
       {
-        "label": "FDA Foundayo Safety Request",
-        "value": "Additional data on liver, cardiovascular MACE, gastric retention"
+        "label": "Foundayo Post-Market",
+        "value": "Due July 2026"
       },
       {
-        "label": "Novo PADE Status",
-        "value": "Warning letter Mar 5 remains active — systemic reporting failures"
+        "label": "Reddit AI Study (May)",
+        "value": "400K posts · 44% report ≥1 AE"
       },
       {
-        "label": "Reddit AI Analysis (May 24)",
-        "value": "400K+ posts analyzed | 4% reported menstrual irregularities | 44% mentioned ≥1 side effect"
-      },
-      {
-        "label": "GLP-1 Activity Signal (Jun 14)",
-        "value": "Fitbit study (n=753): daily steps -560 | MVPA -6 min/day post-Rx | Muscle preservation concern"
-      },
-      {
-        "label": "Foundayo Post-Market Data Due",
-        "value": "July 2026 — liver, CV MACE, gastric retention, lactation"
+        "label": "Activity Decline (Jun)",
+        "value": "–560 steps/day on therapy"
       }
     ]
   },

@@ -5,56 +5,28 @@
     "entry_count": 19,
     "key_metrics": [
       {
-        "label": "Tracked Facilities",
-        "value": "6"
+        "label": "Lilly Indiana (since 2020)",
+        "value": "$21B+ committed"
       },
       {
-        "label": "India Monthly Capacity",
-        "value": "~2M pens (by end 2026)"
+        "label": "Lilly Lebanon API",
+        "value": "Opens 2027 · largest US site"
       },
       {
-        "label": "New India Facilities",
-        "value": "Neuland (Bonthapally), OneSource, Biocon Bengaluru"
+        "label": "MFN Commitments",
+        "value": "$27B Lilly · $10B Novo"
       },
       {
-        "label": "Novo Nordisk Ireland Investment",
-        "value": "€432M ($506M) — oral GLP-1 tableting, 2027–2028"
+        "label": "Novo Bloomington",
+        "value": "FDA classification late Jul"
       },
       {
-        "label": "India API Dependency Risk",
-        "value": "Chinese peptide intermediates — supply chain vulnerability"
+        "label": "India API Dependency",
+        "value": "~80% from China"
       },
       {
-        "label": "India API China Dependency",
-        "value": "~80% of starting materials from Chinese suppliers — key supply risk"
-      },
-      {
-        "label": "Novo US Manufacturing Commit",
-        "value": "$10B (part of MFN deal with Trump administration)"
-      },
-      {
-        "label": "Lilly US Manufacturing Commit",
-        "value": "$27B (part of MFN deal)"
-      },
-      {
-        "label": "Lilly LEAP Total Investment (May)",
-        "value": "$18B+ planned | Added $4.5B in May | LLAT genetic medicine facility opened"
-      },
-      {
-        "label": "Lilly Lebanon API (2027)",
-        "value": "Largest API production site in US history"
-      },
-      {
-        "label": "Lilly Indiana Cumulative (since 2020)",
-        "value": ">$21B total commitments"
-      },
-      {
-        "label": "Novo Bloomington Risk (late Jul)",
-        "value": "FDA 90-day classification deadline after April 24 re-inspection; risks $11B Catalent payoff"
-      },
-      {
-        "label": "Lebanon API Site (2027)",
-        "value": "Will produce Zepbound, Mounjaro, Foundayo, retatrutide"
+        "label": "India Capacity (end 2026)",
+        "value": "~2M pens/month"
       }
     ]
   },

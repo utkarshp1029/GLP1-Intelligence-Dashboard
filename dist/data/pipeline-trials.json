@@ -5,52 +5,32 @@
     "entry_count": 24,
     "key_metrics": [
       {
-        "label": "Phase 3 Candidates",
-        "value": "5 (Orforglipron now APPROVED as Foundayo)"
-      },
-      {
-        "label": "Orforglipron / Foundayo",
-        "value": "FDA APPROVED Apr 1 | $149/mo self-pay | $50/mo Medicare Jul 2026"
-      },
-      {
         "label": "Best Phase 3 Weight Loss",
-        "value": "30.3% at 104 weeks (Retatrutide TRIUMPH-1 BMI ≥35 extension)"
-      },
-      {
-        "label": "CagriSema",
-        "value": "NDA filed Dec 2025 | REDEFINE-4 missed non-inferiority vs tirzepatide"
-      },
-      {
-        "label": "Retatrutide TRIUMPH-4",
-        "value": "28.7% weight loss + 75.8% knee pain reduction | 7 more trials in 2026"
-      },
-      {
-        "label": "Survodutide Phase 3 (Apr 28)",
-        "value": "SYNCHRONIZE-1: 16.6% weight loss vs 3.2% placebo at 76 weeks | Full data ADA Jun 2026"
-      },
-      {
-        "label": "Foundayo Real-World (May)",
-        "value": "7,335 scripts week 4 | 8,000+ prescribers | 20,000+ patients"
+        "value": "30.3% (Retatrutide @ 104w)"
       },
       {
         "label": "Retatrutide TRIUMPH-1",
-        "value": "19.0% / 25.9% / 28.3% @ 80wk; 65.3% reached BMI <30; NDA 2027; published in The Lancet"
+        "value": "28.3% @ 80w · NDA 2027"
       },
       {
-        "label": "CagriSema REIMAGINE (ADA)",
-        "value": "-1.91% A1c | -14.2% weight (REIMAGINE-2 vs sema 2.4mg)"
+        "label": "CagriSema REIMAGINE",
+        "value": "Beat sema head-to-head"
       },
       {
-        "label": "Foundayo ACHIEVE-3 (ADA)",
-        "value": "-2.2% A1c | 9.2% weight loss — beats oral sema 14mg head-to-head"
+        "label": "Foundayo ACHIEVE-3",
+        "value": "Beat oral sema head-to-head"
       },
       {
-        "label": "Survodutide SYNCHRONIZE-MASLD",
-        "value": "63.1% liver fat reduction | 16.6% weight loss"
+        "label": "Survodutide SYNCHRONIZE",
+        "value": "16.6% wt · 63% liver fat"
       },
       {
         "label": "New Phase 3 Entrants",
-        "value": "Mazdutide (Innovent 20.1%) | Ecnoglutide (Sciwind beats Wegovy) | Berobenatide (Pfizer 15.9%) | Elecoglipron (AZ to Phase 3)"
+        "value": "Pfizer · AZ · Innovent · Sciwind"
+      },
+      {
+        "label": "ADA 2026",
+        "value": "Jun 5-8 · New Orleans"
       }
     ]
   },

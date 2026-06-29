@@ -5,60 +5,32 @@
     "entry_count": 19,
     "key_metrics": [
       {
-        "label": "Tracked Platforms",
+        "label": "US Platforms Tracked",
         "value": "6"
       },
       {
-        "label": "Hims & Hers GLP-1 Subscribers",
-        "value": "450K (Q4 2025)"
+        "label": "Hims Q1",
+        "value": "$92M loss · 125K Wegovy shipments"
       },
       {
-        "label": "India Platforms Emerging",
-        "value": "3"
+        "label": "WeightWatchers Clinical",
+        "value": "197K subs (+51% QoQ)"
       },
       {
-        "label": "Hims Status (Mar 9, 2026)",
-        "value": "Novo deal: now sells branded Wegovy/Ozempic; dropped compounded GLP-1 marketing"
+        "label": "Foundayo on Ro",
+        "value": "$149–349/mo · $25 savings card"
       },
       {
-        "label": "WeightWatchers Pricing (as of Mar 31)",
-        "value": "$349/mo Ozempic/Wegovy (was $199/mo intro through Mar 31)"
+        "label": "WeightWatchers Branded",
+        "value": "$349/mo"
       },
       {
-        "label": "Novo Telehealth Partners (Oral Wegovy)",
-        "value": "Ro, GoodRx, LifeMD, WeightWatchers, Knownwell + 3 more"
+        "label": "CVS Caremark",
+        "value": "Foundayo unblocked Jun 1"
       },
       {
-        "label": "Hims Latest Pricing (Apr)",
-        "value": "Branded Ozempic $1,799/mo | Oral kits from $69/mo (10-month plan)"
-      },
-      {
-        "label": "Era of $199 Compounded",
-        "value": "Effectively over — FDA enforcement + Foundayo branded at $149/mo"
-      },
-      {
-        "label": "Novo Wegovy Subscription",
-        "value": "$329/mo (3-month) | $249/mo (12-month) — compete with telehealth"
-      },
-      {
-        "label": "Hims Q1 2026 Earnings (May 11)",
-        "value": "Consensus EPS $0.13 | Rev $616.85M (+5.3% YoY) | $65M weight-loss headwind from 503A wind-down"
-      },
-      {
-        "label": "Ro Foundayo Offering",
-        "value": "Lilly Foundayo via Ro at $149-349/mo + $25 commercial savings card"
-      },
-      {
-        "label": "Hims Q1 2026 Results",
-        "value": "Rev $608M (+4%) | Loss -$92M | Gross margin 73%→65% | 125K Wegovy shipments in 6 weeks"
-      },
-      {
-        "label": "WeightWatchers Clinical Subs",
-        "value": "197K (+46% YoY, +51% QoQ) | Clinical Rev $39M (+32%)"
-      },
-      {
-        "label": "CVS Caremark (Jun 1)",
-        "value": "Foundayo new-to-market block dropped | Zepbound back preferred Oct 1"
+        "label": "India Platforms",
+        "value": "Tata 1mg · PharmEasy · Netmeds"
       }
     ]
   },

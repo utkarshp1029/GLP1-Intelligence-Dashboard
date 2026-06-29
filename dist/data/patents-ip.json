@@ -5,44 +5,32 @@
     "entry_count": 17,
     "key_metrics": [
       {
-        "label": "Markets Open (Semaglutide)",
-        "value": "India, China, Brazil, Canada, Turkey (~40% of world pop.)"
+        "label": "Open Semaglutide Markets",
+        "value": "India · China · Brazil · Canada · Turkey"
       },
       {
-        "label": "Tirzepatide Para IV Eligible",
-        "value": "May 13, 2026 (US) — but ~2036 before generic launch"
+        "label": "Semaglutide US Expiry",
+        "value": "2031–2032"
       },
       {
-        "label": "Key Expiry (Semaglutide US)",
-        "value": "2031-2032"
+        "label": "Tirzepatide Para IV (US)",
+        "value": "Opened May 13 · no ANDAs yet"
       },
       {
-        "label": "Novo US Patent Count",
-        "value": "320 applications, 154 granted"
+        "label": "Tirzepatide US Patents",
+        "value": "21 patents · primary to 2036"
       },
       {
-        "label": "Semaglutide Production Cost",
-        "value": "$0.89–$4.50/month vs $936–$1,349 list (I-MAK)"
+        "label": "Production vs List Cost",
+        "value": "$0.89–4.50 vs $936–1,349/mo"
       },
       {
-        "label": "Delhi HC Latest (Apr)",
-        "value": "Novo secondary microsphere patent challenged — evergreening scrutiny"
+        "label": "Delhi HC",
+        "value": "Denied Novo injunctions · evergreening rejected"
       },
       {
-        "label": "Sun Pharma Export Status",
-        "value": "HC approved April 2026 — joins Dr Reddy's in export market"
-      },
-      {
-        "label": "Tirzepatide Para IV Status (May 13)",
-        "value": "Eligibility window opens May 13 — no public ANDA filings yet; Lilly 21-patent fortress remains"
-      },
-      {
-        "label": "Tirzepatide Para IV (May 13)",
-        "value": "Eligibility window OPEN | NO public ANDA filings yet as of Jun 24"
-      },
-      {
-        "label": "India Tirzepatide Patent",
-        "value": "~2033-2036 expiry | Currently Mounjaro + Cipla Yurpeak duopoly"
+        "label": "India Tirz Expiry",
+        "value": "~2033–2036"
       }
     ]
   },

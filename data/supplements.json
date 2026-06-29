@@ -9,33 +9,24 @@
         "value": "7"
       },
       {
-        "label": "Berberine Sales Growth (India)",
-        "value": "3x YoY",
-        "delta_direction": "up"
+        "label": "Berberine India",
+        "value": "3x YoY growth"
       },
       {
-        "label": "FDA Warning Letters Issued",
-        "value": "4"
+        "label": "Faux-zempic",
+        "value": "WGSN #1 trend"
       },
       {
-        "label": "2026 Trend",
-        "value": "'Faux-zempic' — natural GLP-1 support counterculture (WGSN)"
+        "label": "US Category Growth",
+        "value": "+35% YoY (Q1 2026)"
       },
       {
-        "label": "Faux-zempic Trend",
-        "value": "WGSN #1 2026 wellness trend — confirmed sustained through Q2 2026"
+        "label": "ADA BELIEVE (Jun)",
+        "value": "Bimagrumab → 7% lean-mass loss"
       },
       {
-        "label": "US Market Growth",
-        "value": "+35% YoY (natural GLP-1 booster category) Q1 2026"
-      },
-      {
-        "label": "ADA 2026 BELIEVE (Jun 7)",
-        "value": "Bimagrumab + sema reduces lean-mass loss to ~7% vs typical 25-40%"
-      },
-      {
-        "label": "Activity Decline Signal (Jun 14)",
-        "value": "Fitbit study: GLP-1 Rx → daily steps -560 — reinforces protein+creatine stack"
+        "label": "Activity Decline",
+        "value": "−560 steps/day on GLP-1"
       }
     ]
   },

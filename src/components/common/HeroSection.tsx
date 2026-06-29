@@ -67,28 +67,44 @@ export default function HeroSection({
 
         {/* Key Metrics */}
         {metrics.length > 0 && (
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 mb-10">
-            {metrics.map((m, i) => (
-              <div key={i}>
-                <p className={`text-sm ${textSecondary} mb-1`}>{m.label}</p>
-                <p className={`text-3xl md:text-4xl font-semibold tracking-tight ${metricColor}`}>
-                  {m.value}
-                </p>
-                {m.delta && (
-                  <p
-                    className={`text-sm mt-1 ${
-                      m.delta_direction === 'up'
-                        ? 'text-[#30d158]'
-                        : m.delta_direction === 'down'
-                          ? 'text-[#ff3b30]'
-                          : textSecondary
-                    }`}
-                  >
-                    {m.delta}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-6 mb-10">
+            {metrics.map((m, i) => {
+              const valueLen = String(m.value ?? '').length;
+              // Scale typography by length so long sentence-style values don't overflow.
+              // Short values (e.g. "$48.2B", "60.5%") keep the bold hero feel;
+              // long values (full sentences with em-dashes) shrink and wrap cleanly.
+              let valueClass: string;
+              if (valueLen <= 14) {
+                valueClass = 'text-3xl md:text-4xl font-semibold tracking-tight leading-tight';
+              } else if (valueLen <= 30) {
+                valueClass = 'text-2xl md:text-3xl font-semibold tracking-tight leading-tight';
+              } else if (valueLen <= 60) {
+                valueClass = 'text-lg md:text-xl font-semibold leading-snug';
+              } else {
+                valueClass = 'text-base font-semibold leading-snug';
+              }
+              return (
+                <div key={i} className="min-w-0">
+                  <p className={`text-xs uppercase tracking-wider ${textSecondary} mb-2`}>{m.label}</p>
+                  <p className={`${valueClass} ${metricColor} break-words`}>
+                    {m.value}
                   </p>
-                )}
-              </div>
-            ))}
+                  {m.delta && (
+                    <p
+                      className={`text-sm mt-1 ${
+                        m.delta_direction === 'up'
+                          ? 'text-[#30d158]'
+                          : m.delta_direction === 'down'
+                            ? 'text-[#ff3b30]'
+                            : textSecondary
+                      }`}
+                    >
+                      {m.delta}
+                    </p>
+                  )}
+                </div>
+              );
+            })}
           </div>
         )}
 

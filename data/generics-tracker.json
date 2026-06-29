@@ -5,56 +5,32 @@
     "entry_count": 29,
     "key_metrics": [
       {
-        "label": "Total DCGI-Approved Brands",
-        "value": "40+ as of April 2026"
+        "label": "India Brand Count",
+        "value": "50+ semaglutide brands"
       },
       {
-        "label": "Cheapest (Vial)",
+        "label": "India Tirzepatide",
+        "value": "Mounjaro + Cipla Yurpeak duopoly"
+      },
+      {
+        "label": "Cheapest India Vial",
         "value": "₹1,290/mo (Natco)"
-      },
-      {
-        "label": "Latest India Launch",
-        "value": "MSN SEMABEST — first Made-in-India pen ₹3,990"
       },
       {
         "label": "5yr Market Forecast",
         "value": "₹12,000 Cr (Nomura)"
       },
       {
-        "label": "Novo India (Apr 1)",
-        "value": "₹202/day patient-centred pricing | ₹1,415/week"
+        "label": "Dr Reddy's Oral Obeda",
+        "value": "₹99/3mg tablet (May 20)"
       },
       {
-        "label": "Price Erosion Forecast",
-        "value": "-40-50% in FY27, -10-30% in FY28"
+        "label": "Torrent Share",
+        "value": "~38% in first 30 days"
       },
       {
-        "label": "India Brand Count (May)",
-        "value": "50+ DCGI-approved generic semaglutide brands"
-      },
-      {
-        "label": "Lilly India Tirzepatide Share (Apr)",
-        "value": "Mounjaro share fell 71% (Feb) to 64% (Mar) as generic semaglutide cannibalizes"
-      },
-      {
-        "label": "Total India Brands (Jun)",
-        "value": "50+ semaglutide brands | Tirzepatide remains Mounjaro+Cipla Yurpeak duopoly (~2033-2036 generic entry)"
-      },
-      {
-        "label": "Torrent Market Share (May)",
-        "value": "~38% of India generic semaglutide value within first 30 days"
-      },
-      {
-        "label": "India GLP-1 Market (May)",
-        "value": "₹1,736cr — tirzepatide 63% / semaglutide 30%"
-      },
-      {
-        "label": "Dr Reddy's Oral Generic (May 20)",
-        "value": "Obeda Tablets ₹99/3mg | ₹135/7mg | ₹225/14mg — first oral generic semaglutide tablet"
-      },
-      {
-        "label": "Tirzepatide Para IV (May 13)",
-        "value": "No public ANDA filings yet — FDA Orange Book monitoring"
+        "label": "Tirz Para IV (US)",
+        "value": "Opened May 13 · no ANDAs yet"
       }
     ]
   },

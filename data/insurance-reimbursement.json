@@ -5,68 +5,32 @@
     "entry_count": 17,
     "key_metrics": [
       {
-        "label": "US Commercial Coverage (Ozempic/T2DM)",
-        "value": "78%"
+        "label": "Medicare Bridge",
+        "value": "July 1 · $50/mo flat"
       },
       {
-        "label": "US Commercial Coverage (Wegovy/Obesity)",
-        "value": "32%"
+        "label": "Bridge End Date",
+        "value": "Dec 31, 2027"
       },
       {
-        "label": "Medicare GLP-1 Bridge Launch",
-        "value": "July 1, 2026 — $50/mo (Wegovy/Zepbound/Foundayo)"
+        "label": "BALANCE Part D",
+        "value": "Delayed beyond 2027"
       },
       {
-        "label": "Foundayo (Orforglipron) Commercial Coverage",
-        "value": "$25/mo commercial; $50/mo Medicare (Jul 2026); $149/mo self-pay"
+        "label": "Medicaid BALANCE",
+        "value": "State RFA closes Jul 31"
       },
       {
-        "label": "BALANCE Model (Part D)",
-        "value": "January 1, 2027"
+        "label": "Foundayo Coverage",
+        "value": "$25/mo commercial · $50/mo Bridge"
       },
       {
-        "label": "India Private Insurance Coverage",
-        "value": "8% (GLP-1s excluded; generics may shift dynamics by 2027)"
+        "label": "State Medicaid",
+        "value": "13 states cover obesity GLP-1s"
       },
       {
-        "label": "Medicare GLP-1 Bridge Detail",
-        "value": "Jul 1 — all Foundayo doses, all Wegovy, Zepbound KwikPen at $50/mo"
-      },
-      {
-        "label": "BALANCE Model Medicaid Start",
-        "value": "May 2026 (state opt-in); full Medicare Part D Jan 1, 2027"
-      },
-      {
-        "label": "MFN Gov Price",
-        "value": "$245/mo (Medicare/Medicaid) for Ozempic, Wegovy, Mounjaro, Zepbound, Foundayo"
-      },
-      {
-        "label": "State Medicaid Coverage",
-        "value": "13 states cover GLP-1s for obesity (FFS, as of Jan 2026)"
-      },
-      {
-        "label": "BALANCE Part D Status (Apr 22)",
-        "value": "DELAYED beyond 2027 | Medicaid still proceeds | Bridge extended to Dec 31, 2027"
-      },
-      {
-        "label": "Bridge Eligibility",
-        "value": "BMI ≥27 + comorbidity OR BMI ≥30 + hypertension/CKD/HF | $50/mo copay | Wegovy, Zepbound, Foundayo confirmed"
-      },
-      {
-        "label": "Wegovy in Bridge (May)",
-        "value": "CONFIRMED participation effective Jul 1, 2026 — Novo Nordisk announcement"
-      },
-      {
-        "label": "Medicare Bridge Eligibility (Confirmed)",
-        "value": "BMI ≥35 OR ≥30+HF/HTN/CKD OR ≥27+prediabetes/MI/stroke/PAD"
-      },
-      {
-        "label": "State Medicaid BALANCE RFA Deadline",
-        "value": "July 31, 2026"
-      },
-      {
-        "label": "Bridge Demonstration End",
-        "value": "December 31, 2027"
+        "label": "India Private Insurance",
+        "value": "~8% (GLP-1 excluded)"
       }
     ]
   },

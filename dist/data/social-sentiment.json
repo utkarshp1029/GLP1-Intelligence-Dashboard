@@ -9,42 +9,28 @@
         "value": "5"
       },
       {
-        "label": "Compounding Safety Sentiment",
-        "value": "Negative (0.38)",
-        "delta_direction": "down"
-      },
-      {
-        "label": "India Generic Sentiment",
-        "value": "Positive (0.82)",
-        "delta_direction": "up"
-      },
-      {
-        "label": "Body Positivity Impact",
-        "value": "64% Americans say GLP-1 hype hurts body positivity (72% Gen Z)"
-      },
-      {
         "label": "Top Reddit Drug",
-        "value": "Mounjaro (4,917 mentions) overtakes Wegovy"
+        "value": "Mounjaro (4,917 mentions)"
       },
       {
-        "label": "Latest Trend (Apr 21)",
-        "value": "Foundayo launch driving TikTok/Reddit volume spike — \"oral GLP-1\" mentions +340%"
+        "label": "Body Positivity",
+        "value": "64% Americans negative"
       },
       {
-        "label": "India Sentiment Shift",
-        "value": "Positive (affordability) → Mixed (safety concerns + MSN Made-in-India pride)"
+        "label": "Faux-zempic",
+        "value": "WGSN #1 wellness trend"
       },
       {
-        "label": "Reddit AI Study (May 24)",
-        "value": "400K+ posts | 70K+ users | 44% report ≥1 side effect"
+        "label": "India Sentiment",
+        "value": "Pride · Safety mixed"
       },
       {
-        "label": "Hidden Side Effects Surfaced",
-        "value": "Menstrual irregularities (~4%), fatigue (2nd most common), temp dysregulation"
+        "label": "r/Foundayo (Jun)",
+        "value": "~20K members"
       },
       {
-        "label": "r/Foundayo Growth",
-        "value": "~20K members by mid-June"
+        "label": "UMD Reddit Study",
+        "value": "400K posts · 70K users"
       }
     ]
   },

@@ -6,51 +6,35 @@
     "key_metrics": [
       {
         "label": "Cheapest India (Vial)",
-        "value": "₹1,290/mo ($14) — Natco Semanat"
+        "value": "₹1,290/mo"
       },
       {
-        "label": "Novo India (Apr 1 patient-centred)",
-        "value": "₹202/day | ₹1,415/week | ~₹6,060/mo"
+        "label": "Foundayo Self-Pay",
+        "value": "$149–349/mo"
       },
       {
-        "label": "Foundayo (orforglipron) US",
-        "value": "$149/mo self-pay | $25/mo insured | $50/mo Medicare (Jul 2026)"
+        "label": "Medicare Bridge (Jul 1)",
+        "value": "$50/mo copay"
       },
       {
-        "label": "MFN Medicare/Medicaid Deal",
-        "value": "$245/mo agreed price | $50/mo patient copay from July 2026"
+        "label": "TrumpRx DTC",
+        "value": "$350/mo"
       },
       {
-        "label": "Novo US Subscription",
-        "value": "$329/mo (3-month) | $249/mo (12-month) | Wegovy HD $399/mo"
+        "label": "MFN Medicare Price",
+        "value": "$245/mo"
       },
       {
-        "label": "Novo US List Price (from Jan 2027)",
-        "value": "$675/mo (Wegovy, Ozempic, Rybelsus)"
+        "label": "Novo Subscription",
+        "value": "$249–329/mo"
       },
       {
-        "label": "India vs US Price Ratio",
-        "value": "1:43 (₹1,290 vs $149 Foundayo self-pay)"
+        "label": "India vs US Ratio",
+        "value": "1:25 (cheapest generic vs US cash)"
       },
       {
-        "label": "TrumpRx DTC GLP-1 Price (May 5)",
-        "value": "$350/mo injectable | $245/mo Medicare flat — MFN deal w/ 17 manufacturers, $64.3B savings/10yr"
-      },
-      {
-        "label": "Foundayo Pricing Confirmed",
-        "value": "$149/mo (lowest dose) up to $349 (highest) | $25/mo commercial savings | $50/mo Medicare from Jul 1"
-      },
-      {
-        "label": "Medicare GLP-1 Bridge (Jul 1)",
-        "value": "Launch confirmed | $50/mo copay | Wegovy + Pill + Zepbound KwikPen + Foundayo | Through Dec 31 2027"
-      },
-      {
-        "label": "India Oral Generic Floor (May)",
-        "value": "Dr Reddy's Obeda Tablets — ₹99 (3mg) | ₹135 (7mg) | ₹225 (14mg) — undercuts Rybelsus 80-90%"
-      },
-      {
-        "label": "CVS Caremark Action (Jun 1)",
-        "value": "Foundayo new-to-market block dropped | Zepbound back on preferred formulary Oct 1"
+        "label": "Dr Reddy's Obeda Tablets",
+        "value": "₹99/3mg · ₹225/14mg"
       }
     ]
   },

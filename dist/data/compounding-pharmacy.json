@@ -13,36 +13,24 @@
         "value": "2"
       },
       {
-        "label": "Est. Compounded GLP-1 Market",
-        "value": "$2B"
+        "label": "FDA 503A Limit",
+        "value": "4 Rx/month/compounder"
       },
       {
-        "label": "FDA 503A Limit (Apr 2026)",
-        "value": "4 prescriptions/month limit for essentially-copy compounding"
-      },
-      {
-        "label": "Warning Letters Issued",
-        "value": "50+ (cumulative since Feb 2025 shortage resolution)"
-      },
-      {
-        "label": "Foundayo Impact",
-        "value": "Branded oral at $149/mo erodes compounded semaglutide value prop"
-      },
-      {
-        "label": "FDA 503B Action (Apr 30)",
-        "value": "Proposed to EXCLUDE semaglutide, tirzepatide, liraglutide from bulks list — comment period through Jun 29"
-      },
-      {
-        "label": "Patient Migration Path",
-        "value": "Foundayo $149 | Wegovy oral $149 | MFN $245 Medicare | TrumpRx $350 DTC"
+        "label": "Warning Letters",
+        "value": "50+ (cumulative)"
       },
       {
         "label": "FDA 503B Bulks Action",
-        "value": "Comment period closes June 29, 2026 | NO final action as of Jun 24 | Final expected Q3 2026"
+        "value": "Comment closes Jun 29"
       },
       {
-        "label": "Lilly v. Empower (May 16)",
-        "value": "SDTX trimmed but preserved Lanham Act + unfair-competition claims — proceeds to merits trial"
+        "label": "Lilly v. Empower",
+        "value": "Lanham Act claims survive"
+      },
+      {
+        "label": "Patient Migration",
+        "value": "Foundayo $149 · Wegovy oral $149"
       }
     ]
   },

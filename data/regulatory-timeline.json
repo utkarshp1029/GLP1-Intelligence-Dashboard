@@ -5,7 +5,7 @@
     "entry_count": 26,
     "key_metrics": [
       {
-        "label": "Total Regulatory Events",
+        "label": "Total Events",
         "value": "15"
       },
       {
@@ -14,35 +14,27 @@
       },
       {
         "label": "Latest US Action",
-        "value": "Trump MFN deal — Medicare/Medicaid GLP-1 at $50/mo from Jul 2026"
+        "value": "Trump MFN deal (Apr)"
+      },
+      {
+        "label": "Medicare Bridge",
+        "value": "July 1 launch · $50/mo"
+      },
+      {
+        "label": "FDA 503B (Apr 30)",
+        "value": "Bulks-list exclusion proposed"
       },
       {
         "label": "CagriSema NDA",
-        "value": "Filed Dec 2025, PDUFA H2 2026 — REDEFINE-4 missed vs tirzepatide"
+        "value": "Filed Dec 2025 · PDUFA H2"
       },
       {
-        "label": "India Brands",
-        "value": "40+ DCGI-approved | MSN SEMABEST latest launch | Novo ₹202/day"
+        "label": "India Latest",
+        "value": "MSN SEMABEST · ₹202/day Novo"
       },
       {
-        "label": "CMS BALANCE Update (Apr 22)",
-        "value": "Part D portion DELAYED beyond 2027 | Medicaid still proceeds | Bridge extended to Dec 31, 2027"
-      },
-      {
-        "label": "FDA 503B Action (Apr 30)",
-        "value": "Proposed exclusion of semaglutide/tirzepatide/liraglutide from bulks list — comment period through Jun 29"
-      },
-      {
-        "label": "Medicare GLP-1 Bridge Status",
-        "value": "JULY 1 LAUNCH CONFIRMED | $50/mo copay | Extended to Dec 31, 2027"
-      },
-      {
-        "label": "FDA 503B Bulks Action",
-        "value": "Comment period closes Jun 29 | NO final action yet | Q3 2026 expected"
-      },
-      {
-        "label": "Lilly v. Empower (May 16)",
-        "value": "SDTX preserved Lanham Act + unfair competition claims"
+        "label": "BALANCE Part D",
+        "value": "Delayed beyond 2027"
       }
     ]
   },
