@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 17,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
         "label": "Active Safety Signals",
@@ -80,6 +80,21 @@
     }
   ],
   "entries": [
+    {
+      "id": "safety-entry-015",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability",
+      "source_name": "Verification check",
+      "market": "us",
+      "summary": "June 30 verification: No new FAERS-specific FDA report dated June 25-30. Suicide-risk label removal implementation continues. Foundayo post-market data due July 2026 (4 PMR studies — CV, DILI, gastric retention, lactation). Novo PADE warning letter remains active. UMD Reddit AI study (May 24) hidden side effects discussion ongoing. AHA autoimmune/CV paper (June 6) remains most recent published data.",
+      "content": "June 30 safety verification: No new FDA actions in window. Foundayo post-market data due July is the next key safety milestone.",
+      "tags": [
+        "safety",
+        "verification",
+        "june-30",
+        "foundayo-pmr-watch"
+      ]
+    },
     {
       "id": "safety-entry-014",
       "timestamp": "2026-06-24T00:00:00Z",

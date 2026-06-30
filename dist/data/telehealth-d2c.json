@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
         "label": "US Platforms Tracked",
@@ -31,6 +31,18 @@
       {
         "label": "India Platforms",
         "value": "Tata 1mg · PharmEasy · Netmeds"
+      },
+      {
+        "label": "CVS MinuteClinic Virtual",
+        "value": "$49 weight visit · 47 states + DC"
+      },
+      {
+        "label": "Walgreens Bridge Stores",
+        "value": "8,000+ supporting July 1"
+      },
+      {
+        "label": "Walmart/Sams Bridge",
+        "value": "5,000 locations · 90% within 10 mi"
       }
     ]
   },
@@ -140,6 +152,24 @@
     }
   ],
   "entries": [
+    {
+      "id": "th-entry-014",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/cvs-pharmacy-expands-glp1-support-to-lower-costs-improve-access-and-help-patients-stay-on-therapy-302805691.html",
+      "source_name": "CVS Health / Walgreens / Walmart / DistilINFO",
+      "market": "us",
+      "summary": "Coordinated Bridge-readiness announcements from the three largest US pharmacy chains in the final week of June: (1) CVS Pharmacy (Jun 22) — Bridge $50 copay + $49 MinuteClinic virtual weight visit launched in 47 states + DC across 9,000+ CVS Pharmacy locations. (2) Walmart/Sam's Club (Jun 22) — pharmacist consultations across nearly 5,000 locations; 90% of US population within 10 miles. (3) Walgreens (Jun 25) — 'nearly 8,000 stores' supporting eligible patients; cites 56M potential Medicare qualifiers. All three coordinated for July 1 launch.",
+      "content": "Late June 2026 — Pharmacy chain Bridge-readiness rollout:\n\n1. CVS PHARMACY (June 22):\n   - $50/mo Bridge copay support across 9,000+ locations\n   - $49 MinuteClinic virtual weight visit launched in 47 states + DC\n   - Bridge dispensing + first-party telehealth integration\n   - Targets continuing therapy adherence (compounded-to-branded migration)\n\n2. WALMART + SAM'S CLUB (June 22):\n   - Pharmacist consultations across nearly 5,000 locations\n   - 90% of US population within 10 miles of a Walmart\n   - Sam's Club integration for member-pricing wholesale\n   - Largest physical-footprint Bridge support\n\n3. WALGREENS (June 25):\n   - 'Nearly 8,000 stores' supporting eligible Medicare patients\n   - Cites 56M potential Medicare qualifiers\n   - BIN 028918 / PCN MEDDGLP1BR claims routing confirmed via Humana\n\n4. HIMS & HERS / RO STATUS (continuing):\n   - Hims branded pivot complete; 125K Wegovy shipments in first 6 weeks\n   - Ro continues Foundayo distribution ($149-349/mo + $25 savings card)\n   - Compounded GLP-1 era effectively over\n\n5. CHANNEL MIX EVOLUTION:\n   - Pre-Bridge: telehealth (Hims/Ro) + retail (CVS/Walgreens/Walmart) + Direct (NovoCare/LillyDirect)\n   - Post-Bridge: same channels but with Medicare integration; large pharmacy chains positioned as patient-facing Bridge interface\n   - CVS MinuteClinic $49 virtual visit is a notable bid to internalize telehealth\n\n6. INDIA E-PHARMACY (unchanged from June 24 update):\n   - Tata 1mg, PharmEasy, Netmeds dominating\n   - Dr Reddy's oral Obeda Tablets ₹99-225 driving e-pharmacy volume",
+      "tags": [
+        "telehealth",
+        "us",
+        "bridge-readiness",
+        "cvs-minuteclinic",
+        "walgreens",
+        "walmart",
+        "june-2026"
+      ]
+    },
     {
       "id": "th-entry-013",
       "timestamp": "2026-06-24T00:00:00Z",

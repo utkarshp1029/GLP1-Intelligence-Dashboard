@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 20,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 21,
     "key_metrics": [
       {
         "label": "Tracked Supplements",
@@ -181,6 +181,22 @@
     }
   ],
   "entries": [
+    {
+      "id": "supp-entry-015",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://diabetes.org/newsroom/press-releases/new-glp-1-therapies-enhance-quality-weight-loss-improving-muscle-0",
+      "source_name": "Verification check",
+      "market": "both",
+      "summary": "June 30 verification: No new GLP-1 supplement product launches or FDA actions in the June 25-30 window. Post-ADA momentum continues: the bimagrumab + semaglutide BELIEVE data presented June 7 continues to validate the protein + creatine + electrolytes + vitamin D supplement-stack thesis. WGSN's 'Faux-zempic' trend holding through Q2. Natural GLP-1 booster category continues +35% YoY. Pendulum, California Gold, ANTROLIFE all stable.",
+      "content": "June 30 supplements verification: Section is current. No new product launches, no FDA actions in the June 25-30 window. Post-ADA momentum continues with the bimagrumab + semaglutide BELIEVE data (June 7) reinforcing the supplement stack thesis. WGSN Faux-zempic trend persistent. Next watch: Q2 2026 supplement category Amazon US growth data (expected late July/early August).",
+      "tags": [
+        "supplements",
+        "verification",
+        "june-30",
+        "no-material-change",
+        "post-ada"
+      ]
+    },
     {
       "id": "supp-entry-014",
       "timestamp": "2026-06-24T00:00:00Z",

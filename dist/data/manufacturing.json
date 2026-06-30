@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
         "label": "Lilly Indiana (since 2020)",
@@ -86,6 +86,22 @@
     }
   ],
   "entries": [
+    {
+      "id": "mfg-entry-016",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.pharmamanufacturing.com/compliance/article/55382580/novo-nordisks-troubled-indiana-site-hit-with-form-483-following-fda-re-inspection",
+      "source_name": "Verification check",
+      "market": "us",
+      "summary": "June 30 verification: No new manufacturing announcements in June 25-30 window. Key watch remains Novo Bloomington FDA 90-day classification deadline (late July 2026). Lilly LEAP $4.5B incremental investment (May 6), Lebanon API site (2027), and Novo Ireland (€432M, 2027-2028) all on track. MFN deal commitments ($27B Lilly / $10B Novo) progressing per schedule.",
+      "content": "June 30 manufacturing verification: No new announcements in window. Novo Bloomington FDA classification deadline late July 2026 is the next major event. Lilly LEAP, Lebanon API, Novo Ireland all on schedule. MFN deal manufacturing commitments progressing.",
+      "tags": [
+        "manufacturing",
+        "verification",
+        "june-30",
+        "no-material-change",
+        "bloomington-watch"
+      ]
+    },
     {
       "id": "mfg-entry-015",
       "timestamp": "2026-06-24T00:00:00Z",

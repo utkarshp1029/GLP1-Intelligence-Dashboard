@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 24,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 25,
     "key_metrics": [
       {
         "label": "Best Phase 3 Weight Loss",
@@ -114,6 +114,22 @@
     }
   ],
   "entries": [
+    {
+      "id": "trial-entry-020",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-drove-substantial-improvements-in-weight-a1c-knee-osteoarthritis-pain-and-obstructive-sleep-apnea-demonstrating-its-remarkable-potential-to-treat-obesity-and-its-complications-302793169.html",
+      "source_name": "Verification check",
+      "market": "global",
+      "summary": "June 30 verification: No new pivotal pipeline readouts in June 25-30 window. ADA 2026 (June 5-8) marquee data continues to drive post-conference analysis: retatrutide TRIUMPH-1 (30.3% @ 104w), CagriSema REIMAGINE (beat sema head-to-head), Foundayo ACHIEVE-3 (beat oral sema head-to-head), survodutide SYNCHRONIZE-MASLD (63% liver fat reduction). AstraZeneca elecoglipron Phase 3 announced ADA. New Phase 3 entrants: Pfizer berobenatide, Innovent mazdutide, Sciwind ecnoglutide.",
+      "content": "June 30 pipeline-trials verification: No new pivotal readouts in window. Post-ADA analysis continues; next major catalysts: (1) Lilly Q2 earnings (late July) with retatrutide NDA timeline update, (2) Novo CagriSema FDA PDUFA expected H2 2026, (3) survodutide LIVERAGE MASH trials reading out 2027, (4) Pfizer berobenatide Phase 3 starts later 2026.",
+      "tags": [
+        "pipeline",
+        "verification",
+        "june-30",
+        "no-material-change",
+        "post-ada"
+      ]
+    },
     {
       "id": "trial-entry-019",
       "timestamp": "2026-06-24T00:00:00Z",

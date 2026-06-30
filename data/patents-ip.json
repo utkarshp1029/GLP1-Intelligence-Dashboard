@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "patents-ip",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 17,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
         "label": "Open Semaglutide Markets",
@@ -92,6 +92,22 @@
     }
   ],
   "entries": [
+    {
+      "id": "pat-entry-014",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://ipfray.com/another-semaglutide-generic-enters-india-as-novo-nordisk-patent-expires-delhi-high-court-denies-injunction/",
+      "source_name": "Verification check",
+      "market": "both",
+      "summary": "June 30 verification: No new patent filings or court rulings in June 25-30 window. Tirzepatide US Paragraph IV window opened May 13 — still NO public ANDA filings disclosed in FDA Orange Book. Teva-Novo US semaglutide composition challenge continues in Delaware District Court (decision not expected before late 2027). India: Delhi HC continues to deny Novo's secondary-formulation injunctions; semaglutide generic wave proceeds. Tirzepatide India market remains Mounjaro + Cipla Yurpeak duopoly (~2033-2036 patent timeline).",
+      "content": "June 30 patents/IP verification: No new filings or rulings in window. Tirzepatide US Para IV remains open with no public ANDA filings. Teva-Novo litigation continues in Delaware. Status quo.",
+      "tags": [
+        "patents",
+        "verification",
+        "june-30",
+        "no-material-change",
+        "tirzepatide-para-iv"
+      ]
+    },
     {
       "id": "pat-entry-013",
       "timestamp": "2026-06-24T00:00:00Z",

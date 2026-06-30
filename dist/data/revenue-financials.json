@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
         "label": "Global GLP-1 Market 2025",
@@ -39,6 +39,18 @@
       {
         "label": "Berenberg PT (Lilly)",
         "value": "$1,135 · consensus $1,229"
+      },
+      {
+        "label": "Lilly All-Time High (Jun 29)",
+        "value": "$1,238 intraday · +14% YTD · +10% June"
+      },
+      {
+        "label": "Cantor Lilly PT (Jun 27)",
+        "value": "Overweight · ~$1,230"
+      },
+      {
+        "label": "Employer GLP-1 Coverage",
+        "value": "6% dropped 2026 · 5% planning 2027"
       }
     ]
   },
@@ -161,6 +173,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-016",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.fool.com/investing/2026/06/26/why-eli-lilly-stock-jumped-to-a-new-all-time-high/",
+      "source_name": "Motley Fool / TipRanks / CNBC / NFP Survey",
+      "market": "us",
+      "summary": "Late-June 2026 financial action: Lilly hit a fresh all-time high at $1,238 intraday on June 29 — +14% YTD, +10% in June alone — driven by Bridge launch + EU CHMP Jaypirca positive opinion. Cantor reiterated Overweight at ~$1,230 PT June 27. Novo Nordisk traded flat near $48 — divergence widening. On the demand side, CNBC reported 6% of large employers (500+) dropped GLP-1 coverage in 2026, 5% planning to drop in 2027; 51% cite GLP-1s as top Rx cost driver. 87% of employers expect oral formulations to drive further demand.",
+      "content": "Late June 2026 financial landscape:\n\n1. ELI LILLY ALL-TIME HIGH:\n   - June 26: $1,226.55 close (+1.53%)\n   - June 29: $1,238 intraday record\n   - +14% YTD, +10% in June alone\n   - Drivers: Medicare Bridge launch July 1 + EU CHMP positive opinion for Jaypirca (pirtobrutinib) in CLL\n   - Cantor Fitzgerald reiterated Overweight at ~$1,230 PT on June 27\n   - Consensus 12-month target: $1,229.85 (Buy, 20 analysts)\n\n2. NOVO NORDISK DIVERGENCE:\n   - Trading flat near $48\n   - Wegovy promo expires June 30 — handoff to Bridge\n   - Bloomington FDA classification deadline late July remains a key swing factor\n   - Gap to Lilly continues to widen on relative performance\n\n3. EMPLOYER COVERAGE DYNAMICS (CNBC June 26):\n   - 6% of large employers (500+) DROPPED GLP-1 coverage in 2026\n   - 5% planning to DROP in 2027\n   - 51% cite GLP-1s as top driver of rising Rx costs (NFP survey)\n   - 87% expect Foundayo + Wegovy pill to drive further demand\n   - Only 9% predict price drops\n   - Many raising BMI threshold from 27/30 to 35\n   - Mass GIC drops Wegovy/Zepbound/Saxenda coverage July 1 (bellwether)\n\n4. BRIDGE ADDRESSABLE MARKET:\n   - Lilly estimates ~20M Medicare patients meet clinical criteria for obesity drugs\n   - Foundayo + Zepbound KwikPen + Wegovy + Wegovy pill all in formulary\n   - $50 copay vs $245 negotiated MFN price = $195/script subsidy\n   - Major near-term volume catalyst for both Lilly and Novo\n\n5. NEAR-TERM CATALYSTS:\n   - Q2 2026 earnings (late July / early Aug)\n   - Novo Bloomington FDA classification (late July)\n   - FDA 503B Bulks final action (H2 2026)\n   - Medicare Bridge actual uptake numbers (first 30/60/90 days)\n   - State Medicaid BALANCE RFA closes July 31",
+      "tags": [
+        "revenue",
+        "us",
+        "global",
+        "eli-lilly",
+        "all-time-high",
+        "cantor",
+        "employer-coverage",
+        "june-2026"
+      ]
+    },
     {
       "id": "rev-entry-015",
       "timestamp": "2026-06-24T00:00:00Z",

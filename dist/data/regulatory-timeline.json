@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "regulatory-timeline",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 26,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 27,
     "key_metrics": [
       {
         "label": "Total Events",
@@ -18,7 +18,7 @@
       },
       {
         "label": "Medicare Bridge",
-        "value": "July 1 launch · $50/mo"
+        "value": "LIVE July 1 · $50/mo (was July 1 launch · $50/mo)"
       },
       {
         "label": "FDA 503B (Apr 30)",
@@ -35,6 +35,14 @@
       {
         "label": "BALANCE Part D",
         "value": "Delayed beyond 2027"
+      },
+      {
+        "label": "FDA 503B Comments",
+        "value": "3,868 received — closed Jun 29"
+      },
+      {
+        "label": "CMS PA Form",
+        "value": "Released Jun 26 — fax line live Jul 1"
       }
     ]
   },
@@ -140,6 +148,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "reg-entry-019",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.cms.gov/files/document/glp-1-pharmacies-c.pdf",
+      "source_name": "CMS / FDA / AMA / APC",
+      "market": "us",
+      "summary": "Two major regulatory checkpoints in the final week of June 2026: (1) FDA 503B Bulks List comment period closed June 29 with 3,868 docket comments received; APC, NCPA, and dozens of telehealth compounders filed formal opposition; final FDA action expected H2 2026 with citation of >1,700 adverse-event reports as of May 21. (2) CMS released the Medicare GLP-1 Bridge prior authorization form June 26 — informational pre-July 1, fax line activates at launch. AMA's June 26 advocacy update detailed the three BMI eligibility tiers and confirmed: prescribers do NOT need Medicare enrollment, but cannot be on the Preclusion List; PAs processed retrospectively.",
+      "content": "Final week of June 2026 — regulatory checkpoints:\n\n1. FDA 503B BULKS LIST — COMMENT PERIOD CLOSED (June 29):\n   - 3,868 docket comments received (FDA-2018-N-3240)\n   - APC, NCPA, and dozens of telehealth compounders filed formal opposition\n   - FDA cited >1,700 adverse-event reports tied to compounded semaglutide/tirzepatide (May 21 cutoff)\n   - Industry expects final action H2 2026\n   - If finalized: forecloses any future bulk-compounding even under shortage re-designation\n\n2. CMS BRIDGE PA FORM (June 26):\n   - Released as 'informational' pre-July 1\n   - Prescriber fax submission line activates July 1, 2026\n   - PAs processed retrospectively (after prescribing)\n   - Documentation required: diagnosis, BMI, comorbidities\n   - Prescribers do NOT need Medicare enrollment, but cannot be on the Preclusion List\n\n3. AMA ADVOCACY UPDATE (June 26):\n   - Three BMI eligibility tiers reaffirmed:\n     • BMI ≥35\n     • BMI ≥30 with HF / HTN / CKD 3a+\n     • BMI ≥27 with prediabetes / prior MI-stroke / PAD\n   - Beneficiaries already covered for T2D or OSA CANNOT use the Bridge\n   - $50 copay confirmed outside Part D benefit accounting\n\n4. BRIDGE TECHNICAL SPECS (Walgreens/CMS final guidance June 25):\n   - BIN 028918 / PCN MEDDGLP1BR\n   - Humana central processor (via SS&C Health / RelayHealth)\n   - Pharmacies do NOT need to opt in\n   - Patient $50 copay does NOT count toward Part D deductible or $2,100 OOP cap",
+      "tags": [
+        "regulatory",
+        "us",
+        "medicare-bridge",
+        "fda-503b",
+        "comment-closed",
+        "ama",
+        "cms-pa-form",
+        "june-2026"
+      ]
+    },
     {
       "id": "reg-entry-018",
       "timestamp": "2026-06-24T00:00:00Z",

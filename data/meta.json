@@ -1,11 +1,11 @@
 {
-  "last_full_update": "2026-06-24T00:00:00Z",
+  "last_full_update": "2026-06-30T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
       "file": "pricing.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 31,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 32,
       "key_metrics": [
         {
           "label": "Cheapest India (Vial)",
@@ -38,13 +38,25 @@
         {
           "label": "Dr Reddy's Obeda Tablets",
           "value": "₹99/3mg · ₹225/14mg"
+        },
+        {
+          "label": "Wegovy $199 Promo Expires",
+          "value": "June 30 — reverts to $349 cash / $399 HD"
+        },
+        {
+          "label": "Medicare Bridge Live",
+          "value": "July 1 — $50/mo flat (out of Part D)"
+        },
+        {
+          "label": "CVS MinuteClinic Virtual",
+          "value": "$49 weight visit (47 states + DC)"
         }
       ]
     },
     "generics-tracker": {
       "file": "generics-tracker.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 29,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 30,
       "key_metrics": [
         {
           "label": "India Brand Count",
@@ -78,8 +90,8 @@
     },
     "regulatory-timeline": {
       "file": "regulatory-timeline.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 26,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 27,
       "key_metrics": [
         {
           "label": "Total Events",
@@ -95,7 +107,7 @@
         },
         {
           "label": "Medicare Bridge",
-          "value": "July 1 launch · $50/mo"
+          "value": "LIVE July 1 · $50/mo (was July 1 launch · $50/mo)"
         },
         {
           "label": "FDA 503B (Apr 30)",
@@ -112,13 +124,21 @@
         {
           "label": "BALANCE Part D",
           "value": "Delayed beyond 2027"
+        },
+        {
+          "label": "FDA 503B Comments",
+          "value": "3,868 received — closed Jun 29"
+        },
+        {
+          "label": "CMS PA Form",
+          "value": "Released Jun 26 — fax line live Jul 1"
         }
       ]
     },
     "revenue-financials": {
       "file": "revenue-financials.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 19,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 20,
       "key_metrics": [
         {
           "label": "Global GLP-1 Market 2025",
@@ -155,13 +175,25 @@
         {
           "label": "Berenberg PT (Lilly)",
           "value": "$1,135 · consensus $1,229"
+        },
+        {
+          "label": "Lilly All-Time High (Jun 29)",
+          "value": "$1,238 intraday · +14% YTD · +10% June"
+        },
+        {
+          "label": "Cantor Lilly PT (Jun 27)",
+          "value": "Overweight · ~$1,230"
+        },
+        {
+          "label": "Employer GLP-1 Coverage",
+          "value": "6% dropped 2026 · 5% planning 2027"
         }
       ]
     },
     "supplements": {
       "file": "supplements.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 20,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 21,
       "key_metrics": [
         {
           "label": "Tracked Supplements",
@@ -191,8 +223,8 @@
     },
     "manufacturing": {
       "file": "manufacturing.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 19,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 20,
       "key_metrics": [
         {
           "label": "Lilly Indiana (since 2020)",
@@ -222,8 +254,8 @@
     },
     "pipeline-trials": {
       "file": "pipeline-trials.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 24,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 25,
       "key_metrics": [
         {
           "label": "Best Phase 3 Weight Loss",
@@ -257,8 +289,8 @@
     },
     "supply-chain": {
       "file": "supply-chain.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 17,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 18,
       "key_metrics": [
         {
           "label": "Active Shortages",
@@ -292,8 +324,8 @@
     },
     "patents-ip": {
       "file": "patents-ip.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 17,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 18,
       "key_metrics": [
         {
           "label": "Open Semaglutide Markets",
@@ -327,8 +359,8 @@
     },
     "compounding-pharmacy": {
       "file": "compounding-pharmacy.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 15,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 16,
       "key_metrics": [
         {
           "label": "Tracked Pharmacies",
@@ -357,13 +389,25 @@
         {
           "label": "Patient Migration",
           "value": "Foundayo $149 · Wegovy oral $149"
+        },
+        {
+          "label": "FDA 503B Comment Period",
+          "value": "CLOSED Jun 29 · 3,868 comments"
+        },
+        {
+          "label": "FDA Cited AE Reports",
+          "value": ">1,700 (compounded sema/tirz)"
+        },
+        {
+          "label": "Final Action Expected",
+          "value": "H2 2026"
         }
       ]
     },
     "telehealth-d2c": {
       "file": "telehealth-d2c.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 19,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 20,
       "key_metrics": [
         {
           "label": "US Platforms Tracked",
@@ -392,13 +436,25 @@
         {
           "label": "India Platforms",
           "value": "Tata 1mg · PharmEasy · Netmeds"
+        },
+        {
+          "label": "CVS MinuteClinic Virtual",
+          "value": "$49 weight visit · 47 states + DC"
+        },
+        {
+          "label": "Walgreens Bridge Stores",
+          "value": "8,000+ supporting July 1"
+        },
+        {
+          "label": "Walmart/Sams Bridge",
+          "value": "5,000 locations · 90% within 10 mi"
         }
       ]
     },
     "social-sentiment": {
       "file": "social-sentiment.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 17,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 18,
       "key_metrics": [
         {
           "label": "Tracked Trends",
@@ -432,8 +488,8 @@
     },
     "safety-signals": {
       "file": "safety-signals.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 17,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 18,
       "key_metrics": [
         {
           "label": "Active Safety Signals",
@@ -471,12 +527,12 @@
     },
     "insurance-reimbursement": {
       "file": "insurance-reimbursement.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 17,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 18,
       "key_metrics": [
         {
           "label": "Medicare Bridge",
-          "value": "July 1 · $50/mo flat"
+          "value": "LIVE July 1 · $50/mo flat"
         },
         {
           "label": "Bridge End Date",
@@ -501,21 +557,33 @@
         {
           "label": "India Private Insurance",
           "value": "~8% (GLP-1 excluded)"
+        },
+        {
+          "label": "CMS PA Form Released",
+          "value": "Jun 26 · fax line live Jul 1"
+        },
+        {
+          "label": "Lilly Bridge Estimate",
+          "value": "~20M Medicare patients eligible"
+        },
+        {
+          "label": "Walgreens Estimate",
+          "value": "56M potential Medicare qualifiers"
         }
       ]
     },
     "news-hub": {
       "file": "news-hub.json",
-      "last_updated": "2026-06-24T00:00:00Z",
-      "entry_count": 50,
+      "last_updated": "2026-06-30T00:00:00Z",
+      "entry_count": 52,
       "key_metrics": [
         {
           "label": "Stories This Week",
-          "value": "6 new (May 11 – Jun 24)"
+          "value": "2 new (Jun 25–30)"
         },
         {
-          "label": "ADA 2026",
-          "value": "Jun 5-8 · New Orleans"
+          "label": "Imminent Event",
+          "value": "Medicare Bridge launches Jul 1"
         },
         {
           "label": "Sources Tracked",

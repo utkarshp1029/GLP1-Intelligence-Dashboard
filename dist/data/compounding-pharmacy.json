@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 15,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 16,
     "key_metrics": [
       {
         "label": "Tracked Pharmacies",
@@ -31,6 +31,18 @@
       {
         "label": "Patient Migration",
         "value": "Foundayo $149 · Wegovy oral $149"
+      },
+      {
+        "label": "FDA 503B Comment Period",
+        "value": "CLOSED Jun 29 · 3,868 comments"
+      },
+      {
+        "label": "FDA Cited AE Reports",
+        "value": ">1,700 (compounded sema/tirz)"
+      },
+      {
+        "label": "Final Action Expected",
+        "value": "H2 2026"
       }
     ]
   },
@@ -75,6 +87,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-013",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.federalregister.gov/documents/2026/05/01/2026-08552/list-of-bulk-drug-substances-for-which-there-is-a-clinical-need-under-section-503b-of-the-federal",
+      "source_name": "Federal Register / FDA / APC / Pharmacy Times",
+      "market": "us",
+      "summary": "The FDA 503B Bulks List comment period closed June 29, 2026 with **3,868 docket comments** received. The Alliance for Pharmacy Compounding (APC), National Community Pharmacists Association (NCPA), and dozens of telehealth compounders filed formal opposition. FDA cited >1,700 adverse-event reports tied to compounded semaglutide and tirzepatide (as of May 21, 2026) in support of its proposal. Industry expects final action in H2 2026; if finalized, would foreclose any future bulk-compounding pathway even under re-designated shortage. 503A patient-specific compounding remains legal subject to 4-rx/month threshold.",
+      "content": "End-of-June 2026 — FDA 503B Bulks List comment period closure:\n\n1. COMMENT PERIOD CLOSED (June 29, 2026):\n   - Federal docket FDA-2018-N-3240\n   - **3,868 docket comments received**\n   - Formal opposition from APC, NCPA, telehealth compounders\n   - Industry submission window now permanently closed\n\n2. FDA SUPPORTING EVIDENCE:\n   - >1,700 adverse-event reports tied to compounded semaglutide/tirzepatide (May 21 cutoff)\n   - 'No clinical need' finding for 503B compounding given commercial availability\n   - Hard line between clinical and economic need (price savings) for 503B\n\n3. PATH FORWARD:\n   - FDA reviews comments — typically 4-6 months\n   - Final action expected H2 2026 (Q3 most likely)\n   - If finalized: rule becomes effective ~30-60 days post-publication\n   - Could be appealed in federal court (likely industry plaintiff)\n\n4. 503A vs 503B STATUS POST-RULE:\n   - 503B (outsourcing facilities): If finalized, bulk-compounding sema/tirz/liraglutide FORECLOSED even under shortage\n   - 503A (individual patient compounding): REMAINS legal but subject to FDA's 4 rx/month enforcement threshold per April 1 guidance\n\n5. INDUSTRY POSITION:\n   - Empower Pharmacy: 4 FDA warning letters; Lilly v Empower lawsuit ongoing\n   - Olympia Pharmaceuticals: 503B; existential challenge if finalized\n   - Hallandale Pharmacy: 503A; less impacted but still subject to 4-rx/mo limit\n   - Smaller 503A pharmacies: operating in narrowing legal space\n\n6. PATIENT MIGRATION (continuing):\n   - Bridge $50/mo + Foundayo $149 + Wegovy pill $149 + Novo subscription $249-329 = stronger branded alternatives than ever before\n   - Compounded-to-branded migration estimate: 700K-1.2M patients Q2 2026\n   - Hims fulfilled 125K+ branded Wegovy shipments in 6 weeks post-pivot\n\n7. KEY READS:\n   - Pharmacy Times (compounded GLP-1 sunset): https://www.pharmacytimes.com/view/fda-moves-to-permanently-close-the-door-on-compounded-glp-1s\n   - APC statement: https://a4pc.org/news/apc-on-503b-glp1-proposal",
+      "tags": [
+        "compounding",
+        "us",
+        "fda",
+        "503b",
+        "comment-closed",
+        "apc",
+        "ncpa",
+        "adverse-events",
+        "june-2026"
+      ]
+    },
     {
       "id": "comp-entry-012",
       "timestamp": "2026-06-24T00:00:00Z",

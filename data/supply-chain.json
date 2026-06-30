@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supply-chain",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 17,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
         "label": "Active Shortages",
@@ -71,6 +71,22 @@
     }
   ],
   "entries": [
+    {
+      "id": "sc-entry-015",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+      "source_name": "Verification check",
+      "market": "both",
+      "summary": "June 30 verification: All GLP-1 products remain off FDA Drug Shortage Database. Bridge launch July 1 expected to drive significant volume — pharmacy chains (CVS 9K+, Walgreens 8K, Walmart 5K) have confirmed supply readiness. Lilly LEAP $4.5B incremental investment confirmed. Novo Bloomington FDA classification late-July deadline pending. Wegovy oral pill scaled to 3M+ Rx. India export operations stable.",
+      "content": "June 30 supply chain verification: No active shortages. Bridge launch July 1 is the next stress test for supply scaling. Major pharmacy chains have confirmed readiness. Novo Bloomington late-July classification is key supply risk to monitor.",
+      "tags": [
+        "supply-chain",
+        "verification",
+        "june-30",
+        "no-material-change",
+        "bridge-stress-test"
+      ]
+    },
     {
       "id": "sc-entry-014",
       "timestamp": "2026-06-24T00:00:00Z",

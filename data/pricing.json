@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 31,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 32,
     "key_metrics": [
       {
         "label": "Cheapest India (Vial)",
@@ -35,6 +35,18 @@
       {
         "label": "Dr Reddy's Obeda Tablets",
         "value": "₹99/3mg · ₹225/14mg"
+      },
+      {
+        "label": "Wegovy $199 Promo Expires",
+        "value": "June 30 — reverts to $349 cash / $399 HD"
+      },
+      {
+        "label": "Medicare Bridge Live",
+        "value": "July 1 — $50/mo flat (out of Part D)"
+      },
+      {
+        "label": "CVS MinuteClinic Virtual",
+        "value": "$49 weight visit (47 states + DC)"
       }
     ]
   },
@@ -863,6 +875,24 @@
     }
   ],
   "entries": [
+    {
+      "id": "pricing-entry-014",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.novocare.com/patient/medicines/wegovy/check-coverage.html",
+      "source_name": "NovoCare / CNBC / CMS",
+      "market": "us",
+      "summary": "Pricing transitions on June 30: (1) Novo's $199/month Wegovy two-month promo (all doses including HD 7.2mg) expires today — reverts to $349 cash list (standard) / $399 (HD). (2) Medicare GLP-1 Bridge takes over July 1 at $50/mo copay for eligible Medicare beneficiaries. (3) CVS MinuteClinic launched a $49 virtual weight visit (47 states + DC). (4) Mass GIC drops Wegovy/Zepbound/Saxenda coverage effective July 1 — bellwether for employer-led tightening. NFP survey: 6% of large employers (500+) dropped GLP-1 coverage in 2026, 5% planning to drop in 2027.",
+      "content": "End-of-June 2026 pricing transitions — Bridge day-zero handoff:\n\n1. NOVO WEGOVY $199 PROMO ENDS (June 30):\n   - Two-month fill promotion at $199/mo across all Wegovy doses (incl. HD 7.2mg) expires today.\n   - Cash list reverts: $349/mo standard doses, $399/mo Wegovy HD.\n   - $25/mo retained with commercial savings card.\n   - Bridge eligible: $50/mo from July 1.\n\n2. MEDICARE BRIDGE LIVE JULY 1:\n   - $50/mo flat copay for Wegovy injectable + pill, Foundayo, Zepbound KwikPen.\n   - Outside Part D benefit structure — does NOT count toward deductible or $2,100 OOP cap.\n   - BIN 028918 / PCN MEDDGLP1BR via Humana central processor.\n   - Eligible: ~20M Medicare patients per Lilly estimate.\n\n3. CVS MINUTECLINIC EXPANSION:\n   - $49 virtual weight management visit launched in 47 states + DC.\n   - 9,000+ CVS Pharmacy locations supporting Bridge dispensing.\n   - First-party telehealth + retail integration for GLP-1.\n\n4. EMPLOYER COVERAGE TIGHTENING:\n   - 6% of large employers (500+) dropped GLP-1 coverage in 2026.\n   - 5% planning to drop in 2027.\n   - 51% cite GLP-1s as top driver of rising Rx costs (NFP survey).\n   - 87% expect oral formulations (Foundayo, Wegovy pill) to drive further demand.\n   - Only 9% predict price drops.\n   - Many employers raising BMI threshold from 27/30 to 35.\n   - Mass GIC drops Wegovy/Zepbound/Saxenda coverage effective July 1.\n\n5. THE NEW PRICING LANDSCAPE (July 1+):\n   - Medicare Bridge: $50/mo (eligible beneficiaries)\n   - Commercial insured + savings card: $25/mo (Foundayo, Wegovy)\n   - TrumpRx self-pay: $350/mo (injectable)\n   - Foundayo self-pay: $149-349/mo (by dose)\n   - Novo subscription: $249/mo (12-mo) / $329/mo (3-mo)\n   - Wegovy oral pill: $149/mo\n   - Cash retail (Novo post-promo): $349/mo std / $399 HD",
+      "tags": [
+        "pricing",
+        "us",
+        "medicare-bridge",
+        "novo-promo-expires",
+        "cvs-minuteclinic",
+        "employer-coverage",
+        "june-2026"
+      ]
+    },
     {
       "id": "pricing-entry-013",
       "timestamp": "2026-06-24T00:00:00Z",

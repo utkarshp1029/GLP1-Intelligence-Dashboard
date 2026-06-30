@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 17,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
         "label": "Tracked Trends",
@@ -122,6 +122,21 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-014",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.cnn.com/2026/06/29/health/medicare-glp1-coverage",
+      "source_name": "Verification check",
+      "market": "us",
+      "summary": "June 30 verification: Reddit/X discourse this week is dominated by Medicare GLP-1 Bridge launch anticipation (July 1). r/Medicare and r/loseit subreddits seeing high traffic on Bridge eligibility tier discussions, copay structure, and PA timing. r/Foundayo ~22K members. Mounjaro retains top Reddit drug position. No new sentiment-quantified studies in window beyond the late-May UMD 400K-post analysis.",
+      "content": "June 30 sentiment verification: Bridge anticipation dominates US discourse this week (subreddits, X). No new quantified sentiment study in window. UMD May 24 Reddit analysis remains the reference dataset.",
+      "tags": [
+        "sentiment",
+        "verification",
+        "june-30",
+        "bridge-anticipation"
+      ]
+    },
     {
       "id": "sent-entry-013",
       "timestamp": "2026-06-24T00:00:00Z",

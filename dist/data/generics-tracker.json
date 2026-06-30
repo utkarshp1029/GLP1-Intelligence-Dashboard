@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 29,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 30,
     "key_metrics": [
       {
         "label": "India Brand Count",
@@ -209,6 +209,23 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-018",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://medicaldialogues.in/news/industry/pharma/torrent-emerges-early-leader-in-indias-generic-semaglutide-race-with-38-market-share-report-170319",
+      "source_name": "Verification check",
+      "market": "both",
+      "summary": "June 30 verification: No new India launches, ANDA Para IV filings, or material consolidation events in the June 25-30 window. India semaglutide-generic market remains in post-March-20 absorption phase with 50+ brands; Torrent retains ~38% value share. US tirzepatide Paragraph IV window (opened May 13) still has NO public ANDA filings disclosed in FDA Orange Book. Dr Reddy's oral Obeda Tablets continue scaling at ₹99-225/dose. Cipla and Biocon still evaluating launches.",
+      "content": "June 30, 2026 generics tracker verification — no material new developments in the 6-day window:\n\n1. INDIA: 50+ semaglutide brands operational. No new launches dated June 25-30.\n2. TIRZEPATIDE PARA IV (US): Window opened May 13 — still no public ANDA filings in FDA Orange Book as of June 30.\n3. CIPLA / BIOCON: Both still evaluating launches; no announced timelines.\n4. DR REDDY'S ORAL OBEDA TABLETS: Continuing scale-up at ₹99 (3mg), ₹135 (7mg), ₹225 (14mg) — May 20 launch.\n5. TORRENT: Retains ~38% value share of India generic semaglutide.\n\nStatus: Section verified current; next material event likely Q3 2026 (Cipla/Biocon launch announcements or first tirzepatide ANDA filing).",
+      "tags": [
+        "generics",
+        "verification",
+        "june-30",
+        "no-material-change",
+        "tirzepatide-para-iv",
+        "india"
+      ]
+    },
     {
       "id": "gen-entry-017",
       "timestamp": "2026-06-24T00:00:00Z",

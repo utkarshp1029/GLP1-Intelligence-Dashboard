@@ -1,12 +1,12 @@
 {
   "meta": {
     "section_id": "insurance-reimbursement",
-    "last_updated": "2026-06-24T00:00:00Z",
-    "entry_count": 17,
+    "last_updated": "2026-06-30T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
         "label": "Medicare Bridge",
-        "value": "July 1 · $50/mo flat"
+        "value": "LIVE July 1 · $50/mo flat"
       },
       {
         "label": "Bridge End Date",
@@ -31,6 +31,18 @@
       {
         "label": "India Private Insurance",
         "value": "~8% (GLP-1 excluded)"
+      },
+      {
+        "label": "CMS PA Form Released",
+        "value": "Jun 26 · fax line live Jul 1"
+      },
+      {
+        "label": "Lilly Bridge Estimate",
+        "value": "~20M Medicare patients eligible"
+      },
+      {
+        "label": "Walgreens Estimate",
+        "value": "56M potential Medicare qualifiers"
       }
     ]
   },
@@ -108,6 +120,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "ins-entry-014",
+      "timestamp": "2026-06-30T00:00:00Z",
+      "source_url": "https://www.cms.gov/files/document/glp-1-pharmacies-c.pdf",
+      "source_name": "CMS / AMA / CNN / Walgreens",
+      "market": "us",
+      "summary": "Medicare GLP-1 Bridge launches **TOMORROW (July 1, 2026)**. Final operational specs locked: BIN 028918 / PCN MEDDGLP1BR via Humana as central processor (SS&C Health / RelayHealth fulfillment). $50/mo flat copay outside Part D accounting (does NOT count toward deductible or $2,100 OOP cap). Eligibility 3 BMI tiers: ≥35; ≥30 + HF/HTN/CKD 3a+; ≥27 + prediabetes/MI-stroke/PAD. Beneficiaries already covered for T2D or OSA cannot use the Bridge. CMS released PA form June 26 (fax line activates July 1). Pharmacies do NOT need to opt in. Lilly estimates ~20M eligible; Walgreens cites 56M potential qualifiers. Demonstration runs through Dec 31, 2027.",
+      "content": "End-of-June 2026 — Medicare Bridge final launch prep:\n\n1. LAUNCH DATE: July 1, 2026 (TOMORROW)\n   - Demonstration runs through December 31, 2027 (18 months)\n   - Extension from initial 6-month plan was finalized in April\n\n2. OPERATIONAL SPECS (final, from CMS June 25 pharmacy guidance):\n   - BIN: 028918\n   - PCN: MEDDGLP1BR\n   - Central processor: Humana (via SS&C Health / RelayHealth)\n   - Pharmacies do NOT need to opt in\n\n3. COVERED FORMULARY:\n   - Wegovy (injectable, all doses)\n   - Wegovy oral pill\n   - Foundayo (orforglipron, all formulations)\n   - Zepbound KwikPen (NOT vial)\n   - NOT included: Ozempic, Mounjaro (T2D indications have separate Part D coverage)\n\n4. PATIENT COST:\n   - $50/month flat copay (no dose escalation)\n   - Does NOT count toward Part D $2,100 OOP cap or deductible\n   - Outside Part D benefit structure (supplemental)\n\n5. ELIGIBILITY (AMA-confirmed three tiers):\n   - BMI ≥35\n   - OR BMI ≥30 with: HF / uncontrolled HTN / CKD stage 3a+\n   - OR BMI ≥27 with: prediabetes / prior MI / stroke / PAD\n   - EXCLUDED: beneficiaries already covered for T2D or OSA on these drugs\n\n6. PRIOR AUTHORIZATION:\n   - CMS PA form released June 26 (informational pre-launch)\n   - Fax submission line activates July 1\n   - PAs processed retrospectively\n   - Documentation: diagnosis, BMI, comorbidities\n\n7. PRESCRIBER REQUIREMENTS:\n   - Do NOT need Medicare enrollment\n   - Cannot be on the Preclusion List\n\n8. ADDRESSABLE MARKET ESTIMATES:\n   - Lilly: ~20M Medicare patients meet clinical criteria\n   - Walgreens: 56M potential Medicare qualifiers (broader screening)\n   - CBO updated scoring expected Q3 2026\n\n9. STATE MEDICAID BALANCE (separate track):\n   - Opt-in window: May 1, 2026 — January 1, 2027\n   - State Medicaid Agency RFA deadline: July 31, 2026 (31 days)\n   - Expected initial opt-ins: CA, NY, IL, MA, NJ\n   - 13 states already cover GLP-1s for obesity under FFS\n\n10. EMPLOYER COVERAGE COUNTERTREND:\n    - 6% of large employers dropped GLP-1 coverage in 2026\n    - 5% planning to drop in 2027\n    - Mass GIC drops Wegovy/Zepbound/Saxenda July 1\n    - BMI thresholds being raised 27/30 → 35",
+      "tags": [
+        "insurance",
+        "us",
+        "medicare-bridge",
+        "july-1-launch",
+        "cms",
+        "humana",
+        "pharmacy-specs",
+        "june-2026"
+      ]
+    },
     {
       "id": "ins-entry-013",
       "timestamp": "2026-06-24T00:00:00Z",
