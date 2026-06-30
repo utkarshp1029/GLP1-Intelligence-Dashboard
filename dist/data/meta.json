@@ -107,7 +107,7 @@
         },
         {
           "label": "Medicare Bridge",
-          "value": "LIVE July 1 · $50/mo (was July 1 launch · $50/mo)"
+          "value": "LIVE July 1 · $50/mo"
         },
         {
           "label": "FDA 503B (Apr 30)",
@@ -575,11 +575,11 @@
     "news-hub": {
       "file": "news-hub.json",
       "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 52,
+      "entry_count": 54,
       "key_metrics": [
         {
           "label": "Stories This Week",
-          "value": "2 new (Jun 25–30)"
+          "value": "4 new (Jun 25–30)"
         },
         {
           "label": "Imminent Event",

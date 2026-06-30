@@ -2,11 +2,11 @@
   "meta": {
     "section_id": "news-hub",
     "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 52,
+    "entry_count": 54,
     "key_metrics": [
       {
         "label": "Stories This Week",
-        "value": "2 new (Jun 25–30)"
+        "value": "4 new (Jun 25–30)"
       },
       {
         "label": "Imminent Event",
@@ -23,6 +23,77 @@
     ]
   },
   "stories": [
+    {
+      "id": "story-054",
+      "headline": "Novo Wegovy $199 Two-Month Promo Expires Today — Reverts to $349/$399 Cash as Medicare Bridge Takes Over",
+      "summary": "Novo Nordisk's promotional $199/month Wegovy two-month-fill program (all doses including HD 7.2mg) expires today, June 30, 2026 — deliberately timed to dovetail with the Medicare GLP-1 Bridge launch tomorrow. Cash pricing reverts to $349/month for standard doses and $399 for Wegovy HD. Bridge-eligible Medicare beneficiaries can access at $50/month copay starting July 1. Commercial insured patients with savings card retain $25/month access. Uninsured patients can use TrumpRx at $149-350/month. Meanwhile, Mass GIC (Group Insurance Commission) drops Wegovy/Zepbound/Saxenda coverage effective July 1 — a bellwether for employer-led tightening as 6% of large employers (500+) dropped GLP-1 coverage in 2026.",
+      "market": "us",
+      "category": "pricing",
+      "timestamp": "2026-06-30",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "NovoCare",
+          "title": "Wegovy patient savings & coverage",
+          "url": "https://www.novocare.com/patient/medicines/wegovy/check-coverage.html",
+          "date": "2026-06-30"
+        },
+        {
+          "publication": "CNBC",
+          "title": "GLP-1 employer coverage tightening as Bridge launches",
+          "url": "https://www.cnbc.com/2026/06/26/glp1-weight-loss-drug-pills-insurance-plan-coverage.html",
+          "date": "2026-06-26"
+        }
+      ],
+      "tags": [
+        "novo-nordisk",
+        "wegovy",
+        "$199-promo",
+        "expiry",
+        "medicare-bridge",
+        "mass-gic",
+        "us"
+      ]
+    },
+    {
+      "id": "story-053",
+      "headline": "FDA 503B Bulks List Comment Period Closes with 3,868 Comments — Compounded GLP-1 Sunset Now Imminent",
+      "summary": "The FDA's proposal to permanently exclude semaglutide, tirzepatide, and liraglutide from the 503B Bulks List closed its public comment period on June 29, 2026 with 3,868 docket comments received (FDA-2018-N-3240). The Alliance for Pharmacy Compounding (APC), National Community Pharmacists Association, and dozens of telehealth compounders filed formal opposition. FDA cited >1,700 adverse-event reports tied to compounded semaglutide and tirzepatide as of May 21 in support of its proposal. Industry expects final action H2 2026; if finalized, would foreclose any future bulk-compounding pathway even under re-designated shortage — effectively ending the compounded GLP-1 industry.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-06-29",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Federal Register",
+          "title": "List of Bulk Drug Substances Under Section 503B",
+          "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08552/list-of-bulk-drug-substances-for-which-there-is-a-clinical-need-under-section-503b-of-the-federal",
+          "date": "2026-06-29"
+        },
+        {
+          "publication": "Pharmacy Times",
+          "title": "FDA Moves to Permanently Close the Door on Compounded GLP-1s",
+          "url": "https://www.pharmacytimes.com/view/fda-moves-to-permanently-close-the-door-on-compounded-glp-1s",
+          "date": "2026-06-29"
+        },
+        {
+          "publication": "APC",
+          "title": "APC statement on FDA 503B GLP-1 proposal",
+          "url": "https://a4pc.org/news/apc-on-503b-glp1-proposal",
+          "date": "2026-06-29"
+        }
+      ],
+      "tags": [
+        "fda",
+        "503b",
+        "compounding",
+        "comment-closed",
+        "apc",
+        "ncpa",
+        "regulatory",
+        "us"
+      ]
+    },
     {
       "id": "story-052",
       "headline": "Eli Lilly Hits Fresh All-Time High at $1,238 on Bridge + EU Jaypirca CHMP — Cantor Reiterates Overweight",
