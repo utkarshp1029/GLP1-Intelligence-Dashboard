@@ -6,11 +6,11 @@
     "key_metrics": [
       {
         "label": "Total Events",
-        "value": "15"
+        "value": "28"
       },
       {
         "label": "2026 Events",
-        "value": "10"
+        "value": "22"
       },
       {
         "label": "Latest US Action",
@@ -490,7 +490,7 @@
       ]
     },
     {
-      "id": "reg-entry-008",
+      "id": "reg-entry-008-b2",
       "timestamp": "2026-04-01T12:00:00Z",
       "source_url": "https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill",
       "source_name": "Eli Lilly / FDA",
@@ -510,7 +510,7 @@
       ]
     },
     {
-      "id": "reg-entry-009",
+      "id": "reg-entry-009-b2",
       "timestamp": "2026-04-01T08:00:00Z",
       "source_url": "https://www.businesstoday.in/industry/pharma/story/as-semaglutide-goes-generic-the-government-warns-glp-1-drugs-are-not-without-risks-523626-2026-04-01",
       "source_name": "Business Today / Ministry of Health",
