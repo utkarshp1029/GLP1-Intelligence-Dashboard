@@ -1,11 +1,11 @@
 {
-  "last_full_update": "2026-06-30T00:00:00Z",
+  "last_full_update": "2026-07-03T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
       "file": "pricing.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 32,
+      "last_updated": "2026-07-03T00:00:00Z",
+      "entry_count": 33,
       "key_metrics": [
         {
           "label": "Cheapest India (Vial)",
@@ -45,11 +45,15 @@
         },
         {
           "label": "Medicare Bridge Live",
-          "value": "July 1 — $50/mo flat (out of Part D)"
+          "value": "LIVE Jul 1 · $50/mo (per 30-day supply)"
         },
         {
           "label": "CVS MinuteClinic Virtual",
           "value": "$49 weight visit (47 states + DC)"
+        },
+        {
+          "label": "Part D GLP-1 Spend 2024",
+          "value": "$27.5B (5x 2019 level)"
         }
       ]
     },
@@ -90,8 +94,8 @@
     },
     "regulatory-timeline": {
       "file": "regulatory-timeline.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 27,
+      "last_updated": "2026-07-03T00:00:00Z",
+      "entry_count": 28,
       "key_metrics": [
         {
           "label": "Total Events",
@@ -107,7 +111,7 @@
         },
         {
           "label": "Medicare Bridge",
-          "value": "LIVE July 1 · $50/mo"
+          "value": "LIVE since July 1 · $50/mo"
         },
         {
           "label": "FDA 503B (Apr 30)",
@@ -137,8 +141,8 @@
     },
     "revenue-financials": {
       "file": "revenue-financials.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 20,
+      "last_updated": "2026-07-03T00:00:00Z",
+      "entry_count": 21,
       "key_metrics": [
         {
           "label": "Global GLP-1 Market 2025",
@@ -527,8 +531,8 @@
     },
     "insurance-reimbursement": {
       "file": "insurance-reimbursement.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 18,
+      "last_updated": "2026-07-03T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
           "label": "Medicare Bridge",
@@ -569,21 +573,33 @@
         {
           "label": "Walgreens Estimate",
           "value": "56M potential Medicare qualifiers"
+        },
+        {
+          "label": "Bridge Status",
+          "value": "LIVE since July 1 · $50/mo"
+        },
+        {
+          "label": "Eligibility Estimates",
+          "value": "CMS single-digit M · KFF ~4M · Lilly/Novo 20M"
+        },
+        {
+          "label": "AAF Federal Cost Est.",
+          "value": "$1.3–3.3B/18mo (10–25% uptake)"
         }
       ]
     },
     "news-hub": {
       "file": "news-hub.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 54,
+      "last_updated": "2026-07-03T00:00:00Z",
+      "entry_count": 55,
       "key_metrics": [
         {
           "label": "Stories This Week",
-          "value": "4 new (Jun 25–30)"
+          "value": "1 new (Bridge launch day)"
         },
         {
           "label": "Imminent Event",
-          "value": "Medicare Bridge launches Jul 1"
+          "value": "Medicare Bridge LIVE (Jul 1)"
         },
         {
           "label": "Sources Tracked",

@@ -1,16 +1,16 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 54,
+    "last_updated": "2026-07-03T00:00:00Z",
+    "entry_count": 55,
     "key_metrics": [
       {
         "label": "Stories This Week",
-        "value": "4 new (Jun 25–30)"
+        "value": "1 new (Bridge launch day)"
       },
       {
         "label": "Imminent Event",
-        "value": "Medicare Bridge launches Jul 1"
+        "value": "Medicare Bridge LIVE (Jul 1)"
       },
       {
         "label": "Sources Tracked",
@@ -23,6 +23,38 @@
     ]
   },
   "stories": [
+    {
+      "id": "story-055",
+      "headline": "Medicare GLP-1 Bridge Goes Live — Reuters Documents Launch Day as Dueling Eligibility Estimates Range 4M to 20M",
+      "summary": "The Medicare GLP-1 Bridge went live July 1, 2026, delivering the first-ever Medicare weight-loss drug coverage at $50/month for Wegovy (injection + pill), Foundayo, and Zepbound KwikPen. Reuters' launch-day analysis captured sharply diverging eligibility estimates: CMS Director Chris Klomp projects 'single-digit millions,' KFF estimates ~4 million (2023 data), while Eli Lilly and Novo Nordisk cite up to 20 million. Real patients surfaced immediately — one 71-year-old was quoted a $1,298.99 uncovered price before the Bridge; a physician called it 'a big win.' Pharmacy organizations warned of prior-authorization delays, limited inventory, and longer waits stemming from the mid-year launch timing. As of July 3, no hard first-day enrollment or prior-auth volume data has been published yet.",
+      "market": "us",
+      "category": "insurance",
+      "timestamp": "2026-07-01",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Reuters (via AthletechNews)",
+          "title": "Older Americans left out of costly GLP-1 craze expected to flock to new Medicare program",
+          "url": "https://athletechnews.com/older-americans-left-out-of-costly-glp-1-craze-expected-to-flock-to-new-program/",
+          "date": "2026-07-01"
+        },
+        {
+          "publication": "News4Jax (WJXT)",
+          "title": "Medicare now covers weight-loss drugs starting July 1 — here's what to know",
+          "url": "https://www.news4jax.com/news/local/2026/07/02/medicare-now-covers-weight-loss-drugs-starting-july-1-heres-what-to-know/",
+          "date": "2026-07-02"
+        }
+      ],
+      "tags": [
+        "medicare-bridge",
+        "launch-day",
+        "cms",
+        "reuters",
+        "eligibility",
+        "prior-auth",
+        "us"
+      ]
+    },
     {
       "id": "story-054",
       "headline": "Novo Wegovy $199 Two-Month Promo Expires Today — Reverts to $349/$399 Cash as Medicare Bridge Takes Over",

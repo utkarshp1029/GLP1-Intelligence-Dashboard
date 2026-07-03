@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "regulatory-timeline",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 27,
+    "last_updated": "2026-07-03T00:00:00Z",
+    "entry_count": 28,
     "key_metrics": [
       {
         "label": "Total Events",
@@ -18,7 +18,7 @@
       },
       {
         "label": "Medicare Bridge",
-        "value": "LIVE July 1 · $50/mo"
+        "value": "LIVE since July 1 · $50/mo"
       },
       {
         "label": "FDA 503B (Apr 30)",
@@ -148,6 +148,23 @@
     }
   ],
   "entries": [
+    {
+      "id": "reg-entry-020",
+      "timestamp": "2026-07-03T00:00:00Z",
+      "source_url": "https://athletechnews.com/older-americans-left-out-of-costly-glp-1-craze-expected-to-flock-to-new-program/",
+      "source_name": "Reuters / CMS / American Action Forum",
+      "market": "us",
+      "summary": "Regulatory status July 1-3, 2026: (1) The Medicare GLP-1 Bridge went LIVE July 1 as scheduled — first-ever Medicare weight-loss coverage; prior-auth fax line activated, PAs processed retrospectively. (2) FDA 503B Bulks List — following the June 29 comment close (3,868 comments), a Federal Register extension notice pushes some comments to July 30; no post-close FDA signal published July 1-3. (3) Novo Bloomington FDA 90-day classification deadline (~late July) had no early signal in-window. No new CDSCO/DCGI actions in India in this window.",
+      "content": "July 1-3, 2026 regulatory status:\n\n1. MEDICARE BRIDGE — LIVE (July 1):\n   - Launched on schedule\n   - Prior-auth fax line activated July 1; PAs retrospective\n   - No documented systemic launch glitches as of July 3\n   - Runs through December 31, 2027\n\n2. FDA 503B BULKS LIST (post-close):\n   - Comment period closed June 29 with 3,868 comments\n   - Federal Register extension notice pushes some comments to July 30\n   - No post-close FDA signal or reaction published July 1-3\n   - Final action still expected H2 2026\n\n3. NOVO BLOOMINGTON:\n   - FDA 90-day classification deadline ~late July\n   - No early signal in-window\n\n4. INDIA:\n   - No new CDSCO/DCGI actions dated July 1-3\n   - Post-March-20 generic absorption phase continues\n\n5. NEXT REGULATORY MILESTONES:\n   - State Medicaid BALANCE RFA deadline: July 31\n   - Novo Bloomington classification: late July\n   - FDA 503B final action: H2 2026\n   - Foundayo post-market safety data: July 2026",
+      "tags": [
+        "regulatory",
+        "us",
+        "medicare-bridge",
+        "live",
+        "fda-503b",
+        "july-2026"
+      ]
+    },
     {
       "id": "reg-entry-019",
       "timestamp": "2026-06-30T00:00:00Z",

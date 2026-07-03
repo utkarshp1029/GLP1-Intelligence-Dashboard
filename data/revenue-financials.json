@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 20,
+    "last_updated": "2026-07-03T00:00:00Z",
+    "entry_count": 21,
     "key_metrics": [
       {
         "label": "Global GLP-1 Market 2025",
@@ -173,6 +173,23 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-017",
+      "timestamp": "2026-07-03T00:00:00Z",
+      "source_url": "https://www.americanactionforum.org/weekly-checkup/medicares-50-glp-1-promise-is-bigger-than-it-looks/",
+      "source_name": "American Action Forum / Verification check",
+      "market": "us",
+      "summary": "July 1-3 verification: No in-window earnings or pre-announcements — Lilly/Novo report Q2 late July/early August. The Medicare Bridge (live July 1) is a near-term revenue catalyst: Leerink previously estimated >$1B/year per company from Bridge access. AAF projects $1.3-3.3B federal Bridge spend over 18 months (10-25% uptake). Lilly's June 26 all-time high (~$1,238) holds. First Bridge revenue signal will come with Q2 prints.",
+      "content": "July 1-3 revenue verification: No new earnings in window. Bridge (live July 1) is the key near-term catalyst — Leerink estimated >$1B/yr per company; AAF projects $1.3-3.3B federal spend over 18 months. Lilly Q2 and Novo Q2 (late July/early Aug) will provide the first Bridge revenue read. LLY holds near June 26 ATH ~$1,238.",
+      "tags": [
+        "revenue",
+        "us",
+        "verification",
+        "bridge-catalyst",
+        "q2-pending",
+        "july-2026"
+      ]
+    },
     {
       "id": "rev-entry-016",
       "timestamp": "2026-06-30T00:00:00Z",

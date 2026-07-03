@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "insurance-reimbursement",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-07-03T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
         "label": "Medicare Bridge",
@@ -43,6 +43,18 @@
       {
         "label": "Walgreens Estimate",
         "value": "56M potential Medicare qualifiers"
+      },
+      {
+        "label": "Bridge Status",
+        "value": "LIVE since July 1 · $50/mo"
+      },
+      {
+        "label": "Eligibility Estimates",
+        "value": "CMS single-digit M · KFF ~4M · Lilly/Novo 20M"
+      },
+      {
+        "label": "AAF Federal Cost Est.",
+        "value": "$1.3–3.3B/18mo (10–25% uptake)"
       }
     ]
   },
@@ -120,6 +132,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "ins-entry-015",
+      "timestamp": "2026-07-03T00:00:00Z",
+      "source_url": "https://www.americanactionforum.org/weekly-checkup/medicares-50-glp-1-promise-is-bigger-than-it-looks/",
+      "source_name": "Reuters / American Action Forum / News4Jax",
+      "market": "us",
+      "summary": "The Medicare GLP-1 Bridge is LIVE as of July 1, 2026 — $50/month copay per 30-day supply for Wegovy (injection + tablet), Foundayo, and Zepbound KwikPen, running through Dec 31, 2027. American Action Forum's July 2 budget analysis provides the hardest numbers to date: 3.8M Part D enrollees meet Bridge eligibility (13.3M meet BMI thresholds; 9.7M meet clinical criteria, 2023 data). Projected federal spend: $1.3–3.3B over 18 months at 10–25% participation, rising to $6.7–10B at 50–75%. Gross Part D GLP-1 spending already hit $27.5B in 2024 (5x the 2019 level). CMS Director Chris Klomp projects 'single-digit millions' eligible; KFF estimates ~4M; Lilly/Novo cite up to 20M. Excludes patients already covered or using GLP-1s for T2D, OSA, or fatty liver.",
+      "content": "July 1-3, 2026 — Medicare GLP-1 Bridge launch:\n\n1. LIVE AS OF JULY 1, 2026:\n   - $50/month copay per 30-day supply (no dose escalation)\n   - Covered: Wegovy (injection + tablet), Foundayo (all formulations), Zepbound KwikPen\n   - Runs through December 31, 2027\n   - BIN 028918 / PCN MEDDGLP1BR via Humana (SS&C Health / RelayHealth)\n\n2. ELIGIBILITY ESTIMATES (widely divergent):\n   - CMS Director Chris Klomp: 'single-digit millions'\n   - KFF: ~4 million (2023 data)\n   - Eli Lilly / Novo Nordisk: up to 20 million\n   - AAF analysis: 3.8M Part D enrollees meet Bridge criteria; 13.3M meet BMI thresholds; 9.7M meet clinical criteria\n\n3. AAF FEDERAL COST PROJECTIONS (July 2 Weekly Checkup):\n   - 10-25% participation: $1.3-3.3B over 18 months\n   - 50-75% participation: $6.7-10B over 18 months\n   - CBO permanent Medicare obesity coverage estimate: ~$35B (2026-2034)\n   - Part D GLP-1 gross spending: $27.5B in 2024 (5x the 2019 level)\n\n4. ELIGIBILITY EXCLUSIONS (reaffirmed):\n   - Patients already receiving GLP-1 coverage\n   - Patients using GLP-1s for T2D, obstructive sleep apnea, or fatty liver (MASH)\n   - BMI tiers: ≥35; ≥30 + HF/HTN/CKD; ≥27 + prediabetes/MI/stroke/PAD\n\n5. LAUNCH-DAY FRICTION (Reuters, pharmacy orgs):\n   - Prior-authorization delays flagged\n   - Limited inventory at some pharmacies\n   - Longer waits attributed to mid-year launch timing\n   - PAs processed retrospectively; fax line activated July 1\n\n6. NO HARD DATA YET (as of July 3):\n   - No first-day enrollment counts published\n   - No prior-auth volume figures\n   - No documented systemic glitches\n   - First real uptake numbers expected mid-to-late July\n\n7. PATIENT/PHYSICIAN VOICES (Reuters):\n   - Patient Katie Smith (71): quoted $1,298.99 uncovered price pre-Bridge\n   - Dr. Christina Nguyen: calls the program 'a big win'\n\n8. NEXT MILESTONES:\n   - State Medicaid BALANCE RFA deadline: July 31\n   - Lilly/Novo Q2 earnings (late July/early Aug) — first Bridge revenue signal\n   - CBO updated scoring: Q3 2026",
+      "tags": [
+        "insurance",
+        "us",
+        "medicare-bridge",
+        "launch-day",
+        "aaf",
+        "federal-cost",
+        "eligibility",
+        "july-2026"
+      ]
+    },
     {
       "id": "ins-entry-014",
       "timestamp": "2026-06-30T00:00:00Z",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 32,
+    "last_updated": "2026-07-03T00:00:00Z",
+    "entry_count": 33,
     "key_metrics": [
       {
         "label": "Cheapest India (Vial)",
@@ -42,11 +42,15 @@
       },
       {
         "label": "Medicare Bridge Live",
-        "value": "July 1 — $50/mo flat (out of Part D)"
+        "value": "LIVE Jul 1 · $50/mo (per 30-day supply)"
       },
       {
         "label": "CVS MinuteClinic Virtual",
         "value": "$49 weight visit (47 states + DC)"
+      },
+      {
+        "label": "Part D GLP-1 Spend 2024",
+        "value": "$27.5B (5x 2019 level)"
       }
     ]
   },
@@ -875,6 +879,23 @@
     }
   ],
   "entries": [
+    {
+      "id": "pricing-entry-015",
+      "timestamp": "2026-07-03T00:00:00Z",
+      "source_url": "https://www.americanactionforum.org/weekly-checkup/medicares-50-glp-1-promise-is-bigger-than-it-looks/",
+      "source_name": "American Action Forum / Reuters",
+      "market": "us",
+      "summary": "With the Medicare Bridge live July 1 at $50/month, American Action Forum's July 2 analysis frames the true pricing stakes: Part D GLP-1 gross spending already hit $27.5B in 2024 (5x the 2019 level), and the 'temporary' $50 Bridge copay will create durable coverage expectations ahead of any permanent financing solution. The $50 copay compares against typical cash prices of $149 (Foundayo/Wegovy pill self-pay) to $399 (Wegovy HD). Federal spend projected $1.3-3.3B over the 18-month demonstration at 10-25% participation. Meanwhile the June 30 expiry of Novo's $199 Wegovy two-month promo reverted cash pricing to $349 (standard) / $399 (HD).",
+      "content": "July 1-3, 2026 pricing landscape — Bridge live:\n\n1. THE NEW MEDICARE PRICE POINT:\n   - $50/month copay per 30-day supply (Bridge, live July 1)\n   - vs typical cash: $149 (Foundayo lowest dose, Wegovy pill) to $399 (Wegovy HD)\n   - vs MFN negotiated government price: $245/month\n   - vs TrumpRx DTC: $350/month\n\n2. AAF COST FRAMING (July 2):\n   - Part D GLP-1 gross spending: $27.5B in 2024 (5x 2019 level)\n   - Bridge federal spend: $1.3-3.3B over 18 months (10-25% participation)\n   - Up to $6.7-10B at 50-75% participation\n   - Argues 'temporary' Bridge creates durable coverage expectations\n\n3. PRECEDING PRICING TRANSITION (June 30):\n   - Novo $199 Wegovy two-month promo EXPIRED June 30\n   - Reverted to $349/month standard, $399 Wegovy HD\n   - $25/month retained with commercial savings card\n   - Bridge eligible: $50/month from July 1\n\n4. FULL US PRICE LADDER (July 2026):\n   - Medicare Bridge: $50/mo (eligible beneficiaries)\n   - Commercial + savings card: $25/mo\n   - Foundayo/Wegovy pill self-pay: $149/mo\n   - Novo subscription: $249 (12-mo) / $329 (3-mo)\n   - MFN government: $245/mo\n   - TrumpRx DTC: $350/mo\n   - Cash retail: $349/mo std / $399 HD\n\n5. INDIA (unchanged from June 30):\n   - Generic semaglutide vials ₹1,290/mo\n   - Dr Reddy's oral Obeda Tablets ₹99-225/dose",
+      "tags": [
+        "pricing",
+        "us",
+        "medicare-bridge",
+        "aaf",
+        "part-d-spending",
+        "july-2026"
+      ]
+    },
     {
       "id": "pricing-entry-014",
       "timestamp": "2026-06-30T00:00:00Z",
