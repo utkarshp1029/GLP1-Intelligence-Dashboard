@@ -1,56 +1,40 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-07-03T00:00:00Z",
-    "entry_count": 33,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 34,
     "key_metrics": [
       {
-        "label": "Cheapest India (Vial)",
-        "value": "₹1,290/mo"
+        "label": "Medicare Bridge",
+        "value": "$50/mo · $245 mfr net"
+      },
+      {
+        "label": "Novo WAC Cut (Jan 1 2027)",
+        "value": "$675 all doses"
+      },
+      {
+        "label": "Wegovy Pill Self-Pay",
+        "value": "$149–299/mo by dose"
       },
       {
         "label": "Foundayo Self-Pay",
         "value": "$149–349/mo"
       },
       {
-        "label": "Medicare Bridge (Jul 1)",
-        "value": "$50/mo copay"
+        "label": "Zepbound KwikPen",
+        "value": "$299–449/mo"
       },
       {
-        "label": "TrumpRx DTC",
-        "value": "$350/mo"
+        "label": "Lilly Realized Price Q2",
+        "value": "−13% WW · −3% US"
       },
       {
-        "label": "MFN Medicare Price",
-        "value": "$245/mo"
+        "label": "CVS Virtual Visit",
+        "value": "$29 (cut from $49)"
       },
       {
-        "label": "Novo Subscription",
-        "value": "$249–329/mo"
-      },
-      {
-        "label": "India vs US Ratio",
-        "value": "1:25 (cheapest generic vs US cash)"
-      },
-      {
-        "label": "Dr Reddy's Obeda Tablets",
-        "value": "₹99/3mg · ₹225/14mg"
-      },
-      {
-        "label": "Wegovy $199 Promo Expires",
-        "value": "June 30 — reverts to $349 cash / $399 HD"
-      },
-      {
-        "label": "Medicare Bridge Live",
-        "value": "LIVE Jul 1 · $50/mo (per 30-day supply)"
-      },
-      {
-        "label": "CVS MinuteClinic Virtual",
-        "value": "$49 weight visit (47 states + DC)"
-      },
-      {
-        "label": "Part D GLP-1 Spend 2024",
-        "value": "$27.5B (5x 2019 level)"
+        "label": "India",
+        "value": "No price moves · first monthly decline"
       }
     ]
   },
@@ -879,6 +863,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "pricing-entry-016",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/lilly-reports-second-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-continued-growth-and-pipeline-progress-302843165.html",
+      "source_name": "Lilly Q2 / Novo Q2 / CVS / NPR / Financial Express",
+      "market": "both",
+      "summary": "Q2 confirmed real price erosion on both sides: Lilly realized prices fell 13% worldwide (US −3%, ~−9% ex-adjustments; international −36% on China NRDL), and Novo's US injectable Wegovy sales dropped 22% CER on price alone. Novo reconfirmed a Jan 1, 2027 WAC cut to $675 across Wegovy injection 2.4/7.2mg, Wegovy tablets up to 25mg, and Ozempic — roughly 50% off Wegovy and 35% off Ozempic. Novo also launched a 3/6/12-month subscription (30,000 enrolled, 20,000 on the pill) via Ro, WeightWatchers and LifeMD. CVS cut MinuteClinic virtual weight visits to $29 from $49. India saw no price moves at all — but posted its first monthly sales decline since generic entry.",
+      "content": "July–August 2026 pricing:\n\n1. REALIZED PRICE EROSION (Q2 actuals)\n   - Lilly: −13% worldwide; US −3% (~−9% ex one-time/rebate adjustments); international −36% (Mounjaro China NRDL)\n   - Novo: US injectable Wegovy sales −22% CER 'driven by lower realised prices, partly countered by increased volumes'\n   - Novo adjusted gross margin 78.2% vs 82.7%\n\n2. NOVO WAC CUT CONFIRMED FOR JAN 1, 2027\n   - $675 across all doses: Wegovy injection 2.4mg/7.2mg, Wegovy tablets to 25mg, Ozempic injection 0.5/1/2mg, Ozempic pill 7/14mg\n   - ~50% off Wegovy, ~35% off Ozempic; Novo flags 2027 cash flow impact\n\n3. SELF-PAY LADDER (verified)\n   - Medicare Bridge: $50/mo flat ($245 manufacturer net; federal share $195)\n   - Commercial + savings card: $25/mo\n   - Wegovy pill: $149–299/mo by dose — NOTE the $149 4mg price expires Aug 31, 2026, then $199\n   - Foundayo (LillyDirect): $149 (0.8mg) → $349 (17.2mg); list $649\n   - Zepbound KwikPen: $299 (2.5mg) → $449 (7.5–15mg)\n   - NovoCare: $199 introductory → $349\n   - Costco/Sesame: ~$349 + $65 membership\n\n4. NOVO SUBSCRIPTION (new in window)\n   - 3/6/12-month plans; 30,000 patients enrolled, 20,000 on Wegovy pill\n   - Live via Ro, WeightWatchers, LifeMD; Hims & Sesame pending\n   - Framed as a 'targeted surgical solution' to titration-driven price escalation, not a wholesale repricing\n   - Self-pay now ~35% of injectable Wegovy vs 10–15% a year ago\n\n5. TRUMPRX REALITY CHECK (NPR, Jul 16)\n   - 92 brand drugs listed (up from 43 at Feb launch) — under 12% of those companies' portfolios\n   - '$400M+ saved' counter had not updated in over a month; White House declined usage data\n   - Pharmacists report most TrumpRx inquiries concern GLP-1s\n   - Foundayo and Mounjaro are NOT on TrumpRx\n\n6. CVS (Aug 5)\n   - MinuteClinic virtual weight-management visit cut to $29 from $49, no membership\n   - Three-tier: $25 insured w/ coupon · $149 self-pay w/ voucher · $50 Medicare Bridge\n   - New Lilly collaboration: transparent pricing in CVS app, same-day pickup early Q4 across 9,000 pharmacies\n\n7. INDIA — NO PRICE MOVES, BUT DEMAND PLATEAU\n   - Zero price changes by any of 16 manufacturers checked\n   - NPPA fixed retail prices twice (Jul 10, 39 formulations; Aug 3, 23 formulations) — NO GLP-1 in either list; semaglutide remains outside DPCO control\n   - Monthly GLP-1 weight-loss sales fell to ₹227cr in June from a record ₹236cr in May — first monthly decline since patent expiry\n   - Growth collapsed to 2.3% in June from 12.1% in May and 58.4% in April (Pharmarack)\n   - Novo's April cuts (Ozempic −36%, Wegovy −48% to ₹5,660/mo) restored innovator competitiveness",
+      "tags": [
+        "pricing",
+        "us",
+        "india",
+        "q2-2026",
+        "price-erosion",
+        "novo-wac-2027",
+        "subscription",
+        "trumprx",
+        "cvs",
+        "npaa",
+        "august-2026"
+      ]
+    },
     {
       "id": "pricing-entry-015",
       "timestamp": "2026-07-03T00:00:00Z",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
         "label": "Tracked Trends",
@@ -122,6 +122,24 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-015",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://www.aboutlawsuits.com/ozempic-wegovy-mounjaro-lawsuit/",
+      "source_name": "AboutLawsuits / research-coverage note",
+      "market": "us",
+      "summary": "PARTIAL COVERAGE: the dedicated sentiment research agent for this cycle terminated on a session limit before completing, so no fresh quantified social listening was gathered. What was captured from adjacent streams: GLP-1 litigation volume is the clearest proxy for accumulated negative sentiment, and it grew - MDL 3094 (GI injury/gastroparesis) reached 3,928 pending cases as of Aug 3, and a SEPARATE NAION/vision-loss MDL 3163 has now reached 200 lawsuits. TGA Australia's class-wide NAION label change (Jul 23) is likely to become a discourse driver. No Reddit/TikTok volume metrics, subreddit growth figures, or sentiment scores were refreshed this cycle.",
+      "content": "NOTE ON COVERAGE: The dedicated supplements + sentiment research agent for the Jul 3 - Aug 8 cycle terminated early on an API session limit. No fresh quantified social listening was gathered. Flagging explicitly rather than fabricating sentiment metrics.\n\nWHAT WAS CAPTURED IN-WINDOW (from adjacent streams):\n\n1. LITIGATION AS A SENTIMENT PROXY (AboutLawsuits, Aug 3)\n   - MDL 3094 (GI injury / gastroparesis): 3,928 pending cases, up from ~3,848\n   - NEW and SEPARATE: MDL 3163 (NAION / vision loss) has reached 200 lawsuits\n   - Early proceedings focus on causation and warning adequacy\n   - Rule 702/Daubert hearing remains scheduled September 2026; first trials realistically 2027\n   - Judge Marston requires objective testing (e.g. gastric emptying study) to support any gastroparesis diagnosis\n\n2. LIKELY DISCOURSE DRIVERS SEEDED IN-WINDOW (not yet measured)\n   - TGA Australia class-wide NAION label change across all four GLP-1s (Jul 23)\n   - BMJ alopecia signal (Jul 22) - highly shareable, reported as under FDA review\n   - Tirzepatide FAERS 'starvation ketoacidosis' unlabeled signal (Jul 13)\n   - Medicare Bridge counter denials (Jul 6 and ongoing) - a concrete grievance narrative\n   - Novo v. Lilly false-advertising suit (Jul 21) - branded-vs-branded conflict is unusually legible to consumers\n\n3. WHAT AN EARLIER AGENT FLAGGED BUT COULD NOT VERIFY\n   - A 'pharmacy staff reported disappointment / patients walked away without the prescription' reaction surfaced in search but traced to a Today.com article that returned HTTP 403 - EXCLUDED rather than presented with an unverified date\n\nNOT CAPTURED THIS CYCLE (gaps to close next run):\n   - Reddit subreddit growth (r/Foundayo, r/Mounjaro, r/Zepbound, r/Semaglutide)\n   - TikTok/Instagram volume and sentiment scores\n   - Bridge-launch social reaction quantification\n   - Post-ADA retatrutide discourse\n   - India WhatsApp/regional-language sentiment\n   - Faux-zempic counterculture trend tracking\n\nSTATUS: carry-forward baseline from the Jun 30 cycle (UMD 400K-post Reddit study, May 24) remains the most recent quantified reference.",
+      "tags": [
+        "sentiment",
+        "partial-coverage",
+        "agent-terminated",
+        "mdl-3094",
+        "mdl-3163-naion",
+        "litigation-proxy",
+        "august-2026"
+      ]
+    },
     {
       "id": "sent-entry-014",
       "timestamp": "2026-06-30T00:00:00Z",

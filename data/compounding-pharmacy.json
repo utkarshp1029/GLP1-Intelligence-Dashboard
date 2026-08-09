@@ -1,48 +1,32 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 16,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 17,
     "key_metrics": [
       {
-        "label": "Tracked Pharmacies",
-        "value": "3"
+        "label": "FDA 503B Final Action",
+        "value": "NONE - comments closed Jul 30"
       },
       {
-        "label": "503B Facilities",
-        "value": "2"
+        "label": "Comment Count",
+        "value": "UNVERIFIED (regulations.gov blocks)"
       },
       {
-        "label": "FDA 503A Limit",
-        "value": "4 Rx/month/compounder"
+        "label": "503B Sector Size",
+        "value": "87 registered facilities (FDA FY27)"
       },
       {
-        "label": "Warning Letters",
-        "value": "50+ (cumulative)"
+        "label": "LifeMD Migration",
+        "value": "95% of new patients start branded"
       },
       {
-        "label": "FDA 503B Bulks Action",
-        "value": "Comment closes Jun 29"
+        "label": "PCAC Peptide Vote",
+        "value": "6 of 7 onto 503A - against FDA staff"
       },
       {
-        "label": "Lilly v. Empower",
-        "value": "Lanham Act claims survive"
-      },
-      {
-        "label": "Patient Migration",
-        "value": "Foundayo $149 · Wegovy oral $149"
-      },
-      {
-        "label": "FDA 503B Comment Period",
-        "value": "CLOSED Jun 29 · 3,868 comments"
-      },
-      {
-        "label": "FDA Cited AE Reports",
-        "value": ">1,700 (compounded sema/tirz)"
-      },
-      {
-        "label": "Final Action Expected",
-        "value": "H2 2026"
+        "label": "OFA v. FDA",
+        "value": "Argued Mar 30 - still undecided"
       }
     ]
   },
@@ -87,6 +71,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-014",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-07-30/pdf/2026-15342.pdf",
+      "source_name": "Federal Register / FDA / LifeMD 8-K / CourtListener",
+      "market": "us",
+      "summary": "The compounded-GLP-1 endgame is close but not closed. The 503B bulks comment period ended July 30 (extended from June 29) with NO final action as of Aug 8 - verified against the Federal Register API, which shows zero in-window FR documents on 503B GLP-1s. FDA's FY2027 fee notice disclosed the sector's true size: just 87 registered outsourcing facilities including 8 small businesses. The migration is essentially complete on the demand side - LifeMD stated that ~95% of all new weight-management patients now begin on branded GLP-1s and it is 'effectively at the end of its transition away from compounded.' Meanwhile FDA's own advisory committee voted 6 of 7 peptides ONTO the 503A bulks list against staff recommendation. CORRECTION: the widely-cited 3,868-comment figure could not be verified.",
+      "content": "July-August 2026 compounding:\n\n1. FDA 503B BULKS - NO FINAL ACTION (verified negative)\n   - Comment period closed Jul 30, 2026 - EXTENDED from June 29 by a June 26 Federal Register notice\n   - Zero FR documents mentioning semaglutide/tirzepatide/liraglutide in a 503B context published Jul 1 - Aug 8 (checked via Federal Register public API)\n   - CORRECTION: the '3,868 comments' figure the dashboard carried could NOT be independently verified - regulations.gov returns HTTP 403 to all automated access and its API requires a registered key\n   - Legal posture: the 503B bulks list is built through notice-and-comment NOTICES under FDCA 503B(a)(2), so the output is a final determination / list revision, NOT a codified rule\n   - Final action still expected H2 2026\n\n2. SECTOR SIZE DISCLOSED (FY2027 fee notice, Jul 30, 91 FR 48142)\n   - FDA estimates 87 REGISTERED OUTSOURCING FACILITIES in FY2027, including 8 small businesses\n   - That is the denominator for any 503B market model\n   - FY2027 rates (effective Oct 1, 2026): small-business establishment fee $7,142; non-small-business $22,074; reinspection $21,427\n   - Projected fee revenue $1,864,149\n\n3. MIGRATION ESSENTIALLY COMPLETE (LifeMD 8-K, Aug 5)\n   - Verbatim: 'Approximately 95% of all new weight management patients now begin treatment with branded GLP-1 therapies; with the guidance provided today, the Company believes it is effectively at the end of its transition away from compounded GLP-1 medications.'\n   - Q2 revenue $47.3M; ~108,000 Weight Management subscribers; total subscribers +20% YoY to ~356,000; gross margin ~89%\n   - BUT full-year guidance CUT to $205.5-212.5M from $220-230M - the transition has a real cost\n   - LifeMD integrated with LillyDirect's pharmacy provider Gifthealth for Zepbound single-dose vials\n   - WeightWatchers: clinical subscribers 197,000 (+55.7%) achieved 'despite lapping significant prior-year growth in Q2 2025 from the Company's former compounded semaglutide offering' (discontinued May 22, 2025)\n\n4. FDA'S OWN ADVISORY COMMITTEE BREAKS WITH STAFF (PCAC, Jul 23-24)\n   - Pharmacy Compounding Advisory Committee met at White Oak on seven peptide families\n   - Recommended SIX for 503A bulks list inclusion; FDA's own briefing documents proposed including NONE\n   - Day 1: BPC-157 (ulcerative colitis), KPV (wound healing), TB-500 (wound healing), MOTs-C (evaluated for OBESITY and osteoporosis)\n   - Day 2: Emideltide/DSIP (rejected), Semax, Epitalon\n   - This is the 503A track - no GLP-1s were on the agenda - but MOTs-C's obesity nomination puts it adjacent to the market\n   - Non-binding; changes nothing until rulemaking. Follow-up PCAC expected before Feb 2027.\n\n5. LITIGATION\n   - Lilly v. Empower (S.D. Tex. 4:25-cv-03464): docket entries 106-108 all dated Aug 3 (transcript request, transcript, notice of filing) indicating a hearing occurred. NO new substantive ruling in-window; the May 16 order preserving Lanham Act claims remains operative. A second, earlier Lilly v. Empower action exists in D.N.J. (2:25-cv-02183).\n   - OFA v. FDA (5th Cir. 25-10600, 25-10758): argued March 30, 2026 before Judges Richman, Duncan, Oldham; STILL UNDECIDED. Only in-window activity was administrative (Jul 7 caption substitution of Acting Commissioner Kyle Diamantas for Marty Makary).\n   - FTC + Utah + California sued Hims & Hers (Jul 29, N.D. Cal.) over sharing health data with Meta/Snap, charging before promised consultations, and burying cancellation. SCOPE CAVEAT: this is NOT a compounded-GLP-1 case. HIMS fell 10%.\n\n6. WHAT COULD NOT BE VERIFIED\n   - FDA warning letters / untitled letters / import alerts to compounders in-window: fda.gov blocked every automated route. Two third-party trackers show nothing after June 8. The known 2026 waves (March 3, ~30 letters; June 8/16, ~25 telehealth letters) both predate the window. Likely genuinely absent.\n   - Empower, Olympia, Hallandale, Strive, Red Rock: no dated in-window news for any. (Two widely-surfaced Empower CEO interviews are dated July 31, 2025 - a full year off.)\n   - The 503A ~4-rx/month threshold: no in-window development; it traces to FDA's April 1, 2026 clarification.\n\n7. TELEHEALTH PRICING SHIFTS (independent tracker, indicative not primary)\n   - Zealthy delisted following federal enforcement against FitRX LLC\n   - Ro cut annual-prepaid maintenance from $373 to $323/month and added Foundayo\n   - Eden moved to $99/mo membership + $99/mo COMPOUNDED semaglutide ($198 all-in) - still selling compounded\n   - Klarity Health delisted",
+      "tags": [
+        "compounding",
+        "us",
+        "503b",
+        "no-final-action",
+        "87-facilities",
+        "lifemd-95-percent",
+        "pcac",
+        "ofa-appeal",
+        "correction",
+        "august-2026"
+      ]
+    },
     {
       "id": "comp-entry-013",
       "timestamp": "2026-06-30T00:00:00Z",

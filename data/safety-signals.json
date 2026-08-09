@@ -1,40 +1,36 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
-        "label": "Active Safety Signals",
-        "value": "6"
+        "label": "NEW: Alopecia Signal",
+        "value": "HR 1.37 vs SGLT-2i · 1.68 vs DPP-4i (BMJ)"
       },
       {
-        "label": "Novo PADE Warning (Mar 5)",
-        "value": "3 unreported deaths"
+        "label": "Tirzepatide FAERS",
+        "value": "123,145 reports · starvation ketoacidosis unlabeled"
       },
       {
-        "label": "FAERS T2D vs Obesity",
-        "value": "Distinct AE profiles"
+        "label": "Lean Mass (BMJ NMA)",
+        "value": "Tirzepatide cuts most: 8.3%"
       },
       {
-        "label": "Wegovy HD Dysesthesia",
-        "value": "22.9% @ 7.2mg vs 6% @ 2.4mg"
+        "label": "Semaglutide Kidney",
+        "value": "HR 0.84 pooled (SELECT/FLOW/SOUL)"
       },
       {
-        "label": "Suicide Risk Review",
-        "value": "No increased risk (Apr 2026)"
+        "label": "GI MDL 3094",
+        "value": "3,928 cases"
       },
       {
-        "label": "Foundayo Post-Market",
-        "value": "Due July 2026"
+        "label": "NAION MDL 3163",
+        "value": "200 cases (new, separate)"
       },
       {
-        "label": "Reddit AI Study (May)",
-        "value": "400K posts · 44% report ≥1 AE"
-      },
-      {
-        "label": "Activity Decline (Jun)",
-        "value": "–560 steps/day on therapy"
+        "label": "TGA Class-Wide",
+        "value": "NAION added to all 4 GLP-1 labels"
       }
     ]
   },
@@ -80,6 +76,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "safety-entry-016",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42486607/",
+      "source_name": "BMJ / DOM / Lancet D&E / TGA / AboutLawsuits",
+      "market": "both",
+      "summary": "Two genuinely new safety signals emerged. BMJ (Jul 22) reported increased non-scarring alopecia risk in a target trial emulation — HR 1.37 vs SGLT-2i and 1.68 vs DPP-4i, reported as under FDA safety-signal review. A tirzepatide FAERS pharmacovigilance study (Jul 13) analysed 123,145 reports containing 251,435 adverse events and surfaced previously UNLABELED signals including starvation ketoacidosis, eructation, increased hunger and food cravings, with median onset 13 days. Counterweights were also strong: a pooled SELECT/FLOW/SOUL kidney analysis (n=30,787) showed HR 0.84, and a real-world tirzepatide cohort (n=52,971) showed MACE HR 0.68. TGA Australia issued the only class-wide label change of the window, adding NAION across all four marketed GLP-1s.",
+      "content": "July–August 2026 safety:\n\n1. ⭐ NEW SIGNAL — ALOPECIA (BMJ, Jul 22)\n   - Target trial emulation using EHR data\n   - GLP-1 vs SGLT-2i: 12,004 vs 15,221 initiators, HR 1.37 (95% CI 1.08–1.73)\n   - GLP-1 vs DPP-4i: 11,964 vs 11,238 initiators, HR 1.68 (1.28–2.20)\n   - Restricted to non-scarring alopecia: HR 1.53 (1.18–1.97) and 1.72 (1.28–2.31)\n   - Authors stress absolute risk is low; reported as under FDA safety-signal review\n\n2. ⭐ NEW — TIRZEPATIDE FAERS PHARMACOVIGILANCE (DOM, Jul 13)\n   - FAERS Q2 2022–Q4 2025: 123,145 reports containing 251,435 individual adverse events\n   - Strongest signals: medication errors, injection-site reactions, GI disorders\n   - PREVIOUSLY UNLABELED: eructation, increased hunger, food cravings, and STARVATION KETOACIDOSIS\n   - vs semaglutide: tirzepatide showed LOWER reporting odds of vomiting, constipation, decreased appetite\n   - Median time to onset 13 days; ~two-thirds of events within 30 days — argues for intensified first-month monitoring\n\n3. BMJ NETWORK META-ANALYSIS OF 19 OBESITY DRUGS (Jul 8)\n   - 262 RCTs, 99,791 participants\n   - 1-yr weight loss vs lifestyle: tirzepatide −14.9%, CagriSema −14.8%, oral semaglutide −10.9%, SC semaglutide −9.8%\n   - Highest discontinuation: orforglipron, naltrexone-bupropion, oral semaglutide (RR 1.9–4.2)\n   - ⚠️ TIRZEPATIDE CUT FAT MASS MOST (25.7%) BUT ALSO LEAN MASS MOST (8.3%)\n   - Only SC semaglutide reduced all-cause mortality (RR 0.81) and MI (0.72)\n   - Conclusion: larger benefits generally come with greater harms\n\n4. REASSURING COUNTERWEIGHTS\n   - Semaglutide kidney pooled analysis (Lancet D&E, Aug 7; SELECT+FLOW+SOUL, n=30,787): primary kidney composite HR 0.84 (0.77–0.91); excluding CV death HR 0.80 (0.69–0.92)\n   - Tirzepatide real-world MACE (BMJ, Aug 5; n=52,971 T2D+ASCVD): MACE HR 0.68, MI HR 0.67, all-cause mortality HR 0.55\n   - Neuropsychiatric (Clin Pharmacol Ther, Jul 30): antidepressant initiation aSR 0.85, SUD meds 0.70 — INVERSE associations, consistent with FDA's Jan 2026 no-suicidality conclusion\n\n5. TGA AUSTRALIA CLASS-WIDE NAION LABEL CHANGE (Jul 23)\n   - All four marketed GLP-1 RAs: semaglutide, tirzepatide, liraglutide, dulaglutide\n   - Semaglutide PI now states 'Some epidemiological studies indicate an increased risk of NAION during treatment with semaglutide'\n   - Australia DAEN: 36 optic ischaemic neuropathy reports (23 semaglutide, 10 tirzepatide, 3 liraglutide, 0 dulaglutide)\n\n6. LITIGATION\n   - MDL 3094 (GI injury/gastroparesis): 3,928 pending cases as of Aug 3, up from ~3,848\n   - NEW: MDL 3163 (NAION/vision loss) tracked separately, reached 200 lawsuits\n   - Rule 702/Daubert hearing remains scheduled September 2026; first trials realistically 2027\n   - Novo CagriSema securities fraud suit: Judge Kirsch (D.N.J.) allowed claims to proceed that Martin Holst Lange intended to defraud investors about tolerability by implying dosing protocols matched prior trials\n\n7. ⚠️ CORRECTION TO PRIOR DASHBOARD CLAIM — FOUNDAYO PMRs\n   - The dashboard previously stated 'four FDA-mandated PMR studies due July 2026'. That was WRONG.\n   - The approval letter (NDA 220934, Reference ID 5773652) lists NINE postmarketing studies (4977-1 through 4977-9)\n   - ONLY PMR 4977-7 (completing ACHIEVE-4 with adjudicated MACE plus DILI/Hy's Law assessment) carried a July 2026 final report date\n   - The others are years out: gastric retention (4977-8) final report MARCH 2029; lactation (4977-9) JUNE 2029; MTC registry (4977-6) runs to AUGUST 2043; pediatric deferrals Dec 2028/Feb 2032\n   - NO public disclosure that 4977-7 was submitted — Lilly's Q2 10-Q contains zero mentions of ACHIEVE-4 or its MACE results\n\n8. UNCHANGED\n   - Novo PADE warning letter (Mar 5): no resolution or close-out found\n   - Wegovy HD 7.2mg dysesthesia (22.9% vs 6.0%): no new data or label action\n   - No FDA label changes, boxed warnings or contraindications for any GLP-1 in the window\n   - No EMA/PRAC/MHRA GLP-1 action (both Jul meeting highlights checked directly)",
+      "tags": [
+        "safety",
+        "alopecia",
+        "faers",
+        "starvation-ketoacidosis",
+        "lean-mass",
+        "naion",
+        "tga",
+        "mdl",
+        "foundayo-pmr-correction",
+        "august-2026"
+      ]
+    },
     {
       "id": "safety-entry-015",
       "timestamp": "2026-06-30T00:00:00Z",

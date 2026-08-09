@@ -1,48 +1,36 @@
 {
   "meta": {
     "section_id": "regulatory-timeline",
-    "last_updated": "2026-07-03T00:00:00Z",
-    "entry_count": 28,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 29,
     "key_metrics": [
       {
-        "label": "Total Events",
-        "value": "28"
+        "label": "FDA 503B Bulks",
+        "value": "Comments closed Jul 30 · NO final action"
       },
       {
-        "label": "2026 Events",
-        "value": "22"
+        "label": "FDA Peptide Guidance",
+        "value": "2021 guidance WITHDRAWN Jul 29"
       },
       {
-        "label": "Latest US Action",
-        "value": "Trump MFN deal (Apr)"
+        "label": "Tirzepatide Para IV",
+        "value": "14 suits filed Aug 6 (D. Del.)"
+      },
+      {
+        "label": "Section 232 Tariffs",
+        "value": "Live Jul 31 · generics 2028"
+      },
+      {
+        "label": "India CDSCO",
+        "value": "Wegovy MASH approved · 7.2mg waiver declined"
+      },
+      {
+        "label": "TGA Australia",
+        "value": "Class-wide NAION label change"
       },
       {
         "label": "Medicare Bridge",
-        "value": "LIVE since July 1 · $50/mo"
-      },
-      {
-        "label": "FDA 503B (Apr 30)",
-        "value": "Bulks-list exclusion proposed"
-      },
-      {
-        "label": "CagriSema NDA",
-        "value": "Filed Dec 2025 · PDUFA H2"
-      },
-      {
-        "label": "India Latest",
-        "value": "MSN SEMABEST · ₹202/day Novo"
-      },
-      {
-        "label": "BALANCE Part D",
-        "value": "Delayed beyond 2027"
-      },
-      {
-        "label": "FDA 503B Comments",
-        "value": "3,868 received — closed Jun 29"
-      },
-      {
-        "label": "CMS PA Form",
-        "value": "Released Jun 26 — fax line live Jul 1"
+        "value": "LIVE · no CMS data published"
       }
     ]
   },
@@ -148,6 +136,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "reg-entry-021",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-07-29/pdf/2026-15285.pdf",
+      "source_name": "Federal Register / FDA / CDSCO / TGA",
+      "market": "both",
+      "summary": "The window's most consequential and least-covered FDA action: on July 29 (91 FR 47834) FDA published revised draft ANDA bioequivalence guidances for semaglutide, tirzepatide AND liraglutide, and WITHDREW the May 2021 synthetic-peptide guidance, stating it 'no longer reflects FDA's current scientific thinking' — the regulatory plumbing for peptide generics. Comments due Sept 28. Separately the 503B bulks comment period closed July 30 with NO final action as of Aug 8 (verified against the Federal Register API — zero in-window FR documents on 503B GLP-1s). India's CDSCO approved Wegovy for MASH but declined a local-trial waiver for semaglutide 7.2mg, finding no clinically meaningful benefit over 2.4mg — eight days before the EU approved that same dose. TGA Australia issued the window's only class-wide GLP-1 label change, adding NAION across all four marketed agents.",
+      "content": "July–August 2026 regulatory actions:\n\n1. ⭐ FDA OPENS THE GENERIC-PEPTIDE DOOR (Jul 29, 91 FR 47834, Docket FDA-2007-D-0369)\n   - Revised draft product-specific ANDA bioequivalence guidances for LIRAGLUTIDE, SEMAGLUTIDE and TIRZEPATIDE (each 'multiple reference listed drugs')\n   - Also covers calcitonin salmon, dasiglucagon, glucagon, pegcetacoplan, teriparatide, vosoritide\n   - WITHDREW the May 2021 guidance 'ANDAs for Certain Highly Purified Synthetic Peptide Drug Products That Refer to Listed Drugs of rDNA Origin' — first FR action on it since issuance\n   - FDA plans to revise and reissue within the year; comments due Sept 28, 2026\n\n2. FDA 503B BULKS LIST — NO FINAL ACTION (verified negative)\n   - Comment period closed Jul 30, 2026 (extended from June 29 by a Jun 26 FR notice)\n   - ZERO Federal Register documents mentioning semaglutide/tirzepatide/liraglutide in a 503B context published Jul 1–Aug 8 (checked via FR public API)\n   - CORRECTION: the widely-cited '3,868 comments' figure could NOT be verified — regulations.gov returns 403 to automated access\n   - Legal posture note: 503B bulks list is built via notice-and-comment NOTICES under FDCA §503B(a)(2) — the output is a final determination, not a codified rule\n\n3. TIRZEPATIDE PARAGRAPH IV LITIGATION (Aug 6)\n   - 14 ANDA suits filed D. Del. (1:26-cv-00972 through -00988, NOS 835, cause 35:271)\n   - Defendants: Alembic, Amneal, Aspiro, Biocon, Dr. Reddy's, Eugia, Galenicum, Hikma, Hybio, Macleods, MSN, Rio, Sandoz, Zydus\n   - Lilly 10-Q (Aug 5): received P-IV notices in July; 30-month stay expected\n   - Separately: Novo Nordisk Inc. v. Viatris filed W.D. Pa. Aug 7 (2:26-cv-01667)\n\n4. SECTION 232 PHARMA TARIFFS LIVE (Jul 31)\n   - 17 Annex III manufacturers effective Jul 31; other importers Sept 29\n   - Tiers: 100% default / 20% w/ Commerce-approved onshoring / 0% w/ onshoring + HHS MFN pricing\n   - Generics: zero duties through Aug 2028, then 100–200% absent US manufacturing commitments\n\n5. FDA PCAC VOTES AGAINST ITS OWN STAFF (Jul 23–24)\n   - Pharmacy Compounding Advisory Committee recommended 6 of 7 peptides for the 503A bulks list — FDA's briefing documents proposed including NONE\n   - Included: BPC-157, KPV, TB-500, MOTs-C (evaluated for OBESITY and osteoporosis), Semax, Epitalon; rejected Emideltide/DSIP\n   - Non-binding; no GLP-1s were on the agenda\n\n6. FOUNDAYO LABEL SUPPLEMENT S-003 APPROVED (Aug 4)\n   - Only FDA application action across all 29 GLP-1 applications in the window\n   - Substantive change: deletion of every light-sensitivity storage provision (§16.2, §17 counseling bullet, Medication Guide)\n   - Not a safety-related labeling change\n\n7. TGA AUSTRALIA — CLASS-WIDE NAION LABEL CHANGE (Jul 23)\n   - Product Information updated across ALL four marketed GLP-1 RAs: semaglutide (Ozempic, Wegovy), tirzepatide (Mounjaro), liraglutide (Saxenda), dulaglutide (Trulicity)\n   - Semaglutide PI now states 'Some epidemiological studies indicate an increased risk of NAION during treatment with semaglutide'\n   - Australia DAEN holds 36 optic ischaemic neuropathy reports: 23 semaglutide, 10 tirzepatide, 3 liraglutide, 0 dulaglutide\n   - The only class-wide GLP-1 label change by any regulator in the window\n\n8. INDIA — CDSCO ACTIONS\n   - Wegovy APPROVED for non-cirrhotic MASH (F2–F3 fibrosis), Jul 17; Emcure's Poviztra rides the same approval\n   - Semaglutide 7.2mg local-trial waiver DECLINED (SEC meeting Jul 7, released Jul 14): committee found it 'has not demonstrated any additional clinically meaningful benefit over the already approved 2.4mg dose', failing Rule 101 NDCT Rules 2019. Contrast: EU approved 7.2mg on Jul 15.\n   - Semaglutide 2mg pre-filled pen: Phase III waiver granted 'in line with the USFDA' but CONDITIONED on an India Phase IV trial (protocol due within 3 months of MA)\n   - Orforglipron pediatric Phase III (J2A-MC-GZGY): permission NOT granted — committee demanded justification for dulaglutide comparator and growth/pubertal/HPA-axis data\n   - Eloralintide Phase III recommended\n   - INTERPOL/WGEO falsified-semaglutide alert cascaded to states (HILMA Biocare, Batch FJ3178, Exp 02/2029)\n   - CGHS added Mounjaro to restricted list Jul 29 with BMI ≥35 (or ≥32.5 + comorbidity) criteria, specialist-only prescribing\n\n9. INTERNATIONAL\n   - EU: European Commission approved oral Wegovy 25mg (first oral GLP-1 for weight management in EU) and a single-dose 7.2mg pen — Jul 15\n   - China: semaglutide injectable added to National Essential Medicines List Jul 9 (effective Sept 1) — DIABETES ONLY, obesity excluded. NHC action, not NMPA approval.\n   - Canada: Health Canada approved Aspen-Semaglutide generic Ozempic (2mg/4mg pens), T2D only, Jul 20/21\n   - Brazil: ANVISA registered five semaglutide injectables (Owozy, Seemasun, Zempneo, Semavy, Orsema) Jul 29 — all diabetes-indicated\n\n10. CMS\n   - Medicare Bridge operational since Jul 1 under demonstration authority §402(a)(1)(A) SSA — NOT rulemaking; no FR rule exists\n   - CMS published ZERO press releases, MLN Matters articles or enrollment figures Jul 3–Aug 8\n   - BALANCE state Medicaid RFA closed Jul 31 with no applicant or selected-state list published\n   - HRSA 340B Rebate Model Pilot (Aug 3, 91 FR 48884) sweeps in semaglutide NDCs; manufacturer plans due Aug 24, effective Jan 1 2027",
+      "tags": [
+        "regulatory",
+        "us",
+        "india",
+        "global",
+        "fda-peptide-guidance",
+        "503b",
+        "paragraph-iv",
+        "section-232",
+        "pcac",
+        "tga-naion",
+        "cdsco",
+        "mash",
+        "august-2026"
+      ]
+    },
     {
       "id": "reg-entry-020",
       "timestamp": "2026-07-03T00:00:00Z",

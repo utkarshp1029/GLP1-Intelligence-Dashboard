@@ -1,20 +1,20 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-07-03T00:00:00Z",
-    "entry_count": 55,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 63,
     "key_metrics": [
       {
-        "label": "Stories This Week",
-        "value": "1 new (Bridge launch day)"
+        "label": "Stories This Period",
+        "value": "8 new (Jul 3 – Aug 8)"
       },
       {
-        "label": "Imminent Event",
-        "value": "Medicare Bridge LIVE (Jul 1)"
+        "label": "Q2 Earnings",
+        "value": "Lilly +48% · Novo shares −6%"
       },
       {
-        "label": "Sources Tracked",
-        "value": "35+"
+        "label": "Biggest Legal Event",
+        "value": "Lilly sues 14 over tirzepatide"
       },
       {
         "label": "Markets",
@@ -23,6 +23,271 @@
     ]
   },
   "stories": [
+    {
+      "id": "story-058",
+      "headline": "Lilly Sues 14 Generic Manufacturers Over Tirzepatide — Paragraph IV Wave Arrives for Mounjaro and Zepbound",
+      "summary": "Eli Lilly filed 14 Hatch-Waxman patent infringement suits in the District of Delaware on August 6, 2026 against Alembic, Amneal, Aspiro, Biocon, Dr. Reddy's, Eugia, Galenicum, Hikma, Hybio, Macleods, MSN, Rio Biopharmaceuticals, Sandoz and Zydus. Lilly's Q2 10-Q disclosed that in July it received notice that multiple generics had filed ANDAs for Mounjaro and/or Zepbound with Paragraph IV certifications. Nine patents are asserted including US 9,474,780. Upstream, FDA accepted Amneal/Adalvo's two ANDAs on July 8 (filed at NCE-1) and Sandoz's in late June. A 30-month stay is expected. This definitively answers the question the dashboard had tracked as open since the May 13 Para IV window opened.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-08-06",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Eli Lilly Form 10-Q (SEC)",
+          "title": "Tirzepatide Hatch-Waxman Litigation disclosure",
+          "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/lly-20260630.htm",
+          "date": "2026-08-05"
+        },
+        {
+          "publication": "Amneal",
+          "title": "Amneal and Adalvo announce FDA acceptance for review of two U.S. ANDAs for generic tirzepatide autoinjector",
+          "url": "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-and-Adalvo-Announce-FDA-Acceptance-for-Review-of-Two-U-S--ANDAs-for-Generic-Tirzepatide-Autoinjector-2026-_ei9_NKxPV/default.aspx",
+          "date": "2026-07-08"
+        },
+        {
+          "publication": "CourtListener",
+          "title": "Eli Lilly & Company v. Galenicum Health SLU (D. Del.)",
+          "url": "https://www.courtlistener.com/docket/73731144/eli-lilly-company-v-galenicum-health-slu/",
+          "date": "2026-08-06"
+        }
+      ],
+      "tags": [
+        "eli-lilly",
+        "tirzepatide",
+        "paragraph-iv",
+        "hatch-waxman",
+        "litigation",
+        "generics",
+        "us"
+      ]
+    },
+    {
+      "id": "story-056",
+      "headline": "Lilly Q2 2026: Revenue Up 48% to $23.0B, Mounjaro Alone Hits $9.9B, Guidance Raised to $85–87B",
+      "summary": "Eli Lilly reported Q2 revenue of $23.0B (+48%) — US $14.4B (+33%), international $8.6B (+80%). Mounjaro worldwide reached $9.9B (+91%), Zepbound US $4.9B (+44%), and Foundayo booked $98M in its first reported quarter (slightly below ~$104M consensus). Volume grew 60% while realized prices fell 13% worldwide (US −3%, international −36% on Mounjaro's China NRDL addition). Full-year guidance raised from $82–85B to $85–87B; non-GAAP EPS narrowed to $35.50–36.50 after $2.8B of acquired IPR&D charges. On the call, Lilly described a 'significant inflection point' in Zepbound and Foundayo scripts driven by the Medicare Bridge — Foundayo's prescriber base expanded from 8,000 to 36,000, with volume nearly doubling in the last week of July.",
+      "market": "global",
+      "category": "business",
+      "timestamp": "2026-08-05",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Eli Lilly (PR Newswire)",
+          "title": "Lilly reports second-quarter 2026 financial results, raises full-year guidance",
+          "url": "https://www.prnewswire.com/news-releases/lilly-reports-second-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-continued-growth-and-pipeline-progress-302843165.html",
+          "date": "2026-08-05"
+        },
+        {
+          "publication": "StockAnalysis",
+          "title": "Eli Lilly (LLY) Q2 2026 Earnings Call Transcript",
+          "url": "https://stockanalysis.com/stocks/lly/transcripts/553767-q2-2026/",
+          "date": "2026-08-05"
+        }
+      ],
+      "tags": [
+        "eli-lilly",
+        "q2-2026",
+        "earnings",
+        "mounjaro",
+        "zepbound",
+        "foundayo",
+        "medicare-bridge",
+        "global"
+      ]
+    },
+    {
+      "id": "story-057",
+      "headline": "Novo Q2 2026: Shares Fall 6% as US Injectable Wegovy Drops 22% on Price — Pill Misses Consensus",
+      "summary": "Novo Nordisk posted Q2 adjusted sales of DKK 78.5B (+7% CER) and adjusted operating profit +11% CER, but shares fell ~6%. US injectable Wegovy sales dropped 22% at CER on lower realized prices. The Wegovy pill delivered DKK 3,218M (~$494M) against roughly DKK 3.6B consensus — the miss that drove the selloff — despite crossing 5M cumulative US prescriptions since its January 5 launch and holding ~90% of the US oral obesity market. Gross margin compressed to 78.2% from 82.7%. Reported operating profit fell 16% CER on DKK 6.3B of non-cash impairments including DKK 4.0B for monlunabant. Guidance was nonetheless raised to 0% to −6% CER from −4% to −12%.",
+      "market": "global",
+      "category": "business",
+      "timestamp": "2026-08-04",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Novo Nordisk",
+          "title": "Novo Nordisk reports adjusted operating profit of DKK 33,389 million for Q2 2026 and raises full-year outlook",
+          "url": "https://www.globenewswire.com/news-release/2026/08/04/3338662/0/en/Novo-Nordisk-reports-adjusted-operating-profit-of-DKK-33-389-million-for-Q2-2026-and-raises-full-year-outlook.html",
+          "date": "2026-08-04"
+        },
+        {
+          "publication": "BioPharma Dive",
+          "title": "Lilly, Novo Q2 2026: Wegovy pill, Foundayo, obesity",
+          "url": "https://www.biopharmadive.com/news/lilly-novo-earnings-2q-2026-wegovy-pill-foundayo-obesity/827027/",
+          "date": "2026-08-05"
+        }
+      ],
+      "tags": [
+        "novo-nordisk",
+        "q2-2026",
+        "earnings",
+        "wegovy",
+        "wegovy-pill",
+        "price-erosion",
+        "global"
+      ]
+    },
+    {
+      "id": "story-060",
+      "headline": "Medicare Bridge at One Month: Strong Manufacturer Signals, Zero CMS Data, and Claim-Routing Failures at the Counter",
+      "summary": "One month after the July 1 launch, CMS had published no enrollment, prior-authorization, or claims data — leaving manufacturer commentary as the only uptake evidence. Lilly reported 60–70% of Bridge patients were new to therapy with ~80% choosing injectables; Novo called uptake 'encouraging' but cautioned durability is 'yet to be seen.' Pharmacy Times documented the core operational problem: because the Bridge sits outside Part D, claims submitted through a patient's normal Part D plan produce 'denial-like rejections that never reach the Bridge processor,' worst at independent pharmacies. PAs are otherwise clearing within the 24–72 hour spec. Eligibility estimates remain wildly divergent — CMS Director Chris Klomp says 'single-digit millions,' KFF ~3.8M, Lilly cites 20M.",
+      "market": "us",
+      "category": "insurance",
+      "timestamp": "2026-08-01",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Forbes",
+          "title": "Medicare's GLP-1 Bridge program offers access, but isn't straightforward",
+          "url": "https://www.forbes.com/sites/joshuacohen/2026/08/01/medicares-glp-1-bridge-program-offers-access-but-isnt-straightforward/",
+          "date": "2026-08-01"
+        },
+        {
+          "publication": "Pharmacy Times",
+          "title": "Two weeks in: what the Medicare GLP-1 Bridge actually looks like at the counter",
+          "url": "https://www.pharmacytimes.com/view/two-weeks-in-what-the-medicare-glp-1-bridge-actually-looks-like-at-the-counter",
+          "date": "2026-07-23"
+        }
+      ],
+      "tags": [
+        "medicare-bridge",
+        "cms",
+        "no-data",
+        "claim-routing",
+        "prior-auth",
+        "us"
+      ]
+    },
+    {
+      "id": "story-062",
+      "headline": "Section 232 Pharmaceutical Tariffs Take Effect July 31 — Generics Face 100–200% From 2028 Without US Manufacturing",
+      "summary": "The Section 232 pharmaceutical tariff regime went live July 31, 2026 for the 17 Annex III manufacturers, with other covered importers following September 29. Four tiers apply: 100% default, 20% with Commerce-approved onshoring, 0% with onshoring plus HHS most-favored-nation pricing, and preferential rates by origin. Carve-outs cover orphan drugs, cell and gene therapies, ADCs, nuclear medicines and plasma-derived products. Generics run a separate track — zero duties through August 2028, then escalating to 100–200% absent US manufacturing commitments. This is the fiscal logic underneath the Lilly and Novo US build-outs, and it puts direct structural pressure on India-sourced generics and China-linked API supply.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-07-31",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Pharmaceutical Commerce",
+          "title": "FAQ: Pharma's July 31 tariff deadline has passed — now what?",
+          "url": "https://www.pharmaceuticalcommerce.com/view/faq-pharmas-july-31-tariff-deadline-has-passed-now-what-",
+          "date": "2026-07-31"
+        }
+      ],
+      "tags": [
+        "section-232",
+        "tariffs",
+        "onshoring",
+        "mfn",
+        "generics",
+        "india",
+        "china-api",
+        "us"
+      ]
+    },
+    {
+      "id": "story-061",
+      "headline": "Retatrutide Posts 22.6% Weight Loss in TRIUMPH-3 — But Cardiovascular Event Benefit Falls Short of Significance",
+      "summary": "Lilly reported topline results from two more Phase 3 retatrutide trials on July 23. TRIUMPH-3 (n=1,949, BMI ≥35 with established cardiovascular disease, 80 weeks) delivered 22.6% weight loss (−55.8 lbs) at 12mg vs 3.2% placebo, alongside triglycerides −37.0%, non-HDL-C −16.5%, systolic BP −9.3 mmHg and hsCRP −51.2%. However the cardiovascular endpoints did not reach significance: MACE-5 HR 0.82 (95% CI 0.55–1.22) and MACE-3 HR 1.12 (0.64–1.96). TRIUMPH-2 (n=1,152, obesity + T2D) showed 20.8% weight loss and A1C −1.5% at 12mg. GI tolerability remains the trade-off, with AE discontinuation up to 13.5%. Lilly's BLA now guides to Q1 2027, slipping from prior Q4 2026 expectations.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-07-23",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Eli Lilly (PR Newswire)",
+          "title": "Lilly's triple agonist retatrutide successful in two additional Phase 3 obesity trials",
+          "url": "https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-successful-in-two-additional-phase-3-obesity-trials-delivering-significant-improvements-in-weight-and-a1c-302832674.html",
+          "date": "2026-07-23"
+        },
+        {
+          "publication": "FierceBiotech",
+          "title": "Lilly's triple-G drug hits 22.6% weight loss, but impact on reducing cardio risk is less clear",
+          "url": "https://www.fiercebiotech.com/biotech/lillys-triple-g-drug-hits-226-weight-loss-cardio-risk-impact-disappoints",
+          "date": "2026-07-23"
+        }
+      ],
+      "tags": [
+        "retatrutide",
+        "eli-lilly",
+        "triumph-2",
+        "triumph-3",
+        "phase-3",
+        "mace",
+        "bla-2027",
+        "global"
+      ]
+    },
+    {
+      "id": "story-063",
+      "headline": "India Approves Wegovy for Fatty Liver Disease — First and Only GLP-1 Cleared for MASH",
+      "summary": "CDSCO approved Wegovy (semaglutide 2.4mg) on July 17 for non-cirrhotic MASH in adults with moderate-to-advanced fibrosis (F2–F3), making it the first and only GLP-1 receptor agonist approved for the indication in India. Strategically it is Novo's counter to generic erosion: MASH is an indication no Indian generic can promote, and reporting cites that two out of three Indians have some form of fatty liver disease. Emcure's co-marketed Poviztra brand rides the same innovator approval. Note the policy asymmetry — MASH is an explicit disqualifier for the US Medicare Bridge, so the same indication expands the label in India while narrowing eligibility in the US.",
+      "market": "india",
+      "category": "regulatory",
+      "timestamp": "2026-07-17",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "BioSpectrum India",
+          "title": "CDSCO approves Wegovy as first and only GLP-1 for adults living with fatty liver disease in India",
+          "url": "https://www.biospectrumindia.com/news/73/28153/cdsco-approves-wegovy-as-first-and-only-glp-1-for-adults-living-with-fatty-liver-disease-in-india.html",
+          "date": "2026-07-18"
+        },
+        {
+          "publication": "The Week",
+          "title": "Wegovy gets CDSCO approval: can Novo Nordisk's semaglutide change fatty liver treatment?",
+          "url": "https://www.theweek.in/news/health/2026/07/17/wegovy-gets-cdsco-approval-can-novo-nordisks-semaglutide-change-fatty-liver-treatment.html",
+          "date": "2026-07-17"
+        }
+      ],
+      "tags": [
+        "india",
+        "cdsco",
+        "wegovy",
+        "mash",
+        "fatty-liver",
+        "novo-nordisk",
+        "emcure"
+      ]
+    },
+    {
+      "id": "story-059",
+      "headline": "India's Generic Semaglutide Hit by Quality Shock: Dr Reddy's Halts Supply to Late October, Torrent and USV Recall",
+      "summary": "Dr Reddy's detected an API-related impurity during manufacturing scale-up and paused commercial semaglutide supply, guiding disruption to at least late October 2026. Because it supplies partners, the problem cascaded — Torrent recalled Semalix 2mg and 4mg pens on July 9 and USV pulled Usema. Dr Reddy's cut its FY27 pen target from 12 million to 6–7 million, took a ₹240 crore inventory provision, and reported Q1 FY27 profit down 68.7% to ₹443.5 crore with EBITDA margin compressed to 12.5% from 26.7%. Oral Obeda tablets are unaffected (different API source). Torrent booked only ₹50 crore of semaglutide sales against a ₹250 crore FY target and targeted supply restoration by August 31 via a new supplier. Shares fell ~9% over two sessions.",
+      "market": "india",
+      "category": "manufacturing",
+      "timestamp": "2026-07-09",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Medical Dialogues",
+          "title": "Recalls by Dr Reddy's, Torrent put spotlight on quality standards in India's semaglutide market",
+          "url": "https://medicaldialogues.in/news/industry/pharma/recalls-by-dr-reddys-torrent-put-spotlight-on-quality-standards-in-indias-semaglutide-market-174725",
+          "date": "2026-07-10"
+        },
+        {
+          "publication": "Business Standard",
+          "title": "Dr Reddy's Q1 results: profit falls 69% to ₹444 crore",
+          "url": "https://www.business-standard.com/companies/quarterly-results/dr-reddy-s-q1-results-profit-falls-69-to-444-crore-on-us-sales-decline-126072201184_1.html",
+          "date": "2026-07-22"
+        },
+        {
+          "publication": "ET Pharma",
+          "title": "Torrent taps new supplier for semaglutide, eyes supply restoration by Aug end",
+          "url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/torrent-taps-new-supplier-for-semaglutide-eyes-supply-restoration-by-aug-end/132785574",
+          "date": "2026-08-01"
+        }
+      ],
+      "tags": [
+        "india",
+        "dr-reddys",
+        "torrent",
+        "usv",
+        "recall",
+        "api-impurity",
+        "supply-disruption",
+        "quality"
+      ]
+    },
     {
       "id": "story-055",
       "headline": "Medicare GLP-1 Bridge Goes Live — Reuters Documents Launch Day as Dueling Eligibility Estimates Range 4M to 20M",

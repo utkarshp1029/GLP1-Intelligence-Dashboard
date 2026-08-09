@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 25,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 26,
     "key_metrics": [
       {
-        "label": "Best Phase 3 Weight Loss",
-        "value": "30.3% (Retatrutide @ 104w)"
+        "label": "Retatrutide TRIUMPH-3",
+        "value": "22.6% wt · MACE not significant"
       },
       {
-        "label": "Retatrutide TRIUMPH-1",
-        "value": "28.3% @ 80w · NDA 2027"
+        "label": "Retatrutide BLA",
+        "value": "Q1 2027 (slipped from Q4 2026)"
       },
       {
-        "label": "CagriSema REIMAGINE",
-        "value": "Beat sema head-to-head"
+        "label": "Orforglipron T2D",
+        "value": "FDA Regulatory Review"
       },
       {
-        "label": "Foundayo ACHIEVE-3",
-        "value": "Beat oral sema head-to-head"
+        "label": "CagriSema",
+        "value": "No public PDUFA · Novo says end-2026"
       },
       {
-        "label": "Survodutide SYNCHRONIZE",
-        "value": "16.6% wt · 63% liver fat"
+        "label": "Survodutide",
+        "value": "Still NO NDA filed"
       },
       {
-        "label": "New Phase 3 Entrants",
-        "value": "Pfizer · AZ · Innovent · Sciwind"
+        "label": "Zenagamtide",
+        "value": "2 Lancet Ph2 · AMBITION Ph3 by year-end"
       },
       {
-        "label": "ADA 2026",
-        "value": "Jun 5-8 · New Orleans"
+        "label": "Mazdutide GLORY-2",
+        "value": "16.65% at 60wk (JAMA)"
       }
     ]
   },
@@ -114,6 +114,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "trial-entry-021",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-successful-in-two-additional-phase-3-obesity-trials-delivering-significant-improvements-in-weight-and-a1c-302832674.html",
+      "source_name": "Lilly / Novo / JAMA / The Lancet / Hepatology",
+      "market": "global",
+      "summary": "Retatrutide's TRIUMPH-2 and -3 readouts (Jul 23) dominated the window — 22.6% weight loss in severe obesity with established CVD, but cardiovascular EVENT reduction did not reach significance (MACE-5 HR 0.82, 95% CI 0.55–1.22; MACE-3 HR 1.12). BLA now guides to Q1 2027. Orforglipron for T2D sits in FDA 'Regulatory Review' — filed but not approved. Novo renamed amycretin to zenagamtide and published both Phase 2 formulations in The Lancet (Jul 30), with AMBITION Phase 3 to launch before year-end. Mazdutide's GLORY-2 published in JAMA at 16.65% weight loss. Two persistent negatives: CagriSema still has no public PDUFA date, and survodutide still has no NDA on file.",
+      "content": "July–August 2026 pipeline:\n\n1. ⭐ RETATRUTIDE TRIUMPH-2 & TRIUMPH-3 (Jul 23)\n   - TRIUMPH-2 (NCT05929079, n=1,152, T2D+obesity, 80wk): −12.7%/−19.1%/−20.8% at 4/9/12mg vs −4.0% placebo; A1C −1.4/−1.6/−1.5% vs −0.2% (baseline 7.7%); AE discontinuation 3.8/11.6/7.7% vs 4.9%\n   - TRIUMPH-3 (NCT05882045, n=1,949, BMI ≥35 + established CVD, 80wk): −21.6% (9mg), −22.6% (12mg, −55.8 lbs) vs −3.2% placebo\n   - Risk factors moved hard: triglycerides −37.0%, non-HDL-C −16.5%, SBP −9.3 mmHg, waist −7.5 in, hsCRP −51.2%\n   - ⚠️ CV EVENTS DID NOT REACH SIGNIFICANCE: MACE-5 HR 0.82 (95% CI 0.55–1.22; 44 vs 52 events); MACE-3 HR 1.12 (0.64–1.96; 27 vs 23)\n   - AE discontinuation 9.8%/13.5% vs 4.8%; diarrhea up to 33.6%, nausea up to 28.0%\n   - BLA guides Q1 2027 via the biologics pathway — a slip from prior Q4 2026 expectations; reaffirmed at Q2 earnings\n   - Five positive Phase 3 studies now in hand\n\n2. ORFORGLIPRON (FOUNDAYO)\n   - T2D indication listed as 'Regulatory Review' on Lilly's pipeline page as of Aug 5 — submitted with a National Priority Review Voucher, NOT yet approved\n   - ACHIEVE-5 published JAMA Aug 4 (NCT06109311, n=546, insulin add-on): A1C −1.58/−1.88/−1.82% at 3/12/36mg vs −0.79% placebo; weight −2.6/−4.8/−5.4% vs +0.2%; no increased hypoglycemia\n   - Obesity indication remains Phase 3 across CV outcomes, hypertension, OSA, OA pain, PAD, stress urinary incontinence\n   - 'First Approval' monograph (Jul 21) notes submissions pending in EU, Japan, Canada\n\n3. NOVO — ZENAGAMTIDE (renamed from amycretin)\n   - Both Phase 2 formulations published simultaneously in The Lancet, Jul 30 (NCT06542874, T2D, 36wk)\n   - Subcutaneous (n=262): A1C −0.77% at 0.4mg to −1.56% at 40mg; 8% serious AEs\n   - Oral (n=186): A1C −0.5/−0.99/−1.09% at 6/25/50mg; GI AEs 26–47% vs 23% placebo\n   - AMBITION Phase 3 programme to launch before year-end\n\n4. CAGRISEMA — STILL NO PUBLIC PDUFA\n   - Novo reaffirmed only 'US regulatory decision end-2026 with potential 2027 launch' at Q2\n   - REDEFINE 9 completed (68wk, lower maintenance doses 1.0/1.7mg each component) — superior weight loss vs placebo\n   - NEW Phase IIIb initiated: higher fixed-dose CagriSema (cagrilintide 2.4mg + semaglutide 7.2mg) vs CagriSema 2.4/2.4 and vs semaglutide 7.2mg alone\n   - REDEFINE 1 post hoc (Jul 26): 30.3% of CagriSema patients reached BMI <27 AND WHtR <0.53 at wk 68 vs 19.1% semaglutide\n\n5. SURVODUTIDE — STILL UNFILED\n   - No NDA/BLA as of August 2026\n   - Phase 2 MASH mediation analysis (Hepatology, Aug 3, n=170): fibrosis improvement only 36.3% mediated by weight loss — supports a direct hepatic effect of glucagon agonism independent of weight\n\n6. OTHER PHASE 3 ENTRANTS\n   - Mazdutide GLORY-2 (JAMA, Aug 4; NCT06163873, n=461 Chinese adults): −16.65% vs −1.50% placebo at 60wk; 84.3% achieved ≥5%; AE discontinuation only 2.9% but vomiting 53.1%, nausea 46.9%\n   - Ecnoglutide: FIRST APPROVALS in China for T2D glycemic control (Jul 7)\n   - Zalfermin + semaglutide Phase 2 MASH (Lancet Gastro Hep, Jul 15, n=698): combo MISSED (24% vs 16% placebo, p=0.19); semaglutide 2.4mg alone nominally positive (30%, p=0.024)\n   - Early stage: HRS-7535 Phase 2 DKD (Jul 9), TERN-601 Phase 1/2 (Jul 30)\n\n7. ADJACENT — NOVO'S ZILTIVEKIMAB FAILS ZEUS (Jul 31)\n   - Anti-IL-6, NOT a GLP-1. Missed MACE primary in >6,300 patients, HR 0.99, despite target engagement\n   - Novo shares fell ~9%; materially reshaped Novo's cardiometabolic narrative\n\n8. ⚠️ REPUBLICATION TRAP\n   - CagriSema REIMAGINE 1/2/3, orforglipron ACHIEVE-2, survodutide SYNCHRONIZE-JP all carry Jul/Aug print dates but were published online Jun 7–8 (ADA-adjacent). NOT new news.\n\n9. PIPELINE NEGATIVES (verified)\n   - Petrelintide: no Phase 3 initiation announced; ZUPREME still guided H2 2026\n   - Eloralintide: no new readout; Phase 3 ongoing\n   - Berobenatide (Pfizer): no news; first late-stage data guided H2 2027. Pfizer separately DISCONTINUED an ex-Metsera GLP-1 and a GIPR prospect in its Q2 clearout\n   - Elecoglipron (AZ): no news; EMBOLD Phase 3 announced pre-window\n   - TRIUMPH-1 and TRIUMPH-5: no new disclosures\n   - No major obesity/diabetes congress fell in this window (ADA was Jun 5–8)",
+      "tags": [
+        "pipeline",
+        "retatrutide",
+        "triumph-3",
+        "mace",
+        "orforglipron",
+        "cagrisema",
+        "zenagamtide",
+        "mazdutide",
+        "survodutide",
+        "august-2026"
+      ]
+    },
     {
       "id": "trial-entry-020",
       "timestamp": "2026-06-30T00:00:00Z",

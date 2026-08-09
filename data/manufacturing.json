@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 20,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 21,
     "key_metrics": [
       {
-        "label": "Lilly Indiana (since 2020)",
-        "value": "$21B+ committed"
-      },
-      {
-        "label": "Lilly Lebanon API",
-        "value": "Opens 2027 · largest US site"
-      },
-      {
-        "label": "MFN Commitments",
-        "value": "$27B Lilly · $10B Novo"
-      },
-      {
         "label": "Novo Bloomington",
-        "value": "FDA classification late Jul"
+        "value": "OAI - failed re-inspection (Aug 7)"
       },
       {
-        "label": "India API Dependency",
-        "value": "~80% from China"
+        "label": "Section 232 Tariffs",
+        "value": "Live Jul 31 - 0% needs onshoring+MFN"
       },
       {
-        "label": "India Capacity (end 2026)",
-        "value": "~2M pens/month"
+        "label": "Lilly + Resilience",
+        "value": "$750M KwikPen device (Ohio)"
+      },
+      {
+        "label": "Lilly Houston API",
+        "value": "$6.5B campus in construction"
+      },
+      {
+        "label": "Samsung/PolyPeptide",
+        "value": "CHF 1.46B tender - GLP-1 rationale"
+      },
+      {
+        "label": "Novo Capex",
+        "value": "FALLING - DKK 24.0B H1 vs 28.1B"
       }
     ]
   },
@@ -86,6 +86,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "mfg-entry-017",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://investors.scholarrock.com/news-releases/news-release-details/scholar-rock-announces-fda-review-apitegromab-biologics-license",
+      "source_name": "Scholar Rock / Morningstar / Novo Q2 / Pharmaceutical Commerce",
+      "market": "both",
+      "summary": "Novo's Bloomington fill-finish site FAILED its FDA re-inspection - Scholar Rock disclosed on Aug 7 that Catalent Indiana notified it FDA classified the April 2026 inspection as Official Action Indicated, and Scholar Rock is removing the facility entirely from its apitegromab BLA. That is the site's second consecutive OAI. Separately, Section 232 pharmaceutical tariffs went live July 31 with a four-tier structure where 0% requires onshoring PLUS HHS MFN pricing - the fiscal logic underneath both companies' US build-outs. Lilly committed $750M with Resilience to US KwikPen device manufacturing and began construction on its $6.5B Houston orforglipron API campus. Counterintuitively, Novo's capex is FALLING and it took a ~DKK 3B charge to right-size manufacturing capacity agreements.",
+      "content": "July-August 2026 manufacturing:\n\n1. NOVO BLOOMINGTON - OAI, SECOND CONSECUTIVE FAILURE\n   - Disclosed Aug 7 via Scholar Rock investor release: Catalent Indiana LLC (Novo) notified customers that FDA classified the April 2026 inspection as OFFICIAL ACTION INDICATED\n   - Scholar Rock is REMOVING the facility from its apitegromab BLA rather than await remediation\n   - Site history: first OAI from the July 2025 inspection (issued Oct 10, 2025), warning letter Nov 20, 2025; April 2026 Form 483 carried eight observations - recurring mammalian-hair particulate, water/roof leakage in aseptic areas, pest findings, inadequate contamination control and investigation deficiencies\n   - Partner flight is now observable behavior, not speculation. Regeneron (Eylea HD, odronextamab - already CRL'd once) is also exposed.\n   - PROVENANCE NOTE: this is disclosed via PARTNER NOTIFICATION in an SEC-filed investor release, not by FDA publication. FDA's Inspection Classification Database carries a multi-month lag and does not yet reflect it. Novo's 37-page Q2 report (Aug 4) mentions neither Bloomington, Catalent, nor the inspection.\n   - Bloomington is a Wegovy/Ozempic fill-finish asset and was the $11B Catalent acquisition's centerpiece.\n\n2. SECTION 232 PHARMACEUTICAL TARIFFS LIVE (Jul 31)\n   - Effective for the 17 Annex III manufacturers Jul 31; other covered importers Sept 29\n   - FOUR TIERS: 100% default / 20% with Commerce-approved onshoring / 0% with onshoring PLUS HHS MFN pricing / preferential rates by origin\n   - Carve-outs: orphan drugs, cell and gene therapies, ADCs, nuclear medicines, plasma-derived products\n   - GENERICS SEPARATE TRACK: zero duties through Aug 2028, then escalating to 100-200% absent US manufacturing commitments\n   - Direct pressure mechanism on India-sourced generics and China-linked API supply\n   - This is why onshoring + MFN pricing is worth so much: it is literally what buys the 0% rate\n\n3. LILLY US BUILD-OUT\n   - Lilly + Resilience: $750M joint investment expanding Resilience's Cincinnati-region footprint (Blue Ash HQ + West Chester, Ohio) to produce LILLY'S KWIKPEN INJECTABLE DEVICE for diabetes and obesity medicines. ~1M sq ft across two facilities, 400+ new jobs, full operations early 2027. Partnership has already produced 150M+ doses.\n   - Houston Generation Park: $6.5B orforglipron API campus moved to CONSTRUCTION. Texas filings dated Jul 16 show ~$378M of shell-building permits across five structures (15,000-342,000 sq ft) on the 236-acre site. Shell completion end-2027, full site 2030. 615 permanent + ~4,000 construction jobs.\n   - Q2 gross margin 85.8% (+1.5pp) attributed primarily to 'improved cost of production and favorable product mix'; CEO cited 'new manufacturing capacity coming online'\n   - Cumulative Indiana commitments since 2020 now >$21B (the $4.5B May 6 LEAP addition was restated, not new)\n\n4. NOVO IS SHRINKING CAPACITY, NOT BUILDING\n   - H1 2026 capex (PP&E) DKK 24.0B vs DKK 28.1B H1 2025; Q2 alone DKK 12,675M (-14%)\n   - FY2026 capex guidance held at ~DKK 55B vs DKK 60B in 2025, and the report states capex 'is expected to decline' in coming years\n   - Q2 absorbed ~DKK 3B one-time costs for 'right-sizing of manufacturing capacity agreements' - unwinding external/contract commitments, a clean reversal from the shortage-era build-out\n   - Dragged adjusted gross margin to 78.2% from 82.7%\n   - CFO Karsten Munk Knudsen on the new API plants: 'we have validated the first product in the first facility... very low utilization from these facilities, which makes us also bullish in terms of being able to supply significant volumes in the years to come'\n\n5. CDMO CONSOLIDATION - SAMSUNG BIOLOGICS / POLYPEPTIDE (Jul 20)\n   - All-cash tender at CHF 44.31/share, ~CHF 1.46B (~$1.8B) for Swiss peptide-API CDMO PolyPeptide Group AG\n   - Largest biotech M&A by a South Korean company\n   - PolyPeptide runs sites in Sweden, Belgium, France, the US and INDIA; 70+ years of API heritage, 1,000+ peptides produced\n   - CEO John Rim explicitly cited 'modality expansion into peptides INCLUDING GLP-1'\n   - Closing expected end-2026, conditional on 66 2/3% acceptance\n   - Materially consolidates third-party GLP-1 peptide API capacity\n\n6. NO IN-WINDOW NEWS (verified)\n   - Lilly LEAP/Lebanon: no July-August milestone; Lebanon API still tracking to 2027\n   - Novo Athlone Ireland: nothing new; EUR 432M retrofit still staged end-2027 through 2028\n   - Novo Kalundborg: no announcement\n   - MFN manufacturing commitments ($27B Lilly / $10B Novo): no progress or drawdown disclosure; neither Q2 release mentions the figures\n   - India API producers (Divi's, Aurobindo, Neuland): no confirmed in-window announcements. Neuland's Bonthapally commercial peptide facility is slated 'summer 2026' but no opening date confirmed.\n   - REJECTED as out-of-window: Hovione's EUR 200M Seixal campus (press release dated March 2025, makes no GLP-1 claim); Lilly's $1.5B orforglipron pre-launch inventory build (February 2026)",
+      "tags": [
+        "manufacturing",
+        "us",
+        "bloomington-oai",
+        "section-232",
+        "tariffs",
+        "lilly-resilience",
+        "houston-api",
+        "samsung-polypeptide",
+        "novo-capex",
+        "august-2026"
+      ]
+    },
     {
       "id": "mfg-entry-016",
       "timestamp": "2026-06-30T00:00:00Z",

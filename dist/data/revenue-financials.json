@@ -1,56 +1,40 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-07-03T00:00:00Z",
-    "entry_count": 21,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 22,
     "key_metrics": [
       {
-        "label": "Global GLP-1 Market 2025",
-        "value": "$70.08B"
+        "label": "Lilly Q2 2026",
+        "value": "$23.0B (+48%)"
       },
       {
-        "label": "Global GLP-1 Market 2026",
-        "value": "$86.93B (est.)"
+        "label": "Mounjaro Q2",
+        "value": "$9.9B (+91%)"
       },
       {
-        "label": "Lilly Q1 2026",
-        "value": "$19.8B (+56%)"
+        "label": "Zepbound US Q2",
+        "value": "$4.9B (+44%)"
       },
       {
-        "label": "Lilly Mounjaro Q1",
-        "value": "$8.7B · world's #1 drug"
+        "label": "Foundayo Debut",
+        "value": "$98M (below consensus)"
       },
       {
-        "label": "Lilly 2026 Guidance",
-        "value": "$82–85B (raised)"
+        "label": "Lilly FY Guidance",
+        "value": "$85–87B (raised)"
       },
       {
-        "label": "Novo Q1 Wegovy Pill",
-        "value": "$354M · 3M+ Rx in 5 months"
+        "label": "Novo Q2 Adjusted",
+        "value": "DKK 78.5B (+7% CER)"
       },
       {
-        "label": "Lilly YTD vs Novo YTD",
-        "value": "+9% vs −17%"
+        "label": "LLY All-Time High",
+        "value": "$1,249.45 (Jul 7) · $1.06T cap"
       },
       {
-        "label": "Hims Q1",
-        "value": "$92M loss (branded pivot)"
-      },
-      {
-        "label": "Berenberg PT (Lilly)",
-        "value": "$1,135 · consensus $1,229"
-      },
-      {
-        "label": "Lilly All-Time High (Jun 29)",
-        "value": "$1,238 intraday · +14% YTD · +10% June"
-      },
-      {
-        "label": "Cantor Lilly PT (Jun 27)",
-        "value": "Overweight · ~$1,230"
-      },
-      {
-        "label": "Employer GLP-1 Coverage",
-        "value": "6% dropped 2026 · 5% planning 2027"
+        "label": "US Share Split",
+        "value": "Lilly ~60.9% / Novo ~38.8%"
       }
     ]
   },
@@ -173,6 +157,29 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-018",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/lilly-reports-second-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-continued-growth-and-pipeline-progress-302843165.html",
+      "source_name": "Lilly / Novo / WW / CVS / LifeMD / MarketBeat",
+      "market": "both",
+      "summary": "Q2 2026 was the quarter the Lilly–Novo gap became structural. Lilly: revenue $23.0B (+48%), Mounjaro $9.9B (+91%), Zepbound US $4.9B (+44%), Foundayo $98M debut, guidance raised to $85–87B. Novo: adjusted sales DKK 78.5B (+7% CER) but shares fell 6% as the Wegovy pill missed at DKK 3,218M vs ~DKK 3.6B consensus and US injectable Wegovy fell 22% on price. LLY set an all-time high of $1,249.45 intraday on July 7 (market cap $1.06T, +49% YoY) on a JPMorgan target raise to $1,400; ten LLY price-target raises landed in the window vs essentially none for Novo. India Q1 FY27 was brutal for generics: Dr Reddy's PAT −69%, Torrent booked only ₹50cr of a ₹250cr FY semaglutide target.",
+      "content": "Q2 2026 financials:\n\n1. ELI LILLY (Aug 5)\n   - Revenue $23.0B, +48% — US $14.4B (+33%), international $8.6B (+80%)\n   - Volume +60%; realized price −13% (US −3%, intl −36%)\n   - Mounjaro worldwide $9.9B (+91%) — US $4.8B (+45%), intl $5.2B (+172%)\n   - Zepbound US $4.9B (+44%)\n   - Foundayo $98M first reported quarter (vs ~$104M consensus)\n   - Mounjaro + Zepbound = $14.9B, ~two-thirds of company revenue, $6.3B of YoY growth\n   - Reported EPS $7.94 (+26%); non-GAAP $8.38 (+33%)\n   - FY guidance $82–85B → $85–87B; non-GAAP EPS narrowed to $35.50–36.50 (underlying ~$2.78 raise offset by $3.03/share, $2.8B pre-tax acquired IPR&D from Orna, Ajax, Centessa, Kelonia)\n   - Performance margin guidance raised to 49.0–50.5%\n   - Gross margin 85.8% (+1.5pp) on improved cost of production and mix\n\n2. NOVO NORDISK (Aug 4)\n   - Net sales DKK 78,488M (+3% CER reported, +7% CER adjusted)\n   - Adjusted operating profit DKK 33,389M (+11% CER); REPORTED operating profit DKK 27,061M (−16% CER)\n   - DKK 6.3B non-cash impairments incl. DKK 4.0B monlunabant; DKK 2.6B 340B rebate provision reversal\n   - Net profit DKK 20,989M (−21%); diluted EPS DKK 4.75 (−20%), adjusted DKK 6.18 (+5%)\n   - By brand (DKK m): Wegovy injectable 19,484 (+1%); Wegovy pill 3,218 (~$494M, vs ~3.6B consensus); Ozempic 31,375 (+5% CER); Rybelsus 5,228 (−4% CER)\n   - Obesity care DKK 23,152M (+16% CER); Diabetes care DKK 50,429M (+3% CER)\n   - Gross margin 78.2% (from 82.7%); adjusted operating margin 42.5%\n   - FY guidance raised from −4% to −12% up to 0% to −6% CER\n   - CAPEX FALLING: H1 DKK 24.0B vs 28.1B; FY guide ~DKK 55B vs 60B in 2025; plus ~DKK 3B one-time charge for 'right-sizing of manufacturing capacity agreements'\n\n3. MARKET SHARE\n   - Lilly ~60.9% vs Novo ~38.8% of US obesity+diabetes per Lilly's Q2 deck — ~22-point gap, fifth consecutive quarter of Lilly gains\n   - CAVEAT: sourced from a single aggregator citing Lilly's deck; the underlying PDF could not be verified\n   - The one segment Novo dominates: Wegovy pill at ~90% of the US oral obesity market\n\n4. EQUITIES\n   - LLY all-time high Jul 7: close $1,235.56, intraday $1,249.45, on JPMorgan raising $1,300 → $1,400\n   - Aug 7 close $1,185.71; market cap $1.06T, +49.4% over one year; 52-wk range $623.78–$1,249.45\n   - Ten in-window LLY target raises: JPM $1,400, RBC $1,500, BofA $1,334, Guggenheim $1,273, Bernstein $1,385, Citi $1,600, Cantor $1,410, Wells Fargo $1,330, Truist $1,376, UBS $1,376\n   - NVO fell 6% on earnings day, recovered to $47.26 (Aug 7); market cap $208.6B; 52-wk range $35.12–$64.16 — ~26% below its high vs Lilly ~5% below\n   - Novo drew almost no analyst action: BMO reiterated Market Perform $47; Weiss upgraded Sell→Hold\n\n5. OTHER OPERATORS\n   - WeightWatchers Q2: revenue $162.3M (−14.2%), but clinical revenue $39.9M (+30.4%) and clinical subscribers 197,000 (+55.7%); net income $14.1M; FY guidance reaffirmed $620–635M\n   - CVS Health Q2: revenue $106.1B (+7.3%), adjusted EPS $2.58, FY EPS guidance raised to $7.90–8.10; no GLP-1-specific volumes disclosed\n   - LifeMD Q2: revenue $47.3M (down from $49.0M), ~356,000 subscribers (+20%), ~108,000 weight-management; adjusted EBITDA −$3.5M; FY guidance CUT to $205.5–212.5M from $220–230M\n   - Viking Therapeutics Q2: net loss $128.0M, cash $502M (~4 quarters runway); VK2735 subcutaneous Phase 3 fully enrolled\n   - Hims & Hers has NOT reported — Q2 scheduled Aug 10, two days after this window\n\n6. INDIA Q1 FY27\n   - Dr Reddy's: PAT −68.7% to ₹443.5cr; revenue −5.5% to ₹8,099.8cr; ₹240cr semaglutide API provision; EBITDA margin 12.5% vs 26.7%\n   - Torrent: revenue ₹4,921cr (+55%), PAT ₹566cr; but only ₹50cr semaglutide vs ₹250cr FY target; generic semaglutide share 36% (down from 38%)\n   - Cipla: deferred semaglutide launch; Lilly-licensed tirzepatide Yurpeak hit ₹23.7cr in June, India's #2 GLP-1\n   - Sun Pharma India formulations ₹5,474.9cr (+16%)\n   - Mounjaro was India's TOP-SELLING DRUG BY VALUE: ₹102cr June, ₹110cr July",
+      "tags": [
+        "revenue",
+        "us",
+        "india",
+        "global",
+        "q2-2026",
+        "lilly",
+        "novo",
+        "market-share",
+        "lly-ath",
+        "weightwatchers",
+        "lifemd",
+        "august-2026"
+      ]
+    },
     {
       "id": "rev-entry-017",
       "timestamp": "2026-07-03T00:00:00Z",

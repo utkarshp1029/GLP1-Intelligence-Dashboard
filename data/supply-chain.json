@@ -1,36 +1,32 @@
 {
   "meta": {
     "section_id": "supply-chain",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
         "label": "Active Shortages",
-        "value": "Saxenda / Victoza only"
+        "value": "Liraglutide/Victoza only (reverified Aug 6)"
       },
       {
         "label": "Semaglutide & Tirzepatide",
-        "value": "No shortage"
+        "value": "Zero shortage records (openFDA)"
+      },
+      {
+        "label": "US Recalls in Window",
+        "value": "ZERO GLP-1 (88 records checked)"
+      },
+      {
+        "label": "India Disruption",
+        "value": "Dr Reddy's halted to late Oct"
+      },
+      {
+        "label": "Bridge Supply",
+        "value": "No stockouts detected"
       },
       {
         "label": "Wegovy Pill",
-        "value": "3M+ Rx · 1 fill every 5s"
-      },
-      {
-        "label": "India Cold-Chain",
-        "value": "DCGI flagged risk"
-      },
-      {
-        "label": "India Export Cleared",
-        "value": "Dr Reddy's + Sun Pharma"
-      },
-      {
-        "label": "Lilly Lebanon API",
-        "value": "Opens 2027 · largest US site"
-      },
-      {
-        "label": "Novo Bloomington",
-        "value": "FDA classification late Jul"
+        "value": "5M+ cumulative - 267K weekly"
       }
     ]
   },
@@ -71,6 +67,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "sc-entry-016",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://dps.fda.gov/drugshortages",
+      "source_name": "openFDA APIs / Novo Q2 / Reuters",
+      "market": "both",
+      "summary": "Supply verified against primary FDA APIs rather than press. Tirzepatide, dulaglutide and exenatide have ZERO shortage records. The only semaglutide entries are Rybelsus tablets marked 'To Be Discontinued' - a planned replacement by Ozempic tablets, not a supply failure. Liraglutide remains the sole active GLP-1 shortage, reverified in-window on Aug 6 for Novo's Victoza (reason: 'Delay in shipping of the drug'). Zero GLP-1 recalls appear across all 88 US drug enforcement records in the window - the Dr Reddy's recall was India-side only. The Medicare Bridge launch produced no detectable stockouts, and both companies raised guidance, which is inconsistent with a supply-constrained quarter.",
+      "content": "July-August 2026 supply chain (verified against openFDA APIs):\n\n1. FDA DRUG SHORTAGE DATABASE - VERIFIED STATUS (last_updated Aug 8)\n   - TIRZEPATIDE: zero records - no shortage\n   - DULAGLUTIDE: zero records\n   - EXENATIDE: zero records\n   - SEMAGLUTIDE: three records, ALL 'Semaglutide Tablet' (Rybelsus), status 'To Be Discontinued', posted 06/04/2026 - a PLANNED discontinuation with FDA noting the products 'will be replaced by Ozempic (semaglutide) tablets'. NOT a supply failure and out of window.\n   - NO injectable semaglutide or tirzepatide shortage exists. No new GLP-1 shortage opened Jul 3 - Aug 8.\n\n2. LIRAGLUTIDE - THE ONE ACTIVE SHORTAGE, REVERIFIED IN-WINDOW\n   - Novo's Victoza 6 mg/mL (NDC 0169-4060-12/-13): 'Current / Limited Availability', reason 'Delay in shipping of the drug', duration TBD - REVERIFIED 2026-08-06\n   - Saxenda (0169-2800-15) and Teva-distributed liraglutide listed Available\n   - Hikma presentations reverified 07/13/2026 as Available; Meitheal Limited Availability; Teva discontinuing its 6 mg/mL presentation\n   - POLICY INTERACTION: shortage status is an INDEPENDENT statutory basis for compounding under FDCA 503A(b)(2)/503B(a)(2), separate from the bulks list. FDA's proposed 'no clinical need' exclusion of liraglutide therefore sits alongside an ACTIVE liraglutide shortage.\n\n3. ZERO GLP-1 RECALLS IN THE US (verified negative)\n   - All 88 drug enforcement records with report dates Jul 3 - Aug 8 checked via openFDA\n   - NONE involve semaglutide, tirzepatide, liraglutide or dulaglutide\n   - Only Indian-manufacturer hits were unrelated: Cipla cinacalcet tablets, Lupin prednisolone acetate ophthalmic (both Jul 8)\n   - Most recent GLP-1 recall remains 2026-05-27 (Lupin liraglutide, Class II)\n   - The Dr Reddy's/Torrent/USV recall was INDIA-side and does not appear in FDA enforcement records\n\n4. INDIA SUPPLY DISRUPTION (the real supply story)\n   - Dr Reddy's paused commercial semaglutide supply over an API impurity; disruption guided to at least late October 2026\n   - Affects India AND Canada; oral Obeda unaffected\n   - FY27 target cut 12M to 6-7M pens; Nirmal Bang cut FY27 semaglutide revenue estimate to $75M from $144M assuming a five-month halt\n   - Dr Reddy's warned publicly that the disruption 'could weigh on global market availability'\n   - Torrent targeting restoration by Aug 31 via a new supplier\n\n5. MEDICARE BRIDGE - NO SUPPLY STRESS DETECTED\n   - Novo Q2: 'The US Bridge programme went into effect on 1 July and Novo Nordisk sees encouraging early uptake'\n   - EVP Jamey Millar: 'we're very pleased with the volume so far. Whether or not that is durable and sustainable is yet to be seen.'\n   - No evidence of stockouts, allocation, or disruption attributable to Bridge demand\n   - Both Novo and Lilly RAISED full-year guidance in the same week - inconsistent with a supply-constrained quarter\n\n6. WEGOVY PILL SUPPLY KEEPING PACE\n   - Q2 sales DKK 3,141M; 5M+ cumulative US prescriptions since the Jan 5 launch\n   - Most recent 1 million added in just four weeks; 267,000 weekly prescriptions as of Jul 17\n   - ~90% of the US oral obesity market; also launched in the UK in early July\n   - No supply constraint flagged\n\n7. FORWARD RISK\n   - Novo Bloomington OAI (Aug 7) is the single largest supply risk to watch - a Wegovy/Ozempic fill-finish asset now in an unacceptable compliance state with partners walking\n   - Section 232 generics tariffs (100-200% from Aug 2028) are the structural medium-term risk to India-sourced supply",
+      "tags": [
+        "supply-chain",
+        "us",
+        "india",
+        "openfda-verified",
+        "liraglutide-shortage",
+        "zero-recalls",
+        "dr-reddys",
+        "bridge",
+        "bloomington-risk",
+        "august-2026"
+      ]
+    },
     {
       "id": "sc-entry-015",
       "timestamp": "2026-06-30T00:00:00Z",

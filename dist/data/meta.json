@@ -1,203 +1,159 @@
 {
-  "last_full_update": "2026-07-03T00:00:00Z",
+  "last_full_update": "2026-08-09T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
       "file": "pricing.json",
-      "last_updated": "2026-07-03T00:00:00Z",
-      "entry_count": 33,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 34,
       "key_metrics": [
         {
-          "label": "Cheapest India (Vial)",
-          "value": "₹1,290/mo"
+          "label": "Medicare Bridge",
+          "value": "$50/mo · $245 mfr net"
+        },
+        {
+          "label": "Novo WAC Cut (Jan 1 2027)",
+          "value": "$675 all doses"
+        },
+        {
+          "label": "Wegovy Pill Self-Pay",
+          "value": "$149–299/mo by dose"
         },
         {
           "label": "Foundayo Self-Pay",
           "value": "$149–349/mo"
         },
         {
-          "label": "Medicare Bridge (Jul 1)",
-          "value": "$50/mo copay"
+          "label": "Zepbound KwikPen",
+          "value": "$299–449/mo"
         },
         {
-          "label": "TrumpRx DTC",
-          "value": "$350/mo"
+          "label": "Lilly Realized Price Q2",
+          "value": "−13% WW · −3% US"
         },
         {
-          "label": "MFN Medicare Price",
-          "value": "$245/mo"
+          "label": "CVS Virtual Visit",
+          "value": "$29 (cut from $49)"
         },
         {
-          "label": "Novo Subscription",
-          "value": "$249–329/mo"
-        },
-        {
-          "label": "India vs US Ratio",
-          "value": "1:25 (cheapest generic vs US cash)"
-        },
-        {
-          "label": "Dr Reddy's Obeda Tablets",
-          "value": "₹99/3mg · ₹225/14mg"
-        },
-        {
-          "label": "Wegovy $199 Promo Expires",
-          "value": "June 30 — reverts to $349 cash / $399 HD"
-        },
-        {
-          "label": "Medicare Bridge Live",
-          "value": "LIVE Jul 1 · $50/mo (per 30-day supply)"
-        },
-        {
-          "label": "CVS MinuteClinic Virtual",
-          "value": "$49 weight visit (47 states + DC)"
-        },
-        {
-          "label": "Part D GLP-1 Spend 2024",
-          "value": "$27.5B (5x 2019 level)"
+          "label": "India",
+          "value": "No price moves · first monthly decline"
         }
       ]
     },
     "generics-tracker": {
       "file": "generics-tracker.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 30,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 31,
       "key_metrics": [
         {
-          "label": "India Brand Count",
-          "value": "50+ semaglutide brands"
+          "label": "Tirzepatide Para IV",
+          "value": "ANSWERED — 14 suits filed Aug 6"
+        },
+        {
+          "label": "Tirzepatide ANDAs",
+          "value": "Amneal/Adalvo + Sandoz accepted"
+        },
+        {
+          "label": "India Supply",
+          "value": "Dr Reddy's halted to late Oct"
+        },
+        {
+          "label": "Dr Reddy's FY27 Target",
+          "value": "Cut 12M → 6–7M pens"
+        },
+        {
+          "label": "Torrent Share",
+          "value": "36% Q1 FY27 (was 38%)"
+        },
+        {
+          "label": "India Market",
+          "value": "First monthly decline — ₹227cr June"
         },
         {
           "label": "India Tirzepatide",
           "value": "Mounjaro + Cipla Yurpeak duopoly"
-        },
-        {
-          "label": "Cheapest India Vial",
-          "value": "₹1,290/mo (Natco)"
-        },
-        {
-          "label": "5yr Market Forecast",
-          "value": "₹12,000 Cr (Nomura)"
-        },
-        {
-          "label": "Dr Reddy's Oral Obeda",
-          "value": "₹99/3mg tablet (May 20)"
-        },
-        {
-          "label": "Torrent Share",
-          "value": "~38% in first 30 days"
-        },
-        {
-          "label": "Tirz Para IV (US)",
-          "value": "Opened May 13 · no ANDAs yet"
         }
       ]
     },
     "regulatory-timeline": {
       "file": "regulatory-timeline.json",
-      "last_updated": "2026-07-03T00:00:00Z",
-      "entry_count": 28,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 29,
       "key_metrics": [
         {
-          "label": "Total Events",
-          "value": "28"
+          "label": "FDA 503B Bulks",
+          "value": "Comments closed Jul 30 · NO final action"
         },
         {
-          "label": "2026 Events",
-          "value": "22"
+          "label": "FDA Peptide Guidance",
+          "value": "2021 guidance WITHDRAWN Jul 29"
         },
         {
-          "label": "Latest US Action",
-          "value": "Trump MFN deal (Apr)"
+          "label": "Tirzepatide Para IV",
+          "value": "14 suits filed Aug 6 (D. Del.)"
+        },
+        {
+          "label": "Section 232 Tariffs",
+          "value": "Live Jul 31 · generics 2028"
+        },
+        {
+          "label": "India CDSCO",
+          "value": "Wegovy MASH approved · 7.2mg waiver declined"
+        },
+        {
+          "label": "TGA Australia",
+          "value": "Class-wide NAION label change"
         },
         {
           "label": "Medicare Bridge",
-          "value": "LIVE since July 1 · $50/mo"
-        },
-        {
-          "label": "FDA 503B (Apr 30)",
-          "value": "Bulks-list exclusion proposed"
-        },
-        {
-          "label": "CagriSema NDA",
-          "value": "Filed Dec 2025 · PDUFA H2"
-        },
-        {
-          "label": "India Latest",
-          "value": "MSN SEMABEST · ₹202/day Novo"
-        },
-        {
-          "label": "BALANCE Part D",
-          "value": "Delayed beyond 2027"
-        },
-        {
-          "label": "FDA 503B Comments",
-          "value": "3,868 received — closed Jun 29"
-        },
-        {
-          "label": "CMS PA Form",
-          "value": "Released Jun 26 — fax line live Jul 1"
+          "value": "LIVE · no CMS data published"
         }
       ]
     },
     "revenue-financials": {
       "file": "revenue-financials.json",
-      "last_updated": "2026-07-03T00:00:00Z",
-      "entry_count": 21,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 22,
       "key_metrics": [
         {
-          "label": "Global GLP-1 Market 2025",
-          "value": "$70.08B"
+          "label": "Lilly Q2 2026",
+          "value": "$23.0B (+48%)"
         },
         {
-          "label": "Global GLP-1 Market 2026",
-          "value": "$86.93B (est.)"
+          "label": "Mounjaro Q2",
+          "value": "$9.9B (+91%)"
         },
         {
-          "label": "Lilly Q1 2026",
-          "value": "$19.8B (+56%)"
+          "label": "Zepbound US Q2",
+          "value": "$4.9B (+44%)"
         },
         {
-          "label": "Lilly Mounjaro Q1",
-          "value": "$8.7B · world's #1 drug"
+          "label": "Foundayo Debut",
+          "value": "$98M (below consensus)"
         },
         {
-          "label": "Lilly 2026 Guidance",
-          "value": "$82–85B (raised)"
+          "label": "Lilly FY Guidance",
+          "value": "$85–87B (raised)"
         },
         {
-          "label": "Novo Q1 Wegovy Pill",
-          "value": "$354M · 3M+ Rx in 5 months"
+          "label": "Novo Q2 Adjusted",
+          "value": "DKK 78.5B (+7% CER)"
         },
         {
-          "label": "Lilly YTD vs Novo YTD",
-          "value": "+9% vs −17%"
+          "label": "LLY All-Time High",
+          "value": "$1,249.45 (Jul 7) · $1.06T cap"
         },
         {
-          "label": "Hims Q1",
-          "value": "$92M loss (branded pivot)"
-        },
-        {
-          "label": "Berenberg PT (Lilly)",
-          "value": "$1,135 · consensus $1,229"
-        },
-        {
-          "label": "Lilly All-Time High (Jun 29)",
-          "value": "$1,238 intraday · +14% YTD · +10% June"
-        },
-        {
-          "label": "Cantor Lilly PT (Jun 27)",
-          "value": "Overweight · ~$1,230"
-        },
-        {
-          "label": "Employer GLP-1 Coverage",
-          "value": "6% dropped 2026 · 5% planning 2027"
+          "label": "US Share Split",
+          "value": "Lilly ~60.9% / Novo ~38.8%"
         }
       ]
     },
     "supplements": {
       "file": "supplements.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 21,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 22,
       "key_metrics": [
         {
           "label": "Tracked Supplements",
@@ -227,238 +183,206 @@
     },
     "manufacturing": {
       "file": "manufacturing.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 20,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 21,
       "key_metrics": [
         {
-          "label": "Lilly Indiana (since 2020)",
-          "value": "$21B+ committed"
-        },
-        {
-          "label": "Lilly Lebanon API",
-          "value": "Opens 2027 · largest US site"
-        },
-        {
-          "label": "MFN Commitments",
-          "value": "$27B Lilly · $10B Novo"
-        },
-        {
           "label": "Novo Bloomington",
-          "value": "FDA classification late Jul"
+          "value": "OAI - failed re-inspection (Aug 7)"
         },
         {
-          "label": "India API Dependency",
-          "value": "~80% from China"
+          "label": "Section 232 Tariffs",
+          "value": "Live Jul 31 - 0% needs onshoring+MFN"
         },
         {
-          "label": "India Capacity (end 2026)",
-          "value": "~2M pens/month"
+          "label": "Lilly + Resilience",
+          "value": "$750M KwikPen device (Ohio)"
+        },
+        {
+          "label": "Lilly Houston API",
+          "value": "$6.5B campus in construction"
+        },
+        {
+          "label": "Samsung/PolyPeptide",
+          "value": "CHF 1.46B tender - GLP-1 rationale"
+        },
+        {
+          "label": "Novo Capex",
+          "value": "FALLING - DKK 24.0B H1 vs 28.1B"
         }
       ]
     },
     "pipeline-trials": {
       "file": "pipeline-trials.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 25,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 26,
       "key_metrics": [
         {
-          "label": "Best Phase 3 Weight Loss",
-          "value": "30.3% (Retatrutide @ 104w)"
+          "label": "Retatrutide TRIUMPH-3",
+          "value": "22.6% wt · MACE not significant"
         },
         {
-          "label": "Retatrutide TRIUMPH-1",
-          "value": "28.3% @ 80w · NDA 2027"
+          "label": "Retatrutide BLA",
+          "value": "Q1 2027 (slipped from Q4 2026)"
         },
         {
-          "label": "CagriSema REIMAGINE",
-          "value": "Beat sema head-to-head"
+          "label": "Orforglipron T2D",
+          "value": "FDA Regulatory Review"
         },
         {
-          "label": "Foundayo ACHIEVE-3",
-          "value": "Beat oral sema head-to-head"
+          "label": "CagriSema",
+          "value": "No public PDUFA · Novo says end-2026"
         },
         {
-          "label": "Survodutide SYNCHRONIZE",
-          "value": "16.6% wt · 63% liver fat"
+          "label": "Survodutide",
+          "value": "Still NO NDA filed"
         },
         {
-          "label": "New Phase 3 Entrants",
-          "value": "Pfizer · AZ · Innovent · Sciwind"
+          "label": "Zenagamtide",
+          "value": "2 Lancet Ph2 · AMBITION Ph3 by year-end"
         },
         {
-          "label": "ADA 2026",
-          "value": "Jun 5-8 · New Orleans"
+          "label": "Mazdutide GLORY-2",
+          "value": "16.65% at 60wk (JAMA)"
         }
       ]
     },
     "supply-chain": {
       "file": "supply-chain.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 18,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
           "label": "Active Shortages",
-          "value": "Saxenda / Victoza only"
+          "value": "Liraglutide/Victoza only (reverified Aug 6)"
         },
         {
           "label": "Semaglutide & Tirzepatide",
-          "value": "No shortage"
+          "value": "Zero shortage records (openFDA)"
+        },
+        {
+          "label": "US Recalls in Window",
+          "value": "ZERO GLP-1 (88 records checked)"
+        },
+        {
+          "label": "India Disruption",
+          "value": "Dr Reddy's halted to late Oct"
+        },
+        {
+          "label": "Bridge Supply",
+          "value": "No stockouts detected"
         },
         {
           "label": "Wegovy Pill",
-          "value": "3M+ Rx · 1 fill every 5s"
-        },
-        {
-          "label": "India Cold-Chain",
-          "value": "DCGI flagged risk"
-        },
-        {
-          "label": "India Export Cleared",
-          "value": "Dr Reddy's + Sun Pharma"
-        },
-        {
-          "label": "Lilly Lebanon API",
-          "value": "Opens 2027 · largest US site"
-        },
-        {
-          "label": "Novo Bloomington",
-          "value": "FDA classification late Jul"
+          "value": "5M+ cumulative - 267K weekly"
         }
       ]
     },
     "patents-ip": {
       "file": "patents-ip.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 18,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
-          "label": "Open Semaglutide Markets",
-          "value": "India · China · Brazil · Canada · Turkey"
+          "label": "Tirzepatide Para IV",
+          "value": "14 suits · D. Del. · Aug 6"
         },
         {
-          "label": "Semaglutide US Expiry",
-          "value": "2031–2032"
+          "label": "Patents Asserted",
+          "value": "9 incl. US 9,474,780"
         },
         {
-          "label": "Tirzepatide Para IV (US)",
-          "value": "Opened May 13 · no ANDAs yet"
+          "label": "Novo v. Cipla / Apotex",
+          "value": "Filed Jul 17/21 · consolidated"
         },
         {
-          "label": "Tirzepatide US Patents",
-          "value": "21 patents · primary to 2036"
+          "label": "Novo v. Viatris",
+          "value": "W.D. Pa. Aug 7"
         },
         {
-          "label": "Production vs List Cost",
-          "value": "$0.89–4.50 vs $936–1,349/mo"
+          "label": "Novo v. Lilly",
+          "value": "False advertising (Lanham) Jul 21"
         },
         {
-          "label": "Delhi HC",
-          "value": "Denied Novo injunctions · evergreening rejected"
+          "label": "Dutch Injunction",
+          "value": "Won on SPC 300936 (to 2031)"
         },
         {
-          "label": "India Tirz Expiry",
-          "value": "~2033–2036"
+          "label": "OFA v. FDA",
+          "value": "Argued Mar 30 · still undecided"
         }
       ]
     },
     "compounding-pharmacy": {
       "file": "compounding-pharmacy.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 16,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 17,
       "key_metrics": [
         {
-          "label": "Tracked Pharmacies",
-          "value": "3"
+          "label": "FDA 503B Final Action",
+          "value": "NONE - comments closed Jul 30"
         },
         {
-          "label": "503B Facilities",
-          "value": "2"
+          "label": "Comment Count",
+          "value": "UNVERIFIED (regulations.gov blocks)"
         },
         {
-          "label": "FDA 503A Limit",
-          "value": "4 Rx/month/compounder"
+          "label": "503B Sector Size",
+          "value": "87 registered facilities (FDA FY27)"
         },
         {
-          "label": "Warning Letters",
-          "value": "50+ (cumulative)"
+          "label": "LifeMD Migration",
+          "value": "95% of new patients start branded"
         },
         {
-          "label": "FDA 503B Bulks Action",
-          "value": "Comment closes Jun 29"
+          "label": "PCAC Peptide Vote",
+          "value": "6 of 7 onto 503A - against FDA staff"
         },
         {
-          "label": "Lilly v. Empower",
-          "value": "Lanham Act claims survive"
-        },
-        {
-          "label": "Patient Migration",
-          "value": "Foundayo $149 · Wegovy oral $149"
-        },
-        {
-          "label": "FDA 503B Comment Period",
-          "value": "CLOSED Jun 29 · 3,868 comments"
-        },
-        {
-          "label": "FDA Cited AE Reports",
-          "value": ">1,700 (compounded sema/tirz)"
-        },
-        {
-          "label": "Final Action Expected",
-          "value": "H2 2026"
+          "label": "OFA v. FDA",
+          "value": "Argued Mar 30 - still undecided"
         }
       ]
     },
     "telehealth-d2c": {
       "file": "telehealth-d2c.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 20,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 21,
       "key_metrics": [
         {
-          "label": "US Platforms Tracked",
-          "value": "6"
+          "label": "FTC v. Hims",
+          "value": "Sued Jul 29 - privacy/billing, NOT GLP-1"
         },
         {
-          "label": "Hims Q1",
-          "value": "$92M loss · 125K Wegovy shipments"
+          "label": "Hims Q2",
+          "value": "NOT reported - Aug 10"
         },
         {
-          "label": "WeightWatchers Clinical",
-          "value": "197K subs (+51% QoQ)"
+          "label": "LifeMD",
+          "value": "95% branded - FY guidance CUT"
         },
         {
-          "label": "Foundayo on Ro",
-          "value": "$149–349/mo · $25 savings card"
+          "label": "WW Clinical Subs",
+          "value": "197K (+55.7% YoY)"
         },
         {
-          "label": "WeightWatchers Branded",
-          "value": "$349/mo"
+          "label": "CVS Virtual Visit",
+          "value": "$29 (cut from $49) + Lilly deal"
         },
         {
-          "label": "CVS Caremark",
-          "value": "Foundayo unblocked Jun 1"
+          "label": "Amazon Pharmacy",
+          "value": "Live on Bridge at $50/mo"
         },
         {
-          "label": "India Platforms",
-          "value": "Tata 1mg · PharmEasy · Netmeds"
-        },
-        {
-          "label": "CVS MinuteClinic Virtual",
-          "value": "$49 weight visit · 47 states + DC"
-        },
-        {
-          "label": "Walgreens Bridge Stores",
-          "value": "8,000+ supporting July 1"
-        },
-        {
-          "label": "Walmart/Sams Bridge",
-          "value": "5,000 locations · 90% within 10 mi"
+          "label": "Novo Subscription",
+          "value": "30K enrolled (20K on pill)"
         }
       ]
     },
     "social-sentiment": {
       "file": "social-sentiment.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 18,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
           "label": "Tracked Trends",
@@ -492,118 +416,90 @@
     },
     "safety-signals": {
       "file": "safety-signals.json",
-      "last_updated": "2026-06-30T00:00:00Z",
-      "entry_count": 18,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 19,
       "key_metrics": [
         {
-          "label": "Active Safety Signals",
-          "value": "6"
+          "label": "NEW: Alopecia Signal",
+          "value": "HR 1.37 vs SGLT-2i · 1.68 vs DPP-4i (BMJ)"
         },
         {
-          "label": "Novo PADE Warning (Mar 5)",
-          "value": "3 unreported deaths"
+          "label": "Tirzepatide FAERS",
+          "value": "123,145 reports · starvation ketoacidosis unlabeled"
         },
         {
-          "label": "FAERS T2D vs Obesity",
-          "value": "Distinct AE profiles"
+          "label": "Lean Mass (BMJ NMA)",
+          "value": "Tirzepatide cuts most: 8.3%"
         },
         {
-          "label": "Wegovy HD Dysesthesia",
-          "value": "22.9% @ 7.2mg vs 6% @ 2.4mg"
+          "label": "Semaglutide Kidney",
+          "value": "HR 0.84 pooled (SELECT/FLOW/SOUL)"
         },
         {
-          "label": "Suicide Risk Review",
-          "value": "No increased risk (Apr 2026)"
+          "label": "GI MDL 3094",
+          "value": "3,928 cases"
         },
         {
-          "label": "Foundayo Post-Market",
-          "value": "Due July 2026"
+          "label": "NAION MDL 3163",
+          "value": "200 cases (new, separate)"
         },
         {
-          "label": "Reddit AI Study (May)",
-          "value": "400K posts · 44% report ≥1 AE"
-        },
-        {
-          "label": "Activity Decline (Jun)",
-          "value": "–560 steps/day on therapy"
+          "label": "TGA Class-Wide",
+          "value": "NAION added to all 4 GLP-1 labels"
         }
       ]
     },
     "insurance-reimbursement": {
       "file": "insurance-reimbursement.json",
-      "last_updated": "2026-07-03T00:00:00Z",
-      "entry_count": 19,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 20,
       "key_metrics": [
         {
-          "label": "Medicare Bridge",
-          "value": "LIVE July 1 · $50/mo flat"
-        },
-        {
-          "label": "Bridge End Date",
-          "value": "Dec 31, 2027"
-        },
-        {
-          "label": "BALANCE Part D",
-          "value": "Delayed beyond 2027"
-        },
-        {
-          "label": "Medicaid BALANCE",
-          "value": "State RFA closes Jul 31"
-        },
-        {
-          "label": "Foundayo Coverage",
-          "value": "$25/mo commercial · $50/mo Bridge"
-        },
-        {
-          "label": "State Medicaid",
-          "value": "13 states cover obesity GLP-1s"
-        },
-        {
-          "label": "India Private Insurance",
-          "value": "~8% (GLP-1 excluded)"
-        },
-        {
-          "label": "CMS PA Form Released",
-          "value": "Jun 26 · fax line live Jul 1"
-        },
-        {
-          "label": "Lilly Bridge Estimate",
-          "value": "~20M Medicare patients eligible"
-        },
-        {
-          "label": "Walgreens Estimate",
-          "value": "56M potential Medicare qualifiers"
-        },
-        {
-          "label": "Bridge Status",
-          "value": "LIVE since July 1 · $50/mo"
+          "label": "CMS Bridge Data",
+          "value": "ZERO published, 38 days in"
         },
         {
           "label": "Eligibility Estimates",
-          "value": "CMS single-digit M · KFF ~4M · Lilly/Novo 20M"
+          "value": "CMS single-digit M / KFF 3.8M / Lilly 20M"
         },
         {
-          "label": "AAF Federal Cost Est.",
-          "value": "$1.3–3.3B/18mo (10–25% uptake)"
+          "label": "Federal Cost",
+          "value": "$195/script - ~$6B at 20% uptake"
+        },
+        {
+          "label": "Lilly Bridge Read",
+          "value": "60-70% new to therapy - 80% injectables"
+        },
+        {
+          "label": "Employer Coverage",
+          "value": "36% cover weight loss - FLAT YoY"
+        },
+        {
+          "label": "GLP-1 Rx Share",
+          "value": "8 of every 100 US prescriptions"
+        },
+        {
+          "label": "BALANCE States",
+          "value": "RFA closed Jul 31 - no list published"
         }
       ]
     },
     "news-hub": {
       "file": "news-hub.json",
-      "last_updated": "2026-07-03T00:00:00Z",
-      "entry_count": 55,
+      "last_updated": "2026-08-09T00:00:00Z",
+      "entry_count": 63,
       "key_metrics": [
         {
-          "label": "Stories This Week",
-          "value": "1 new (Bridge launch day)"
+          "label": "Stories This Period",
+          "value": "8 new (Jul 3 – Aug 8)"
         },
         {
-          "label": "Imminent Event",
-          "value": "Medicare Bridge LIVE (Jul 1)"
+          "label": "Q2 Earnings",
+          "value": "Lilly +48% · Novo shares −6%"
         },
         {
-          "label": "Sources Tracked",
-          "value": "35+"
+          "label": "Biggest Legal Event",
+          "value": "Lilly sues 14 over tirzepatide"
         },
         {
           "label": "Markets",

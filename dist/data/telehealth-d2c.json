@@ -1,48 +1,36 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 20,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 21,
     "key_metrics": [
       {
-        "label": "US Platforms Tracked",
-        "value": "6"
+        "label": "FTC v. Hims",
+        "value": "Sued Jul 29 - privacy/billing, NOT GLP-1"
       },
       {
-        "label": "Hims Q1",
-        "value": "$92M loss · 125K Wegovy shipments"
+        "label": "Hims Q2",
+        "value": "NOT reported - Aug 10"
       },
       {
-        "label": "WeightWatchers Clinical",
-        "value": "197K subs (+51% QoQ)"
+        "label": "LifeMD",
+        "value": "95% branded - FY guidance CUT"
       },
       {
-        "label": "Foundayo on Ro",
-        "value": "$149–349/mo · $25 savings card"
+        "label": "WW Clinical Subs",
+        "value": "197K (+55.7% YoY)"
       },
       {
-        "label": "WeightWatchers Branded",
-        "value": "$349/mo"
+        "label": "CVS Virtual Visit",
+        "value": "$29 (cut from $49) + Lilly deal"
       },
       {
-        "label": "CVS Caremark",
-        "value": "Foundayo unblocked Jun 1"
+        "label": "Amazon Pharmacy",
+        "value": "Live on Bridge at $50/mo"
       },
       {
-        "label": "India Platforms",
-        "value": "Tata 1mg · PharmEasy · Netmeds"
-      },
-      {
-        "label": "CVS MinuteClinic Virtual",
-        "value": "$49 weight visit · 47 states + DC"
-      },
-      {
-        "label": "Walgreens Bridge Stores",
-        "value": "8,000+ supporting July 1"
-      },
-      {
-        "label": "Walmart/Sams Bridge",
-        "value": "5,000 locations · 90% within 10 mi"
+        "label": "Novo Subscription",
+        "value": "30K enrolled (20K on pill)"
       }
     ]
   },
@@ -152,6 +140,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "th-entry-015",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "source_name": "FTC / CVS / Amazon / LifeMD / WW / Novo Q2",
+      "market": "both",
+      "summary": "The FTC, Utah and California sued Hims & Hers on July 29 over sharing health data with Meta and Snap, charging before promised consultations, and burying cancellation - shares fell 10%. Critically the complaint contains NO GLP-1-specific allegations. Retail and platform players moved aggressively into the Bridge: CVS cut MinuteClinic virtual weight visits to $29 from $49 and signed a Lilly pricing deal for same-day Zepbound/Foundayo pickup by early Q4; Amazon Pharmacy went live dispensing all four Bridge drugs at $50/month with same-day delivery in 3,100+ cities. Novo's new subscription hit 30,000 enrolled. IMPORTANT: Hims & Hers has NOT reported Q2 - it is scheduled for Aug 10, two days after this window. Any 'Hims Q2 2026' figure circulating now is misattributed.",
+      "content": "July-August 2026 telehealth/D2C:\n\n1. FTC + TWO STATES SUE HIMS & HERS (Jul 29, N.D. Cal.)\n   - FTC joined by Utah and California (via LA County Counsel)\n   - Allegations: shared sensitive health information with Meta and Snap via customer lists and tracking pixels without consent; charged consumers immediately after intake-form submission despite promising a consultation first; hid cancellation paths; failed to disclose recurring refill dates\n   - Counts: FTC Act, ROSCA, Utah CSPA, California FAL/UCL. Commission vote 2-0. No monetary penalty specified.\n   - SCOPE CAVEAT: NO GLP-1-specific allegations - this is a privacy/billing case\n   - HIMS fell 10% on the news; Inc. reported 4,800 FTC complaints over five years\n   - Hims response: 'an effort to generate headlines at our expense'\n\n2. HIMS & HERS HAS NOT REPORTED Q2 - SCHEDULED AUG 10\n   - Two days after this window closes. No Q2 revenue, subscriber, or GLP-1 mix figures exist yet.\n   - DATA TRAP: search engines confidently return Q2 2023 figures ($315.6M revenue, 1.9M subscribers) and Q1 2026 figures against 'Hims Q2 2026' queries. Do not use.\n   - Unconfirmed single-source report (Aug 7, Stocktwits) that Hims added Lilly GLP-1s - could not be verified against any primary source; no press release on investors.hims.com. Recommend confirming on the Aug 10 call.\n\n3. LIFEMD Q2 (Aug 5)\n   - Revenue $47.3M (down from $49.0M YoY); ~356,000 active subscribers (+20%), ~108,000 in Weight Management\n   - ~95% of new weight-management patients start branded GLP-1s - 'effectively at the end' of the compounded transition\n   - Added Foundayo at $149/month self-pay alongside Wegovy\n   - Adjusted EBITDA -$3.5M (vs +$3.9M Q2 2025)\n   - FY2026 guidance CUT to $205.5-212.5M / -$6.0M to breakeven, from $220-230M / $12-17M\n   - HC Wainwright cut target to $9\n\n4. WEIGHTWATCHERS Q2 (Aug 5)\n   - Revenue $162.3M (-14.2%), but clinical revenue $39.9M (+30.4%)\n   - Clinical/Sequence subscribers 197,000 (+55.7% YoY) - flat sequentially vs Q1\n   - Total subscribers 2.5M; Core+ 541,000 (+13.9%)\n   - Net income $14.1M; adjusted EBITDA $39.8M; marketing spend fell to $47.9M from $92.9M in Q1\n   - FY guidance reaffirmed $620-635M revenue, $105-115M adjusted EBITDA\n   - Growth attributed to 'lower priced GLP-1 options including the Wegovy pill'\n\n5. CVS GOES AGGRESSIVE (Aug 5)\n   - MinuteClinic virtual weight-management visits CUT to $29 from $49, no membership fee, 24/7 in nearly all states - CEO David Joyner called it 'the lowest cost option in the industry'\n   - Three-tier drug pricing: $25/mo insured with manufacturer coupon; $149/mo self-pay with voucher; $50/mo Medicare Bridge through Dec 31, 2027\n   - NEW Eli Lilly collaboration: transparent Zepbound and Foundayo pricing in the CVS app with SAME-DAY PICKUP by early Q4 2026 across 9,000 CVS Pharmacy and 1,000+ MinuteClinic locations\n   - Caremark reinstated Zepbound as preferred and lifted the Foundayo new-to-market block (decision announced May 28, effective Oct 1)\n   - CVS Q2: revenue $106.1B (+7.3%), adjusted EPS $2.58, FY EPS guidance raised to $7.90-8.10\n\n6. AMAZON PHARMACY LIVE ON BRIDGE (Aug 6)\n   - Dispensing Wegovy (injectable and pill), Zepbound KwikPen, and Foundayo at $50/month to eligible Part D members\n   - Same-Day Delivery in 3,100+ US cities and towns, expanding to nearly 4,500 by end-2026; free home delivery nationwide, no Prime required\n   - Amazon handles eligibility, prior authorization and billing\n   - Notably NO bilateral Lilly or Novo partnership - dispensing is under the CMS demonstration\n\n7. NOVO'S DIRECT CHANNEL\n   - New 3/6/12-month subscription: 30,000 patients enrolled, 20,000 on the Wegovy pill\n   - Live through Ro, WeightWatchers and LifeMD; Hims & Hers and Sesame 'expected to come online soon' - i.e. Hims was still NOT live as of Aug 4\n   - Self-pay now ~35% of injectable Wegovy vs 10-15% a year earlier\n   - Week ending Jul 17: injectable Wegovy ~310,000 weekly TRx of which ~120,000 (~39%) self-pay; Wegovy pill 265,000+ weekly TRx\n   - Available at 70,000+ pharmacies and through nine telehealth organisations\n   - Adyen signed to process LillyDirect self-pay payments including HSA/FSA cards (Aug 4)\n\n8. GROCERY AND REGIONAL CHAINS LAYER ON\n   - Hy-Vee (Jul 6): six-week GLP-1 Wellness Program, three dietitian consults + 10 modules, normally $49, free to first 1,000 registrants, across 270+ pharmacies - a pure adherence attach, prescriptions not included\n   - Kroger Health (Jul 24): GLP-1 Complete Support Program across an 11M+ daily customer base\n   - Publix (Jul 31): dispensing Foundayo, Wegovy (both forms) and Zepbound KwikPen under Bridge, with $149 manufacturer-copay fallback for ineligible patients\n   - None disclosed volumes\n\n9. DTC PRICE MAP (CNBC, Aug 1)\n   - LillyDirect $299-449/mo; NovoCare $199 introductory to $349; Costco/Sesame ~$349 + $65 membership; Amazon One Medical from $25/mo insured; Medicare Bridge $50 flat\n   - Pharmacy share: CVS 14.7%, Walgreens 14.6%, Walmart 4.8% across ~4,600 Walmart pharmacies\n\n10. NO IN-WINDOW NEWS: Ro (appears only as a named Novo partner - no membership numbers or funding), India e-pharmacy GLP-1 volumes (nothing from Tata 1mg, PharmEasy, Netmeds, Apollo 24/7, Truemeds), Walgreens (Bridge announcement was June 25, pre-window; private under Sycamore), Rite Aid, Noom, Sesame",
+      "tags": [
+        "telehealth",
+        "us",
+        "ftc-hims",
+        "cvs",
+        "amazon-pharmacy",
+        "lifemd",
+        "weightwatchers",
+        "novo-subscription",
+        "hims-not-reported",
+        "august-2026"
+      ]
+    },
     {
       "id": "th-entry-014",
       "timestamp": "2026-06-30T00:00:00Z",

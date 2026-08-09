@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 21,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 22,
     "key_metrics": [
       {
         "label": "Tracked Supplements",
@@ -181,6 +181,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "supp-entry-016",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42419792/",
+      "source_name": "BMJ network meta-analysis / research-coverage note",
+      "market": "both",
+      "summary": "PARTIAL COVERAGE: the dedicated supplements research agent for this cycle terminated on a session limit before completing, so this section has thinner in-window coverage than the others. What was captured from adjacent research: the BMJ network meta-analysis of 19 obesity drugs (262 RCTs, 99,791 participants, Jul 8) found tirzepatide cuts fat mass most (25.7%) but ALSO lean mass most (8.3%) - the strongest quantitative support yet for the protein/creatine/resistance-training adjunct thesis. A skeletal-safety paper (Jul 7) proposed deoxypyridinoline urine testing to monitor GLP-1-associated bone loss, and a mechanistic paper (Jul 22) described semaglutide-induced sarcopenia via a GLP-1R-mTOR-satellite cell axis. No new supplement product launches or FDA actions were captured.",
+      "content": "NOTE ON COVERAGE: The dedicated supplements + sentiment research agent for the Jul 3 - Aug 8 cycle terminated early on an API session limit. This section therefore carries partial in-window coverage assembled from adjacent research streams rather than a dedicated sweep. Flagging explicitly rather than presenting thin coverage as complete.\n\nWHAT WAS CAPTURED IN-WINDOW:\n\n1. BMJ NETWORK META-ANALYSIS (Jul 8) - the strongest lean-mass datapoint yet\n   - 262 RCTs, 99,791 participants across 19 obesity drugs\n   - Tirzepatide cut FAT mass most (25.7%) but also LEAN mass most (8.3%)\n   - Directly strengthens the adjunctive protein (1.2-1.6 g/kg/day) + creatine + resistance training thesis\n   - Highest discontinuation: orforglipron, naltrexone-bupropion, oral semaglutide (RR 1.9-4.2)\n\n2. SKELETAL SAFETY (Diagnostics, Jul 7)\n   - 'Tracking Bone Loss in GLP-1RA Therapy' proposes deoxypyridinoline urine testing for monitoring\n   - Adds bone to the muscle-preservation conversation\n\n3. MUSCLE MECHANISM (Problems of Endocrinology, Jul 22)\n   - Mechanistic paper on semaglutide-induced sarcopenia via a GLP-1R-mTOR-satellite cell axis\n   - Accompanied by an expert consensus on incretin obesity therapy safety management (Jul 22)\n\n4. ACTIVITY DECLINE REINFORCES THE THESIS (ScienceDaily, Jun 14 - just pre-window)\n   - Fitbit study n=753: daily steps 5,047 to 4,487; MVPA 28 to 22 min/day after starting therapy\n   - Steepest decline in men and those reporting joint/muscle pain\n\nNOT CAPTURED THIS CYCLE (gaps to close next run):\n   - New supplement product launches or reformulations\n   - FDA warning letters or enforcement in the supplement category\n   - Updated Amazon US / iHerb category growth figures\n   - India berberine and ayurvedic metabolic-health market movement\n   - Korglutide regulatory status\n   - WGSN or equivalent trend-tracker updates\n\nSTATUS: carry-forward baseline from the Jun 30 cycle remains the reference for market sizing and product landscape until a full sweep runs.",
+      "tags": [
+        "supplements",
+        "partial-coverage",
+        "agent-terminated",
+        "lean-mass",
+        "bone-loss",
+        "sarcopenia",
+        "bmj-nma",
+        "august-2026"
+      ]
+    },
     {
       "id": "supp-entry-015",
       "timestamp": "2026-06-30T00:00:00Z",

@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 30,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 31,
     "key_metrics": [
       {
-        "label": "India Brand Count",
-        "value": "50+ semaglutide brands"
+        "label": "Tirzepatide Para IV",
+        "value": "ANSWERED — 14 suits filed Aug 6"
+      },
+      {
+        "label": "Tirzepatide ANDAs",
+        "value": "Amneal/Adalvo + Sandoz accepted"
+      },
+      {
+        "label": "India Supply",
+        "value": "Dr Reddy's halted to late Oct"
+      },
+      {
+        "label": "Dr Reddy's FY27 Target",
+        "value": "Cut 12M → 6–7M pens"
+      },
+      {
+        "label": "Torrent Share",
+        "value": "36% Q1 FY27 (was 38%)"
+      },
+      {
+        "label": "India Market",
+        "value": "First monthly decline — ₹227cr June"
       },
       {
         "label": "India Tirzepatide",
         "value": "Mounjaro + Cipla Yurpeak duopoly"
-      },
-      {
-        "label": "Cheapest India Vial",
-        "value": "₹1,290/mo (Natco)"
-      },
-      {
-        "label": "5yr Market Forecast",
-        "value": "₹12,000 Cr (Nomura)"
-      },
-      {
-        "label": "Dr Reddy's Oral Obeda",
-        "value": "₹99/3mg tablet (May 20)"
-      },
-      {
-        "label": "Torrent Share",
-        "value": "~38% in first 30 days"
-      },
-      {
-        "label": "Tirz Para IV (US)",
-        "value": "Opened May 13 · no ANDAs yet"
       }
     ]
   },
@@ -209,6 +209,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-019",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-and-Adalvo-Announce-FDA-Acceptance-for-Review-of-Two-U-S--ANDAs-for-Generic-Tirzepatide-Autoinjector-2026-_ei9_NKxPV/default.aspx",
+      "source_name": "Amneal / Lilly 10-Q / Torrent / Chemistry World / Pearce IP",
+      "market": "both",
+      "summary": "The dashboard's longest-standing open question closed: tirzepatide generic ANDAs exist and are in court. FDA accepted Amneal/Adalvo's two ANDAs July 8 (filed at NCE-1, so Paragraph IV by definition) referencing Mounjaro and Zepbound autoinjectors; Sandoz's were accepted in late June; Lilly sued 14 companies August 6. Meanwhile India's generic wave hit its first real setback — Dr Reddy's API impurity halted supply to late October, cutting its FY27 target from 12M to 6–7M pens, with Torrent and USV recalling downstream. India posted its first monthly sales decline since patent expiry. CORRECTION: Torrent's share is 36% (Q1 FY27, AIOCD PharmaTrac), not the 38% the dashboard previously carried.",
+      "content": "July–August 2026 generics:\n\n1. ⭐ TIRZEPATIDE PARAGRAPH IV — QUESTION CLOSED\n   - Amneal/Adalvo: FDA accepted TWO ANDAs Jul 8, filed at NCE-1 (necessarily Paragraph IV), referencing Mounjaro and Zepbound autoinjectors, single-dose prefilled pens, for T2D + chronic weight management + moderate-to-severe OSA\n   - Underlying May 13, 2026 Amneal–Adalvo License and Supply Agreement (matching the Para IV window opening): up to $21.0M milestones, $3.0M R&D booked in Q2\n   - Sandoz ANDAs accepted Jun 29 (just pre-window)\n   - Hybio (China) filed ~Jun 30\n   - Lilly sued 14 companies in D. Del. on Aug 6 — see patents-ip\n   - ⚠️ The dashboard previously stated 'no public ANDA filings yet as of June 30'. That is now definitively superseded.\n\n2. INDIA QUALITY SHOCK\n   - Dr Reddy's: API impurity detected during manufacturing scale-up; batches out of specification; CEO Erez Israeli confirmed Jul 9\n   - FY27 supply target CUT from 12 million to 6–7 million pens\n   - Affects injectable semaglutide in INDIA and CANADA; oral Obeda UNAFFECTED (different API source and process)\n   - Israeli: affected batches 'were caught during internal validation and scale-up, and were never commercially shipped'\n   - ₹240 crore inventory provision; Q1 FY27 PAT −68.7%; EBITDA margin 12.5% vs 26.7%\n   - Resumption guided late October/early November; API testing completes third week of September\n   - Stock fell 6.51% intraday to ₹1,261.10\n   - Torrent recalled Semalix 2mg and 4mg pens Jul 9; USV pulled Usema\n   - Torrent booked only ₹50cr semaglutide in Q1 FY27 vs ₹250cr FY target; new supplier engaged, restoration targeted Aug 31\n\n3. INDIA MARKET INFLECTION\n   - Monthly GLP-1 weight-loss sales FELL to ₹227cr in June from a record ₹236cr in May — FIRST monthly decline since patent expiry\n   - Growth collapsed to 2.3% in June from 12.1% in May and 58.4% in April (Pharmarack)\n   - 40%+ of sales concentrated in the seven metros\n   - July: generic semaglutide volumes rose 166,000 → 192,000 units but added only ₹6cr; 11 of 33 brands = 80% of volume\n   - Dr Reddy's Obeda more than doubled to 115,000 units in July\n   - Four innovator brands took ₹46cr and ~50% value share\n   - Mounjaro was INDIA'S TOP-SELLING DRUG BY VALUE: ₹102cr June, ₹110cr July\n   - Chemistry World (Jul 30): 10 Indian manufacturers producing injectable pens, 3 more distributing vials\n\n4. ⚠️ CORRECTIONS TO PRIOR DASHBOARD DATA\n   - Torrent generic semaglutide share: 36% in Q1 FY27 (oral + injectable combined, AIOCD PharmaTrac, per Torrent's own Jul 30 release) — the dashboard carried 38%\n   - Torrent retains 94–100% of the generic ORAL market\n   - India tirzepatide remains a Mounjaro + Cipla Yurpeak LICENSED duopoly (Yurpeak is licensed from Lilly, NOT a generic); no generic entry expected before ~2033–2036\n\n5. CIPLA AND BIOCON — BOTH SURFACED, NEITHER IN INDIA\n   - Cipla: NO India semaglutide launch. But Cipla is a defendant in Novo's US Hatch-Waxman suit (filed Jul 17/21) — meaning Cipla has filed a US ANDA with Paragraph IV certification. Materially more significant than an India launch. Cipla deferred its India launch as Yurpeak hit ₹23.7cr in June (India's #2 GLP-1).\n   - Biocon: India launch still deferred (Mar 28 decision, pre-window). In-window, Biocon appears as a defendant in Lilly's Aug 6 tirzepatide suits — indicating a US tirzepatide ANDA.\n   - Mankind deliberately skipped the first wave\n\n6. INTERNATIONAL GENERIC APPROVALS\n   - Brazil: ANVISA approved Sandoz/Adalvo's Owozy (Jul 29) — first generic Ozempic wave in South America; Brazil GLP-1 market ~USD 1.8B, 16.5M diabetics. ANVISA registered five semaglutide injectables total, all diabetes-indicated.\n   - South Africa: Sun Pharma SAHPRA approval (Jul 15); SAHPRA reviewing 12 generic semaglutide applications\n   - Canada: Aspen Pharmacare Health Canada approval for generic Ozempic (Jul 20/21), T2D only, launch contingent on API supply\n   - US: Apotex holds a tentative approval (Apr 2026)\n   - Pricing dynamic (Jennifer Lake, U. Toronto): 'When the first generic comes out, the price drops about 33%. With a third generic, it can drop 65–70%.'\n   - China entry expected 2027",
+      "tags": [
+        "generics",
+        "india",
+        "us",
+        "tirzepatide-para-iv",
+        "anda",
+        "dr-reddys",
+        "torrent",
+        "cipla",
+        "biocon",
+        "brazil",
+        "canada",
+        "correction",
+        "august-2026"
+      ]
+    },
     {
       "id": "gen-entry-018",
       "timestamp": "2026-06-30T00:00:00Z",

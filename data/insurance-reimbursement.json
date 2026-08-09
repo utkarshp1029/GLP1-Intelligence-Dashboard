@@ -1,60 +1,36 @@
 {
   "meta": {
     "section_id": "insurance-reimbursement",
-    "last_updated": "2026-07-03T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
-        "label": "Medicare Bridge",
-        "value": "LIVE July 1 · $50/mo flat"
-      },
-      {
-        "label": "Bridge End Date",
-        "value": "Dec 31, 2027"
-      },
-      {
-        "label": "BALANCE Part D",
-        "value": "Delayed beyond 2027"
-      },
-      {
-        "label": "Medicaid BALANCE",
-        "value": "State RFA closes Jul 31"
-      },
-      {
-        "label": "Foundayo Coverage",
-        "value": "$25/mo commercial · $50/mo Bridge"
-      },
-      {
-        "label": "State Medicaid",
-        "value": "13 states cover obesity GLP-1s"
-      },
-      {
-        "label": "India Private Insurance",
-        "value": "~8% (GLP-1 excluded)"
-      },
-      {
-        "label": "CMS PA Form Released",
-        "value": "Jun 26 · fax line live Jul 1"
-      },
-      {
-        "label": "Lilly Bridge Estimate",
-        "value": "~20M Medicare patients eligible"
-      },
-      {
-        "label": "Walgreens Estimate",
-        "value": "56M potential Medicare qualifiers"
-      },
-      {
-        "label": "Bridge Status",
-        "value": "LIVE since July 1 · $50/mo"
+        "label": "CMS Bridge Data",
+        "value": "ZERO published, 38 days in"
       },
       {
         "label": "Eligibility Estimates",
-        "value": "CMS single-digit M · KFF ~4M · Lilly/Novo 20M"
+        "value": "CMS single-digit M / KFF 3.8M / Lilly 20M"
       },
       {
-        "label": "AAF Federal Cost Est.",
-        "value": "$1.3–3.3B/18mo (10–25% uptake)"
+        "label": "Federal Cost",
+        "value": "$195/script - ~$6B at 20% uptake"
+      },
+      {
+        "label": "Lilly Bridge Read",
+        "value": "60-70% new to therapy - 80% injectables"
+      },
+      {
+        "label": "Employer Coverage",
+        "value": "36% cover weight loss - FLAT YoY"
+      },
+      {
+        "label": "GLP-1 Rx Share",
+        "value": "8 of every 100 US prescriptions"
+      },
+      {
+        "label": "BALANCE States",
+        "value": "RFA closed Jul 31 - no list published"
       }
     ]
   },
@@ -132,6 +108,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "ins-entry-016",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://www.forbes.com/sites/joshuacohen/2026/08/01/medicares-glp-1-bridge-program-offers-access-but-isnt-straightforward/",
+      "source_name": "Forbes / Lilly Q2 call / IFEBP / Peterson-KFF / ICER",
+      "market": "both",
+      "summary": "Thirty-eight days after launch, CMS has published ZERO Bridge enrollment, prior-authorization or claims data - so every uptake number in circulation comes from manufacturers, not the government. Lilly's call gave the best proxy: 60-70% of Bridge patients are new to therapy, ~80% choose injectables, and Foundayo's prescriber base went from 8,000 to 36,000. Eligibility estimates remain irreconcilable - CMS's own director says 'single-digit millions,' KFF says 3.8M, Lilly cites 20M. Employer coverage did NOT move: 36% cover GLP-1s for weight loss, unchanged year over year, with 48% of employers telling Marsh McLennan they will not add it. GLP-1s are now 8 of every 100 US prescriptions filled.",
+      "content": "July-August 2026 insurance/reimbursement:\n\n1. CMS HAS PUBLISHED NOTHING (the headline finding)\n   - 38 days post-launch: no enrollment counts, no prior-auth volumes, no approval/denial rates, no claims processed\n   - CMS issued zero press releases or MLN Matters articles Jul 3 - Aug 8\n   - Every uptake figure in circulation is manufacturer-sourced\n   - Humana is sole central processor (via LI NET infrastructure); no volume data public\n\n2. BEST AVAILABLE PROXY - LILLY Q2 CALL (Aug 5)\n   - Ilya Yuffa described 'a pretty significant inflection point' in Zepbound and Foundayo prescriptions\n   - ~80% of patients getting treatment chose INJECTABLES\n   - 60-70% were 'new people that are coming in that have not had access before'\n   - Foundayo prescriber base expanded 8,000 to 36,000; volume 'almost doubling' in the last week of July; ~1 in 4 new patient starts\n   - Zepbound self-pay was ~45% of total Q2 prescriptions and ~55% of NEW prescriptions\n   - Novo (Aug 5): 'very pleased with the volume so far' but 'whether or not that is durable and sustainable is yet to be seen'\n\n3. ELIGIBILITY - THREE IRRECONCILABLE NUMBERS\n   - CMS Director Chris Klomp: 'single-digit millions'\n   - KFF: ~3.8 million (2023 data); 13.3M meet BMI thresholds, 9.7M meet clinical criteria\n   - Lilly (Q2 call): '20 million eligible Americans' with a 35% expansion in covered lives\n   - DO NOT BLEND THESE. Lilly's 20M is broader access framing, not a CMS-verified eligible count.\n\n4. ECONOMICS\n   - $50 flat copay, NO income exceptions, no LIS\n   - Manufacturer net $245/month -> federal share $195/month per prescription\n   - ~$6B annually at 20% uptake; >$30B if all eligible enrolled\n   - AAF: $1.3-3.3B over 18 months at 10-25% participation; $6.7-10B at 50-75%\n   - Part D GLP-1 gross spending already $27.5B in 2024, 5x the 2019 level\n   - Copays count toward NEITHER the deductible NOR the out-of-pocket maximum\n\n5. STRUCTURAL FRICTION (Pharmacy Times, Jul 23)\n   - PAs clearing within the 24-72 hour spec\n   - BUT claims submitted with incorrect routing produce 'denial-like rejections that never reach the Bridge processor' - patient and prescriber cannot diagnose the failure\n   - Worst at independent and small-chain pharmacies\n   - After the first fill is approved, subsequent fills need no new PA unless the patient switches drug\n   - Coverage narrower than headlines: Zepbound KwikPen ONLY (single-dose vials and other pens excluded)\n   - Disqualifiers: type 2 diabetes, moderate-to-severe sleep apnea, MASH - the exact comorbidities that already unlock Part D coverage\n\n6. EMPLOYER COVERAGE DID NOT MOVE\n   - IFEBP (Jul 7): 60% cover GLP-1s for diabetes only (up from 55% in 2025); 36% cover both diabetes and weight loss - UNCHANGED year over year\n   - Among employers not covering for weight loss, only 9% are considering adding it; 83% exclude via carve-outs\n   - GLP-1s are now 11.4% of annual claims vs 6.9% in 2023\n   - Workarounds: 27% steer employees to DTC platforms; 21% push FSA/HSA/HRA dollars\n   - 90% of plans covering weight loss impose a minimum BMI; 54% require obesity PLUS a chronic disease\n   - Marsh McLennan (Jul 23): 48% of employers do NOT cover for weight loss and have no plans to add; only 4% offer unrestricted coverage for both indications\n   - Bank of America disclosed $250M in annual employee GLP-1 spend (headline-verified only)\n\n7. GLP-1s ARE NOW A PREMIUM LINE ITEM (Peterson-KFF)\n   - Healthfirst GLP-1 cost rose from $13 PMPM (Feb 2024) to $49 PMPM (Feb 2026); GLP-1-using adult members 1.6% to 5.4%\n   - MVP Health Care attributed an $8.71 PMPM net premium REDUCTION to discontinuing weight-loss coverage\n   - Excellus projects a $28.30 PMPM GLP-1 cost increase 2025 to 2027\n   - Small group median proposed 2027 increase is 14%; one insurer added 2.4% specifically 'to account for the coverage of medically necessary anti-obesity medications'\n\n8. ICER (Jul 21)\n   - Tirzepatide $57,779/QALY; injectable semaglutide $66,355; oral semaglutide $75,456 - all within accepted thresholds\n   - BUT the $880M annual budget-impact threshold would be breached by treating just 1% of eligible patients\n   - As of March 2026, GLP-1s were 8 OF EVERY 100 US PRESCRIPTIONS FILLED - the largest quarter-over-quarter jump since tracking began in 2019\n   - ~1 in 8 US adults have used a GLP-1; only 13 state Medicaid programs and ~1 in 5 employer plans cover them\n\n9. BALANCE MODEL - RFA CLOSED, NO ANNOUNCEMENT\n   - State Medicaid RFA deadline passed Jul 31 inside the window\n   - CMS has announced NO applicant or selected-state list as of Aug 8\n   - CMS.gov BALANCE page 'Last Modified' remains 06/22/2026, unchanged through the window\n   - Part D arm remains indefinitely delayed per the April 21, 2026 status update\n   - States join on a rolling basis through Jan 1, 2027, so an announcement likely comes later\n\n10. INDIA - CGHS ADDS MOUNJARO WITH STRICT CRITERIA (Jul 29)\n   - Health Ministry restricted injectable tirzepatide and semaglutide for CGHS and CS(MA) beneficiaries\n   - Criteria: BMI >=35, OR BMI >=32.5 with uncontrolled T2D despite metformin plus two other orals, severe OSA, ASCVD, MASLD, or CKD\n   - Prescriptions limited to approved specialists\n   - This is a government-employee scheme, not private insurance - but it is the only Indian coverage development in the window\n   - NOTE: the ~8%-of-policies private insurance baseline was NOT refreshed by any in-window source and should not be presented as current",
+      "tags": [
+        "insurance",
+        "us",
+        "india",
+        "medicare-bridge",
+        "no-cms-data",
+        "eligibility-conflict",
+        "employer-coverage",
+        "icer",
+        "balance",
+        "cghs",
+        "august-2026"
+      ]
+    },
     {
       "id": "ins-entry-015",
       "timestamp": "2026-07-03T00:00:00Z",

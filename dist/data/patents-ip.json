@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "patents-ip",
-    "last_updated": "2026-06-30T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-08-09T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
-        "label": "Open Semaglutide Markets",
-        "value": "India · China · Brazil · Canada · Turkey"
+        "label": "Tirzepatide Para IV",
+        "value": "14 suits · D. Del. · Aug 6"
       },
       {
-        "label": "Semaglutide US Expiry",
-        "value": "2031–2032"
+        "label": "Patents Asserted",
+        "value": "9 incl. US 9,474,780"
       },
       {
-        "label": "Tirzepatide Para IV (US)",
-        "value": "Opened May 13 · no ANDAs yet"
+        "label": "Novo v. Cipla / Apotex",
+        "value": "Filed Jul 17/21 · consolidated"
       },
       {
-        "label": "Tirzepatide US Patents",
-        "value": "21 patents · primary to 2036"
+        "label": "Novo v. Viatris",
+        "value": "W.D. Pa. Aug 7"
       },
       {
-        "label": "Production vs List Cost",
-        "value": "$0.89–4.50 vs $936–1,349/mo"
+        "label": "Novo v. Lilly",
+        "value": "False advertising (Lanham) Jul 21"
       },
       {
-        "label": "Delhi HC",
-        "value": "Denied Novo injunctions · evergreening rejected"
+        "label": "Dutch Injunction",
+        "value": "Won on SPC 300936 (to 2031)"
       },
       {
-        "label": "India Tirz Expiry",
-        "value": "~2033–2036"
+        "label": "OFA v. FDA",
+        "value": "Argued Mar 30 · still undecided"
       }
     ]
   },
@@ -92,6 +92,29 @@
     }
   ],
   "entries": [
+    {
+      "id": "pat-entry-015",
+      "timestamp": "2026-08-09T00:00:00Z",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/lly-20260630.htm",
+      "source_name": "Lilly 10-Q / CourtListener / Pearce IP / JUVE Patent",
+      "market": "both",
+      "summary": "The tirzepatide patent cliff litigation began. Lilly's 10-Q disclosed receiving Paragraph IV notices in July, then filed 14 ANDA suits in D. Delaware on August 6 asserting nine patents including US 9,474,780. Novo separately opened Hatch-Waxman proceedings against Cipla and Apotex (July 17/21, consolidated) and sued Viatris in W.D. Pa. on August 7. Novo also won a Dutch preliminary injunction against a compounding pharmacy where the enforcement basis was SPC 300936 — valid to March 2031, surviving the March 2026 compound-patent expiry. CORRECTION: the dashboard has been carrying Teva v. Novo as the live US semaglutide case; no in-window Teva activity was found, and the actual live cases are Novo v. Cipla and Novo v. Apotex.",
+      "content": "July–August 2026 patents/IP:\n\n1. ⭐ TIRZEPATIDE HATCH-WAXMAN — 14 SUITS (Aug 6)\n   - Lilly 10-Q verbatim: 'In July 2026, Lilly received notice that multiple generic companies had filed ANDAs seeking approval to market generic versions of Mounjaro and/or Zepbound before the expiration of some or all of the patents listed for those products in the FDA's Orange Book. We intend to file suit for patent infringement.'\n   - Filed D. Del. Aug 6: 1:26-cv-00972, -973, -974, -976, -977, -978, -980, -981, -982, -984, -985, -986, -987, -988 (NOS 835 ANDA, cause 35:271)\n   - Defendants: Alembic, Amneal, Aspiro, Biocon, Dr. Reddy's, Eugia, Galenicum, Hikma, Hybio, Macleods, MSN, Rio Biopharmaceuticals, Sandoz, Zydus\n   - Patents asserted: 9,474,780 (GIP/GLP-1 co-agonist compounds), 11,357,820, 11,918,623, 12,295,987, 12,343,382, 12,453,755, 12,453,756, 12,453,758, 12,616,740\n   - 30-month stay expected\n\n2. NOVO US SEMAGLUTIDE LITIGATION\n   - Hatch-Waxman proceedings commenced against CIPLA and APOTEX (Jul 17 and Jul 21), consolidated in June 2026\n   - Novo's Q2 report confirms Cipla notified it of an ANDA with Paragraph IV certifications; complaint filed in D.N.J.\n   - Apotex already holds a US tentative approval (Apr 2026) — classic first-filer-blocked-only-by-patent posture\n   - NEW: Novo Nordisk Inc. v. Viatris Inc. filed W.D. Pa. Aug 7 (2:26-cv-01667)\n   - ⚠️ CORRECTION: No in-window Teva v. Novo activity found across multiple query formulations. The dashboard's framing of Teva as the live US semaglutide ANDA case should be softened — the actual live cases are Novo v. Cipla and Novo v. Apotex.\n\n3. NOVO WINS DUTCH PRELIMINARY INJUNCTION (Aug 5)\n   - District Court The Hague, C/09/704955 / KG ZA 26-494, against Ceban Ziekenhuisfarmacie (compounding semaglutide nasal spray)\n   - Novo asserted Dutch SPC 300936 (valid to 19 March 2031) alongside compound patent EP 1 863 839 (expired March 2026) — THE SPC IS WHAT CARRIES ENFORCEMENT PAST COMPOUND EXPIRY\n   - Court read the pharmacy exemption NARROWLY: resale to other pharmacies, stockholding and G-Standard registration all fell outside it\n   - Ceban must cease distribution, delist, and disclose suppliers; penalties to €500,000\n\n4. NOVO v. LILLY — FALSE ADVERTISING (Jul 21)\n   - D.N.J. 3:26-cv-09027, Chief Judge Zahid N. Quraishi, cause 15:1125 Lanham Act, jury demanded\n   - Novo alleges Lilly 'engaged in false advertising and unfair competition in connection with their dissemination of nationwide, direct-to-consumer advertising campaigns related to the comparative efficacy of FDA-approved GLP-1 medicines'\n   - Seeking permanent injunction and corrective advertising; Novo escalating with a bid to halt the ads\n   - Branded-vs-branded, not compounding — but the marquee GLP-1 legal event of the window\n\n5. OFA v. FDA — STILL UNDECIDED\n   - 5th Cir. Nos. 25-10600 and 25-10758; argued March 30, 2026 before Judges Richman, Duncan, Oldham\n   - Only in-window docket activity is administrative: entries 150–151 (Jul 7) substituting Acting Commissioner Kyle Diamantas for Marty Makary in the caption\n   - Neither docket terminated; no merits ruling\n\n6. INDIA — NO IN-WINDOW RULINGS\n   - Delhi HC: no new decisions on Novo's secondary/formulation suits vs Torrent and Dr Reddy's. All located decisions predate the window (single-judge Dec 4 2025; Division Bench dismissal ~Mar 9 2026 on Patent 262697; Torrent interim arrangement Mar 21 2026; Natco revocation petition Jan 2026)\n   - India tirzepatide patent status unchanged; Mounjaro + Cipla Yurpeak licensed duopoly intact to ~2033–2036\n\n7. RESOLVED BEFORE WINDOW (housekeeping)\n   - Novo v. Hims & Hers: voluntarily dismissed Mar 9, 2026, replaced by a commercial collaboration. No in-window developments.",
+      "tags": [
+        "patents",
+        "us",
+        "india",
+        "eu",
+        "tirzepatide-para-iv",
+        "hatch-waxman",
+        "novo-v-cipla",
+        "novo-v-lilly",
+        "dutch-spc",
+        "ofa-appeal",
+        "correction",
+        "august-2026"
+      ]
+    },
     {
       "id": "pat-entry-014",
       "timestamp": "2026-06-30T00:00:00Z",
