@@ -192,7 +192,7 @@
       "key_metrics": [
         {
           "label": "Sec 232 Country Tiers",
-          "value": "EU/JP/KR 15% · UK 10%"
+          "value": "EU/JP/KR 15% · UK 0%"
         },
         {
           "label": "Novo Bloomington",
@@ -428,12 +428,12 @@
       "entry_count": 20,
       "key_metrics": [
         {
-          "label": "NEW: MHRA Yellow Card",
-          "value": "153 deaths class-wide (UK)"
+          "label": "MHRA Yellow Card (UK)",
+          "value": "153–216 deaths · conflicts"
         },
         {
-          "label": "NEW: Fracture Risk",
-          "value": "−21% vs DPP-4i (JAMA)"
+          "label": "Fracture Risk",
+          "value": "HR 0.79 vs DPP-4i (JAMA)"
         },
         {
           "label": "Alopecia Signal",
@@ -507,7 +507,7 @@
       "key_metrics": [
         {
           "label": "Stories This Period",
-          "value": "1 new (Aug 8 – Aug 10)"
+          "value": "0 genuinely new (Aug 8–10)"
         },
         {
           "label": "Q2 Earnings",

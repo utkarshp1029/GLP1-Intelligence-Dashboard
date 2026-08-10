@@ -6,7 +6,7 @@
     "key_metrics": [
       {
         "label": "Stories This Period",
-        "value": "1 new (Aug 8 – Aug 10)"
+        "value": "0 genuinely new (Aug 8–10)"
       },
       {
         "label": "Q2 Earnings",
@@ -25,8 +25,8 @@
   "stories": [
     {
       "id": "story-064",
-      "headline": "UK MHRA Yellow Card Data Ties 153 Deaths to GLP-1 Receptor Agonists — Tirzepatide Accounts for 98",
-      "summary": "UK MHRA Yellow Card Biobank data reported on Aug 10 associates 153 deaths with GLP-1 receptor agonists: tirzepatide 98, semaglutide 37, exenatide 28, liraglutide 18, dulaglutide 3, lixisenatide 2. The same dataset logs roughly 63,000 gastrointestinal reports for tirzepatide and 28,000 for semaglutide, plus ~10,000 and ~5,000 nervous-system reports respectively and 3,600+ psychiatric reports across the class. MHRA states Yellow Card entries are suspected associations only and do not establish causation; Lilly's spokesperson stressed reported reactions are not proven drug-related and should not be read as a list of known side effects. This is the only substantive GLP-1 news story published in the Aug 8–10 window — Aug 8–9 fell on a weekend and no major trade outlet (Fierce, STAT, Endpoints, BioPharma Dive) published GLP-1 coverage on Aug 8, 9 or 10.",
+      "headline": "UK MHRA Yellow Card Scheme Logs 153–216 Suspected GLP-1 Death Reports — Published Totals Conflict and Do Not Reconcile",
+      "summary": "UK MHRA Yellow Card data on GLP-1 receptor agonists was reported twice in eight days with materially different numbers, and the dashboard reports the discrepancy rather than picking one. The Aug 6 syndicated UK press account gives 216 total death reports — tirzepatide 120 of 106,309 reports (11,554 serious), semaglutide 59 of 48,148 (5,682 serious), liraglutide 37 of 4,528 (1,119 serious). The Aug 10 trade write-up gives a lower total of 153 with a per-molecule breakdown (tirzepatide 98, semaglutide 37, exenatide 28, liraglutide 18, dulaglutide 3, lixisenatide 2) that itself sums to 186, not 153 — an unexplained 33-report gap in the source. MHRA states that each fatal outcome may not represent an individual case because multiple people can report the same case, which plausibly explains why totals and component sums diverge. Yellow Card is a spontaneous-reporting scheme: a report does not mean the medicine caused the event, and counts are not denominator-adjusted, so tirzepatide's lead tracks UK prescription volume and reporting attention rather than a demonstrated higher per-patient risk. Provenance note: the underlying MHRA dataset surfaced in UK consumer press on Aug 6, ahead of the Aug 8–10 window; the Aug 10 trade write-up is a re-report of it. On a strict reading the window contains no genuinely new GLP-1 story — Aug 8–9 fell on a weekend and no major trade outlet (Fierce, STAT, Endpoints, BioPharma Dive) published GLP-1 coverage on Aug 8, 9 or 10.",
       "market": "global",
       "category": "safety",
       "timestamp": "2026-08-10",
@@ -37,6 +37,12 @@
           "title": "GLP-1s may be linked to more than 150 deaths",
           "url": "https://www.foodnavigator.com/Article/2026/08/10/glp-1s-may-be-linked-to-more-than-150-deaths/",
           "date": "2026-08-10"
+        },
+        {
+          "publication": "Talker News / SWNS",
+          "title": "Regulator reports hundreds of deaths linked to weight-loss drugs",
+          "url": "https://talker.news/2026/08/06/regulator-reports-hundreds-of-deaths-linked-to-weight-loss-drugs/",
+          "date": "2026-08-06"
         }
       ],
       "tags": [
@@ -46,6 +52,7 @@
         "tirzepatide",
         "semaglutide",
         "pharmacovigilance",
+        "figures-conflict",
         "uk",
         "global",
         "august-2026"
