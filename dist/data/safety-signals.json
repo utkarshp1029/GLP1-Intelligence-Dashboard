@@ -1,11 +1,19 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-08-10T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
-        "label": "NEW: Alopecia Signal",
+        "label": "NEW: MHRA Yellow Card",
+        "value": "153 deaths class-wide (UK)"
+      },
+      {
+        "label": "NEW: Fracture Risk",
+        "value": "−21% vs DPP-4i (JAMA)"
+      },
+      {
+        "label": "Alopecia Signal",
         "value": "HR 1.37 vs SGLT-2i · 1.68 vs DPP-4i (BMJ)"
       },
       {
@@ -76,6 +84,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "safety-entry-017",
+      "timestamp": "2026-08-10T00:00:00Z",
+      "source_url": "https://www.foodnavigator.com/Article/2026/08/10/glp-1s-may-be-linked-to-more-than-150-deaths/",
+      "source_name": "FoodNavigator (MHRA Yellow Card) / JAMA Network Open",
+      "market": "both",
+      "summary": "Two signals, one adverse and one protective. UK MHRA Yellow Card Biobank data reported Aug 10 associates 153 deaths with GLP-1 receptor agonists — tirzepatide 98, semaglutide 37, exenatide 28, liraglutide 18, dulaglutide 3, lixisenatide 2 — alongside ~63,000 GI reports for tirzepatide and ~28,000 for semaglutide. MHRA is explicit that Yellow Card entries are suspected associations that do not establish causation, and tirzepatide's higher count tracks its UK prescription volume rather than proving higher per-patient risk. Running the other way, a UCLA JAMA Network Open cohort of 133,606 propensity-matched US adults aged 50–90 with T2D found GLP-1 initiators had 21% lower fragility-fracture risk over three years than DPP-4i initiators, strongest at hip/femur and spine. No FDA safety communication, MedWatch alert, EMA/PRAC output or label change was dated Aug 8–10; PRAC is in summer recess.",
+      "content": "AUG 8–10, 2026 SAFETY WINDOW — one in-window report, one recent publication newly added.\n\n1. MHRA YELLOW CARD BIOBANK — 153 DEATHS CLASS-WIDE (reported Aug 10)\n   Deaths by molecule:\n   - Tirzepatide      98\n   - Semaglutide      37\n   - Exenatide        28\n   - Liraglutide      18\n   - Dulaglutide       3\n   - Lixisenatide      2\n   Adverse reaction volumes (sample):\n   - GI disorders: ~63,000 tirzepatide / ~28,000 semaglutide / 1,095 liraglutide\n   - Nervous system: ~10,000 tirzepatide / ~5,000 semaglutide\n   - Psychiatric: 2,200+ tirzepatide / 1,300+ semaglutide / 138 liraglutide\n\n   INTERPRETATION GUARDRAILS (important — do not overstate):\n   - Yellow Card is a SPONTANEOUS reporting system. Reports are suspected\n     associations, not confirmed causal relationships. MHRA says so explicitly.\n   - Counts are not denominator-adjusted. Tirzepatide's lead reflects UK\n     prescription volume and reporting attention, NOT a demonstrated higher\n     per-patient risk than semaglutide.\n   - Lilly's response: reported reactions 'are not proven to be related to the\n     drug, and should not be interpreted as a list of known side effects.'\n   - The underlying MHRA dataset first surfaced in UK consumer press around\n     Aug 6; the Aug 10 trade write-up is the in-window artifact.\n\n2. PROTECTIVE SIGNAL — FRAGILITY FRACTURE (JAMA Network Open, early Aug 2026)\n   - TriNetX federated EHR network; adults 50–90 with T2D newly initiating a\n     GLP-1 RA or a DPP-4i between Jan 1 2015 and Dec 31 2022\n   - 66,803 propensity-matched pairs = 133,606 patients\n   - 21% lower fragility-fracture risk over 3 years vs DPP-4i\n   - Largest reductions at hip/femur and vertebral sites\n   - Lead author Christopher D. Hamad, UCLA Orthopedic Surgery\n   - Authors' own caveat: retrospective observational design does not prove\n     GLP-1s reduce fracture risk; prospective work is needed\n   - Relevance: partially offsets the lean-mass-loss concern tracked in this\n     section (BMJ NMA: tirzepatide cuts lean mass most, 8.3%). Bone outcome\n     and muscle outcome are pointing in opposite directions.\n\n3. VERIFIED NEGATIVES FOR THE WINDOW\n   - No FDA safety communication or MedWatch alert dated Aug 8–10\n   - No EMA/PRAC output — PRAC does not meet in August (summer recess)\n   - No label change, counterfeit warning, or recall in window\n   - OPEN ITEM FOR NEXT RUN: the PRAC lithium/GLP-1 RA interaction signal\n     (raised lithium levels, adopted at the Jun 8–11 2026 PRAC meeting) carries\n     a manufacturer response deadline of Aug 26, 2026. Expect a possible\n     in-window item on a subsequent update.\n\n4. UNVERIFIED IN-WINDOW LEAD — NOT PUBLISHED\n   A UK coroner's inquest into the death of a 19-year-old tirzepatide user\n   (cardiac arrhythmia, congenital myocardial bridging noted at autopsy) was\n   reported Aug 10 by a tabloid outlet. No fetchable primary or reputable\n   secondary URL could be obtained. Recorded here as a lead only — no facts\n   from it are asserted.",
+      "tags": [
+        "mhra",
+        "yellow-card",
+        "pharmacovigilance",
+        "tirzepatide",
+        "semaglutide",
+        "fracture",
+        "jama-network-open",
+        "prac-lithium",
+        "uk",
+        "us",
+        "august-2026"
+      ]
+    },
     {
       "id": "safety-entry-016",
       "timestamp": "2026-08-09T00:00:00Z",

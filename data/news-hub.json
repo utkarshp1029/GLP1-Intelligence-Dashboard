@@ -1,20 +1,20 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 63,
+    "last_updated": "2026-08-10T00:00:00Z",
+    "entry_count": 64,
     "key_metrics": [
       {
         "label": "Stories This Period",
-        "value": "8 new (Jul 3 – Aug 8)"
+        "value": "1 new (Aug 8 – Aug 10)"
       },
       {
         "label": "Q2 Earnings",
         "value": "Lilly +48% · Novo shares −6%"
       },
       {
-        "label": "Biggest Legal Event",
-        "value": "Lilly sues 14 over tirzepatide"
+        "label": "Window Character",
+        "value": "Weekend · near-zero news"
       },
       {
         "label": "Markets",
@@ -23,6 +23,34 @@
     ]
   },
   "stories": [
+    {
+      "id": "story-064",
+      "headline": "UK MHRA Yellow Card Data Ties 153 Deaths to GLP-1 Receptor Agonists — Tirzepatide Accounts for 98",
+      "summary": "UK MHRA Yellow Card Biobank data reported on Aug 10 associates 153 deaths with GLP-1 receptor agonists: tirzepatide 98, semaglutide 37, exenatide 28, liraglutide 18, dulaglutide 3, lixisenatide 2. The same dataset logs roughly 63,000 gastrointestinal reports for tirzepatide and 28,000 for semaglutide, plus ~10,000 and ~5,000 nervous-system reports respectively and 3,600+ psychiatric reports across the class. MHRA states Yellow Card entries are suspected associations only and do not establish causation; Lilly's spokesperson stressed reported reactions are not proven drug-related and should not be read as a list of known side effects. This is the only substantive GLP-1 news story published in the Aug 8–10 window — Aug 8–9 fell on a weekend and no major trade outlet (Fierce, STAT, Endpoints, BioPharma Dive) published GLP-1 coverage on Aug 8, 9 or 10.",
+      "market": "global",
+      "category": "safety",
+      "timestamp": "2026-08-10",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "FoodNavigator",
+          "title": "GLP-1s may be linked to more than 150 deaths",
+          "url": "https://www.foodnavigator.com/Article/2026/08/10/glp-1s-may-be-linked-to-more-than-150-deaths/",
+          "date": "2026-08-10"
+        }
+      ],
+      "tags": [
+        "mhra",
+        "yellow-card",
+        "safety",
+        "tirzepatide",
+        "semaglutide",
+        "pharmacovigilance",
+        "uk",
+        "global",
+        "august-2026"
+      ]
+    },
     {
       "id": "story-058",
       "headline": "Lilly Sues 14 Generic Manufacturers Over Tirzepatide — Paragraph IV Wave Arrives for Mounjaro and Zepbound",

@@ -1,9 +1,13 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 22,
+    "last_updated": "2026-08-10T00:00:00Z",
+    "entry_count": 23,
     "key_metrics": [
+      {
+        "label": "HIMS Q2",
+        "value": "Reports Aug 10 post-close"
+      },
       {
         "label": "Lilly Q2 2026",
         "value": "$23.0B (+48%)"
@@ -157,6 +161,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-019",
+      "timestamp": "2026-08-10T00:00:00Z",
+      "source_url": "https://investors.hims.com/news/news-details/2026/Hims--Hers-to-Announce-Second-Quarter-2026-Financial-Results-on-August-10-2026/default.aspx",
+      "source_name": "Hims & Hers Investor Relations / StockStory preview",
+      "market": "us",
+      "summary": "The only in-window financial event is forward-looking: Hims & Hers reports Q2 2026 after the close TODAY, Aug 10, with a 5:00pm ET call — confirmed against the company's own IR announcement. Street consensus per a StockStory preview is roughly $698.9M revenue (+28.3% YoY) against EPS of about −$0.05, decelerating from 72.6% growth in the year-ago quarter; the same preview put Q1 2026 at $608.1M (+3.8% YoY) with 2.58M customers. HIMS traded at $31.67 versus a $29.23 average analyst target and had fallen 7.9% over 30 days while healthcare-tech peers rose 3.2%. Consensus and Q1 figures are street/secondary sourced and are flagged as unverified; only the reporting date and call time are primary-confirmed. No other company reported in the window — Lilly (Aug 5), Novo (Aug 4), WeightWatchers (Aug 6), LifeMD (Aug 5) and Biocon (Aug 6) all printed before it.",
+      "content": "AUG 8–10, 2026 — window is Sat/Sun/Mon. One in-window item, forward-looking.\n\n1. HIMS & HERS Q2 2026 — REPORTS TODAY (Aug 10, after close)\n   PRIMARY-CONFIRMED (company IR page):\n   - Results released after market close Monday, Aug 10, 2026\n   - Conference call 5:00pm ET, webcast at investors.hims.com\n   - Announcement of the date itself was made Jul 13, 2026\n\n   STREET EXPECTATIONS — UNVERIFIED, secondary source (StockStory preview,\n   Aug 8). Treat as directional, not as dashboard-grade figures:\n   - Consensus revenue ~$698.9M, +28.3% YoY\n   - Consensus EPS ~−$0.049\n   - Prior-year comparable growth was 72.6% — a sharp deceleration\n   - Q1 2026 reported: $608.1M revenue (+3.8% YoY), 2.58M customers (+73k QoQ)\n   - Share price $31.67 vs $29.23 average target; −7.9% over 30 days while\n     healthcare-tech peers +3.2%\n   - Options market was pricing roughly a 14.5% post-print move\n\n   WHY IT MATTERS: HIMS is the cleanest public read on whether the Medicare\n   Bridge and the retail/pharma direct channels (Amazon, CVS, LillyDirect,\n   NovoCare) are taking share from telehealth D2C. It is also the first HIMS\n   print since the Jul 29 FTC/Utah/California suit over data sharing and\n   cancellation practices — a complaint that contains no GLP-1-specific\n   allegations but knocked 10% off the shares.\n\n2. NOTHING ELSE IN WINDOW\n   All Q2 prints landed before Aug 8: Lilly Aug 5 ($23.0B, +48%, FY guide\n   raised to $85–87B), Novo Aug 4 (DKK 78.5B, +7% CER, shares −6%),\n   WeightWatchers Aug 6, LifeMD Aug 5, Biocon Q1 FY27 Aug 6. These are already\n   captured in rev-entry-018 and are not re-dated here.\n\n3. NOT PUBLISHED — FAILED VERIFICATION\n   A search snippet claimed Cantor Fitzgerald raised its Lilly price target to\n   $1,410 from $1,350 on Aug 8. The linked pages returned stale/unrelated\n   targets and 403s on fetch. Could not be confirmed; deliberately excluded.",
+      "tags": [
+        "hims-hers",
+        "q2-2026",
+        "earnings",
+        "telehealth",
+        "guidance",
+        "us",
+        "august-2026",
+        "forward-looking"
+      ]
+    },
     {
       "id": "rev-entry-018",
       "timestamp": "2026-08-09T00:00:00Z",

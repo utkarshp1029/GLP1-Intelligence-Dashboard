@@ -1,9 +1,13 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 21,
+    "last_updated": "2026-08-10T00:00:00Z",
+    "entry_count": 22,
     "key_metrics": [
+      {
+        "label": "Sec 232 Country Tiers",
+        "value": "EU/JP/KR 15% · UK 10%"
+      },
       {
         "label": "Novo Bloomington",
         "value": "OAI - failed re-inspection (Aug 7)"
@@ -86,6 +90,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "mfg-entry-018",
+      "timestamp": "2026-08-10T00:00:00Z",
+      "source_url": "https://globalimportblog.bakermckenzie.com/2026/08/07/us-cbp-issues-implementation-guidance-for-section-232-tariffs-on-patented-pharmaceuticals/",
+      "source_name": "Baker McKenzie Global Import Blog (US CBP guidance)",
+      "market": "us",
+      "summary": "BACKFILL, not in-window: nothing manufacturing-related published Aug 8–10 (Novo's and Lilly's own newsrooms show nothing after Aug 5). Filling a real gap instead — US CBP issued Section 232 implementation guidance on Aug 7 that adds country-of-origin tiers the dashboard did not previously carry: 100% ad valorem default on covered patented pharmaceuticals and their APIs, but 15% for EU, Japan, South Korea, Switzerland and Liechtenstein origin and 10% for UK origin, with a temporary 0% for companies holding qualifying onshoring plus HHS most-favored-nation pricing agreements. Live since Jul 31 for the Annex III manufacturers and from Sept 29, 2026 for all other companies. CBP confirms generic pharmaceuticals and their ingredients remain excluded from this measure, and states no company currently qualifies for the reduced 20% onshoring rate.",
+      "content": "AUG 8–10, 2026 — NO IN-WINDOW MANUFACTURING NEWS.\nVerified negatives: Novo Nordisk's newsroom shows its most recent items as Aug 4–5; Lilly's shows nothing after the Aug 5 Q2 release. Aug 8–9 were Sat/Sun.\n\nBACKFILL — SECTION 232 CBP IMPLEMENTATION GUIDANCE (published Aug 7, 2026;\nverified by direct fetch of the source). This refines, and does not contradict,\nwhat the dashboard already carries in mfg-entry-017 and reg-entry-021.\n\nWHAT WAS ALREADY TRACKED:\n   - Regime live Jul 31 for 17 Annex III manufacturers; other importers Sept 29\n   - Tiers: 100% default / 20% with Commerce-approved onshoring /\n     0% with onshoring PLUS HHS MFN pricing\n   - Generics: zero duties through Aug 2028, then 100–200% absent US\n     manufacturing commitments\n\nWHAT IS NEW IN THE CBP GUIDANCE:\n   1. COUNTRY-OF-ORIGIN TIERS (not previously on the dashboard)\n      - 15% ad valorem: EU, Japan, South Korea, Switzerland, Liechtenstein\n      - 10% ad valorem: United Kingdom\n      - 100% ad valorem: default, all other origins\n      This materially changes the landed-cost math for Novo (Denmark/Ireland,\n      EU origin → 15%) versus non-EU/UK sourced supply at the 100% default.\n   2. NO COMPANY CURRENTLY QUALIFIES for the reduced 20% onshoring rate.\n   3. SCOPE: covered patented pharmaceuticals AND their associated active\n      pharmaceutical ingredients, classified under specific HTSUS Chapter 29\n      and Chapter 30 provisions.\n   4. Duty drawback is available.\n   5. GENERICS EXPLICITLY EXCLUDED from this patented-pharmaceutical measure.\n\nRECONCILING THE TWO GENERICS STATEMENTS — read carefully:\n   The CBP guidance's 'generics excluded' language applies to THIS Section 232\n   patented-pharmaceutical action. It is not the same thing as the separately\n   tracked generics schedule (zero duties through Aug 2028, then 100–200%\n   absent US manufacturing commitments). Both can hold simultaneously. Do not\n   collapse them into a single claim in either direction.\n\nWHY IT MATTERS FOR GLP-1 SUPPLY:\n   India-sourced semaglutide API and finished product sit at the 100% default\n   origin tier under the patented measure, though Indian generic semaglutide\n   for the US market would fall under the generics carve-out rather than this\n   action. The EU 15% tier is a meaningful relative advantage for Novo's\n   Kalundborg/Ireland network versus the headline 100% rate.",
+      "tags": [
+        "section-232",
+        "tariffs",
+        "cbp",
+        "supply-chain",
+        "novo-nordisk",
+        "eli-lilly",
+        "india-api",
+        "backfill",
+        "us",
+        "august-2026"
+      ]
+    },
     {
       "id": "mfg-entry-017",
       "timestamp": "2026-08-09T00:00:00Z",

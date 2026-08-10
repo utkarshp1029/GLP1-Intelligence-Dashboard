@@ -1,5 +1,5 @@
 {
-  "last_full_update": "2026-08-09T00:00:00Z",
+  "last_full_update": "2026-08-10T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
@@ -113,9 +113,13 @@
     },
     "revenue-financials": {
       "file": "revenue-financials.json",
-      "last_updated": "2026-08-09T00:00:00Z",
-      "entry_count": 22,
+      "last_updated": "2026-08-10T00:00:00Z",
+      "entry_count": 23,
       "key_metrics": [
+        {
+          "label": "HIMS Q2",
+          "value": "Reports Aug 10 post-close"
+        },
         {
           "label": "Lilly Q2 2026",
           "value": "$23.0B (+48%)"
@@ -183,9 +187,13 @@
     },
     "manufacturing": {
       "file": "manufacturing.json",
-      "last_updated": "2026-08-09T00:00:00Z",
-      "entry_count": 21,
+      "last_updated": "2026-08-10T00:00:00Z",
+      "entry_count": 22,
       "key_metrics": [
+        {
+          "label": "Sec 232 Country Tiers",
+          "value": "EU/JP/KR 15% · UK 10%"
+        },
         {
           "label": "Novo Bloomington",
           "value": "OAI - failed re-inspection (Aug 7)"
@@ -416,11 +424,19 @@
     },
     "safety-signals": {
       "file": "safety-signals.json",
-      "last_updated": "2026-08-09T00:00:00Z",
-      "entry_count": 19,
+      "last_updated": "2026-08-10T00:00:00Z",
+      "entry_count": 20,
       "key_metrics": [
         {
-          "label": "NEW: Alopecia Signal",
+          "label": "NEW: MHRA Yellow Card",
+          "value": "153 deaths class-wide (UK)"
+        },
+        {
+          "label": "NEW: Fracture Risk",
+          "value": "−21% vs DPP-4i (JAMA)"
+        },
+        {
+          "label": "Alopecia Signal",
           "value": "HR 1.37 vs SGLT-2i · 1.68 vs DPP-4i (BMJ)"
         },
         {
@@ -486,20 +502,20 @@
     },
     "news-hub": {
       "file": "news-hub.json",
-      "last_updated": "2026-08-09T00:00:00Z",
-      "entry_count": 63,
+      "last_updated": "2026-08-10T00:00:00Z",
+      "entry_count": 64,
       "key_metrics": [
         {
           "label": "Stories This Period",
-          "value": "8 new (Jul 3 – Aug 8)"
+          "value": "1 new (Aug 8 – Aug 10)"
         },
         {
           "label": "Q2 Earnings",
           "value": "Lilly +48% · Novo shares −6%"
         },
         {
-          "label": "Biggest Legal Event",
-          "value": "Lilly sues 14 over tirzepatide"
+          "label": "Window Character",
+          "value": "Weekend · near-zero news"
         },
         {
           "label": "Markets",
