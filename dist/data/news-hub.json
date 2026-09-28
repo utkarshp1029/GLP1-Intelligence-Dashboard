@@ -14,7 +14,7 @@
       },
       {
         "label": "Biggest Deal",
-        "value": "Nanexa €1.165bn"
+        "value": "Roche–Hanmi $2.3bn"
       },
       {
         "label": "MFN Agreements",
@@ -107,7 +107,7 @@
     {
       "id": "story-067",
       "headline": "CagriSema Beats Tirzepatide 12.4% vs 9.1% in REIMAGINE 5 — But Against Lilly's Second-Lowest Dose, and After Losing REDEFINE 4 to Zepbound",
-      "summary": "In REIMAGINE 5 (type 2 diabetes, ~1,000 adults inadequately controlled on metformin and/or an SGLT2 inhibitor), CagriSema 1.0/1.0 mg produced 12.4% mean weight loss at week 60 versus 9.1% for tirzepatide, with non-inferior HbA1c reduction (1.71% vs 1.67%). In REDEFINE 9, the same low dose cut weight 21.0% versus 2.0% for placebo at week 68. Two caveats are essential: the comparator was tirzepatide 5 mg, Lilly's SECOND-LOWEST dose rather than the 15 mg maximum, and CagriSema had already LOST the head-to-head REDEFINE 4 trial to Zepbound in February 2026. Novo disclosed no n, no p-values, no AE or discontinuation rates, and did not report the 1.7/1.7 mg arm. FDA decision on the December 2025 NDA is expected Q4 2026.",
+      "summary": "In REIMAGINE 5 (type 2 diabetes, ~1,000 adults inadequately controlled on metformin and/or an SGLT2 inhibitor), CagriSema 1.0/1.0 mg produced 12.4% mean weight loss at week 60 versus 9.1% for tirzepatide, with non-inferior HbA1c reduction (1.71% vs 1.67%). In REDEFINE 9, the same low dose cut weight 21.0% versus 2.0% for placebo at week 68. Two caveats are essential: the comparator was tirzepatide 5 mg, Lilly's SECOND-LOWEST dose rather than the 15 mg maximum, and CagriSema had already LOST the head-to-head REDEFINE 4 trial to Zepbound in February 2026. Novo disclosed no n, no p-values, no AE or discontinuation rates, and did not report the 1.7/1.7 mg arm. Novo expects an FDA decision on the December 2025 NDA in Q4 2026 — note this is a COMPANY EXPECTATION; there is no public PDUFA date.",
       "market": "global",
       "category": "clinical",
       "timestamp": "2026-09-21",
@@ -477,7 +477,7 @@
     {
       "id": "story-078",
       "headline": "Novo Signs Four External Deals in Six Weeks — Nanexa up to EUR 1.165bn, Orbis up to $1.4bn, Plus Kallyope and Anthropic",
-      "summary": "Under shareholder pressure to diversify away from semaglutide, Novo struck at least four external deals inside the window. NANEXA (Sept 25): global exclusive licence to the atomic-layer-deposition PharmaShell platform for peptide drugs in obesity, T2D and cardiometabolic disease, up to five programs targeting MONTHLY AND QUARTERLY dosing; Nanexa eligible for up to EUR 1.165bn including EUR 615m upfront plus development and regulatory milestones, with the remainder in sales milestones and low single-digit royalties. Nanexa shares rose roughly 150%. ORBIS MEDICINES (Sept 17): up to $1.4bn multi-target discovery partnership for macrocyclic oral drugs — notable because Orbis has also taken Lilly funding. KALLYOPE (disclosed Sept 18 via LinkedIn, reported Sept 21): acquired one therapeutic peptide and two small molecules, lead asset K-554 an IND-ready weekly peptide targeting biology distinct from GLP-1 and amylin; terms undisclosed.",
+      "summary": "Under shareholder pressure to diversify away from semaglutide, Novo struck at least four external deals inside the window. NANEXA (Sept 25): global exclusive licence to the atomic-layer-deposition PharmaShell platform for peptide drugs in obesity, T2D and cardiometabolic disease, up to five programs targeting MONTHLY AND QUARTERLY dosing; Nanexa eligible for up to EUR 1.165bn across upfront, development, regulatory and sales milestones plus low single-digit royalties. *** THE UPFRONT FIGURE IS NOT PUBLISHED HERE: coverage citing 'EUR 615m upfront' is internally garbled (it double-counts against 'the remainder in sales milestones') and implausible at 53% of the total deal value for a company of Nanexa's size. Re-verify against the primary release before quoting an upfront. *** Nanexa shares rose roughly 150%. ORBIS MEDICINES (Sept 17): up to $1.4bn multi-target discovery partnership for macrocyclic oral drugs — notable because Orbis has also taken Lilly funding. KALLYOPE (disclosed Sept 18 via LinkedIn, reported Sept 21): acquired one therapeutic peptide and two small molecules, lead asset K-554 an IND-ready weekly peptide targeting biology distinct from GLP-1 and amylin; terms undisclosed.",
       "market": "global",
       "category": "corporate",
       "timestamp": "2026-09-25",
@@ -549,8 +549,8 @@
     },
     {
       "id": "story-080",
-      "headline": "Zepbound Cut Healthcare Costs Up to 38% in Adults Over 55 — Lilly Pitches It Directly Against Medicare's $195 Bridge Price",
-      "summary": "Published in Diabetes, Obesity and Metabolism, the study found sustained Zepbound use in adults over 55 was associated with costs up to 15% lower (up to $181 per patient per month) at six months, widening to up to $607 per patient per month — up to 38% lower — by 12 months, EXCLUDING the drug's own cost. Lower hospital admission and ED visit rates drove the gap, with higher routine outpatient use. Lilly framed the result explicitly against Medicare's GLP-1 Bridge program treatment cost of $195 per patient per month, arguing savings roughly cover the drug by six months and exceed it by 12. Read this as a lobbying artifact aimed at the Medicare coverage debate as much as a clinical finding.",
+      "headline": "Zepbound Cut Healthcare Costs Up to 38% in Adults Over 55 — Lilly Pitches It Directly Against Medicare's $195 Bridge Federal Share",
+      "summary": "Published in Diabetes, Obesity and Metabolism, the study found sustained Zepbound use in adults over 55 was associated with costs up to 15% lower (up to $181 per patient per month) at six months, widening to up to $607 per patient per month — up to 38% lower — by 12 months, EXCLUDING the drug's own cost. Lower hospital admission and ED visit rates drove the gap, with higher routine outpatient use. Lilly framed the result explicitly against Medicare's GLP-1 Bridge FEDERAL SHARE of $195 per patient per month (manufacturer net $245; patient pays $50), arguing savings roughly cover the drug by six months and exceed it by 12. Read this as a lobbying artifact aimed at the Medicare coverage debate as much as a clinical finding.",
       "market": "us",
       "category": "market",
       "timestamp": "2026-08-26",
@@ -679,7 +679,7 @@
     {
       "id": "story-084",
       "headline": "Mounjaro Becomes India's Single Largest-Selling Drug by Value at ₹1,256 Crore, Up 502% — Premium Held Despite the Generic Flood",
-      "summary": "Mounjaro recorded ₹1,256 crore in sales in the 12 months ending August 2026, up 502% year over year, making it the single largest-selling drug in the Indian market by value. The Indian pharmaceutical market grew 10.7% in value in August while prescription volumes stayed roughly flat, meaning higher-priced medicines and higher doses — GLP-1s prominently — drove essentially all the value growth. The result is striking because it came AFTER generic semaglutide flooded India from March 21, 2026 at prices as low as ₹325-4,200 per month and AFTER Novo cut Wegovy's Indian price by up to 48% in April: tirzepatide held the premium tier rather than being commoditised. Note tirzepatide in India remains a Mounjaro plus Cipla Yurpeak duopoly with patents to roughly 2033-2036 — it is not genericised.",
+      "summary": "Mounjaro recorded ₹1,256 crore in sales in the 12 months ending August 2026, up 502% year over year, making it the single largest-selling drug in the Indian market by value. The Indian pharmaceutical market grew 10.7% in value in August while prescription volumes stayed roughly flat, meaning higher-priced medicines and higher doses — GLP-1s prominently — drove essentially all the value growth. The result is striking because it came AFTER generic semaglutide flooded India from March 21, 2026 (compound patent expiry 2026-03-20; first launches from Mar 21) at prices as low as ₹1,290-4,200 per month (the ₹325 figure often quoted is a WEEKLY vial price — Glenmark Glipiq at ₹325/week is ₹1,300/month) and AFTER Novo cut Wegovy's Indian price by up to 48% in April: tirzepatide held the premium tier rather than being commoditised. Note tirzepatide in India remains a Mounjaro plus Cipla Yurpeak duopoly with patents to roughly 2033-2036 — it is not genericised.",
       "market": "india",
       "category": "market",
       "timestamp": "2026-09-07",
