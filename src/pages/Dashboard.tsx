@@ -36,24 +36,40 @@ export default function Dashboard({ meta, newCounts }: DashboardProps) {
             The complete strategy dashboard for weight loss drug markets across India and the United States.
           </p>
 
-          {/* Quick Stats Row */}
+          {/* Quick Stats Row.
+              These are derived from the data itself rather than pulled from a section's
+              key_metrics by array index. The previous version read key_metrics[0] and
+              key_metrics[2] into the fixed labels "Cheapest per mg (India)" and
+              "Global GLP-1 Market", which silently mislabelled whatever metric happened
+              to sit at that index after an update. Deriving them keeps the hero honest. */}
           {meta && (
             <div className="flex flex-wrap justify-center gap-12 md:gap-16 mb-10">
               <div>
-                <p className="text-4xl md:text-5xl font-semibold tracking-tight text-white">14</p>
+                <p className="text-4xl md:text-5xl font-semibold tracking-tight text-white">
+                  {Object.keys(meta.sections).length}
+                </p>
                 <p className="text-sm text-[#86868b] mt-1">Market Sections</p>
               </div>
               <div>
                 <p className="text-4xl md:text-5xl font-semibold tracking-tight text-white">
-                  {meta.sections['pricing']?.key_metrics?.[0]?.value || '₹525'}
+                  {Object.values(meta.sections)
+                    .reduce((sum, s) => sum + (s.entry_count || 0), 0)
+                    .toLocaleString()}
                 </p>
-                <p className="text-sm text-[#86868b] mt-1">Cheapest per mg (India)</p>
+                <p className="text-sm text-[#86868b] mt-1">Tracked Entries</p>
               </div>
               <div>
                 <p className="text-4xl md:text-5xl font-semibold tracking-tight text-white">
-                  {meta.sections['revenue-financials']?.key_metrics?.[2]?.value || '$48.2B'}
+                  {meta.last_full_update
+                    ? new Date(meta.last_full_update).toLocaleDateString('en-US', {
+                        month: 'short',
+                        day: 'numeric',
+                        year: 'numeric',
+                        timeZone: 'UTC',
+                      })
+                    : '--'}
                 </p>
-                <p className="text-sm text-[#86868b] mt-1">Global GLP-1 Market</p>
+                <p className="text-sm text-[#86868b] mt-1">Last Updated</p>
               </div>
             </div>
           )}
