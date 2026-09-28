@@ -1,44 +1,36 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-08-10T00:00:00Z",
-    "entry_count": 20,
+    "last_updated": "2026-09-28T00:00:00Z",
+    "entry_count": 21,
     "key_metrics": [
       {
-        "label": "MHRA Yellow Card (UK)",
-        "value": "153–216 deaths · conflicts"
+        "label": "MHRA Yellow Card",
+        "value": "No update in window"
       },
       {
-        "label": "Fracture Risk",
-        "value": "HR 0.79 vs DPP-4i (JAMA)"
+        "label": "Semaglutide NAION",
+        "value": "HR 1.54 (1.31–1.82)"
       },
       {
-        "label": "Alopecia Signal",
-        "value": "HR 1.37 vs SGLT-2i · 1.68 vs DPP-4i (BMJ)"
+        "label": "NAION FAERS Signal",
+        "value": "ROR 94.5 · bias-prone"
       },
       {
-        "label": "Tirzepatide FAERS",
-        "value": "123,145 reports · starvation ketoacidosis unlabeled"
+        "label": "Adolescent Suicidality",
+        "value": "HR 0.74 — lower"
       },
       {
-        "label": "Lean Mass (BMJ NMA)",
-        "value": "Tirzepatide cuts most: 8.3%"
+        "label": "Lean Mass Change",
+        "value": "SMD −0.52 · low GRADE"
       },
       {
-        "label": "Semaglutide Kidney",
-        "value": "HR 0.84 pooled (SELECT/FLOW/SOUL)"
+        "label": "Lymphopenia on Therapy",
+        "value": "2.90% vs 1.77%"
       },
       {
-        "label": "GI MDL 3094",
-        "value": "3,928 cases"
-      },
-      {
-        "label": "NAION MDL 3163",
-        "value": "200 cases (new, separate)"
-      },
-      {
-        "label": "TGA Class-Wide",
-        "value": "NAION added to all 4 GLP-1 labels"
+        "label": "Renal Benefit",
+        "value": "Only w/ albuminuria"
       }
     ]
   },
@@ -84,6 +76,33 @@
     }
   ],
   "entries": [
+    {
+      "id": "safety-entry-018",
+      "timestamp": "2026-09-28T00:00:00Z",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42768849/",
+      "source_name": "Diabetes Obes Metab / BMJ / Drugs / Obesity Sci Pract / gov.uk / fda.gov / ema.europa.eu",
+      "market": "both",
+      "summary": "The MHRA open item is resolved as a negative: NO clarification of the conflicting Yellow Card GLP-1 death totals was issued in the window, verified three ways, so this dashboard's existing 'conflicting totals' disclosure stands unchanged. The literature delivered six substantive papers. A network meta-analysis put semaglutide's NAION risk highest among GLP-1s at HR 1.54 with an extreme FAERS signal (ROR 94.5) that reflects publicity-amplified reporting bias rather than measured incidence. Reassuringly, a 9,222-pair adolescent cohort found incretins associated with LOWER suicide-related events (HR 0.74). A 1.25-million-person musculoskeletal meta-analysis confirmed lean-mass loss (SMD −0.52) but found NO bone or fracture effect, at low GRADE certainty. A BMJ target-trial emulation of 75,455 people found renal benefit confined to patients with albuminuria. No FDA label change, no EMA PRAC GLP-1 signal and no India safety action occurred in the window.",
+      "content": "August 10 - September 28, 2026 safety signals.\n\n1. *** THE OPEN ITEM RESOLVED AS A NEGATIVE: MHRA ISSUED NO YELLOW CARD CLARIFICATION IN WINDOW ***\n   Verified THREE ways:\n   (a) the gov.uk Drug Safety Update index lists NO GLP-1 item in August or September 2026 - the most\n       recent DSU is 2026-09-02 on parenteral nutrition filters\n   (b) the MHRA news-and-communications feed for the window contains only the orforglipron\n       authorisation (Aug 10), CHM appointments (Sep 24) and a Scotland piece (Sep 24) - nothing on\n       Yellow Card totals\n   (c) the January 2026 pancreatitis DSU page shows 'Published 29 January 2026' with NO AMENDMENT\n   MHRA's only authoritative published GLP-1 Yellow Card figures remain those from that DSU:\n     1,296 PANCREATITIS REPORTS 2007 - Oct 2025, of which 19 FATAL and 24 NECROTISING.\n   *** The 216 vs 153/186 death totals were PRESS-DERIVED and REMAIN UNRECONCILED. This dashboard's\n   existing 'conflicting totals' disclosure (story-064) SHOULD STAND UNCHANGED. ***\n   Nearest in-window item: a BMJ news feature, 'GLP-1 deaths: Are weight loss drugs linked to hundreds\n   of fatalities?' (2026-08-12) - PAYWALLED, figures could not be extracted, NONE reproduced.\n\n2. SEMAGLUTIDE CARRIES THE HIGHEST NAION RISK AMONG GLP-1s (Sep 21, PEER-REVIEWED, Diabetes Obes Metab)\n   Network meta-analysis + FAERS disproportionality + network toxicology.\n   - vs non-GLP-1 treatment: semaglutide HR 1.538 (95% CI 1.305-1.816); liraglutide HR 1.251 (1.080-1.450)\n   - FAERS: semaglutide ROR 94.534 (95% CI 83.093-107.552); liraglutide ROR 4.519 (2.617-7.802)\n   - CASP3 emerged as the central hub target in docking analysis\n   *** INTERPRETIVE LIMIT: this is an ASSOCIATION from meta-analysed and spontaneous-report data, NOT\n   established causation. The enormous ROR reflects REPORTING BIAS AMPLIFIED BY PUBLICITY, and\n   disproportionality has NO EXPOSURE DENOMINATOR. Do not read ROR 94.5 as a 94-fold risk. ***\n\n3. FAERS HEAD-TO-HEAD - SIGNALS FLIP WITH REPORTER IDENTITY (Sep 21, PEER-REVIEWED, Diabetes Obes Metab)\n   FAERS May 2022 - June 2026, four convergent disproportionality methods + Benjamini-Hochberg FDR.\n   - Report volumes: 151,654 tirzepatide vs 64,987 semaglutide\n   - Healthcare-professional-originated: 5.04% tirzepatide vs 23.42% semaglutide - a large asymmetry\n     that by itself changes what signals\n   - Only SEMAGLUTIDE met all four criteria for GI (ROR 3.64) and metabolic (ROR 4.25) disorders in the\n     general population (GI RORR 0.58, 0.57-0.59)\n   - Pancreatitis signalled for BOTH but ATTENUATED TO EQUIVALENCE within T2D (RORR 0.98, 0.83-1.15)\n   - DKA signalled only for semaglutide in the HCP cohort (ROR 3.52)\n   - Tirzepatide showed higher hypoglycaemia reporting (RORR 1.91, 1.49-2.44)\n   *** Authors state findings are HYPOTHESIS-GENERATING and require exposure denominators. ***\n   NOTE: this dashboard's prior entry carried '123,145 tirzepatide reports'; this newer paper with a\n   longer cutoff (to June 2026) gives 151,654. Both are FAERS counts at different cutoffs, not a conflict.\n\n4. ADOLESCENTS - INCRETINS ASSOCIATED WITH LOWER SUICIDE-RELATED EVENTS (Sep 14, PEER-REVIEWED)\n   Retrospective propensity-matched TriNetX cohort, 9,222 adolescents per arm, new users of\n   semaglutide/liraglutide/tirzepatide vs lifestyle intervention, outcomes 30-1,095 days.\n   - Suicide-related events HR 0.74 (0.57-0.95); suicidal ideation HR 0.73 (0.56-0.96);\n     anxiety HR 0.92 (0.84-0.99)\n   - NO difference for suicide attempt, insomnia, depression or eating disorders\n   - Reductions significant in females (HR 0.61, 0.46-0.82) and those without T2D (HR 0.63, 0.47-0.85)\n   *** REASSURING on the suicidality signal, but OBSERVATIONAL. Authors caution on selection bias and\n   note NO SIGNIFICANT DIFFERENCE in the metformin active-comparator analysis. ***\n\n5. MUSCULOSKELETAL - LEAN MASS FALLS, BUT NO BONE OR FRACTURE EFFECT (Sep 12, PEER-REVIEWED, Drugs)\n   60 articles (46 RCTs, 13 RWE, 1 pharmacovigilance), 1,250,717 individuals, PROSPERO CRD420251024082.\n   - Consistent reduction in lean body mass / fat-free mass (k=28, SMD -0.52, 95% CI -0.80 to -0.23,\n     I2=88%), robust across all sensitivity analyses, driven mainly by liraglutide and semaglutide\n   - NO effect on bone mineral density or fractures in fully-adjusted models\n   - NO significant change in WOMAC pain, function or stiffness\n   *** GRADE certainty was LOW. Authors attribute the lean-mass change largely to WEIGHT LOSS ITSELF;\n   whether it translates into functional impairment is UNRESOLVED. ***\n   Note the tension with item 6 of trial-entry-022: FDA is simultaneously imposing fracture reporting\n   requirements on myostatin-class muscle agents (Scholar Rock, Sep 15).\n\n6. MALNUTRITION IS UNDER-REPORTED BY ROUTINE AE CAPTURE (Sep 6, PEER-REVIEWED, Obesity Sci Pract)\n   19 randomised trials across SURMOUNT, STEP, SCALE and OASIS.\n   - Daily energy intake fell 24.0-39.2%, with modelled deficits reaching 1,200 kcal/day\n   - Tirzepatide 15 mg: mean fat-free mass loss 1.60 kg (2.80% of body weight)\n   - INVESTIGATOR-REPORTED malnutrition 0.12% - but OBJECTIVE SCREENING found total lymphocyte counts\n     <910/uL in 2.90% of active-therapy vs 1.77% of placebo participants\n   - Pancreatic lipase rose a mean 31% in SCALE\n   *** THE CENTRAL CLAIM: routine AE reporting MATERIALLY UNDERESTIMATES nutritional risk - a ~24x gap\n   between investigator-reported and objectively-screened rates. Authors propose baseline albumin and\n   lymphocyte screening with monitoring at weeks 12, 24 and 52. ***\n\n7. RENAL BENEFIT IS CONFINED TO PATIENTS WITH ALBUMINURIA (Sep 16, PEER-REVIEWED, BMJ)\n   Target trial emulation, BESTMED data from 10 health systems and two national insurers, 75,455 people\n   with T2D on metformin starting a GLP-1 RA or SGLT2i vs sulfonylurea or DPP-4 inhibitor, 2014-2022,\n   median 32 months follow-up.\n   - Five-year risk of doubled creatinine or eGFR<15:\n     WITH albuminuria    3.2% vs 5.4% for DPP-4i -> RR 0.60 (95% CI 0.42-0.82)\n     WITHOUT albuminuria 2.4% vs 2.1%            -> RR 1.10 (0.90-1.38)\n   *** LITTLE EVIDENCE OF RENAL BENEFIT ABSENT ALBUMINURIA - a meaningful qualifier on broad\n   renal-protection messaging. Observational, though target-trial design mitigates confounding. ***\n   Note this QUALIFIES rather than contradicts the prior pooled SELECT/FLOW/SOUL HR 0.84 on this\n   dashboard: the pooled estimate averages across albuminuria status.\n\n8. ALSO IN WINDOW\n   - NEJM perspective 'GLP-1 Receptor Agonists and Eating Disorders - Cause for Concern' (Aug 13) -\n     COMMENTARY, NO NEW DATA\n   - JAMA Ophthalmology correspondence and author reply on temporal-risk methodology in the\n     semaglutide-NAION literature (Aug 27)\n   - SELECT prespecified analysis, 7,594 participants: median peak weight loss 12.5% at a median\n     19 months, but baseline characteristics predicted <10% OF VARIANCE, of which female sex accounted\n     for 85.3% (Sep 24) - i.e. response is largely unpredictable from baseline\n   - India: commentary on the first semaglutide MASH approval in India (Aug 10) - COMMENTARY, not a\n     safety action\n   - JAMA carried short in-window news items on lower fracture risk, OSA comparative effectiveness, PAD\n     and persistent compounded-GLP-1 use, but these are NEWS SUMMARIES WITHOUT EXTRACTABLE TRIAL\n     NUMBERS - NO figures attached\n\n9. REGULATORY - VERIFIED NEGATIVES\n   - FDA: NO in-window GLP-1 label change, boxed warning or safety communication found. The most recent\n     published quarterly potential-signals report is JANUARY-MARCH 2026 and NO GLP-1 appears on it.\n   - *** INFRASTRUCTURE NOTE: FDA has CONSOLIDATED FAERS into a renamed 'Adverse Event Monitoring System\n     (AEMS)' and the old FAERS URLs now 301-redirect. The transition date could NOT be established and\n     is NOT assigned one here. Relevant for future sweeps. ***\n   - EMA: NO GLP-1 PRAC SIGNAL IN WINDOW. PRAC highlights for the period cover valproate,\n     desogestrel/etonogestrel, Litfulo and injectable iron - no GLP-1 item. The next PRAC meeting runs\n     28 Sept - 1 Oct 2026, i.e. it CONVENES ON THE WINDOW'S FINAL DAY.\n   - India: NO PvPI/IPC/CDSCO GLP-1 SAFETY ACTION FOUND IN WINDOW.\n\n10. *** COVERAGE LIMITATION - READ THIS ***\n   A delegated media/press safety sweep DID NOT RETURN before the shared search budget was exhausted.\n   The regulatory findings above are DIRECT verification against gov.uk, fda.gov and ema.europa.eu, and\n   the literature was pulled from the live NCBI E-utilities API, so PMIDs and dates are real. BUT\n   PRESS AND MEDIA SAFETY COVERAGE IS NOT EXHAUSTIVE: litigation-driven safety claims and\n   counterfeit-product harms in particular were NOT systematically swept. Treat those as OPEN.",
+      "tags": [
+        "safety",
+        "mhra-no-update",
+        "yellow-card-unreconciled",
+        "naion",
+        "semaglutide",
+        "faers",
+        "aems-rename",
+        "adolescent-suicidality",
+        "lean-mass",
+        "malnutrition",
+        "lymphopenia",
+        "renal-albuminuria",
+        "association-not-causation",
+        "prac-zero",
+        "coverage-gap",
+        "september-2026"
+      ]
+    },
     {
       "id": "safety-entry-017",
       "timestamp": "2026-08-10T00:00:00Z",

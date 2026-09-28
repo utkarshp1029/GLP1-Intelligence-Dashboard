@@ -1,32 +1,36 @@
 {
   "meta": {
     "section_id": "supply-chain",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-09-28T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
-        "label": "Active Shortages",
-        "value": "Liraglutide/Victoza only (reverified Aug 6)"
+        "label": "Patented Pharma Tariff",
+        "value": "100% · from Sep 29"
       },
       {
-        "label": "Semaglutide & Tirzepatide",
-        "value": "Zero shortage records (openFDA)"
+        "label": "Specialty 0% Jurisdictions",
+        "value": "19 (GLP-1s excluded)"
       },
       {
-        "label": "US Recalls in Window",
-        "value": "ZERO GLP-1 (88 records checked)"
+        "label": "UK Rate for GLP-1s",
+        "value": "UNESTABLISHED"
       },
       {
-        "label": "India Disruption",
-        "value": "Dr Reddy's halted to late Oct"
+        "label": "Generics Under 232",
+        "value": "Not applied (for now)"
       },
       {
-        "label": "Bridge Supply",
-        "value": "No stockouts detected"
+        "label": "DRL Pens H2 FY27",
+        "value": "6–7M (was 12M)"
       },
       {
-        "label": "Wegovy Pill",
-        "value": "5M+ cumulative - 267K weekly"
+        "label": "DRL Restart",
+        "value": "Late Oct–Nov · 80–90%"
+      },
+      {
+        "label": "GLP-1s on Shortage List",
+        "value": "0"
       }
     ]
   },
@@ -67,6 +71,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "sc-entry-017",
+      "timestamp": "2026-09-28T00:00:00Z",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/html/2026-19498.htm",
+      "source_name": "Federal Register / GPO (primary) / Dr Reddy's SEC 6-K / IPC / FDA",
+      "market": "both",
+      "summary": "The window's decisive supply event is the Section 232 pharmaceutical tariff going live for all remaining importers on Sep 29, 2026 at a 100% ad valorem headline rate on patented pharmaceuticals. Critically, the Sep 23 Federal Register notice grants a 0% rate only for SPECIALTY pharmaceuticals from 19 jurisdictions, and GLP-1s are not specialty products — so this dashboard's prior 'UK Section 232 = 0%' entry has been NARROWED, because the GLP-1-applicable rate is not established by any primary source we could reach. On India, the Pharmacopoeia Commission is drafting a national semaglutide monograph targeted at the IP Addendum 2028, raising the 2028 compliance bar. Dr Reddy's restart has slipped to late October–early November with management itself putting only 80–90% probability on it, and no in-window confirmation that the September API-testing milestone was met.",
+      "content": "August 10 - September 28, 2026 supply chain:\n\n1. SECTION 232: 100% TARIFF ON PATENTED PHARMA LIVE FOR ALL REMAINING IMPORTERS SEP 29\n   PRIMARY SOURCE: Federal Register 2026-19498, published 2026-09-23 (govinfo/GPO).\n   - Commerce guidance implements tariff adjustments under Proclamation 11020\n   - EFFECTIVE 2026-09-29 at 12:01 a.m. ET\n   - Headline rate: 100% AD VALOREM on certain imports of PATENTED pharmaceuticals\n   - From Sep 29 this applies to ALL companies not already covered (Annex III companies were hit\n     2026-07-31)\n   - An ad valorem rate of ZERO is granted for qualifying SPECIALTY pharmaceutical products from 19\n     named jurisdictions: Argentina, Bangladesh, Cambodia, Ecuador, El Salvador, European Union,\n     Guatemala, India, Indonesia, Japan, Jordan, Malaysia, North Macedonia, Republic of Korea,\n     Switzerland and Liechtenstein, Taiwan, Thailand, United Kingdom, Vietnam\n   - Notice states verbatim: 'At this time, Section 232 Pharmaceutical Tariffs do not apply to generic\n     pharmaceutical articles and associated ingredients.'\n\n2. *** CORRECTION TO THIS DASHBOARD - THE UK 0% CLAIM IS NARROWED ***\n   The prior entry mfg-entry-018 (2026-08-10) recorded 'ZERO for UK origin' and '15% for EU, Japan,\n   South Korea, Switzerland and Liechtenstein'. That is TOO BROAD as applied to GLP-1s.\n   - 'Specialty' in the Sep 23 notice is DEFINED as: orphan drugs, nuclear medicines, plasma therapies,\n     fertility drugs, cell therapy, gene therapy, antibody conjugates, CBRN countermeasures, animal\n     health products\n   - GLP-1 RECEPTOR AGONISTS FALL INTO NONE OF THOSE CATEGORIES\n   - Therefore the UK/EU/India 0% does NOT flow through to Ozempic, Wegovy, Mounjaro or Zepbound\n   - VERIFIED from the primary notice: the 19-jurisdiction list, the 0% specialty rate, the 100%\n     patented rate, the Sep 29 2026 effective date\n   - NOT VERIFIED from any primary source, and therefore NOT PUBLISHED as GLP-1-applicable: the widely\n     reported 15% ceiling for EU/Japan/Korea/Switzerland, the 10%-falling-to-zero UK pharmaceutical\n     agreement rate, and the 20% Commerce-approved-onshoring rate. All three trace only to law-firm\n     client alerts. federalregister.gov 302-redirected to an unblock gateway, so Proclamation 11020\n     and its annexes could not be read directly.\n   - BOTTOM LINE: the GLP-1-applicable UK rate is UNESTABLISHED. This is the same class of error the\n     dashboard already corrected once; it is being narrowed rather than restated.\n\n3. INDIA DRAFTS A NATIONAL SEMAGLUTIDE MONOGRAPH (Aug 24)\n   - Indian Pharmacopoeia Commission drafting a semaglutide monograph imposing uniform purity and\n     potency limits - a binding statutory benchmark covering process-specific impurities across BOTH\n     chemical-synthesis and recombinant routes\n   - Until now Indian manufacturers relied on varied internal protocols with no national benchmark\n   - Prioritised for the INDIAN PHARMACOPOEIA ADDENDUM 2028; no earlier implementation date specified\n   - Near-term supply impact NIL; raises the 2028 compliance bar for every Indian generic and for\n     export-oriented API\n   - CDSCO separately running nationwide supply-chain surveillance for counterfeits\n   - Context: semaglutide's Indian patent expired 2026-03-20 with a dozen-plus generic brands launched\n\n4. DR REDDY'S SEMAGLUTIDE RESTART HAS SLIPPED - AND IS UNCONFIRMED\n   The Aug 10 known state ('halted to late October 2026') is now STALE.\n   - Latest guidance (company disclosures 2026-07-22 / 07-28 / 07-30, all PRE-window):\n     * API remedial testing complete ~THIRD WEEK OF SEPTEMBER 2026\n     * API to CDMO partner OneSource Specialty Pharma EARLY OCTOBER 2026\n     * Commercial shipments restart LATE OCTOBER TO EARLY NOVEMBER 2026\n     * Management itself assigns only an 80-90% PROBABILITY to this\n   - Volume target 6-7 MILLION PENS across Q3+Q4 FY27, cut from an original 12 million\n   - Provision booked: Rs 2,397M (Rs 239.7 crore) for inventory and associated costs\n   - 180,000 pens sold before the stop; opportunity loss pegged at 3-4 million pens\n   - *** CRITICAL: NO disclosure inside Aug 10 - Sep 28 confirms the API testing actually completed in\n     the third week of September. The window closed Sep 28 with NO confirmation. Dashboard position:\n     'restart guided to late Oct-early Nov 2026; September API-testing milestone UNCONFIRMED'.\n     Re-check at Dr Reddy's Q2 FY27 results. ***\n\n5. GLP-1s REMAIN OFF THE FDA SHORTAGE LIST - NO STATUS CHANGE\n   - Neither semaglutide nor tirzepatide was added to or removed from the FDA Drug Shortages database\n     between Aug 10 and Sep 28 2026; both have stayed off since their resolutions\n     (tirzepatide 2024-12-19, semaglutide 2025-02-21)\n   - *** CAVEAT: accessdata.fda.gov/scripts/drugshortages was NOT directly queried in this sweep\n     (search budget exhausted). This is a no-change INFERENCE from secondary coverage, not a\n     primary-source confirmation. ***\n   - NOT PUBLISHED: secondary trade reporting of 'roughly 85% pharmacy availability nationwide' for\n     tirzepatide and intermittent tightness in semaglutide 1mg/2mg vs better 0.25/0.5mg availability.\n     Those are single-source blog figures.\n   - UNRESOLVED LEAD: the FDA shortage database reportedly lists 'Semaglutide Tablet' under\n     Discontinuations. No date, product or applicant could be retrieved (shortage API unreachable), so\n     it is NOT reported as an item. Worth a follow-up.\n\n6. VERIFIED NEGATIVES FOR THIS WINDOW\n   - NO counterfeit pens entering the legitimate supply chain. Most recent FDA action remains the\n     Dec 2025 lot PAR1229 Ozempic seizure.\n   - NO GLP-1 recall.\n   - NO Chinese API export controls. The Harbin Jixianglong warning letter was 2026-05-01 (reported\n     2026-05-20), pre-window.\n   - NO EMA shortage-catalogue status change for semaglutide or tirzepatide.\n   - NO allocation or rationing decisions.\n   - NO distribution or wholesaler changes at McKesson, Cencora or Cardinal.\n   - NO cold-chain news. NO India DGFT export-policy change.\n   - NO IRA/onshoring policy development beyond the Section 232 item above.",
+      "tags": [
+        "supply-chain",
+        "section-232",
+        "tariffs",
+        "federal-register",
+        "correction",
+        "uk-rate-narrowed",
+        "specialty-carve-out",
+        "india-pharmacopoeia",
+        "semaglutide-monograph",
+        "dr-reddys",
+        "restart-slipped",
+        "fda-shortage",
+        "september-2026"
+      ]
+    },
     {
       "id": "sc-entry-016",
       "timestamp": "2026-08-09T00:00:00Z",

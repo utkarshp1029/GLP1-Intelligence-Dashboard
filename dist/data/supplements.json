@@ -1,32 +1,36 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 22,
+    "last_updated": "2026-09-28T00:00:00Z",
+    "entry_count": 23,
     "key_metrics": [
       {
-        "label": "Tracked Supplements",
-        "value": "7"
+        "label": "Amazon Hair Searches",
+        "value": "2.5M in Q2 2026"
       },
       {
-        "label": "Berberine India",
-        "value": "3x YoY growth"
+        "label": "GLP-1 Alopecia Risk",
+        "value": "+37% vs SGLT-2"
       },
       {
-        "label": "Faux-zempic",
-        "value": "WGSN #1 trend"
+        "label": "Hair Claim White Space",
+        "value": "only 5% of products"
       },
       {
-        "label": "US Category Growth",
-        "value": "+35% YoY (Q1 2026)"
+        "label": "Adults on GLP-1 Diet",
+        "value": "8.5% (was 4.8%)"
       },
       {
-        "label": "ADA BELIEVE (Jun)",
-        "value": "Bimagrumab → 7% lean-mass loss"
+        "label": "GLP-1 Users Want Protein",
+        "value": "65% vs 48% all"
       },
       {
-        "label": "Activity Decline",
-        "value": "−560 steps/day on GLP-1"
+        "label": "OEA 300mg GLP-1 Lift",
+        "value": "+20–25% vs placebo"
+      },
+      {
+        "label": "FTC/FDA Enforcement",
+        "value": "None in window"
       }
     ]
   },
@@ -181,6 +185,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "supp-entry-017",
+      "timestamp": "2026-09-28T00:00:00Z",
+      "source_url": "https://www.nutraingredients.com/Article/2026/08/12/are-glp-1s-driving-demand-for-hair-growth-supplements/",
+      "source_name": "NutraIngredients-USA / Food Dive / Nutrition Insight / Mealey's",
+      "market": "both",
+      "summary": "The GLP-1 adjacent-consumer category matured on evidence and litigation rather than on enforcement this window. The clearest white-space signal: Amazon hair-growth searches tripled to 2.5 million in Q2 2026 on GLP-1 alopecia anxiety (a BMJ study found 37% higher alopecia risk vs SGLT-2 and 68% vs DPP-4, absolute rate 6-7 per 1,000), yet only 5% of GLP-1 products carry a hair claim. Circana put GLP-1 use at 8.5% of US adults, now the second-most-common diet type, up from 4.8%, with 65% of GLP-1 users seeking more protein against 48% of all adults. A 43-person Australian crossover trial found oleoylethanolamide at 300mg raised GLP-1 secretion 20-25% over placebo. On the legal side, the 'Nature's Ozempic' class action against Veracity Wellness was amended Sep 24 after a dismissal motion. Notably, there was NO FTC or FDA supplement enforcement and NO measured category sales release in the window.",
+      "content": "August 10 - September 28, 2026 supplements and GLP-1-adjacent consumer products:\n\n1. HAIR-LOSS ANXIETY IS THE CATEGORY'S CLEAREST WHITE SPACE (NutraIngredients, Aug 12)\n   - Amazon hair-growth product searches roughly TRIPLED y/y:\n     802,432 (Q3 2025) -> 1.4M (Q4 2025) -> 1.9M (Q1 2026) -> 2.5M (Q2 2026)\n   - Hair-growth claims on packaging +21% in the past year; TikTok Shop hair-care sales +80% y/y\n   - Driver: BMJ study (Tang et al.) found GLP-1 users had 37% higher alopecia risk vs SGLT-2\n     inhibitors and 68% higher vs DPP-4 inhibitors; absolute rate 6-7 per 1,000 patients\n   - BUT only 5% of GLP-1-focused products currently carry any hair-related claim\n\n2. ACTUAL HUMAN CLINICAL EVIDENCE FOR A 'NATURAL GLP-1' INGREDIENT (Aug 18)\n   - Oleoylethanolamide (OEA, branded TRPTI), 43 overweight/obese adults without metabolic disorders\n   - Three-arm crossover, >=6-day washouts, 8 hours monitoring per session\n   - 300mg dose produced GLP-1 levels 20-25% HIGHER than placebo; rise within 15 minutes even fasted\n   - Published in Frontiers in Endocrinology, doi: 10.3389/fendo.2026.1879799\n   - IMPORTANT INTERPRETIVE LIMIT: this measures HORMONE SECRETION, not weight outcomes. It is not\n     evidence of weight loss.\n\n3. CATEGORY MATURATION, BUT NO DOLLARS DISCLOSED (SPINS via NutraIngredients, Aug 25)\n   - SPINS senior director Scott Dicker: convergent food/ingredient/supplement/pharma investment means\n     the opportunity 'is reaching a new level of maturity'\n   - Anchored on 11% of US adults currently taking a GLP-1 for weight loss (Gallup, n=5,065,\n     fielded May 28-Jun 5 2026)\n   - Nestle Health Science applying AI to its 2024-launched GLP-1 platform across Garden of Life,\n     Boost, Nature's Bounty, Nuun, Vital Proteins\n   - CAVEAT: the article contains NO category dollar-sales or growth figure\n\n4. PROTEIN DEMAND IS THE MEASURABLE SPILLOVER (Circana via Food Dive, Sep 3)\n   - Circana base: $1.8 trillion in spending, 618 billion consumption occasions\n   - 48% of US adults seeking more protein, +7pp y/y; rising to 65% among GLP-1 users\n   - GLP-1 use is now the SECOND most common diet type at 8.5% of US adults, up from 4.8% a year ago\n   - 46% of adults on some diet\n   - Only 5% of global food/beverage launches with a protein claim also carry a weight-management\n     claim - positioning headroom for muscle-preservation and companion products\n\n5. SWEETENER REFORMULATION (Nutrition Insight, Sep 17)\n   - 30% of consumers trying to INCREASE natural alternative sweeteners; 47% limiting artificial\n     sweeteners; 49% attentive to ingredient selection; 72% taking intentional steps for vitality\n   - Brands reformulating away from artificial high-potency sweeteners partly to mask off-notes from\n     added proteins and fibers\n   - *** CAVEAT: these are SUPPLIER-CITED consumer research figures. The article does not name the\n     underlying survey, sample size or field dates. Directional only - NOT a citable poll. ***\n\n6. 'NATURE'S OZEMPIC' CLASS ACTION AMENDED (Sep 24, reported Sep 25)\n   - Veracity Wellness Inc.; amended complaint filed 2026-09-24 after the company moved to dismiss\n   - Case 2:26-cv-06276 (C.D. Cal.), originally filed 2026-06-09\n   - Claims: Metabolism Ignite deceptively marketed as 'Nature's Ozempic' and as a natural alternative\n     to prescription GLP-1s despite lacking the molecular compounds responsible for the drugs' effect;\n     marketing alleged to selectively amplify GLP-1 risks to position the supplement as safer\n   - Nationwide + California classes sought under California UCL, CLRA and FAL\n   - This is the single clearest in-window legal-risk datapoint for the 'faux-zempic' category\n\n7. VERIFIED NEGATIVES - THE ENFORCEMENT STORY THIS WINDOW IS THAT THERE WASN'T ONE\n   - FTC: NO enforcement action or warning letter on GLP-1 supplement claims between Aug 10 and\n     Sep 28. Nearest actions all OUTSIDE the window: Amare Global suit (2026-06-02) and contempt\n     motion (2026-06-12), TruHeight (2026-04-13), NextMed final order (2025-12-03).\n   - FDA: NO dietary-supplement warning letters in window. The 2026 FDA GLP-1 letter waves\n     (30 on 2026-03-03; 25 in week of 2026-06-15) targeted COMPOUNDED-DRUG TELEHEALTH MARKETERS,\n     not dietary supplements, and are out of window.\n   - NO measured category sales release. No SPINS, Circana or Nielsen GLP-1-supplement dollar-sales\n     or growth print. Vendor market-sizing forecasts (Straits Research, Grand View, Fact.MR,\n     InsightAce) were deliberately EXCLUDED as modeled projections, not measured retail data.\n   - NO in-window retailer moves. GNC's 2,300-store GLP-1 set, CVS's 9,000-location program, Force\n     Factor's Super GLP-1 Support at Walmart/CVS, Amazon One Medical and Walmart Better Care all\n     PREDATE Aug 10, 2026. A TheStreet lead on a Walmart six-store rural health-ambassador pilot\n     'in September' could not be date-verified and is therefore NOT published.\n   - INDIA: NO NEWS IN WINDOW. No FSSAI or CDSCO action on GLP-1 nutraceuticals. Bharat Nutraverse\n     Expo ran Sept 7-9 2026 in New Delhi but produced no retrievable in-window numeric coverage.\n   - NO evidence review in window for berberine, akkermansia or EAA blends. The akkermansia Gut\n     Microbes paper went online 2026-06-24 (out of window); Bloomberg Law's category expose is\n     2026-07-13 (out of window).",
+      "tags": [
+        "supplements",
+        "hair-loss",
+        "alopecia",
+        "oea",
+        "protein",
+        "circana",
+        "spins",
+        "nestle",
+        "class-action",
+        "faux-zempic",
+        "verified-negatives",
+        "no-enforcement",
+        "september-2026"
+      ]
+    },
     {
       "id": "supp-entry-016",
       "timestamp": "2026-08-09T00:00:00Z",

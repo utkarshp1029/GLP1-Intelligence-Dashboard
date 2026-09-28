@@ -1,36 +1,32 @@
 {
   "meta": {
     "section_id": "patents-ip",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-09-28T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
-        "label": "Tirzepatide Para IV",
-        "value": "14 suits · D. Del. · Aug 6"
+        "label": "New US Patent Challenged",
+        "value": "12,551,536"
       },
       {
-        "label": "Patents Asserted",
-        "value": "9 incl. US 9,474,780"
+        "label": "That Patent Expires",
+        "value": "Oct 2038"
       },
       {
-        "label": "Novo v. Cipla / Apotex",
-        "value": "Filed Jul 17/21 · consolidated"
+        "label": "US Sema Generic Entry",
+        "value": "2032 (compound)"
       },
       {
-        "label": "Novo v. Viatris",
-        "value": "W.D. Pa. Aug 7"
+        "label": "India Oral Sema Patent",
+        "value": "~2031 (SNAC)"
       },
       {
-        "label": "Novo v. Lilly",
-        "value": "False advertising (Lanham) Jul 21"
+        "label": "Tirzepatide P-IV Suits",
+        "value": "14 · no movement"
       },
       {
-        "label": "Dutch Injunction",
-        "value": "Won on SPC 300936 (to 2031)"
-      },
-      {
-        "label": "OFA v. FDA",
-        "value": "Argued Mar 30 · still undecided"
+        "label": "India Sun Pharma Tablets",
+        "value": "Court-barred launch"
       }
     ]
   },
@@ -92,6 +88,34 @@
     }
   ],
   "entries": [
+    {
+      "id": "pat-entry-016",
+      "timestamp": "2026-09-28T00:00:00Z",
+      "source_url": "https://dockets.justia.com/docket/delaware/dedce/1:2026cv01192/94672",
+      "source_name": "Justia docket / Life Sciences IP Review / GuruFocus / Medical Dialogues / IAM",
+      "market": "both",
+      "summary": "Two fronts opened and one stalled. In the US, Mylan/Viatris filed a declaratory-judgment suit in D. Del. on Sep 25 seeking to invalidate or design around US Patent 12,551,536 — a method-of-administering patent on single-dose Wegovy pens that runs to October 2038 — which is about clearing a device/method overhang rather than accelerating entry, since compound patents still block US semaglutide generics until 2032. In India, Novo widened its offensive from injectables to oral semaglutide: the Delhi High Court barred Sun Pharma from launching semaglutide tablets without prior court permission, and Novo is asserting a follow-on formulation patent live to roughly 2031 against Dr Reddy's, Sun and Torrent. The 14 tirzepatide Paragraph IV suits filed Aug 6 showed NO verifiable procedural progress — a tool-access limitation, not evidence nothing happened.",
+      "content": "August 10 - September 28, 2026 patents and IP:\n\n1. MYLAN/VIATRIS OPENS A NEW US FRONT ON WEGOVY DEVICE/METHOD PATENTS (Sep 25)\n   - Mylan Pharmaceuticals Inc. (a Viatris unit) sued Novo Nordisk in the DISTRICT OF DELAWARE seeking\n     a DECLARATORY JUDGMENT that US Patent No. 12,551,536 is invalid or not infringed by its generic\n   - That patent covers A METHOD OF ADMINISTERING SINGLE-DOSE WEGOVY PENS for weight loss, EXPIRING\n     OCTOBER 2038\n   - Docket: Mylan Pharmaceuticals Inc. v. Novo Nordisk Inc. et al., No. 1:26-cv-01192 (D. Del.)\n   - *** STRATEGIC READ: US semaglutide generics still CANNOT enter until the COMPOUND patents expire\n     in 2032. So this suit is about clearing a DEVICE/METHOD OVERHANG that would otherwise extend\n     exclusivity 6 years past compound expiry - not about accelerating entry. ***\n   - Novo booked nearly $31bn from Wegovy plus Ozempic in the prior year\n\n2. INDIA - NOVO WIDENS FROM INJECTABLES TO ORAL SEMAGLUTIDE\n   a) DELHI HIGH COURT BARS SUN PHARMA FROM LAUNCHING SEMAGLUTIDE TABLETS (Aug 11-12)\n      - Justice Anup Jairam Bhambhani directed that IF Sun Pharma obtains a licence to commercially\n        manufacture semaglutide tablets, it must INFORM THE COURT AND OBTAIN ITS APPROVAL before taking\n        any further step toward market launch\n      - Novo alleged Sun had cleared the Subject Expert Committee for 3 mg, 7 mg and 14 mg semaglutide\n        tablets and that these infringe its patent on semaglutide tablets, arguing a post-launch\n        withdrawal would be impractical\n      - NO patent number or case number is stated in the available coverage - none published here\n   b) THE STRUCTURAL SPLIT THAT MATTERS\n      - The semaglutide COMPOUND patent EXPIRED 2026-03-20 - injectables are free, hence 33+ brands\n      - The ORAL/TABLET FORMULATION route is STILL CONTESTED\n      - IAM reports Novo's disputes have broadened to oral tablets on a FOLLOW-ON PATENT still active\n        for roughly five more years (i.e. ~2031), in the Delhi High Court against Dr Reddy's, Sun\n        Pharma and Torrent\n      - Prior coverage identifies the relevant formulation patent as IN 325669, covering SNAC\n        (sodium N-(8-(2-hydroxybenzoyl)amino) caprylate), the absorption enhancer in oral semaglutide,\n        valid to 2031. *** That patent number is CARRIED OVER from earlier coverage, NOT from the\n        in-window article, which is paywalled beyond the standfirst. Treat accordingly. ***\n\n3. STATUS OF THE 14 TIRZEPATIDE PARAGRAPH IV SUITS FILED AUG 6 - NO VERIFIED MOVEMENT\n   - NOT ONE answer, consolidation order, scheduling order or settlement could be verified as entered\n     between Aug 10 and Sep 28, 2026\n   - The filings themselves (Aug 6-7 2026, D. Del., against Sandoz, MSN Laboratories and others,\n     following Paragraph IV notices Lilly disclosed in its Aug 5 quarterly filing) are the Aug 10\n     baseline, not new\n   - *** A third-party tracker states the Sandoz case is Eli Lilly & Co. v. Sandoz Inc.,\n     No. 1:26-cv-00987 (D. Del.), filed Aug 6 2026, with ten patents asserted and a November 13 2029\n     stay-related deadline reflecting the NCE-1 rule. THE TRACKER EXPLICITLY DISCLAIMS having\n     re-verified the docket, and neither the case number, the ten-patent count nor the 2029 date could\n     be independently confirmed - CourtListener and Justia both returned HTTP 403.\n     DO NOT PUBLISH 1:26-cv-00987 OR NOV 13 2029 AS VERIFIED. ***\n   - CourtListener, PACER-backed docket pages and Law360 full text were all inaccessible to the\n     available tools. THIS GAP IS A TOOL-ACCESS LIMITATION, NOT EVIDENCE THAT NOTHING HAPPENED.\n     A PACER or Docket Navigator pull is needed to close it.\n\n4. VERIFIED NEGATIVES FOR THIS WINDOW\n   - PTAB / IPR: NO NEWS. No IPR petition or institution decision on any semaglutide, tirzepatide or\n     liraglutide patent surfaced.\n   - ORANGE BOOK listings/delistings: NO NEWS.\n   - INDIAN PATENT OFFICE decisions, pre-/post-grant oppositions, Section 3(d), compulsory licensing:\n     NO NEWS. The only India IP developments were the Delhi High Court items above.\n   - EPO oppositions / China CNIPA / Federal Circuit appeals / trade-secret and API-process disputes /\n     patent term extensions: NO NEWS. The China Supreme People's Court semaglutide compound-patent\n     affirmation was 2025-12-31 and the Dutch injunction 2026-08-05 - both outside the window.\n\n5. LILLY FILES SIX SUITS AGAINST RETATRUTIDE GREY-MARKET SELLERS (Aug 12) - NOW VERIFIED\n   *** UPGRADED 2026-09-28 from 'unverified lead' to VERIFIED: retrievable sources were subsequently\n   confirmed - BioPharma Dive (https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/)\n   and Endpoints News (https://endpoints.news/eli-lilly-files-first-lawsuits-over-retatrutide-black-market/),\n   both 2026-08-12. ***\n   - Six suits against online merchants, clinics, compounders and foreign suppliers selling purported\n     retatrutide - a drug still INVESTIGATIONAL, whose BLA Lilly does not plan to file until Q1 2027\n   - Lilly warned the material could be fake, impure or mis-dosed\n   - Backdrop: in July 2026 an FDA advisory panel endorsed broader use of six peptides without\n     substantial safety/efficacy evidence; compounders retained share even after FDA declared the GLP-1\n     shortage over\n   - *** THIS IS ENFORCEMENT AGAINST UNAPPROVED-PRODUCT SELLERS, NOT HATCH-WAXMAN ANDA LITIGATION. It\n     does NOT touch tirzepatide or semaglutide generic timelines. Still no case or patent numbers\n     verified - none published. ***\n\n6. REMAINING UNVERIFIED LEAD - NOT PUBLISHED AS FACT.\n   - A compounding pharmacy moved to dismiss Novo Nordisk's semaglutide patent suit (Law360,\n     2026-08-25), part of the campaign Novo launched in D. Del. in February 2026 asserting its\n     semaglutide API patent against compounded injections and pills. The MOTION, not a decision. No\n     case number, patent number or ruling verified.",
+      "tags": [
+        "patents",
+        "ip",
+        "mylan",
+        "viatris",
+        "declaratory-judgment",
+        "us-12551536",
+        "2038",
+        "delhi-high-court",
+        "sun-pharma",
+        "oral-semaglutide",
+        "snac",
+        "paragraph-iv",
+        "tirzepatide",
+        "no-verified-movement",
+        "tool-access-gap",
+        "september-2026",
+        "retatrutide-grey-market"
+      ]
+    },
     {
       "id": "pat-entry-015",
       "timestamp": "2026-08-09T00:00:00Z",

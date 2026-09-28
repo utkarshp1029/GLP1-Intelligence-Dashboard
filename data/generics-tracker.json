@@ -1,40 +1,72 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 31,
+    "last_updated": "2026-09-28T00:00:00Z",
+    "entry_count": 34,
     "key_metrics": [
       {
-        "label": "Tirzepatide Para IV",
-        "value": "ANSWERED — 14 suits filed Aug 6"
+        "label": "India GLP-1 August",
+        "value": "₹247cr (flat vs ₹245)"
       },
       {
-        "label": "Tirzepatide ANDAs",
-        "value": "Amneal/Adalvo + Sandoz accepted"
+        "label": "India GLP-1 MAT-Aug",
+        "value": "₹2,333cr"
       },
       {
-        "label": "India Supply",
-        "value": "Dr Reddy's halted to late Oct"
+        "label": "Generic Inj. Brands",
+        "value": "33 · 11 = 80% units"
       },
       {
-        "label": "Dr Reddy's FY27 Target",
-        "value": "Cut 12M → 6–7M pens"
+        "label": "Sun Pharma Pen Share",
+        "value": "21% (displaced Torrent)"
       },
       {
-        "label": "Torrent Share",
-        "value": "36% Q1 FY27 (was 38%)"
+        "label": "Generic Sema Users",
+        "value": "~290,000 · +16% MoM"
       },
       {
-        "label": "India Market",
-        "value": "First monthly decline — ₹227cr June"
+        "label": "New Generic Markets",
+        "value": "Canada·Saudi·Kenya·SA"
       },
       {
         "label": "India Tirzepatide",
-        "value": "Mounjaro + Cipla Yurpeak duopoly"
+        "value": "Duopoly to ~2033–36"
       }
     ]
   },
   "launches": [
+    {
+      "id": "gen-014",
+      "molecule": "semaglutide",
+      "brand_name": "Glucentra",
+      "manufacturer": "Hikma (mfd by OneSource Speciality Pharma)",
+      "market": "saudi-arabia",
+      "status": "launched",
+      "format": "pen",
+      "launch_date": "2026-09-16",
+      "approval_date": null,
+      "price_per_unit": null,
+      "currency": null,
+      "doses_verified": false,
+      "planned_volume": "2mg/1.5mL and 4mg/3mL pre-filled pens; 0.25mg weekly start to 2mg maintenance max. PRICE NOT STATED. DOSE COUNT NOT STATED. OneSource holds SFDA approval; Hikma exclusive MENA commercialisation partner.",
+      "source_url": "https://www.hikma.com/news/hikma-launches-glucentra-as-the-first-generic-semaglutide-available-to-patients-in-saudi-arabia/"
+    },
+    {
+      "id": "gen-015",
+      "molecule": "semaglutide",
+      "brand_name": "(Pr)Sandoz Semaglutide",
+      "manufacturer": "Sandoz",
+      "market": "canada",
+      "status": "approved",
+      "format": "pen",
+      "launch_date": null,
+      "approval_date": "2026-09-18",
+      "price_per_unit": null,
+      "currency": null,
+      "doses_verified": false,
+      "planned_volume": "Health Canada approval for once-weekly subcutaneous T2DM in adults. Two pens: 2mg/1.34mg/mL (delivers 0.25mg or 0.5mg) and 4mg/1.34mg/mL (delivers 1mg). NO launch date, NO price disclosed. DOSE COUNT NOT STATED. Sandoz cites ~12M semaglutide pens used annually in Canada.",
+      "source_url": "https://www.sandoz.com/sandoz-receives-regulatory-approval-generic-semaglutide-canada-paving-way-expand-patient-access-key/"
+    },
     {
       "id": "gen-001",
       "molecule": "semaglutide",
@@ -209,6 +241,33 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-020",
+      "timestamp": "2026-09-28T00:00:00Z",
+      "source_url": "https://retailintel.in/signal/india-s-glp-1-market-stabilises-as-generic-semaglutide-boom-a15bb31b",
+      "source_name": "Financial Express/RetailIntel / Nomura via Moneycontrol / Pharmarack / Sandoz / Hikma / Bhekisisa",
+      "market": "both",
+      "summary": "India's generic surge has flatlined and the share table has been reshuffled, while generic semaglutide went global. India GLP-1 sales were ₹247 crore in August against ₹245 crore in July — essentially flat — with 33 generic injectable brands but just 11 of them accounting for 80% of generic units. Sun Pharma took 21% of pre-filled-pen share and displaced Torrent, which lost its lead after a supplier product-recall notification, a sharp move from Torrent's ~36% in the prior baseline; the generic patient base reached ~290,000, up 16% month-on-month. Outside India, Sandoz won Health Canada approval on Sep 18, Hikma launched Glucentra as Saudi Arabia's first generic semaglutide on Sep 16, Kenya registered seven semaglutide products including five generics, and South Africa's first generic arrived priced only ~18.5% below Ozempic. No new Indian brand launch occurred in the window.",
+      "content": "August 10 - September 28, 2026 generics:\n\n1. INDIA - THE SURGE HAS FLATLINED (Financial Express, Sep 7)\n   - Total India GLP-1 sales Rs 247 crore in AUGUST vs Rs 245 crore in JULY - essentially flat\n   - Injectable semaglutide Rs 76 crore (from Rs 73 crore); oral semaglutide FELL to Rs 29 crore\n     (from Rs 31 crore)\n   - 33 generic injectable semaglutide brands now on market\n   - BUT just 11 brands account for 80% OF GENERIC UNIT SALES - concentration is high despite the\n     50+ brand count\n   - This confirms and extends the first monthly decline (Rs 227cr June) already on the dashboard\n\n2. INDIA SHARE TABLE RESHUFFLED - SUN DISPLACES TORRENT (Nomura channel check, Aug 13)\n   - Generic semaglutide patient base ~290,000, UP 16% MONTH-ON-MONTH in July\n   - Split roughly 80% injectable / 20% oral solids\n   - SUN PHARMA took 21% of PRE-FILLED-DEVICE semaglutide, DISPLACING TORRENT\n   - Torrent lost its lead after a SUPPLIER PRODUCT-RECALL NOTIFICATION - a material change from the\n     ~36% Torrent share in the Aug 10 baseline\n   - Zydus leads cartridge/reusable devices at 39%\n   - By manufacturer across all formats: Zydus 26%, Dr Reddy's 20%\n   - Torrent holds 90% of ORAL SOLIDS\n   - Overall Indian pharma market +12.1% YoY in July, GLP-1s contributing ~80bps\n\n3. INDIA MAT-AUGUST TOTALS (Pharmarack PharmaTrac, Sep 10)\n   - Mounjaro Rs 1,256 crore MAT-August, +502%, including Rs 112 crore in August alone - now India's\n     top-selling GLP-1\n   - Total India GLP-1 market Rs 2,333 crore MAT-August; unit sales +74% in August\n   - Injectables ~86% of value: Rs 2,010 crore vs Rs 348 crore a year earlier\n   - Molecule share: tirzepatide ~62%, semaglutide ~34%\n   - *** CRITICAL DISTINCTION: tirzepatide's ~62% is the Lilly Mounjaro + Cipla Yurpeak DUOPOLY, NOT a\n     genericised molecule. Tirzepatide patents run to roughly 2033-2036. The 33-brand and 50+-brand\n     counts apply to SEMAGLUTIDE ONLY. ***\n\n4. GENERIC SEMAGLUTIDE GOES GLOBAL - FOUR NEW MARKETS IN WINDOW\n   a) CANADA - Sandoz, Health Canada approval (Sep 18)\n      (Pr)Sandoz Semaglutide approved for once-weekly subcutaneous T2DM in adults. Two pre-filled pens:\n      2 mg/1.34 mg/mL (delivers 0.25 or 0.5 mg) and 4 mg/1.34 mg/mL (delivers 1 mg). Sandoz cites close\n      to 12 MILLION semaglutide pens used annually in Canada. NO launch date, NO price disclosed.\n      DOSE COUNT NOT STATED. Third generic in the first G7 market.\n   b) SAUDI ARABIA - Hikma 'Glucentra', first generic semaglutide in KSA (Sep 16)\n      For adults with T2DM and CV risk reduction. 2 mg/1.5 mL and 4 mg/3 mL pre-filled pens; dosing\n      0.25 mg weekly to 2 mg maintenance maximum. Manufacturer OneSource Speciality Pharma holds the\n      SFDA approval; Hikma is exclusive MENA commercialisation partner. NO price stated.\n      DOSE COUNT NOT STATED.\n   c) KENYA - Pharmacy and Poisons Board registers SEVEN semaglutide products, FIVE generics (Aug 15)\n      Expands beyond Novo's Ozempic and Wegovy and the previously launched Truglyx. The Board stressed\n      the products are NOT automatically interchangeable because approved indications differ, and\n      repeated warnings against unsupervised off-label weight-loss use. Brand names, manufacturers,\n      formats and prices NOT disclosed. DOSE COUNT NOT STATED.\n   d) SOUTH AFRICA - first generic semaglutide reached pharmacies in August (Bhekisisa, Aug 24)\n      SAHPRA considering 13 FURTHER applications. The first generic is priced only about 18.5% BELOW\n      OZEMPIC - versus researcher estimates that semaglutide could eventually be produced for roughly\n      R100-R200 per month. So the discount is FAR SHALLOWER than India's ~75%+.\n      *** CAVEAT: the Bhekisisa page returned HTTP 403; headline, date and figures come from indexed\n      search results. Brand name and manufacturer NOT confirmed. ***\n\n5. TIRZEPATIDE GENERIC DEVELOPMENT - PARTNERSHIP EXPANDS (GxP News, Aug 11)\n   - Gedeon Richter and Adalvo extended their semaglutide partnership to co-develop and supply\n     TIRZEPATIDE products for T2DM and obesity, using a dual-supply-chain and cost-reduction model;\n     financial terms undisclosed\n   - Adalvo's two injectable tirzepatide ANDAs, filed under the NCE-1 procedure and referencing the\n     Mounjaro and Zepbound autoinjectors, have been accepted for FDA review\n   - Context cited: tirzepatide 2025 revenue ~$36.5bn; Mounjaro Q1 2026 sales $8.7bn\n   - NOTE: the ANDA acceptance itself is already in the Aug 10 baseline. The PARTNERSHIP EXPANSION is\n     the new element, and its own press release (2026-08-06) predates the window by four days.\n\n6. VERIFIED NEGATIVES FOR THIS WINDOW\n   - NEW INDIA BRAND LAUNCHES: NO NEWS IN WINDOW. No verified new Indian semaglutide brand launch,\n     price cut or capacity announcement with brand name, manufacturer, format, INR price and launch\n     date fell inside Aug 10 - Sep 28. Every India launch surfaced (Sun Pharma Noveltreat/Sematrinity,\n     Dr Reddy's Obeda pen and oral, Natco, Eris, Zydus, Alkem, Glenmark) dates to March-May 2026.\n     *** A 2026-09-20 scanx.trade item headlined 'Dr. Reddy's Expands Semaglutide Portfolio With Oral\n     Biosimilar Launch in India' is a STALE AGGREGATION of the May 2026 Rs 99/tablet oral launch -\n     NOT published as new. ***\n   - US FDA GENERIC APPROVALS / ANDA ACCEPTANCES (semaglutide, liraglutide, tirzepatide, exenatide,\n     dulaglutide): NO NEWS IN WINDOW. The Apotex/Orbicular tentative semaglutide approval (June 2026)\n     and the Sandoz and Amneal/Adalvo tirzepatide ANDA acceptances all predate Aug 10.\n\n7. UNVERIFIED LEADS - HEADLINE AND DATE INDEXED BUT NO PUBLISHER URL RESOLVED. NOT PUBLISHED AS FACT.\n   - Celon Pharma (Poland) said its generic semaglutide matched Ozempic in an early-stage study,\n     shares rose (Reuters, 2026-08-20). Bioequivalence-stage signal only, not an approval or launch.\n   - Quebec pharmacies hit by a generic Ozempic shortage amid recalls and demand spike (Montreal\n     Gazette, 2026-09-24), six days after Novo Nordisk Canada issued a stable-supply advisory for\n     branded Ozempic (2026-09-18). Consistent with the known Dr Reddy's impurity-driven Canada\n     disruption, but no recall lot numbers, volumes or affected brands verified.\n   - Also seen in-window, real but not chased to URLs: Lupin saying the GLP-1 market may be smaller\n     than expected (Business Today, 2026-08-26); Kotak/Financial Express projecting India's GLP-1\n     market to grow ~4x to Rs 15,700 crore by FY32 (2026-09-10); a 20-state attorneys-general letter to\n     the National Security Council on Chinese GLP-1 API supply chains (2026-09-18); Bermuda recalling\n     multiple semaglutide products (2026-09-08).",
+      "tags": [
+        "generics",
+        "india",
+        "flatlining",
+        "sun-pharma",
+        "torrent",
+        "share-shift",
+        "canada",
+        "sandoz",
+        "saudi-arabia",
+        "hikma",
+        "kenya",
+        "south-africa",
+        "global-expansion",
+        "semaglutide-only",
+        "dose-count-not-stated",
+        "september-2026"
+      ]
+    },
     {
       "id": "gen-entry-019",
       "timestamp": "2026-08-09T00:00:00Z",

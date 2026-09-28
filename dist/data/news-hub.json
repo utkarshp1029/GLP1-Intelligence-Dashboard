@@ -1,28 +1,763 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-08-10T00:00:00Z",
-    "entry_count": 64,
+    "last_updated": "2026-09-28T00:00:00Z",
+    "entry_count": 86,
     "key_metrics": [
       {
-        "label": "Stories This Period",
-        "value": "0 genuinely new (Aug 8–10)"
+        "label": "Stories This Window",
+        "value": "22 new (Aug 10–Sep 28)"
       },
       {
-        "label": "Q2 Earnings",
-        "value": "Lilly +48% · Novo shares −6%"
+        "label": "Novo CMD Reaction",
+        "value": "Shares −7% to −8%"
+      },
+      {
+        "label": "Biggest Deal",
+        "value": "Nanexa €1.165bn"
+      },
+      {
+        "label": "MFN Agreements",
+        "value": "26 · ~80% savings cut"
+      },
+      {
+        "label": "STEP Young Pediatric",
+        "value": "40.4% no longer obese"
+      },
+      {
+        "label": "India Top Drug",
+        "value": "Mounjaro ₹1,256cr"
       },
       {
         "label": "Window Character",
-        "value": "Weekend · near-zero news"
-      },
-      {
-        "label": "Markets",
-        "value": "India · US · Global"
+        "value": "Novo reset · deal wave"
       }
     ]
   },
   "stories": [
+    {
+      "id": "story-065",
+      "headline": "Novo Capital Markets Day Lands Flat — Shares Fall ~7-8% as Doustdar Pledges 5+ Multi-Blockbusters by 2030 and DKK 150bn Pipeline Sales by 2035",
+      "summary": "At a London Capital Markets Day, CEO Mike Doustdar pledged more than five multi-blockbuster launches by 2030 — including cagrilintide and CagriSema — building to more than DKK 150bn (~$23bn) in annual risk-adjusted pipeline sales by 2035, ahead of semaglutide's patent cliff. Investors were unmoved because 2026-2030 revenue growth was guided only in line with industry peers rather than ahead of them; BMO noted investors had already priced a CAGR of ~3.65% against Novo's implied ~3.53%. Doustdar confirmed semaglutide, roughly 75% of 2026 revenue, loses key US exclusivity in 2032. NOTE THE SOURCE VARIANCE on the share move: BioSpace reported −7% to $40.20, BioPharma Dive −8%, and quote aggregators −7.92% to $39.82. All agree on direction and rough magnitude; the exact print differs by source and is reported here rather than resolved.",
+      "market": "global",
+      "category": "financial",
+      "timestamp": "2026-09-21",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "BioSpace",
+          "title": "Novo's plan to hit $23B in revenue by 2035 leaves investors wanting",
+          "url": "https://www.biospace.com/business/novos-plan-to-hit-23b-in-revenue-by-2035-leaves-investors-wanting",
+          "date": "2026-09-21"
+        },
+        {
+          "publication": "CNBC",
+          "title": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
+          "url": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
+          "date": "2026-09-21"
+        },
+        {
+          "publication": "BioPharma Dive",
+          "title": "Novo talks up drug launches in effort to win back investors",
+          "url": "https://www.biopharmadive.com/news/novo-capital-markets-day-obesity-sales-outlook/830882/",
+          "date": "2026-09-21"
+        }
+      ],
+      "tags": [
+        "novo",
+        "capital-markets-day",
+        "guidance",
+        "semaglutide-loe-2032",
+        "share-drop",
+        "figures-vary",
+        "global"
+      ]
+    },
+    {
+      "id": "story-066",
+      "headline": "Novo Nordisk Drops the 'Nordisk' — Renames Itself 'Novo' and Turns Its Bull Logo to Face Right in a Culture Reboot",
+      "summary": "Effective Monday Sept 14, Novo Nordisk shortened its corporate name to 'Novo' and adopted a new culture strategy, also reorienting its Apis bull logo to face right to signal a forward-looking posture. CEO Maziar Mike Doustdar framed it as a cultural reset after a punishing year; he had already announced 9,000 job cuts targeting roughly $1.3bn in annual savings by late 2026. The rebrand landed exactly one week before the Capital Markets Day. Novo has lost more than two-thirds of its market value over roughly two years.",
+      "market": "global",
+      "category": "corporate",
+      "timestamp": "2026-09-14",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Endpoints News",
+          "title": "Seeking a fresh start, Novo drops the 'Nordisk'",
+          "url": "https://endpoints.news/novo-nordisk-shortens-its-name-in-brand-and-culture-reboot/",
+          "date": "2026-09-14"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "Novo drops 'Nordisk' moniker, turns bull toward future in corporate rebrand",
+          "url": "https://www.biospace.com/business/novo-drops-nordisk-moniker-turns-bull-toward-future-in-corporate-rebrand",
+          "date": "2026-09-14"
+        }
+      ],
+      "tags": [
+        "novo",
+        "rebrand",
+        "corporate-identity",
+        "doustdar",
+        "job-cuts",
+        "global"
+      ]
+    },
+    {
+      "id": "story-067",
+      "headline": "CagriSema Beats Tirzepatide 12.4% vs 9.1% in REIMAGINE 5 — But Against Lilly's Second-Lowest Dose, and After Losing REDEFINE 4 to Zepbound",
+      "summary": "In REIMAGINE 5 (type 2 diabetes, ~1,000 adults inadequately controlled on metformin and/or an SGLT2 inhibitor), CagriSema 1.0/1.0 mg produced 12.4% mean weight loss at week 60 versus 9.1% for tirzepatide, with non-inferior HbA1c reduction (1.71% vs 1.67%). In REDEFINE 9, the same low dose cut weight 21.0% versus 2.0% for placebo at week 68. Two caveats are essential: the comparator was tirzepatide 5 mg, Lilly's SECOND-LOWEST dose rather than the 15 mg maximum, and CagriSema had already LOST the head-to-head REDEFINE 4 trial to Zepbound in February 2026. Novo disclosed no n, no p-values, no AE or discontinuation rates, and did not report the 1.7/1.7 mg arm. FDA decision on the December 2025 NDA is expected Q4 2026.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-09-21",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Novo Nordisk via BioSpace",
+          "title": "Novo's CagriSema delivers superior weight loss versus tirzepatide in REIMAGINE 5 trial",
+          "url": "https://www.biospace.com/press-releases/novos-cagrisema-delivers-superior-weight-loss-versus-tirzepatide-in-reimagine-5-trial",
+          "date": "2026-09-21"
+        },
+        {
+          "publication": "GlobeNewswire",
+          "title": "Novo's CagriSema delivers superior weight loss versus tirzepatide in REIMAGINE 5 trial",
+          "url": "https://www.globenewswire.com/news-release/2026/09/21/3365319/0/en/novo-s-cagrisema-delivers-superior-weight-loss-versus-tirzepatide-in-reimagine-5-trial.html",
+          "date": "2026-09-21"
+        },
+        {
+          "publication": "Endpoints News",
+          "title": "Novo offers low-dose CagriSema data as approval decision looms",
+          "url": "https://endpoints.news/novo-offers-low-dose-cagrisema-data-as-approval-decision-looms/",
+          "date": "2026-09-21"
+        }
+      ],
+      "tags": [
+        "cagrisema",
+        "reimagine-5",
+        "redefine-9",
+        "tirzepatide",
+        "comparator-caveat",
+        "no-p-values",
+        "novo",
+        "global"
+      ]
+    },
+    {
+      "id": "story-068",
+      "headline": "Roche's Enicepatide Posts 2.65% HbA1c Drop and 15.5% Weight Loss at 48 Weeks — 90% of the Top-Dose Arm Reached HbA1c ≤6.5%",
+      "summary": "Trial CT-388-104, Phase 2, n=447 adults with type 2 diabetes and overweight or obesity, once-weekly subcutaneous enicepatide titrated to 24 mg. At 48 weeks the 24 mg arm achieved a mean HbA1c reduction of 2.65% from a baseline of 8.1% (4.13% among those with baseline above 8.5%) and 15.5% mean weight loss with no demonstrable plateau. 90% of the 24 mg cohort reached the glycemic target of HbA1c ≤6.5% and 62% achieved normoglycemia below 5.7%. AE-driven discontinuation was 2.0% versus 0.0% on placebo. Roche did not report p-values or the placebo arm's HbA1c and weight numbers — an omission several outlets noted. Two Phase 3 weight-management studies, ENITH-1 and ENITH-2, are already running.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-09-22",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Roche",
+          "title": "Roche announces positive Phase II results for dual GLP-1/GIP receptor agonist enicepatide",
+          "url": "https://www.roche.com/media/releases/med-cor-2026-09-22",
+          "date": "2026-09-22"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "Roche's Carmot asset normalizes blood sugar, cuts weight in Phase 2 diabetes trial",
+          "url": "https://www.biospace.com/drug-development/roches-carmot-asset-normalizes-blood-sugar-cuts-weight-in-phase-2-diabetes-trial",
+          "date": "2026-09-22"
+        }
+      ],
+      "tags": [
+        "roche",
+        "enicepatide",
+        "ct-388",
+        "carmot",
+        "phase-2",
+        "t2dm",
+        "normoglycemia",
+        "global"
+      ]
+    },
+    {
+      "id": "story-069",
+      "headline": "Viking's VK2735 Retains Up to 90% of Weight Loss on Every-Other-Week Maintenance — Stock Jumps 36%",
+      "summary": "VK2735-102 randomised ~180 adults with obesity across four regimens or placebo: 21 weeks of weekly subcutaneous induction titrating to 15, 17.5, 20 or 22.5 mg, then 12 weeks of biweekly or monthly maintenance. Induction weight loss ran −16.3% to −18.7% versus −0.1% placebo, all p<0.0001. Pooled every-other-week arms (n=37) retained 90% of that loss and pooled monthly arms (n=65) retained 85%, against 61% for placebo (n=27). AE-driven discontinuation was 1% in induction and 2-3% in maintenance. IMPORTANT CAVEAT: the widely-quoted 97% figure is a SINGLE n=12 ARM. Shares rose as much as 36%. Oral VK2735 data remain unreported; the prior oral Phase 2 had ~20% AE-driven withdrawal.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-09-22",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Viking Therapeutics",
+          "title": "Positive topline results from maintenance study of GLP-1/GIP agonist VK2735",
+          "url": "https://ir.vikingtherapeutics.com/2026-09-22-Viking-Therapeutics-Announces-Positive-Topline-Results-from-Maintenance-Study-of-GLP-1-GIP-Agonist-VK2735-Demonstrating-the-Promise-of-Multiple-Maintenance-Dosing-Regimens",
+          "date": "2026-09-22"
+        },
+        {
+          "publication": "BioPharma Dive",
+          "title": "Viking shares surge on updated obesity drug data",
+          "url": "https://www.biopharmadive.com/news/viking-obesity-drug-maintenance-study-results/831004/",
+          "date": "2026-09-22"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "Viking achieves 'maintenance trifecta' as GLP-1/GIP dual agonist exceeds expectations",
+          "url": "https://www.biospace.com/drug-development/viking-achieves-maintenance-trifecta-as-glp-gip-dual-agonist-exceeds-expectations",
+          "date": "2026-09-22"
+        }
+      ],
+      "tags": [
+        "viking",
+        "vk2735",
+        "maintenance-dosing",
+        "adherence",
+        "small-n-caveat",
+        "us"
+      ]
+    },
+    {
+      "id": "story-070",
+      "headline": "FDA Approves Mounjaro for Cardiovascular Risk Reduction — a Medicare Part D Reimbursement Unlock, on a Non-Inferiority Result",
+      "summary": "FDA cleared tirzepatide to reduce the risk of cardiovascular death, non-fatal MI and non-fatal stroke in adults with type 2 diabetes at high risk, extending the label beyond glycemic control and weight management. The basis was SURPASS-CVOT, the first head-to-head incretin CVOT: tirzepatide versus dulaglutide in over 13,000 participants across 30 countries with median ~4 years follow-up, MACE-3 HR 0.92 (95.3% CI 0.83-1.01). This is NON-INFERIORITY, not superiority — the confidence interval crosses 1.0. Commercially it is a reimbursement unlock rather than only a clinical claim, because Medicare Part D can cover GLP-1s for FDA-approved non-obesity indications including cardiovascular risk reduction. It also narrows Novo's historic differentiation on CV outcomes evidence.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-08-28",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Eli Lilly",
+          "title": "FDA approves Lilly's Mounjaro to reduce cardiovascular risk in adults with type 2 diabetes",
+          "url": "https://www.prnewswire.com/news-releases/fda-approves-lillys-mounjaro-tirzepatide-to-reduce-cardiovascular-risk-in-adults-with-type-2-diabetes-302862415.html",
+          "date": "2026-08-28"
+        },
+        {
+          "publication": "Economic Times",
+          "title": "Eli Lilly's Mounjaro wins FDA approval for a major new cardiovascular benefit",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/eli-lillys-mounjaro-wins-fda-approval-for-a-major-new-cardiovascular-benefit/articleshow/133598000.cms",
+          "date": "2026-08-28"
+        }
+      ],
+      "tags": [
+        "fda",
+        "mounjaro",
+        "tirzepatide",
+        "surpass-cvot",
+        "cv-indication",
+        "medicare-part-d",
+        "non-inferiority",
+        "us"
+      ]
+    },
+    {
+      "id": "story-071",
+      "headline": "26 Most-Favored-Nation Pharma Deals Could Erase ~80% of Projected Medicare Savings — and Give the US a Cut of Raised Foreign Prices",
+      "summary": "The White House has now announced most-favored-nation pricing agreements with 26 pharma companies, including a batch of nine mid-size firms announced Aug 31. An updated estimate from the lead author of a Mass General Brigham study finds the deals could cut projected Medicare savings by nearly 80%, because some signatories believe their agreements exempt them from the two proposed Medicare MFN models — GLOBE (Part B, proposed start Oct 1) and GUARD (Part D, proposed start Jan 1 2027). A Lancet study estimated those models would save Medicare roughly $11.6bn a year in net drug spending in their initial phase, a 16-18% reduction. Endpoints separately reported the Pfizer and Lilly deals give the US government a share of revenue from RAISED FOREIGN PRICES. The government has not said which signatories are exempt.",
+      "market": "us",
+      "category": "pricing",
+      "timestamp": "2026-09-22",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "BioPharma Dive",
+          "title": "A hidden tradeoff in Trump's drug pricing deals",
+          "url": "https://www.biopharmadive.com/news/trump-mfn-drug-deals-medicare-savings/830922/",
+          "date": "2026-09-22"
+        },
+        {
+          "publication": "Healthcare Dive",
+          "title": "A hidden tradeoff in Trump's MFN drug deals",
+          "url": "https://www.healthcaredive.com/news/trump-mfn-drug-deals-medicare-savings/830923/",
+          "date": "2026-09-21"
+        },
+        {
+          "publication": "Endpoints News",
+          "title": "Pfizer, Lilly 'most favored nation' deals to give US share of revenue from raised foreign prices",
+          "url": "https://endpoints.news/pfizer-lilly-most-favored-nation-deals-to-give-us-share-of-raised-foreign-prices/",
+          "date": "2026-09-21"
+        }
+      ],
+      "tags": [
+        "mfn",
+        "drug-pricing",
+        "medicare",
+        "globe",
+        "guard",
+        "part-b",
+        "part-d",
+        "policy",
+        "us"
+      ]
+    },
+    {
+      "id": "story-072",
+      "headline": "STEP Young: 40.4% of Children Aged 6 to Under 12 No Longer Classified as Obese on Semaglutide, Versus 0% on Placebo",
+      "summary": "STEP Young met its primary endpoint with superior BMI reduction at week 68 for once-weekly subcutaneous semaglutide plus lifestyle modification versus placebo plus lifestyle modification in children aged 6 to under 12. At week 68, 40.4% of semaglutide-treated children were no longer classified as having obesity versus 0% on placebo — two in five moving to normal-weight or overweight classification. More than 85% of enrolled children had class II or III severe obesity at baseline, equivalent to adult BMI of 35 and above and 40 and above respectively. Safety and tolerability were consistent with adult and adolescent trials. This is the first large controlled pediatric readout in this age band and a significant label-expansion and public-health lever.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-09-07",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Novo Nordisk via BioSpace",
+          "title": "STEP Young Phase 3 data: 40.4% of children living with obesity achieved a BMI below the obesity threshold",
+          "url": "https://www.biospace.com/press-releases/novo-nordisk-step-young-phase-3-data-40-4-of-children-living-with-obesity-achieved-a-bmi-below-the-obesity-threshold-with-semaglutide-and-lifestyle-modification",
+          "date": "2026-09-07"
+        },
+        {
+          "publication": "Endpoints News",
+          "title": "Wegovy trial meets endpoint for kids ages 6 to 12",
+          "url": "https://endpoints.news/krazati-withdrawal-completed-wegovy-trial-meets-endpoint-for-kids-ages-6-to-12/",
+          "date": "2026-09-08"
+        }
+      ],
+      "tags": [
+        "step-young",
+        "pediatric",
+        "semaglutide",
+        "wegovy",
+        "label-expansion",
+        "novo",
+        "global"
+      ]
+    },
+    {
+      "id": "story-073",
+      "headline": "Patients Sue Novo and Lilly Over NAION Sudden Vision Loss as Litigation Wave Builds",
+      "summary": "A wave of suits against Novo (semaglutide) and Lilly (tirzepatide) alleges the drugs caused non-arteritic anterior ischemic optic neuropathy — sudden, usually permanent, painless vision loss in one eye with no proven treatment. Novo told ABC News it considers the suits without merit; Lilly said it continues to examine safety information with regulators. Concern escalated after a 2024 Boston-health-system study suggested an association; subsequent studies were mixed and the American Academy of Ophthalmology assesses overall risk as low. FDA has flagged NAION as a potential safety signal without establishing causation. NOTE ON THE EMA POSITION: the EMA classification of NAION as a 'very rare' side effect of semaglutide, up to 1 case per 10,000 patients, with required European product-information updates, is PRE-EXISTING BACKGROUND cited in this coverage — it is NOT an in-window regulatory action. No GLP-1 PRAC signal assessment occurred between Aug 10 and Sep 28, 2026.",
+      "market": "us",
+      "category": "safety",
+      "timestamp": "2026-09-24",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Economic Times",
+          "title": "GLP-1 users are suing over vision loss: What does the evidence really show?",
+          "url": "https://economictimes.indiatimes.com/news/international/us/glp-1-users-are-suing-over-vision-loss-what-does-the-evidence-really-show/articleshow/134466572.cms",
+          "date": "2026-09-24"
+        }
+      ],
+      "tags": [
+        "naion",
+        "vision-loss",
+        "litigation",
+        "semaglutide",
+        "tirzepatide",
+        "safety",
+        "ema-very-rare",
+        "us"
+      ]
+    },
+    {
+      "id": "story-074",
+      "headline": "FDA Hits Empower Pharmacy With Its Third Warning Letter — 'Insanitary Conditions' and 'Pretextual' GLP-1 Copies",
+      "summary": "FDA sent Empower Clinic Services (dba Empower Pharmacy, Houston) a warning letter dated Sept 18 after a November 2025 inspection found sterile products prepared, packed or held under insanitary conditions that could render them contaminated with filth. Inspectors also concluded Empower compounded tirzepatide and semaglutide products that appear to be essentially copies of approved drugs, in volumes suggesting the differences were 'pretextual' — some orders lacked any prescriber determination of significant difference, others carried verbatim-repeated determinations suggesting pre-generated text from third-party telehealth platforms. It is the THIRD FDA warning to the company, and as of Sept 24 Empower still listed tirzepatide and semaglutide for sale.",
+      "market": "us",
+      "category": "legal",
+      "timestamp": "2026-09-22",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "FDA",
+          "title": "Empower Clinic Services LLC dba Empower Pharmacy warning letter",
+          "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/empower-clinic-services-llc-dba-empower-pharmacy-738238-09182026",
+          "date": "2026-09-18"
+        },
+        {
+          "publication": "Endpoints News",
+          "title": "Compounder Empower receives FDA warning letter over GLP-1s",
+          "url": "https://endpoints.news/compounder-empower-receives-warning-letter-from-fda-over-glp-1s/",
+          "date": "2026-09-22"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "FDA slams GLP-1 compounder over risk of contaminating drugs 'with filth'",
+          "url": "https://www.biospace.com/drug-delivery/fda-slams-glp-1-compounder-over-risk-of-contaminating-drugs-with-filth",
+          "date": "2026-09-24"
+        }
+      ],
+      "tags": [
+        "fda",
+        "warning-letter",
+        "empower",
+        "compounding",
+        "pretextual",
+        "503a",
+        "insanitary",
+        "us"
+      ]
+    },
+    {
+      "id": "story-075",
+      "headline": "Eli Lilly Files Six Lawsuits to Shut Down the Retatrutide 'Black Market' — for a Drug It Will Not File Until Q1 2027",
+      "summary": "Lilly filed six suits against online merchants, clinics, compounders and foreign suppliers selling purported retatrutide — a drug still investigational, whose BLA Lilly does not plan to file until Q1 2027. Lilly warned the material could be fake, impure or mis-dosed. The action comes against a permissive federal backdrop: in July 2026 an FDA advisory panel endorsed broader use of six peptides without substantial safety or efficacy evidence. Compounders have retained share even after FDA declared the GLP-1 shortage over. This is enforcement against unapproved-product sellers, NOT Hatch-Waxman ANDA litigation, so it does not affect tirzepatide or semaglutide generic timelines.",
+      "market": "us",
+      "category": "legal",
+      "timestamp": "2026-08-12",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "BioPharma Dive",
+          "title": "Lilly files six lawsuits in bid to shut down 'black market' for retatrutide",
+          "url": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/",
+          "date": "2026-08-12"
+        },
+        {
+          "publication": "Endpoints News",
+          "title": "Eli Lilly files first lawsuits over retatrutide 'black market'",
+          "url": "https://endpoints.news/eli-lilly-files-first-lawsuits-over-retatrutide-black-market/",
+          "date": "2026-08-12"
+        }
+      ],
+      "tags": [
+        "lilly",
+        "retatrutide",
+        "litigation",
+        "black-market",
+        "compounding",
+        "peptides",
+        "us"
+      ]
+    },
+    {
+      "id": "story-076",
+      "headline": "Delhi High Court Bars Sun Pharma From Launching Oral Semaglutide Without Court Approval — India's Generic Chokepoint",
+      "summary": "Justice Anup Jairam Bhambhani directed Sun Pharma Laboratories that once it receives a commercial manufacturing licence for semaglutide tablets it must inform and obtain the Delhi High Court's approval before launching. Novo alleged that the Subject Expert Committee clearance Sun received for 3 mg, 7 mg and 14 mg oral semaglutide infringes its separate TABLET-FORMULATION patent — distinct from the injectable compound patent that expired in India in March 2026. Novo argued that once launched the product would be impossible to withdraw. Sun contested territorial jurisdiction, being Maharashtra-based, and argued Novo must show product similarity. This is the key legal chokepoint on India's oral-semaglutide generic wave.",
+      "market": "india",
+      "category": "legal",
+      "timestamp": "2026-08-12",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Economic Times",
+          "title": "Sun will require HC nod for Semaglutide tablet launch",
+          "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-will-require-hc-nod-for-semaglutide-tablet-launch/articleshow/133164615.cms",
+          "date": "2026-08-12"
+        }
+      ],
+      "tags": [
+        "delhi-high-court",
+        "sun-pharma",
+        "oral-semaglutide",
+        "patent",
+        "novo",
+        "india"
+      ]
+    },
+    {
+      "id": "story-077",
+      "headline": "Roche Pays Hanmi Up to $2.3bn for a Muscle-Sparing Obesity Asset — a Direct Bet Against the Lean-Mass Criticism",
+      "summary": "Roche will pay $190 million up front and up to $2.3 billion in development, regulatory and commercial milestones plus royalties for ex-South Korea rights to Hanmi's HM17321, a urocortin-2 analog designed to spur fat loss while preserving lean mass. Hanmi finishes the ongoing Phase 1 dosing study, after which Roche assumes development. Roche is racing Denmark's Gubra, which started a Phase 1/2 urocortin-2 trial in July 2026. The deal is a direct bet on the main clinical criticism of Zepbound and Wegovy — muscle loss accompanying rapid weight reduction — and sits alongside two FDA approvals in the myostatin/activin class this window.",
+      "market": "global",
+      "category": "corporate",
+      "timestamp": "2026-08-24",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "BioPharma Dive",
+          "title": "Roche commits to lean-mass preservation with Hanmi obesity deal",
+          "url": "https://www.biopharmadive.com/news/roche-lean-mass-preservation-hanmi-obesity-deal/828579/",
+          "date": "2026-08-24"
+        },
+        {
+          "publication": "Endpoints News",
+          "title": "Roche bets up to $2.3B on Hanmi's early-stage muscle-building obesity asset",
+          "url": "https://endpoints.news/roche-bets-up-to-2-3b-on-hanmis-early-stage-muscle-building-obesity-asset/",
+          "date": "2026-08-24"
+        }
+      ],
+      "tags": [
+        "roche",
+        "hanmi",
+        "hm17321",
+        "urocortin-2",
+        "lean-mass",
+        "muscle-preservation",
+        "licensing",
+        "global"
+      ]
+    },
+    {
+      "id": "story-078",
+      "headline": "Novo Signs Four External Deals in Six Weeks — Nanexa up to EUR 1.165bn, Orbis up to $1.4bn, Plus Kallyope and Anthropic",
+      "summary": "Under shareholder pressure to diversify away from semaglutide, Novo struck at least four external deals inside the window. NANEXA (Sept 25): global exclusive licence to the atomic-layer-deposition PharmaShell platform for peptide drugs in obesity, T2D and cardiometabolic disease, up to five programs targeting MONTHLY AND QUARTERLY dosing; Nanexa eligible for up to EUR 1.165bn including EUR 615m upfront plus development and regulatory milestones, with the remainder in sales milestones and low single-digit royalties. Nanexa shares rose roughly 150%. ORBIS MEDICINES (Sept 17): up to $1.4bn multi-target discovery partnership for macrocyclic oral drugs — notable because Orbis has also taken Lilly funding. KALLYOPE (disclosed Sept 18 via LinkedIn, reported Sept 21): acquired one therapeutic peptide and two small molecules, lead asset K-554 an IND-ready weekly peptide targeting biology distinct from GLP-1 and amylin; terms undisclosed.",
+      "market": "global",
+      "category": "corporate",
+      "timestamp": "2026-09-25",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Nanexa via BioSpace",
+          "title": "Nanexa and Novo enter into EUR 1.165 billion global license and collaboration agreement",
+          "url": "https://www.biospace.com/press-releases/nanexa-and-novo-enter-into-eur-1-165-billion-global-license-and-collaboration-agreement-for-long-acting-injectables",
+          "date": "2026-09-25"
+        },
+        {
+          "publication": "Endpoints News",
+          "title": "Lilly-backed Orbis does up to $1.4B macrocycle deal with Novo",
+          "url": "https://endpoints.news/lilly-backed-orbis-does-up-to-1-4b-macrocycle-deal-with-novo/",
+          "date": "2026-09-17"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "Novo buys three early-stage obesity assets from Kallyope as investor pressure mounts",
+          "url": "https://www.biospace.com/deals/novo-buys-three-early-stage-obesity-assets-from-kallyope-as-investor-pressure-mounts",
+          "date": "2026-09-21"
+        }
+      ],
+      "tags": [
+        "novo",
+        "nanexa",
+        "orbis",
+        "kallyope",
+        "licensing",
+        "long-acting-injectables",
+        "macrocycles",
+        "diversification",
+        "global"
+      ]
+    },
+    {
+      "id": "story-079",
+      "headline": "Novo Cancels Two More Ziltivekimab Trials for Futility — Denting the 'Growth Beyond Obesity' Case a Fortnight Before Capital Markets Day",
+      "summary": "Novo halted two further Phase 3 trials of its IL-6 inhibitor ziltivekimab for futility, following the drug's failure disclosed around ESC Congress 2026 in late August. The timing is awkward: the cuts landed two weeks before management asked investors to underwrite exactly this kind of diversification beyond semaglutide. Reuters and STAT both covered it under that frame, and Fierce reported the company's chronic-kidney-disease program hopes dwindling the same day. Novartis said it would continue with its own IL-6 asset.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-09-07",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Endpoints News",
+          "title": "Updated: Novo Nordisk cans two more trials of IL-6 heart drug for futility",
+          "url": "https://endpoints.news/novo-nordisk-cans-two-more-trials-of-il-6-heart-drug-for-futility/",
+          "date": "2026-09-07"
+        },
+        {
+          "publication": "Endpoints News",
+          "title": "#ESC26: Novartis pushes ahead with its IL-6 inhibitor despite Novo's failure",
+          "url": "https://endpoints.news/esc26-novartis-pushes-ahead-with-its-il-6-inhibitor-despite-novos-failure/",
+          "date": "2026-08-29"
+        }
+      ],
+      "tags": [
+        "novo",
+        "ziltivekimab",
+        "il-6",
+        "futility",
+        "trial-halt",
+        "diversification-risk",
+        "esc-2026",
+        "global"
+      ]
+    },
+    {
+      "id": "story-080",
+      "headline": "Zepbound Cut Healthcare Costs Up to 38% in Adults Over 55 — Lilly Pitches It Directly Against Medicare's $195 Bridge Price",
+      "summary": "Published in Diabetes, Obesity and Metabolism, the study found sustained Zepbound use in adults over 55 was associated with costs up to 15% lower (up to $181 per patient per month) at six months, widening to up to $607 per patient per month — up to 38% lower — by 12 months, EXCLUDING the drug's own cost. Lower hospital admission and ED visit rates drove the gap, with higher routine outpatient use. Lilly framed the result explicitly against Medicare's GLP-1 Bridge program treatment cost of $195 per patient per month, arguing savings roughly cover the drug by six months and exceed it by 12. Read this as a lobbying artifact aimed at the Medicare coverage debate as much as a clinical finding.",
+      "market": "us",
+      "category": "market",
+      "timestamp": "2026-08-26",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Eli Lilly via BioSpace",
+          "title": "Zepbound linked to lower healthcare costs in adults over age 55 with obesity according to a real-world study",
+          "url": "https://www.biospace.com/press-releases/zepbound-linked-to-lower-healthcare-costs-in-adults-over-age-55-with-obesity-according-to-a-real-world-study",
+          "date": "2026-08-26"
+        },
+        {
+          "publication": "BioPharma Dive",
+          "title": "Zepbound may cut healthcare costs, study says",
+          "url": "https://www.biopharmadive.com/news/zepbound-costs-ivonescimab-mckesson-sentivera-imaavy-bausch/828680/",
+          "date": "2026-08-26"
+        }
+      ],
+      "tags": [
+        "lilly",
+        "zepbound",
+        "real-world-evidence",
+        "healthcare-costs",
+        "medicare-bridge",
+        "lobbying",
+        "us"
+      ]
+    },
+    {
+      "id": "story-081",
+      "headline": "UK Approves Then Launches Lilly's Oral GLP-1 Foundayo Within Two Weeks — First in Europe, But Not NHS-Funded",
+      "summary": "MHRA authorised orforglipron (Foundayo) for both weight management and type 2 diabetes glycaemic control, making the UK the first European market to clear Lilly's once-daily small-molecule oral GLP-1; commercial launch followed on Aug 24. Titration runs 0.8 to 17.2 mg with a minimum month per step. The drug delivered 12.4% mean weight loss at 36 mg at 72 weeks in Phase 3 ATTAIN-1. The commercial constraint is material: it is prescription-only and NOT NHS-funded pending a separate NICE appraisal, so uptake runs through private channels initially. US approval was 2026-04-01, outside this window. NOTE a minor source discrepancy: the MHRA primary release is dated Aug 10 while some trade coverage dates the approval Aug 11.",
+      "market": "eu",
+      "category": "regulatory",
+      "timestamp": "2026-08-24",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "MHRA/GOV.UK",
+          "title": "UK first in Europe to authorise orforglipron for weight management and type 2 diabetes",
+          "url": "https://www.gov.uk/government/news/uk-first-in-europe-to-authorise-orforglipron-for-weight-management-and-type-2-diabetes",
+          "date": "2026-08-10"
+        },
+        {
+          "publication": "Economic Times",
+          "title": "Eli Lilly launches oral weight-loss pill Foundayo in UK",
+          "url": "https://economictimes.indiatimes.com/news/international/business/eli-lillys-foundayo-becomes-first-oral-weight-loss-drug-approved-in-uk-for-diabetes/articleshow/133140440.cms",
+          "date": "2026-08-11"
+        },
+        {
+          "publication": "Economic Times",
+          "title": "Eli Lilly launches oral weight-loss pill Foundayo in UK",
+          "url": "https://economictimes.indiatimes.com/news/international/business/eli-lilly-launches-oral-weight-loss-pill-foundayo-in-uk/articleshow/133451582.cms",
+          "date": "2026-08-24"
+        }
+      ],
+      "tags": [
+        "mhra",
+        "orforglipron",
+        "foundayo",
+        "uk",
+        "oral-glp1",
+        "launch",
+        "nice-pending",
+        "eu"
+      ]
+    },
+    {
+      "id": "story-082",
+      "headline": "Amylyx's GLP-1 ANTAGONIST Wins Phase 3 — 55% Reduction in Severe Hypoglycemia After Bariatric Surgery",
+      "summary": "Avexitide hit its primary endpoint with a 55% reduction in serious-to-severe hypoglycemic events versus placebo in patients after bariatric surgery, with mostly mild adverse events. The mechanism is the INVERSE of the obesity blockbusters — it blocks GLP-1 rather than agonising it — and Amylyx acquired the asset cheaply out of a bankruptcy auction. The readout validates GLP-1 antagonism as a commercial category and marks a comeback for a company best known for its withdrawn ALS drug.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-08-18",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "BioPharma Dive",
+          "title": "Amylyx's bet on a GLP-1 blocker pays off",
+          "url": "https://www.biopharmadive.com/news/amylyx-glp1-avexitide-clinical-trial-results-blood-sugar/828099/",
+          "date": "2026-08-18"
+        },
+        {
+          "publication": "Endpoints News",
+          "title": "Amylyx reports Phase 3 win for GLP-1 antagonist avexitide in post-bariatric hypoglycemia",
+          "url": "https://endpoints.news/amylyx-reports-phase-3-win-for-glp-1-antagonist-avexitide-in-post-bariatric-hypoglycemia/",
+          "date": "2026-08-18"
+        }
+      ],
+      "tags": [
+        "amylyx",
+        "avexitide",
+        "glp1-antagonist",
+        "post-bariatric-hypoglycemia",
+        "inverse-mechanism",
+        "us"
+      ]
+    },
+    {
+      "id": "story-083",
+      "headline": "Foundayo Logs Only $98m in Q2 While Novo's Wegovy Pill Did $354m in Q1 — and Prescribers Rate Zepbound Far Above Both",
+      "summary": "Lilly's Q2 2026 revenue reached nearly $23bn, up 48% year over year on Mounjaro and Zepbound, with Evaluate projecting the tirzepatide franchise at $70bn by 2032. But Foundayo logged only $98 million in Q2, below consensus, having grown more slowly since its April launch than Novo's Wegovy pill — which did $354 million in Q1 and surpassed 5 million prescriptions since its January launch. A Spherix poll of 185 prescribers found 80% highly satisfied with Zepbound versus 59% for Wegovy, 48% for the Wegovy pill and 47% for Foundayo; the Wegovy pill ranked first on affordability. A KFF survey found 55% of current and former GLP-1 users WITH INSURANCE cited cost problems.",
+      "market": "us",
+      "category": "market",
+      "timestamp": "2026-08-21",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "BioPharma Dive",
+          "title": "How cost and perception could reshape the GLP-1 market",
+          "url": "https://www.biopharmadive.com/news/glp-1-market-cost-prescribing-preferences/828424/",
+          "date": "2026-08-21"
+        }
+      ],
+      "tags": [
+        "lilly",
+        "foundayo",
+        "wegovy-pill",
+        "prescriber-satisfaction",
+        "spherix",
+        "affordability",
+        "kff",
+        "us"
+      ]
+    },
+    {
+      "id": "story-084",
+      "headline": "Mounjaro Becomes India's Single Largest-Selling Drug by Value at ₹1,256 Crore, Up 502% — Premium Held Despite the Generic Flood",
+      "summary": "Mounjaro recorded ₹1,256 crore in sales in the 12 months ending August 2026, up 502% year over year, making it the single largest-selling drug in the Indian market by value. The Indian pharmaceutical market grew 10.7% in value in August while prescription volumes stayed roughly flat, meaning higher-priced medicines and higher doses — GLP-1s prominently — drove essentially all the value growth. The result is striking because it came AFTER generic semaglutide flooded India from March 21, 2026 at prices as low as ₹325-4,200 per month and AFTER Novo cut Wegovy's Indian price by up to 48% in April: tirzepatide held the premium tier rather than being commoditised. Note tirzepatide in India remains a Mounjaro plus Cipla Yurpeak duopoly with patents to roughly 2033-2036 — it is not genericised.",
+      "market": "india",
+      "category": "market",
+      "timestamp": "2026-09-07",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "The Hindu BusinessLine",
+          "title": "Mounjaro becomes India's top-selling drug as patients shift to GLP-1 injections",
+          "url": "https://www.thehindubusinessline.com/news/mounjaro-becomes-indias-top-selling-drug-as-patients-shift-to-glp-1-injections/article71438811.ece",
+          "date": "2026-09-07"
+        },
+        {
+          "publication": "Free Press Journal",
+          "title": "Mounjaro becomes India's top-selling GLP-1 drug with ₹1,256 crore sales in 12 months",
+          "url": "https://www.freepressjournal.in/business/mounjaro-becomes-indias-top-selling-glp-1-drug-with-1256-crore-sales-in-12-months",
+          "date": "2026-09-10"
+        }
+      ],
+      "tags": [
+        "india",
+        "mounjaro",
+        "tirzepatide",
+        "pharmarack",
+        "market-leadership",
+        "generic-resilience",
+        "duopoly"
+      ]
+    },
+    {
+      "id": "story-085",
+      "headline": "Italy's Menarini Buys European Rights to a Chinese GLP-1 From Gan & Lee",
+      "summary": "Menarini entered the obesity market by licensing European rights to a GLP-1 from China's Gan & Lee Pharmaceuticals — another instance of China-originated incretin assets being routed into Western markets through regional partners. Endpoints paywalls the body, so the headline, date and framing are verified but the deal economics and the specific molecule are NOT. Note that a dedicated sweep of Chinese obesity out-licensing found NO other new deal inside this window; the Pfizer/Sciwind, Pfizer/YaoPharma and AstraZeneca/CSPC deals are all pre-window (Jan-Feb 2026) and must not be re-dated into it.",
+      "market": "eu",
+      "category": "corporate",
+      "timestamp": "2026-09-04",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Endpoints News",
+          "title": "Italy's Menarini gets into obesity with European rights to GLP-1 from China's Gan & Lee",
+          "url": "https://endpoints.news/italys-menarini-gets-into-obesity-with-european-rights-to-glp-1-from-chinas-gan-lee/",
+          "date": "2026-09-04"
+        }
+      ],
+      "tags": [
+        "menarini",
+        "gan-and-lee",
+        "china-out-licensing",
+        "europe",
+        "regional-partner",
+        "eu"
+      ]
+    },
+    {
+      "id": "story-086",
+      "headline": "VERIFICATION CHECK — High-Value Stories Seen in Dated Indexes But NOT Published for Lack of a Retrievable Source",
+      "summary": "Recorded so these are neither lost nor mistakenly published as fact. Each appeared in a DATED news index but no publisher URL could be retrieved, largely because Reuters returns HTTP 401 and Endpoints, WSJ, STAT, Bloomberg, NYT and Fierce are paywalled or bot-blocked to automated fetching. HIGH VALUE, chase first: FTC sues Hims & Hers over telehealth data practices and GLP-1 prescribing (CNBC Aug 18, further coverage Sep 22); Foundayo capturing over 30% of new US patients on oral weight-loss drugs (Reuters Sep 14); Lilly capturing ~70% of new Medicare GLP-1 patients as the program reaches ~700,000 seniors (Fierce/Quartz Sep 22-23). CHINA: Wegovy approved in China for MASH (Reuters Sep 10); NMPA accepted the oral Wegovy filing (Reuters Aug 27). EUROPE: Novo launched the Wegovy pill in Germany (Reuters Sep 1); Novo walked away from its $285m Ascendis monthly-GLP-1 pact (Fierce Biotech Sep 15). SAFETY/UK: a coroner linking a teenager's death to Mounjaro (The Times Aug 11); MHRA freezing bank accounts in a weight-loss-jab investigation (BBC Sep 9). SOUTH KOREA: counterfeit Mounjaro and Wegovy seizures quadrupling with product traced to India (Sep 17). Also NOT systematically swept and therefore possibly incomplete rather than empty: CVS/Cigna/Express Scripts formulary moves, WeightWatchers/Ro/LifeMD/Noom, Boehringer survodutide, Amgen MariTide, and CDSCO approvals.",
+      "market": "global",
+      "category": "market",
+      "timestamp": "2026-09-28",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Dashboard verification note",
+          "title": "Unverified leads held back from publication",
+          "url": "https://en-glp1-intelligence.vercel.app/",
+          "date": "2026-09-28"
+        }
+      ],
+      "tags": [
+        "verification-check",
+        "unverified-leads",
+        "do-not-publish",
+        "transparency",
+        "follow-up-queue",
+        "global"
+      ]
+    },
     {
       "id": "story-064",
       "headline": "UK MHRA Yellow Card Scheme Logs 153–216 Suspected GLP-1 Death Reports — Published Totals Conflict and Do Not Reconcile",

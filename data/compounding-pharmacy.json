@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 17,
+    "last_updated": "2026-09-28T00:00:00Z",
+    "entry_count": 18,
     "key_metrics": [
       {
-        "label": "FDA 503B Final Action",
-        "value": "NONE - comments closed Jul 30"
+        "label": "GLP-1 Warning Letters",
+        "value": "1 (Empower, Sep 18)"
       },
       {
-        "label": "Comment Count",
-        "value": "UNVERIFIED (regulations.gov blocks)"
+        "label": "Letter Reference",
+        "value": "MARCS-CMS 738238"
       },
       {
-        "label": "503B Sector Size",
-        "value": "87 registered facilities (FDA FY27)"
+        "label": "FDA's New Doctrine",
+        "value": "Volume ⇒ 'pretextual'"
       },
       {
-        "label": "LifeMD Migration",
-        "value": "95% of new patients start branded"
+        "label": "Violation Categories",
+        "value": "4 cited"
       },
       {
-        "label": "PCAC Peptide Vote",
-        "value": "6 of 7 onto 503A - against FDA staff"
+        "label": "503B Bulks Final Action",
+        "value": "None as of Sep 28"
       },
       {
-        "label": "OFA v. FDA",
-        "value": "Argued Mar 30 - still undecided"
+        "label": "New Compounder Suits",
+        "value": "0 verified in window"
       }
     ]
   },
@@ -71,6 +71,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-015",
+      "timestamp": "2026-09-28T00:00:00Z",
+      "source_url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/empower-clinic-services-llc-dba-empower-pharmacy-738238-09182026",
+      "source_name": "FDA (primary) / Frier Levitt / AmSpa / BioSpace / Federal Register",
+      "market": "us",
+      "summary": "One enforcement action defined the window, and it is a doctrinal shift rather than a routine citation. FDA's Sep 18 warning letter to Empower Pharmacy — reference MARCS-CMS 738238, a 503A facility inspected Nov 3–14, 2025 — found its tirzepatide/niacinamide and semaglutide/cyanocobalamin formulations to be essentially copies of approved products and stated that given production volume, the differences are 'pretextual'. Counsel read it as the first time FDA has directly engaged when customisation becomes mass-copying in a GLP-1 warning letter, and as establishing that volume alone can evidence pretext independent of documentation defects. Separately, the 503B bulks list proposal to exclude semaglutide, tirzepatide and liraglutide received NO final determination in the window despite its comment period closing July 30. No new Novo or Lilly litigation against compounders, telehealth firms or med spas was verified.",
+      "content": "August 10 - September 28, 2026 compounding pharmacy:\n\n1. FDA WARNING LETTER TO EMPOWER PHARMACY (letter dated Sep 18, posted Sep 22) - THE WINDOW'S EVENT\n   PRIMARY SOURCE: FDA, reference MARCS-CMS 738238\n   - Addressed to Arta Shaun Noorian, Founder & CEO, Empower Clinic Services LLC dba Empower Pharmacy,\n     Houston TX - a 503A facility and one of the largest US compounded-GLP-1 suppliers\n   - Inspection 3-14 November 2025; Form FDA 483 issued 2025-11-14\n   - Products named: TIRZEPATIDE/NIACINAMIDE (4 mL)(17/2 mg/mL) and\n     SEMAGLUTIDE/CYANOCOBALAMIN (1 mL)(5/0.5 mg/mL); a third, TIRZEPATIDE/NIACINAMIDE (2.5 mL)\n     (8/2 mg/mL), also appears in the cited set. Compounded in high volumes July-October 2025.\n   - FDA FINDING: these 'appear to be essentially copies of FDA-approved semaglutide and tirzepatide\n     products', and 'the volume of products you are producing suggests that differences between\n     products you are compounding and the FDA-approved products are pretextual'\n   - FDA also cited orders lacking any prescriber determination of significant difference, and\n     purported determinations 'repeated verbatim across many records'\n   - FOUR VIOLATION CATEGORIES: (i) failure to meet Section 503A conditions (essentially-copies,\n     inordinate amounts); (ii) adulteration under Section 501(a)(2)(A) from insanitary conditions and\n     inadequate aseptic validation; (iii) unapproved new drugs; (iv) misbranding\n   - Response due within 15 working days\n   - FDA said it could not fully evaluate the adequacy of several corrective actions for lack of\n     supporting documentation\n\n2. WHY IT MATTERS - LEGAL READ (Frier Levitt Sep 25; AmSpa Sep 24; BioSpace Sep 24)\n   *** THIS IS LAW-FIRM AND TRADE COMMENTARY, NOT A REGULATORY INSTRUMENT. These are interpretations\n   of the letter, not new FDA rules. ***\n   Counsel read three enforcement shifts into it:\n   - PRODUCTION VOLUME ALONE can evidence pretext, independent of documentation defects\n   - Templated language and pre-selected options on THIRD-PARTY PRESCRIBING PLATFORMS undermine claims\n     of genuine clinical judgment\n   - Verbatim 'significant difference' statements across prescriptions signal improper standardisation\n   This is the first time FDA has directly engaged the question of WHEN CUSTOMISATION BECOMES\n   MASS-COPYING in a GLP-1 warning letter - i.e. the core of the 'personalized dosing' loophole fight.\n\n3. FDA FORM 483 TO CAROLINA INFUSION LLC (Aug 18)\n   - Carolina Infusion, LLC (Ridgeland, SC), listed as a 503A facility, 483 dated 08/18/2026\n   - The only compounding-facility 483 dated inside the window on FDA's compounding actions page\n   - STATUS: INSPECTIONAL OBSERVATIONS, not a warning letter or a finding of violation\n   - *** NO GLP-1, semaglutide or tirzepatide involvement could be verified. DO NOT characterise this\n     as a GLP-1 action. ***\n\n4. 503B BULKS LIST - STILL NO FINAL DETERMINATION AS OF SEP 28\n   - FDA's proposal to EXCLUDE semaglutide, tirzepatide and liraglutide published in the Federal\n     Register 2026-05-01 (document 2026-08552)\n   - Comment period extended 2026-06-26, closed 2026-07-30\n   - NO final determination published in the window\n   - *** SCOPE CLARIFICATION: this is a proposal to exclude from the 503B BULKS LIST ONLY. It is NOT a\n     ban on 503A compounding. ***\n\n5. FDA SHORTAGE / ENFORCEMENT-DISCRETION STATUS: UNCHANGED IN WINDOW\n   - Semaglutide shortage resolved 2025-02-21; tirzepatide resolved 2024-12-19\n   - Enforcement discretion ended 2025-04-22 / 2025-05-22 (semaglutide) and 2025-02-18 / 2025-03-19\n     (tirzepatide)\n   - FDA's clarifying page was last updated 2026-04-01\n\n6. VERIFIED NEGATIVES FOR THIS WINDOW\n   - Novo Nordisk and Eli Lilly litigation against compounders, telehealth firms and med spas: NO new\n     filings, rulings, injunctions or settlements verified inside the window. All datable events\n     pre-date it: Novo's 14-lawsuit wave (announced 2025-08-05, 132 federal complaints across 40\n     states), Novo v. Hims & Hers (filed 2026-02-09, dropped 2026-03-09), and Strive Compounding\n     Pharmacy's antitrust suit against Lilly and Novo (W.D. Tex. San Antonio, case 5:26-CV-1055, filed\n     2026-01-14). A trade-press reference to a Strive AMENDED complaint could not be dated or verified\n     and is NOT published.\n   - Other FDA warning-letter waves to telehealth GLP-1 marketers: the 2026 waves were 2026-03-03\n     (30 letters) and 2026-06-16 (25 letters), both outside the window. NO new wave Aug 10 - Sep 28.\n   - State pharmacy board actions, seizures, injunctions, grey-market API imports, counterfeit pen\n     seizures: nothing verified in window. Most recent counterfeit Ozempic action found remains the\n     December 2025 seizure of units labelled lot PAR1229.\n   - COVERAGE CAVEAT: the negative findings for state pharmacy boards, seizures and grey-market API\n     rest on fewer independent queries than intended because the search budget was exhausted. Treat as\n     'none found' rather than 'none exists'.",
+      "tags": [
+        "compounding",
+        "fda",
+        "warning-letter",
+        "empower",
+        "pretextual",
+        "503a",
+        "essentially-copies",
+        "503b-bulks",
+        "no-final-action",
+        "carolina-infusion",
+        "verified-negatives",
+        "us",
+        "september-2026"
+      ]
+    },
     {
       "id": "comp-entry-014",
       "timestamp": "2026-08-09T00:00:00Z",

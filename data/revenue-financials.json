@@ -1,44 +1,36 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-08-10T00:00:00Z",
-    "entry_count": 23,
+    "last_updated": "2026-09-28T00:00:00Z",
+    "entry_count": 24,
     "key_metrics": [
       {
-        "label": "HIMS Q2",
-        "value": "Reports Aug 10 post-close"
+        "label": "Novo CMD Reaction",
+        "value": "−7.92% to $39.82"
       },
       {
-        "label": "Lilly Q2 2026",
-        "value": "$23.0B (+48%)"
+        "label": "Novo Pipeline Target",
+        "value": "DKK 150bn by 2035"
       },
       {
-        "label": "Mounjaro Q2",
-        "value": "$9.9B (+91%)"
+        "label": "Lilly ATH (Aug 19)",
+        "value": "$1,292.65 (or $1,280)"
       },
       {
-        "label": "Zepbound US Q2",
-        "value": "$4.9B (+44%)"
+        "label": "Lilly Market Cap",
+        "value": "$1.05T · +50% y/y"
       },
       {
-        "label": "Foundayo Debut",
-        "value": "$98M (below consensus)"
+        "label": "Novo Market Cap",
+        "value": "$170.6B · −35% y/y"
       },
       {
-        "label": "Lilly FY Guidance",
-        "value": "$85–87B (raised)"
+        "label": "India Mounjaro 12mo",
+        "value": "₹1,256cr · +502%"
       },
       {
-        "label": "Novo Q2 Adjusted",
-        "value": "DKK 78.5B (+7% CER)"
-      },
-      {
-        "label": "LLY All-Time High",
-        "value": "$1,249.45 (Jul 7) · $1.06T cap"
-      },
-      {
-        "label": "US Share Split",
-        "value": "Lilly ~60.9% / Novo ~38.8%"
+        "label": "Semaglutide US LOE",
+        "value": "2032 (~75% of rev)"
       }
     ]
   },
@@ -161,6 +153,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-020",
+      "timestamp": "2026-09-28T00:00:00Z",
+      "source_url": "https://www.proactiveinvestors.com/companies/news/1098834/novo-nordisk-shares-plunge-over-7-as-new-targets-fail-to-reassure-investors-1098834.html",
+      "source_name": "Proactive Investors / CNBC / StockAnalysis / Free Press Journal / HLTH / PR Newswire",
+      "market": "both",
+      "summary": "The defining financial event of the Aug 10 - Sep 28 window was Novo Nordisk's London Capital Markets Day on Sep 21, which backfired: ADSs fell 7.92% to $39.82, the sharpest single-day drop in over six months, because 2026-2030 revenue growth was guided only 'in line with industry peers' rather than ahead of them. Novo targeted DKK 150bn (~$23bn) risk-adjusted pipeline sales by 2035 and 60 million oral GLP-1 patients by 2030, while CEO Mike Doustdar confirmed semaglutide - roughly 75% of 2026 revenue - loses key US exclusivity in 2032. The divergence with Lilly widened: LLY set a fresh all-time high of $1,292.65 on Aug 19 and holds a $1.05 trillion market cap versus Novo's $170.6bn (down 35% y/y), a gap of about 6.2x. In India, Mounjaro became the top-selling GLP-1 at Rs 1,256 crore over the 12 months to August, up 502%. No Q3 pre-announcement or guidance revision came from either company in the window.",
+      "content": "August 10 - September 28, 2026 revenue and financials:\n\n1. NOVO CAPITAL MARKETS DAY (Sep 21, London) - THE WINDOW'S MAIN EVENT\n   - ADSs -7.92% to $39.82; sharpest single-day fall in 6+ months (intraday reports ranged -4.8% to -7%)\n   - Copenhagen listing -~7.7%\n   - Targets: 5+ 'multi-blockbuster' launches by 2030; DKK 150bn (~$23bn) risk-adjusted pipeline sales by 2035\n   - Oral GLP-1 ambition: 60 million patients globally by 2030, margins held, 'attractive dividend' maintained\n   - THE PROBLEM: 2026-2030 revenue growth guided only 'in line with industry peers' (Lilly, AstraZeneca, Amgen, Merck, AbbVie, Novartis), operating margin broadly stable\n   - Doustdar confirmed semaglutide loses key US exclusivity in 2032; that molecule is ~75% of 2026 revenue, in a US market that is >half of group sales\n   - Reported Q2 obesity market share: ~39% Novo vs ~61% Lilly\n   - CagriSema 23% weight loss vs tirzepatide 25.5%\n\n2. ANALYST REACTION - CAVEAT, SEE BELOW\n   - Reported target cuts: Jefferies DKK 285 -> 275 (Hold); Deutsche Bank DKK 265 -> 245 (Sell)\n   - Consensus target cited at DKK 310.17; Novo implied ~4% annual revenue growth 2027-2030 vs sell-side 2-3%\n   - *** SOURCING CAVEAT: these individual broker numbers rest on a single secondary aggregator\n     (ad-hoc-news.de) that could not be fetched directly. The DIRECTION (targets cut after the event)\n     is corroborated; the SPECIFIC figures are NOT independently confirmed. Treat as unverified. ***\n   - CNBC follow-up (Sep 25) frames investors as having 'pummeled' the stock while Lilly takes share\n     including in oral obesity. That page returned HTTP 403; characterization is directional, no hard\n     figures extracted. https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html\n\n3. ELI LILLY - NEW ALL-TIME HIGH, THEN A PULLBACK\n   - New ATH: $1,292.65 on 2026-08-19 (distinct from the June 2026 high already on this dashboard)\n   - *** PRICE CONFLICT DISCLOSED: one secondary source (StockStory/FinancialContent, 2026-09-24)\n     gives the 52-week high as '$1,280 (August 2026)'. The DATE 2026-08-19 is well corroborated;\n     the exact print is not unanimous. Both figures reported rather than picking one. ***\n   - Sep 25 close: $1,183.46; market cap $1.05 trillion; +50.2% y/y; ~8.4% below the Aug 19 ATH\n   - Sep 24: +3.1-3.4% to ~$1,192 on FDA approval of Onswik (insulin efsitora alfa-gobe, once-weekly\n     basal insulin for T2DM) - an insulin, not a GLP-1, but the largest single-day LLY gain in the\n     Sep 21-28 week. +10.3% YTD at that point.\n\n4. NOVO NORDISK - VALUATION RESET\n   - Sep 25 close $38.80; market cap $170.6bn; -35.0% y/y; 52-week range $35.12-$64.16\n   - TTM revenue $50.34bn (+5.6%); forward P/E 11.97; dividend yield 3.30%\n   - Consensus Hold across 14 analysts, average target $46.39 (~19.6% implied upside)\n   - Lilly/Novo market cap gap now ~6.2x\n\n5. INDIA - MOUNJARO TAKES THE TOP SPOT (Pharmarack PharmaTrac, 12 months to August 2026)\n   - Mounjaro Rs 1,256 crore, +502% in sales value - now India's largest GLP-1 brand\n   - Total GLP-1 segment Rs 2,333 crore annualized; unit sales +74% in August alone\n   - Injectables ~86% of value\n   - Molecule share: tirzepatide ~62%, semaglutide ~34%\n   - Analysts describe a shift to 'a more stable growth phase' after the generic-launch spike,\n     consistent with the first monthly decline (Rs 227cr June) already recorded on this dashboard\n   - RECONCILED 2026-09-28: the 'Rs 2,010 crore injectables vs Rs 348 crore a year earlier' figure,\n     initially unconfirmed, was subsequently corroborated from Free Press Journal and Business Standard\n     coverage of the same Pharmarack dataset, and is internally consistent (2,010/2,333 = 86.2%, matching\n     the stated ~86% injectable share of value). It is recorded in gen-entry-020. Note it is a MAT-August\n     (12-month) figure, NOT an August monthly figure.\n\n6. US PRESCRIPTION TRENDS (IQVIA via Citi, reported Aug 10)\n   - Foundayo weekly scripts 34,219, +16% sequentially, 4th consecutive weekly rise\n     (prior two weeks: 29,388 and 26,760)\n   - Oral Wegovy roughly flat at ~172,000 weekly scripts, ~35% of total Wegovy prescriptions\n   - Wegovy (oral + injectable) ~40.6% of the US obesity market\n   - Injectable Zepbound remains the single largest product\n   - Caveat: the source carries no explicit IQVIA week-ending date\n\n7. CONFERENCE SWEEP\n   - Lilly at Morgan Stanley 24th Annual Global Healthcare Conference, Sep 14: Ilya Yuffa fireside\n     chat covering tirzepatide/Zepbound, Foundayo, retatrutide, eloralintide. NO new guidance or\n     quantified disclosure.\n   - Wells Fargo (Sep 8-10 Boston), Baird Global Healthcare (Sep 15 NY) and Cantor Global Healthcare\n     (Sep 9-11 NY) all occurred in window; NO substantive Lilly or Novo financial disclosure found\n     from any of them. Research budget was exhausted before each IR event page could be checked\n     individually - this is an acknowledged coverage gap, not a confirmed absence.\n\n8. VERIFIED NEGATIVES FOR THIS WINDOW\n   - NO Q3 2026 pre-announcement or guidance revision from Lilly or Novo. Lilly's last raise was Q2\n     (Aug 5-6, pre-window): FY26 revenue $85.0-87.0bn, non-GAAP EPS $35.50-36.50, performance margin\n     49.0-50.5%\n   - NO new Lilly capex/manufacturing announcement (Houston $6.5bn was Sep 2025; Lehigh Valley $3.5bn\n     was Jan 30, 2026)\n   - NO Novo restructuring or leadership change in window (the 9,000-job / DKK 8bn plan is Sept 2025;\n     board overhaul Nov 2025). CFO remains Karsten Munk Knudsen.\n   - NO standalone July 2026 India monthly print retrievable",
+      "tags": [
+        "revenue",
+        "financials",
+        "novo-capital-markets-day",
+        "lilly-ath",
+        "market-cap",
+        "india",
+        "mounjaro",
+        "iqvia",
+        "scripts",
+        "figures-conflict",
+        "sourcing-caveat",
+        "september-2026",
+        "reconciled"
+      ]
+    },
     {
       "id": "rev-entry-019",
       "timestamp": "2026-08-10T00:00:00Z",

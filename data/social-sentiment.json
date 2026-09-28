@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-08-09T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-09-28T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
-        "label": "Tracked Trends",
-        "value": "5"
+        "label": "Say Extremely Effective",
+        "value": "31% (Gallup)"
       },
       {
-        "label": "Top Reddit Drug",
-        "value": "Mounjaro (4,917 mentions)"
+        "label": "Say Effective",
+        "value": "40% (Gallup)"
       },
       {
-        "label": "Body Positivity",
-        "value": "64% Americans negative"
+        "label": "30-Day GLP-1 Posts",
+        "value": "~420K (vendor)"
       },
       {
-        "label": "Faux-zempic",
-        "value": "WGSN #1 wellness trend"
+        "label": "30-Day Impressions",
+        "value": "~10B (vendor)"
       },
       {
-        "label": "India Sentiment",
-        "value": "Pride · Safety mixed"
+        "label": "Reddit 1st-Person Share",
+        "value": "60% (vendor)"
       },
       {
-        "label": "r/Foundayo (Jun)",
-        "value": "~20K members"
+        "label": "r/Retatrutide vs Ozempic",
+        "value": "162K vs 146K"
       },
       {
-        "label": "UMD Reddit Study",
-        "value": "400K posts · 70K users"
+        "label": "Sentiment Peak",
+        "value": "Sep 17–18 · Brazil"
       }
     ]
   },
@@ -122,6 +122,30 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-016",
+      "timestamp": "2026-09-28T00:00:00Z",
+      "source_url": "https://news.gallup.com/poll/713360/five-aspects-wellbeing-linked-glp-effectiveness.aspx",
+      "source_name": "Gallup / Visibrain / Nectar Social / KFF Health News",
+      "market": "both",
+      "summary": "This section is genuinely thin for the window and is reported that way. The one methodologically transparent release was Gallup on Aug 27: among 784 GLP-1 users in a 5,065-adult sample, 31% called the drugs extremely effective and 40% effective, versus 7% not at all, with exercise and social encouragement both associated with higher perceived effectiveness. Two vendor social-listening reports supply volume figures that must be attributed to the vendors rather than to the platforms: Visibrain logged ~420,000 GLP-1 posts and ~10 billion impressions over 30 days, peaking Sep 17-18 on Brazil's public-coverage decision, and Nectar Social reported Reddit carrying 60% of first-person patient conversation with r/Retatrutide (162K) having passed r/Ozempic (146K). KFF ran no GLP-1 poll in the window, and a string of widely circulated figures were checked and found to be out of window or unsourced.",
+      "content": "August 10 - September 28, 2026 social sentiment. READ THE EVIDENCE-WEIGHT WARNING IN SECTION 5.\n\n1. GALLUP - THE ONLY TRANSPARENT POLL IN WINDOW (Aug 27)\n   - 784 GLP-1 users within a 5,065-adult national sample; fielded May 28-Jun 5 2026; +/-4pp on the\n     user subsample\n   - Perceived effectiveness: 31% extremely effective, 40% effective, 7% not at all effective\n     (so 71% net positive on effectiveness)\n   - Exercising five days a week associated with an 11-PERCENTAGE-POINT lift in reporting extreme\n     effectiveness\n   - Users reporting social encouragement were about TWICE as likely to report extreme effectiveness\n   - Baseline usage in the same sample: 15% ever used for weight loss, 11% currently using\n\n2. VISIBRAIN 30-DAY SCAN (published Sep 24; window ~Aug 25-Sep 24)\n   - ~420,000 posts from 315,000+ unique users; 6.2 million likes; ~10 BILLION estimated impressions\n   - Conversation PEAKED Sep 17-18 after Brazil announced GLP-1 availability through its public\n     health system - a POLICY-driven spike, not a celebrity-driven one\n   - Platform character: Instagram commercially dominated (sponsored Noom and Fridays GLP-1\n     programs); X carries the critical discourse on affordability, side effects, lawsuits, long-term risk\n   - *** CAVEAT: commercial social-listening vendor blog, skewed to X/Instagram. Sentiment splits are\n     described QUALITATIVELY with no percentage breakdown. ***\n\n3. NECTAR SOCIAL REPORT (Sep 3) - ATTRIBUTE THESE NUMBERS TO NECTAR, NOT TO REDDIT\n   - 369,000 posts analyzed Aug 2025-Aug 2026 across Reddit, Instagram, TikTok, YouTube, X\n   - 6 billion views; $2.5 billion earned media value\n   - First-person patient conversation share: Reddit 60%, TikTok 15%, Instagram 12%, YouTube 7%, X 6%\n   - r/Retatrutide 162,000 members vs r/Ozempic 146,000 - an INVERSION suggesting discourse migrating\n     toward next-gen and compounded molecules\n   - Retatrutide + compounded tirzepatide = 10.9% of 2026 brand conversation; 130+ brands competing;\n     Ozempic absorbs 97.4% of damage-related language\n   - *** CAVEAT: vendor marketing report. The subreddit member counts are AS-REPORTED BY NECTAR and\n     were NOT independently verified against Reddit. Attributed to Nectar accordingly. ***\n\n4. TEEN EXPOSURE BECAME A NAMED POLICY/LITIGATION RISK - BUT WITH NO NUMBERS\n   - Bloomberg feature Aug 10: teens 'could hardly open an app without being bombarded with posts and\n     advertisements about weight-loss injections'\n   - Bloomberg litigation newsletter Aug 20: frames GLP-1 content as a probable next wave of youth\n     social-media harm claims\n   - *** PUBLISHED AS NARRATIVE/RISK SIGNAL ONLY. Verified via the KFF aggregation (Aug 11) that the\n     Bloomberg piece rests on a SINGLE TEEN'S ANECDOTE and cites no percentages, survey sizes or\n     exposure metrics. The Bloomberg originals returned HTTP 403. NO FIGURE is attached to this item. ***\n\n5. EVIDENCE-WEIGHT WARNING\n   Two of the three data items above (Visibrain, Nectar Social) are VENDOR REPORTS, not independent\n   polling. Only the Gallup item has a disclosed sample, field dates and margin of error. This\n   section is carrying materially weaker evidential weight this window than the supplements section.\n\n6. VERIFIED NEGATIVES - CHECKED AND DELIBERATELY NOT PUBLISHED\n   - KFF: NO GLP-1 poll in window. Latest tracking data found was fielded Oct 27-Nov 2 2025 (12%\n     currently taking; 56% of users say hard to afford; 27% of insured users paying full cost).\n   - GALLUP USAGE HEADLINE IS OUT OF WINDOW: the '11% of Americans on GLP-1s, up from 3% in 2024;\n     obesity 39.9% (2022) -> 36.4%; 91% awareness' release is dated 2026-07-07. Only the Aug 27\n     wellbeing/effectiveness cut falls inside this window.\n   - MORNING CONSULT (2026-02-18, n=58,008) and HARRISX/ALLISON (2026-07-01, n=6,138; 24% ever used)\n     are BOTH out of window - fetched and date-checked specifically to avoid misdating them.\n   - NO Google Trends analysis in window. The 'Ozempic face' infodemiology paper carrying the +4,600%\n     search-volume figure is Journal of Cosmetic Dermatology, 2026-01-12 - out of window. That number\n     must NOT be recycled as current.\n   - NO independently verified subreddit counts in window beyond the vendor figures above. A\n     GummySearch page shows r/Zepbound at 225K but it is an UNDATED live scrape - unusable.\n   - MICRODOSING: no dated in-window data. Circulating figures (36% of 640 users; 15% of 8,000+ users)\n     trace to 2025/undated surveys. Dropped.\n   - BODY-POSITIVITY BACKLASH: a '64% of Americans say GLP-1s hurt body positivity' claim surfaced\n     only on a low-authority aggregator with no traceable survey. NOT published.\n   - INDIA SOCIAL DISCOURSE: NO NEWS IN WINDOW. The Forbes India influencer/FOMO deep dive\n     (Aishwarya Mohanraj 22-kg disclosure, Soha Ali Khan podcast, CareEdge Rs 4,500-5,000 crore by\n     2030) is dated 2026-04-15 - out of window.\n   - NO celebrity disclosure moved measurable conversation inside the window per anything verifiable.\n   - ALL market-sizing forecasts excluded (Straits, Grand View, Fact.MR, InsightAce, and Nectar's\n     $226B->$479B companion-economy figure) as modeled projections rather than measured data.",
+      "tags": [
+        "social-sentiment",
+        "gallup",
+        "polling",
+        "visibrain",
+        "nectar-social",
+        "reddit",
+        "retatrutide",
+        "brazil",
+        "teen-exposure",
+        "vendor-data",
+        "evidence-weight",
+        "verified-negatives",
+        "september-2026"
+      ]
+    },
     {
       "id": "sent-entry-015",
       "timestamp": "2026-08-09T00:00:00Z",
