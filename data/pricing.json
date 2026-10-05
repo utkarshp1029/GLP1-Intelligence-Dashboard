@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 35,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 36,
     "key_metrics": [
       {
         "label": "Wegovy Pill 4mg",
@@ -859,6 +859,24 @@
     }
   ],
   "entries": [
+    {
+      "id": "pricing-entry-018",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.novocare.com/patient/medicines/wegovy.html",
+      "source_name": "NovoCare / TrumpRx.gov (live state checks 2026-10-05)",
+      "market": "us",
+      "summary": "VERIFICATION CHECK — no dated GLP-1 price change was found in the Sep 28 – Oct 5 window. Live checks on Oct 5 confirm the NovoCare Wegovy ladder is unchanged (pill 1.5mg $149, 4mg $199, 9mg/25mg $299; pen $349 with $199 for the first two fills; Wegovy HD 7.2mg $399), with intro offers stated to expire Dec 31, 2026. TrumpRx still lists the same four GLP-1 SKUs at $149–299, with Foundayo and Mounjaro absent. LillyDirect blocked automated access, so Zepbound vial and Foundayo prices could not be verified against Lilly's own pages this week.",
+      "content": "September 28 - October 5, 2026 pricing — VERIFICATION CHECK, not new pricing news.\n\n1. NOVOCARE (fetched 2026-10-05) — NO CHANGE\n   - Wegovy pill: 1.5mg $149 | 4mg $199 | 9mg $299 | 25mg $299\n   - Wegovy pen: $349/mo all doses; new patients $199 for first 2 monthly fills\n   - Wegovy HD 7.2mg: $399/mo; new patients $199 for first 2 fills\n   - Page states intro offers run through Dec 31, 2026\n\n2. TRUMPRX.GOV (fetched 2026-10-05) — NO CHANGE\n   - Wegovy pill $149 (list $1,349) | Wegovy pen $199 | Ozempic $199 (list $1,028) | Zepbound $299 (list $1,087)\n   - Foundayo and Mounjaro still unlisted\n\n3. LILLYDIRECT — NOT VERIFIED (HTTP 403)\n   - Secondary aggregators still show Zepbound vials $299 (2.5mg) / $399 (5mg) / $449 (7.5-15mg, conditional on refill\n     within 45 days, else up to $699) and Foundayo $149-299 by dose. Aggregators disagree on the Foundayo per-dose ladder,\n     so it is NOT published here as fact.\n\n4. INDIA — NO IN-WINDOW PRICE NEWS\n   - Undated aggregator listings show generic semaglutide ~₹1,290-4,500/mo, i.e. a low end below this dashboard's\n     ₹2,000 figure. Unverified and undated, so the key metric is NOT changed.\n   - A Free Press Journal piece (Oct 2) cites Dr Reddy's Obeda at ₹4,200 — consistent with the verified brand record (₹4,200 per 2mg pen, 4 × 0.5mg doses).\n   - Lilly CEO David Ricks (Oct 2, via CNBC-TV18) said Foundayo may launch in India in 2027, subject to approval.\n\n5. EU/UK, COSTCO/AMAZON/GOODRX — nothing in window. (France's Wegovy/Mounjaro reimbursement from Jun 15, 2026 is out of window.)\n\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty. Blocked: lillydirect.lilly.com, goodrx.com, fiercepharma.com.",
+      "tags": [
+        "pricing",
+        "verification-check",
+        "novocare",
+        "trumprx",
+        "no-change",
+        "lillydirect-unverified",
+        "october-2026"
+      ]
+    },
     {
       "id": "pricing-entry-017",
       "timestamp": "2026-09-28T00:00:00Z",

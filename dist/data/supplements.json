@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 23,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 24,
     "key_metrics": [
       {
+        "label": "New Companion Launch",
+        "value": "Smidge 5-SKU bundle"
+      },
+      {
+        "label": "FTC/FDA Enforcement",
+        "value": "None in window"
+      },
+      {
+        "label": "India Supp Market",
+        "value": "₹20,146cr (2025)"
+      },
+      {
         "label": "Amazon Hair Searches",
-        "value": "2.5M in Q2 2026"
+        "value": "3x to 2.5M (Q2)"
       },
       {
         "label": "GLP-1 Alopecia Risk",
         "value": "+37% vs SGLT-2"
       },
       {
-        "label": "Hair Claim White Space",
-        "value": "only 5% of products"
-      },
-      {
         "label": "Adults on GLP-1 Diet",
-        "value": "8.5% (was 4.8%)"
+        "value": "8.5% (Circana)"
       },
       {
         "label": "GLP-1 Users Want Protein",
         "value": "65% vs 48% all"
-      },
-      {
-        "label": "OEA 300mg GLP-1 Lift",
-        "value": "+20–25% vs placebo"
-      },
-      {
-        "label": "FTC/FDA Enforcement",
-        "value": "None in window"
       }
     ]
   },
@@ -185,6 +185,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "supp-entry-018",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/smidge-introduces-glp-1-companion-bundle-to-support-digestive-wellness-and-whole-food-nutrition-302892007.html",
+      "source_name": "PR Newswire / Nutrition Insight / SupplySide Supplement Journal / India.com / Business Standard",
+      "market": "both",
+      "summary": "A thin week with no FTC or FDA action, no new class action and no major consumer-goods launch. The companion-product thesis kept moving at the small end: Smidge launched a five-product 'GLP-1 Companion Bundle' on Sep 29, explicitly disclaiming any treatment of side effects. Plug and Play argued fibre and microbiome products could address the GI side effects behind drug discontinuation, while warning that 'natural GLP-1' marketing overstates hormone effects. In India, Maharashtra's FDA widened label-claim checks to supplements (Oct 3), though the coverage does not single out GLP-1 or weight-loss claims.",
+      "content": "September 28 - October 5, 2026 supplements:\n\n1. SMIDGE 'GLP-1 COMPANION BUNDLE' — Sep 29 (PR Newswire; Nutrition Insight)\n   - Probiotic, digestive enzymes, beef liver capsules, liquid magnesium, Kakadu plum; no price disclosed\n   - Release says products are NOT intended to prevent/treat GLP-1 side effects. Small brand, not a major launch.\n\n2. PLUG AND PLAY ON MICROBIOME AS GLP-1 COMPANION — Sep 30 (Nutrition Insight)\n   - Fibre/microbiome products positioned for GI side effects that drive discontinuation; cites Myota\n   - Warns against 'natural GLP-1' claims — endogenous nudges are not comparable to pharmaceutical doses\n\n3. WOMEN'S HEALTH x GLP-1 OPPORTUNITY — Oct 2 (SupplySide SJ)\n   - Cites Lancet: >50% of women globally overweight/obese, projected 60% by 2050; frames perimenopause/postpartum adjacency\n   - None of the products it lists are GLP-1-labelled\n\n4. INDIA — MAHARASHTRA FDA WIDENS SUPPLEMENT CHECKS — Oct 3-4 (India.com; Business Standard 403, snippet only)\n   - Tests found products missing label ingredients; review to cover content, consumption, prescription and sale\n   - IMARC: India supplement market ~₹20,146 cr (2025) -> ₹57,262 cr (2034)\n   - ASCI 2025-26 (snippet): nutraceuticals 52% of F&B ad cases, 96% needing changes\n   - LOOSE FIT: coverage does not mention GLP-1 or weight-loss claims specifically\n\nCHECKED AND EMPTY: FTC/FDA supplement actions; new class actions; Nestlé/Abbott/Danone/Herbalife/GNC/Conagra launches;\nnew clinical evidence (latest: Metaberine berberine n=36, Aug 28 — pre-window); dated market-size reports.\n\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty.",
+      "tags": [
+        "supplements",
+        "companion-products",
+        "smidge",
+        "microbiome",
+        "fibre",
+        "womens-health",
+        "india",
+        "maharashtra-fda",
+        "verified-negatives",
+        "october-2026"
+      ]
+    },
     {
       "id": "supp-entry-017",
       "timestamp": "2026-09-28T00:00:00Z",

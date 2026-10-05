@@ -1,40 +1,630 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 86,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 104,
     "key_metrics": [
       {
         "label": "Stories This Window",
-        "value": "22 new (Aug 10–Sep 28)"
+        "value": "17 + 1 coverage note"
       },
       {
-        "label": "Novo CMD Reaction",
-        "value": "Shares −7% to −8%"
+        "label": "Top Readout",
+        "value": "Retatrutide −18.8% (TR)"
       },
       {
         "label": "Biggest Deal",
-        "value": "Roche–Hanmi $2.3bn"
+        "value": "Novo–Hengrui ≤$2.6bn"
       },
       {
-        "label": "MFN Agreements",
-        "value": "26 · ~80% savings cut"
+        "label": "Lilly/Novo 232 Tariff",
+        "value": "0% likely (MFN, to 2029)"
       },
       {
-        "label": "STEP Young Pediatric",
-        "value": "40.4% no longer obese"
+        "label": "GLOBE Model",
+        "value": "Final · starts Jan 2027"
       },
       {
-        "label": "India Top Drug",
-        "value": "Mounjaro ₹1,256cr"
+        "label": "New EU Safety Signals",
+        "value": "Sema colitis · lira hair"
       },
       {
         "label": "Window Character",
-        "value": "Novo reset · deal wave"
+        "value": "EASD data week"
       }
     ]
   },
   "stories": [
+    {
+      "id": "story-104",
+      "headline": "VERIFICATION CHECK — Sep 28 to Oct 5 Sweep Was Search-Capped; Several Topics Unverified Rather Than Empty",
+      "summary": "This window's research hit a hard 200-call web-search cap mid-sweep, and several domains (Bloomberg, Fierce, Endpoints, Reuters, Indian business press, LillyDirect) refused automated fetches. Topics NOT swept and therefore unverified: Amgen MariTide and Novo zenagamtide numbers at EASD, India September GLP-1 sales, Delhi High Court orders, US ANDA litigation, PTAB petitions, Lilly/Novo manufacturing sites and CDMOs, and Reddit/TikTok sentiment. Items seen only in snippets — Lilly scouting aesthetics deals, the snippet-only Lilly prints (−2.3% / $1,157.08 / $1,142.85) — are deliberately not published as stories.",
+      "market": "global",
+      "category": "policy",
+      "timestamp": "2026-10-05",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "EASD",
+          "title": "EASD 2026 Annual Meeting (Milan, Sep 28 – Oct 2)",
+          "url": "https://easd-meeting.org/",
+          "date": "2026-10-05"
+        }
+      ],
+      "tags": [
+        "verification-check",
+        "coverage-gap",
+        "search-cap",
+        "methodology",
+        "global"
+      ]
+    },
+    {
+      "id": "story-103",
+      "headline": "Lilly CEO Says Foundayo Could Launch in India in 2027 as Generic Semaglutide Reshapes the Market",
+      "summary": "Lilly CEO David Ricks told CNBC-TV18 the oral GLP-1 Foundayo could launch in India in 2027, subject to approval, and pointed to Lilly's $1bn commitment to Indian contract manufacturing. The coverage cites Dr Reddy's generic semaglutide Obeda at ₹4,200 a month, consistent with this dashboard's verified Obeda record (₹4,200 per 2mg pen, 4 × 0.5mg doses). A remark attributed to Ricks calling ultra-low generic prices 'a bit of a fake signal' appears only in a social-media post and is not verified.",
+      "market": "india",
+      "category": "financial",
+      "timestamp": "2026-10-02",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "Free Press Journal",
+          "title": "Eli Lilly may launch oral obesity drug Foundayo in India in 2027: CEO David Ricks",
+          "url": "https://www.freepressjournal.in/business/eli-lilly-may-launch-oral-obesity-drug-foundayo-in-india-in-2027-ceo-david-ricks",
+          "date": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "lilly",
+        "foundayo",
+        "india",
+        "generics",
+        "india"
+      ]
+    },
+    {
+      "id": "story-102",
+      "headline": "Novo: FDA Extends Denecimig Review Over Plant Remediation, 2026 Outlook Unchanged — Shares ~$37 After a 16% September Slide",
+      "summary": "Novo said on Oct 2 that FDA extended its review of haemophilia drug denecimig because of remediation work at an unnamed manufacturing site, finding no clinical deficiencies; the US launch is now targeted for H1 2027 and 2026 guidance is unchanged, with no stated GLP-1 supply impact. NVO closed around $37.32 on Oct 2 after a ~16% fall in September. A single aggregator also reports CEO Mike Doustdar is open to a direct New York listing to replace US ADRs, which is unconfirmed elsewhere.",
+      "market": "global",
+      "category": "regulatory",
+      "timestamp": "2026-10-02",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "Stocktitan (Novo company release)",
+          "title": "Novo provides update on the denecimig Biologics License Application",
+          "url": "https://www.stocktitan.net/news/NVO/novo-provides-update-on-the-denecimig-biologics-license-application-4nhvvistslw8.html",
+          "date": "2026-10-02"
+        },
+        {
+          "publication": "Pharmacally",
+          "title": "Denecimig BLA: FDA review extended for facility remediation",
+          "url": "https://pharmacally.com/denecimig-bla-fda-review-facility-remediation",
+          "date": "2026-10-05"
+        }
+      ],
+      "tags": [
+        "novo",
+        "denecimig",
+        "fda",
+        "manufacturing",
+        "share-price",
+        "global"
+      ]
+    },
+    {
+      "id": "story-095",
+      "headline": "EMA's PRAC Opens New Signals on Semaglutide Ischaemic Colitis and Liraglutide Alopecia, Updates Mounjaro Contraceptive Warning",
+      "summary": "The Sep 28 – Oct 1 PRAC agenda lists two new GLP-1 signals — semaglutide and ischaemic colitis (EPITT 20309) and liraglutide and alopecia (EPITT 20311) — plus a follow-up on semaglutide and gastrointestinal volvulus, and an EU label update for Mounjaro on oral-contraceptive interaction from delayed gastric emptying. These are signal assessments, not causal findings, and PRAC's recommendations are not yet public; the published highlights give only totals (5 new signals, 85 PSURs).",
+      "market": "global",
+      "category": "regulatory",
+      "timestamp": "2026-10-02",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "European Medicines Agency",
+          "title": "Agenda — PRAC meeting 28 September – 1 October 2026",
+          "url": "https://www.ema.europa.eu/en/documents/agenda/agenda-prac-meeting-28-september-1-october-2026_en.pdf",
+          "date": "2026-09-28"
+        },
+        {
+          "publication": "European Medicines Agency",
+          "title": "Meeting highlights from the PRAC 28 September – 1 October",
+          "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-28-september-1-october",
+          "date": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "ema",
+        "prac",
+        "safety",
+        "semaglutide",
+        "ischaemic-colitis",
+        "liraglutide",
+        "alopecia",
+        "mounjaro",
+        "eu"
+      ]
+    },
+    {
+      "id": "story-100",
+      "headline": "WeightWatchers Falls 10.3% to $13.80 — Down 56% in 2026 Despite a New Google/Fitbit Employer Deal",
+      "summary": "WW shares fell 10.3% intraday to $13.80 on Oct 1, leaving the stock down 56.1% year-to-date and 60.5% below its 52-week high of $34.92. The drop came despite a newly announced deal with Google Health Enterprise and Fitbit giving some employer-program members Fitbit Air wearables and AI health insights, underlining investor doubt about the post-bankruptcy clinical weight-loss model.",
+      "market": "us",
+      "category": "financial",
+      "timestamp": "2026-10-01",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "StockStory via FinancialContent",
+          "title": "Why WeightWatchers (WW) shares are falling today",
+          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-1-why-weightwatchers-ww-shares-are-falling-today",
+          "date": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "weightwatchers",
+        "telehealth",
+        "stock-move",
+        "fitbit",
+        "us"
+      ]
+    },
+    {
+      "id": "story-097",
+      "headline": "Foundayo's ACHIEVE-4: Cardiovascular Non-Inferior to Insulin Glargine, but Superiority Not Shown (MACE-4 HR 0.84)",
+      "summary": "Full ACHIEVE-4 results at EASD showed orforglipron non-inferior to insulin glargine on cardiovascular events, with MACE-4 HR 0.84 (95% CI 0.59–1.20) and MACE-3 HR 0.77 (0.52–1.13) — both intervals cross 1, so Lilly's framing is that benefit is 'suggested'. SURPASS-CVOT full data were also presented (tirzepatide vs dulaglutide MACE-3 HR 0.92, 0.83–1.01), building on the Mounjaro CV approval already recorded on Aug 28.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-10-01",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "PR Newswire (Eli Lilly)",
+          "title": "Lilly to present new data on Foundayo, retatrutide and EloraTZP at EASD 2026",
+          "url": "https://www.prnewswire.com/news-releases/lilly-to-present-new-data-on-foundayo-retatrutide-and-eloratzp-at-easd-2026-as-it-strives-to-change-the-course-of-cardiometabolic-health-302878341.html",
+          "date": "2026-09-15"
+        },
+        {
+          "publication": "MedicalDaily",
+          "title": "EASD 2026: retatrutide, Mounjaro, Wegovy pill data preview",
+          "url": "https://www.medicaldaily.com/easd-2026-retatrutide-mounjaro-wegovy-pill-data-preview-479203",
+          "date": "2026-09-30"
+        }
+      ],
+      "tags": [
+        "lilly",
+        "orforglipron",
+        "foundayo",
+        "achieve-4",
+        "cvot",
+        "easd-2026",
+        "global"
+      ]
+    },
+    {
+      "id": "story-093",
+      "headline": "Boehringer's Survodutide Manages Only 13.1% at 76 Weeks in NEJM — With 18% Quitting for GI Side Effects",
+      "summary": "SYNCHRONIZE-2 (n=755, obesity plus type 2 diabetes) showed up to 13.1% weight loss versus 3.1% on placebo by efficacy estimand, or 8.2–9.8% versus 3.9% by treatment-regimen estimand. HbA1c fell 1.21 points and 29.5% reached normoglycemia versus 4.0%. GI-driven discontinuation of 18% versus 1.2% leaves the glucagon/GLP-1 dual agonist trailing tirzepatide- and retatrutide-class efficacy; the SYNCHRONIZE-CVOT readout is expected later in 2026.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-10-01",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "GlobeNewswire (Zealand Pharma)",
+          "title": "Boehringer Ingelheim's survodutide achieves up to 13.1% weight loss in new Phase III trial",
+          "url": "https://www.globenewswire.com/news-release/2026/10/01/3372565/0/en/zealand-pharma-announces-boehringer-ingelheim-s-survodutide-achieves-up-to-13-1-weight-loss-in-new-phase-iii-trial-alongside-significant-improvements-in-glycemic-control-in-people-.html",
+          "date": "2026-10-01"
+        },
+        {
+          "publication": "NEJM",
+          "title": "SYNCHRONIZE-2 (Wharton S et al.)",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607219",
+          "date": "2026-10-01"
+        },
+        {
+          "publication": "AJMC",
+          "title": "Dual agonist survodutide delivers up to 13.1% weight loss in T2D",
+          "url": "https://www.ajmc.com/view/dual-agonist-survodutide-delivers-up-to-13-1-weight-loss-in-t2d",
+          "date": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "boehringer",
+        "zealand",
+        "survodutide",
+        "nejm",
+        "easd-2026",
+        "tolerability",
+        "global"
+      ]
+    },
+    {
+      "id": "story-092",
+      "headline": "Rhode Island Medicaid Ends Obesity GLP-1 Coverage Oct 1 With No Grandfathering — as CVS Caremark Restores Zepbound the Same Day",
+      "summary": "Rhode Island Medicaid stopped covering Wegovy, Zepbound, Saxenda and Foundayo for weight loss alone from Oct 1, with no grandfathering for current patients; type 2 diabetes coverage continues. The state logged ~24,971 obesity GLP-1 prescriptions in FY2025 and expects $6.3M state / $20.3M all-funds savings, per MedicalDaily, which lists six other states ending or not renewing such coverage in 2026. On the commercial side, CVS Caremark returned Zepbound to its formularies the same day, so all three major PBMs now cover Lilly's weight-loss GLP-1s.",
+      "market": "us",
+      "category": "policy",
+      "timestamp": "2026-10-01",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "MedicalDaily",
+          "title": "Rhode Island Medicaid GLP-1 weight-loss coverage ends",
+          "url": "https://www.medicaldaily.com/rhode-island-medicaid-glp1-weight-loss-coverage-ends-479465",
+          "date": "2026-10-03"
+        },
+        {
+          "publication": "CVS Health",
+          "title": "CVS Caremark delivers affordability and access to GLP-1 weight management medications with expanded coverage options",
+          "url": "https://www.cvshealth.com/news/company-news/cvs-caremark-delivers-affordability-and-access-to-glp-1-weight-management-medications-with-expanded-coverage-options.html",
+          "date": "2026-05-28"
+        }
+      ],
+      "tags": [
+        "medicaid",
+        "rhode-island",
+        "coverage-cut",
+        "cvs-caremark",
+        "zepbound",
+        "pbm",
+        "us"
+      ]
+    },
+    {
+      "id": "story-098",
+      "headline": "Ro and Novo Launch Real-World Research Pact: Patients Switching to the Wegovy Pill Lost a Further 4.1% in 3 Months",
+      "summary": "Ro and Novo announced a research collaboration on Sep 30, and its first study (OCTANE, an EASD late-breaker) followed 194 Ro patients who switched from injectable semaglutide or tirzepatide to the oral Wegovy pill. They lost an additional 4.1% (8.8 lb) over three months, and 40.7% reached at least 5% further loss. The study is retrospective, small, limited to patients who stayed on drug and sponsor-affiliated, but it is the first switch data for the pill.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-09-30",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "PR Newswire",
+          "title": "Ro and Novo announce research collaboration to generate first-of-its-kind real-world evidence on the Wegovy pill",
+          "url": "https://www.prnewswire.com/news-releases/ro-and-novo-announce-research-collaboration-to-generate-first-of-its-kind-real-world-evidence-on-the-wegovy-pill-302893510.html",
+          "date": "2026-09-30"
+        },
+        {
+          "publication": "CNBC",
+          "title": "Novo Wegovy pill weight loss after switching from injections",
+          "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
+          "date": "2026-09-30"
+        },
+        {
+          "publication": "PharmExec",
+          "title": "Novo data on weight-loss switch to oral semaglutide pill",
+          "url": "https://www.pharmexec.com/view/novo-data-weight-loss-switch-oral-semaglutide-pill",
+          "date": "2026-09-30"
+        }
+      ],
+      "tags": [
+        "ro",
+        "novo",
+        "wegovy-pill",
+        "octane",
+        "real-world-evidence",
+        "telehealth",
+        "us"
+      ]
+    },
+    {
+      "id": "story-096",
+      "headline": "CagriSema at EASD: fMRI Food-Cue and Organ-Fat Data Ahead of a Q4 FDA Decision",
+      "summary": "Novo presented late-breaking CagriSema analyses: a 52-week fMRI study showing reduced brain responses to high-calorie food cues with a 22.4% weight difference versus placebo (n and dose not disclosed), REIMAGINE 1 (n=189, T2D) showing −14.3% weight with reduced liver and pancreas fat, and a post-hoc REIMAGINE 2 (n=2,713) bone-marker analysis at −14.2% weight. None is peer-reviewed and the bone finding is hypothesis-generating. An FDA decision on the obesity filing is guided for Q4 2026.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-09-30",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "RTTNews",
+          "title": "Novo Nordisk reports new CagriSema data at EASD 2026",
+          "url": "https://www.rttnews.com/3695408/novo-nordisk-reports-new-cagrisema-data-at-easd-2026.aspx",
+          "date": "2026-09-30"
+        },
+        {
+          "publication": "Pharmacy Times",
+          "title": "CagriSema curbs food noise, organ fat in patients with obesity, T2D",
+          "url": "https://www.pharmacytimes.com/view/cagrisema-curbs-food-noise-organ-fat-in-patients-with-obesity-t2d-respectively",
+          "date": "2026-09-30"
+        }
+      ],
+      "tags": [
+        "novo",
+        "cagrisema",
+        "easd-2026",
+        "fmri",
+        "not-peer-reviewed",
+        "fda-q4",
+        "global"
+      ]
+    },
+    {
+      "id": "story-094",
+      "headline": "Zealand/Roche Petrelintide Hits 10.7% With Placebo-Like GI Tolerability in Lancet D&E — Phase 3 Under Way",
+      "summary": "ZUPREME-1 (n=485, 42 weeks) showed amylin analogue petrelintide cutting weight up to 10.7% versus 1.7% on placebo by efficacy estimand (10.2% vs 1.4% treatment-policy), with GI adverse events similar to placebo and no GI-driven discontinuation at the top effective dose. hsCRP fell up to 41%. Zealand says the global Phase 3 ZUPREME programme has started; the pitch is tolerability rather than peak efficacy, in direct contrast to EloraTZP and survodutide this week.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-09-30",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "GlobeNewswire via Manila Times",
+          "title": "Zealand Pharma to present additional data from Phase 2 ZUPREME-1 trial for petrelintide at EASD 2026",
+          "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/zealand-pharma-to-present-additional-data-from-phase-2-zupreme-1-trial-for-petrelintide-at-easd-2026-and-announces-publication-of-trial-results-in-the-lancet-diabetes-endocrinology/2435635",
+          "date": "2026-09-30"
+        },
+        {
+          "publication": "ConscienHealth",
+          "title": "EASD: a study of contrasts in retatrutide and petrelintide",
+          "url": "https://conscienhealth.org/2026/09/30/easd-a-study-of-contrasts-in-retatrutide-and-petrelintide/",
+          "date": "2026-09-30"
+        }
+      ],
+      "tags": [
+        "zealand",
+        "roche",
+        "petrelintide",
+        "amylin",
+        "easd-2026",
+        "tolerability",
+        "global"
+      ]
+    },
+    {
+      "id": "story-091",
+      "headline": "CMS Finalizes GLOBE Medicare Part B MFN Model — But Pushes Launch to Jan 2027, and GLP-1s Are Largely Outside It",
+      "summary": "CMS finalized the mandatory GLOBE international-reference-pricing model on Sep 30 (Federal Register Oct 2), covering randomly selected areas holding ~25% of Original Medicare beneficiaries. Per CMS's own pages it launches Jan 1, 2027 rather than the proposed Oct 1, 2026, with lower coinsurance from Apr 1, 2027; some trade-press snippets give a different Oct 2026–Sep 2031 period, and the CMS reading is used. MedicalDaily puts savings at ~$440M over 7 years versus ~$12bn proposed. GLOBE covers Part B drugs, so GLP-1s are largely outside it, and the Part D model GUARD remains only proposed.",
+      "market": "us",
+      "category": "policy",
+      "timestamp": "2026-09-30",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "CMS",
+          "title": "CMS finalizes new mandatory drug payment model to deliver lower drug prices to beneficiaries in Original Medicare",
+          "url": "https://www.cms.gov/newsroom/press-releases/cms-finalizes-new-mandatory-drug-payment-model-deliver-lower-drug-prices-beneficiaries-original",
+          "date": "2026-09-30"
+        },
+        {
+          "publication": "CMS Innovation Center",
+          "title": "GLOBE Model",
+          "url": "https://www.cms.gov/priorities/innovation/innovation-models/globe",
+          "date": "2026-09-30"
+        },
+        {
+          "publication": "MedicalDaily",
+          "title": "CMS GLOBE model: Medicare Part B international prices",
+          "url": "https://www.medicaldaily.com/cms-globe-model-medicare-part-b-international-prices-479378",
+          "date": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "cms",
+        "globe-model",
+        "mfn",
+        "medicare",
+        "part-b",
+        "source-variance",
+        "us"
+      ]
+    },
+    {
+      "id": "story-088",
+      "headline": "Lilly's EloraTZP Beats Tirzepatide 23.3% vs 14.8% — But Up to 27% Quit for Side Effects, and Lilly Shares Slip",
+      "summary": "In a 367-patient, 48-week Phase 2b in obesity plus type 2 diabetes, eloralintide 9 mg + tirzepatide 15 mg delivered 23.3% weight loss versus 14.8% on tirzepatide 15 mg alone and 3.0% on placebo, with HbA1c down up to 2.9 points. Tolerability is the catch: HCPLive and MedicalDaily report adverse-event discontinuation of 10.8–27.0% on combination arms versus 2.9% on tirzepatide, while Healio reports 'less than 10%' — a variance reported here, not resolved. Lilly traded ~−0.8% to ~$1,148 on Oct 1 (snippet-only figures run to −2.3%); Phase 3 starts in Q4 with slower titration.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-09-30",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "HCPLive",
+          "title": "EASD 2026: EloraTZP bests tirzepatide on weight loss, A1c in type 2 diabetes",
+          "url": "https://www.hcplive.com/view/easd-2026-eloratzp-bests-tirzepatide-on-weight-loss-a1c-in-type-2-diabetes",
+          "date": "2026-09-30"
+        },
+        {
+          "publication": "Healio",
+          "title": "Combining amylin agonist with tirzepatide leads to further weight loss in type 2 diabetes",
+          "url": "https://www.healio.com/news/endocrinology/20261002/combining-amylin-agonist-with-tirzepatide-leads-to-further-weight-loss-in-type-2-diabetes",
+          "date": "2026-10-02"
+        },
+        {
+          "publication": "Yahoo Finance (GuruFocus)",
+          "title": "Lilly stock drops as EloraTZP beats",
+          "url": "https://finance.yahoo.com/healthcare/articles/lilly-stocks-drop-eloratzp-beats-000306011.html",
+          "date": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "lilly",
+        "eloratzp",
+        "eloralintide",
+        "amylin",
+        "easd-2026",
+        "tolerability",
+        "figures-vary",
+        "global"
+      ]
+    },
+    {
+      "id": "story-087",
+      "headline": "Retatrutide TRIUMPH-2 in The Lancet: Up to 18.8% Weight Loss at 80 Weeks in Obesity Plus Type 2 Diabetes (20.8% by Efficacy Estimand) — With a New Dysesthesia Signal",
+      "summary": "Lilly's triple agonist retatrutide cut weight −11.9% / −16.8% / −18.8% at 4/9/12 mg versus −5.1% on placebo by treatment-regimen estimand over 80 weeks in adults with obesity and type 2 diabetes; Lilly's headline 20.8% (−22.5 kg) is the efficacy estimand at 12 mg. HbA1c fell up to 1.6 points and 59.5% at 12 mg no longer met the obesity BMI cut-off. Dysesthesia ran 4–7.3% versus 0.7% on placebo and hypotension ~6% at the top dose. Total n could not be confirmed (one secondary source gives 1,152); US filing is guided for Q1 2027.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-09-30",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Eli Lilly",
+          "title": "Lilly's triple agonist retatrutide delivered substantial weight loss (press release)",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-substantial-weight",
+          "date": "2026-09-29"
+        },
+        {
+          "publication": "The Lancet",
+          "title": "TRIUMPH-2 (abstract)",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01861-1/abstract",
+          "date": "2026-09-30"
+        },
+        {
+          "publication": "Pharmacy Times",
+          "title": "Retatrutide cuts weight up to 18.8% in adults with T2D, obesity",
+          "url": "https://www.pharmacytimes.com/view/retatrutide-cuts-weight-up-to-18-8-in-adults-with-t2d-obesity",
+          "date": "2026-09-30"
+        }
+      ],
+      "tags": [
+        "lilly",
+        "retatrutide",
+        "triumph-2",
+        "easd-2026",
+        "lancet",
+        "estimand-variance",
+        "dysesthesia",
+        "global"
+      ]
+    },
+    {
+      "id": "story-099",
+      "headline": "FDA Probe Leads to Charges Against Two Indian Nationals Over China-Sourced Counterfeit Ozempic",
+      "summary": "An FDA investigation led to federal charges in the Middle District of Florida against Swapnadip Roy (33) and Vicky Ramancha (37), accused of selling counterfeit Ozempic sourced from China to US distributors at deep discounts from July 2023 to April 2024, continuing after FDA's December 2023 seizure and public alerts. MedicalDaily reports six counts and up to 71 years each; no quantities or dollar values were disclosed.",
+      "market": "us",
+      "category": "legal",
+      "timestamp": "2026-09-29",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "FDA",
+          "title": "FDA investigation leads to charges against two Indian nationals involved in transnational counterfeit drug distribution scheme",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug",
+          "date": "2026-09-29"
+        },
+        {
+          "publication": "MedicalDaily",
+          "title": "Counterfeit Ozempic charges: China pipeline",
+          "url": "https://www.medicaldaily.com/counterfeit-ozempic-charges-china-pipeline-check-pens-pharmacy-479392",
+          "date": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "counterfeit",
+        "ozempic",
+        "fda",
+        "doj",
+        "enforcement",
+        "us"
+      ]
+    },
+    {
+      "id": "story-090",
+      "headline": "Section 232 Pharma Tariffs Hit All Importers Sep 29 — CBP Rate Table Shows Lilly and Novo GLP-1s at 0% via MFN Deals Until Jan 2029",
+      "summary": "CBP's Sep 28 guidance extended Section 232 duties to all remaining importers from Sep 29 at a 100% default rate on patented pharmaceuticals, with 15% for EU/Japan/Korea/Switzerland, 0% for the UK, 0% for generics, and 0% under heading 9903.04.65 for companies with an MFN pricing agreement plus onshoring — a heading deleted on Jan 20, 2029. Lilly and Novo are both named MFN signatories in the proclamation's Annex II, so their branded GLP-1s appear to qualify for 0%, conditionally. No primary document names GLP-1s explicitly; this supersedes the dashboard's prior view that no GLP-1 rate could be established.",
+      "market": "us",
+      "category": "policy",
+      "timestamp": "2026-09-29",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "U.S. Customs and Border Protection",
+          "title": "CSMS #70054007 — UPDATED GUIDANCE: Section 232 Duties on Imports of Pharmaceutical Articles and Ingredients",
+          "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/42cf077",
+          "date": "2026-09-28"
+        },
+        {
+          "publication": "Federal Register",
+          "title": "Guidance and procedures for implementing tariff adjustments for specialty pharmaceuticals",
+          "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19498/guidance-and-procedures-for-implementing-tariff-adjustments-for-specialty-pharmaceuticals-and",
+          "date": "2026-09-23"
+        },
+        {
+          "publication": "CNN (via ABC17)",
+          "title": "Trump's huge tariffs on some drugmakers could end up backfiring",
+          "url": "https://abc17news.com/money/cnn-business-consumer/2026/09/29/trumps-huge-tariffs-on-some-drugmakers-could-end-up-backfiring/",
+          "date": "2026-09-29"
+        }
+      ],
+      "tags": [
+        "section-232",
+        "tariffs",
+        "cbp",
+        "mfn",
+        "lilly",
+        "novo",
+        "correction",
+        "us"
+      ]
+    },
+    {
+      "id": "story-089",
+      "headline": "Novo Licenses Hengrui's Oral Once-Weekly GLP-1/GIP HRS-1596 for Up to $2.6bn — Nearly $4bn in Potential Deal Value in a Week",
+      "summary": "Novo will pay $300M upfront for worldwide rights outside Greater China to Hengrui's Phase 1-ready once-weekly oral GLP-1/GIP dual agonist HRS-1596, with total deal value up to $2.6bn plus royalties; closing is expected in Q4 2026 subject to HSR clearance. The asset has no clinical data yet. Combined with the Sep 25 Nanexa deal (up to €1.165bn; upfront unconfirmed — see story-078), Motley Fool tallies nearly $4bn in potential deal value in a week as Novo rebuilds its post-semaglutide pipeline.",
+      "market": "global",
+      "category": "deal",
+      "timestamp": "2026-09-29",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "GlobeNewswire",
+          "title": "Novo and Hengrui Pharma enter exclusive license agreement for once-weekly oral GLP-1/GIP dual receptor agonist HRS-1596",
+          "url": "https://www.globenewswire.com/news-release/2026/09/29/3370376/0/en/novo-and-hengrui-pharma-enter-exclusive-license-agreement-for-once-weekly-oral-glp-1-gip-dual-receptor-agonist-hrs-1596.html",
+          "date": "2026-09-29"
+        },
+        {
+          "publication": "BioPharm International",
+          "title": "Novo Nordisk licenses Hengrui's once-weekly oral GLP-1/GIP dual agonist HRS-1596 in deal worth up to $2.6 billion",
+          "url": "https://www.biopharminternational.com/view/novo-nordisk-licenses-hengrui-s-once-weekly-oral-glp-1-gip-dual-agonist-hrs-1596-in-deal-worth-up-to-2-6-billion",
+          "date": "2026-09-29"
+        },
+        {
+          "publication": "Motley Fool",
+          "title": "Novo Nordisk strikes nearly $4 billion in 2 deals",
+          "url": "https://www.fool.com/investing/2026/10/02/novo-nordisk-strikes-nearly-usd4-billion-in-2-deals-here-s-what-that-means-for-investors/",
+          "date": "2026-10-02"
+        }
+      ],
+      "tags": [
+        "novo",
+        "hengrui",
+        "hrs-1596",
+        "oral-glp1",
+        "licensing",
+        "china",
+        "global"
+      ]
+    },
+    {
+      "id": "story-101",
+      "headline": "Semaglutide Patent Fight Reaches Europe's Unified Patent Court as Sandoz Challenges Novo Dosage Patent in Milan",
+      "summary": "The UPC Milan central division held an oral hearing on Sep 28 in Sandoz's revocation action against Novo's EP 3 689 365, a semaglutide dosage-regimen patent, on a preliminary objection over whether Novo can withdraw the patent text before a validity ruling. Sandoz argues added matter and lack of inventive step, and the same patent faces 18 EPO oppositions including Teva and Zentiva. No decision has been reported.",
+      "market": "eu",
+      "category": "legal",
+      "timestamp": "2026-09-28",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "JUVE Patent",
+          "title": "'Divisional game' under scrutiny as UPC proceedings over semaglutide kick off in Milan",
+          "url": "https://www.juve-patent.com/cases/divisional-game-under-scrutiny-as-upc-proceedings-over-semaglutide-kick-off-in-milan/",
+          "date": "2026-09-28"
+        }
+      ],
+      "tags": [
+        "patents",
+        "upc",
+        "sandoz",
+        "novo",
+        "semaglutide",
+        "eu"
+      ]
+    },
     {
       "id": "story-065",
       "headline": "Novo Capital Markets Day Lands Flat — Shares Fall ~7-8% as Doustdar Pledges 5+ Multi-Blockbusters by 2030 and DKK 150bn Pipeline Sales by 2035",

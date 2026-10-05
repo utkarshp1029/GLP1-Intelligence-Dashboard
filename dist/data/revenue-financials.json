@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 24,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 25,
     "key_metrics": [
       {
+        "label": "Novo–Hengrui Deal",
+        "value": "$300M up · ≤$2.6B"
+      },
+      {
+        "label": "Novo Deals, 1 Week",
+        "value": "~$4B potential value"
+      },
+      {
+        "label": "NVO Close (Oct 2)",
+        "value": "~$37.3 · Sep −16%"
+      },
+      {
+        "label": "Lilly Q3 Report",
+        "value": "Oct 29 · ~$22.4B est"
+      },
+      {
+        "label": "Novo 9M Report",
+        "value": "Nov 4"
+      },
+      {
         "label": "Novo CMD Reaction",
-        "value": "−7.92% to $39.82"
-      },
-      {
-        "label": "Novo Pipeline Target",
-        "value": "DKK 150bn by 2035"
-      },
-      {
-        "label": "Lilly ATH (Aug 19)",
-        "value": "$1,292.65 (or $1,280)"
-      },
-      {
-        "label": "Lilly Market Cap",
-        "value": "$1.05T · +50% y/y"
-      },
-      {
-        "label": "Novo Market Cap",
-        "value": "$170.6B · −35% y/y"
-      },
-      {
-        "label": "India Mounjaro 12mo",
-        "value": "₹1,256cr · +502%"
+        "value": "Shares −7% to −8%"
       },
       {
         "label": "Semaglutide US LOE",
-        "value": "2032 (~75% of rev)"
+        "value": "2032"
       }
     ]
   },
@@ -153,6 +153,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-021",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/29/3370376/0/en/novo-and-hengrui-pharma-enter-exclusive-license-agreement-for-once-weekly-oral-glp-1-gip-dual-receptor-agonist-hrs-1596.html",
+      "source_name": "GlobeNewswire / Yahoo Finance / Motley Fool / Novo company release",
+      "market": "both",
+      "summary": "Novo kept buying pipeline: it licensed Hengrui's Phase 1-ready once-weekly oral GLP-1/GIP HRS-1596 on Sep 29 for $300M upfront and up to $2.6B total, ex-Greater China, taking it to nearly $4B in potential deal value across two deals in a week. Novo's ADSs closed around $37.3 on Oct 2 after a ~16% September fall, and on Oct 2 Novo said FDA extended review of its haemophilia drug denecimig over plant remediation while reiterating 2026 guidance. Lilly slipped (~−0.8% to ~$1,148 on Oct 1; other sources show up to −2.3%) as EloraTZP's superior weight loss came with much higher reported discontinuation (figures vary; see pipeline-trials); Lilly reports Q3 on Oct 29 against ~$22.4B consensus, Novo on Nov 4.",
+      "content": "September 28 - October 5, 2026 revenue & financials:\n\n1. NOVO LICENSES HENGRUI HRS-1596 — Sep 29\n   - Once-weekly ORAL GLP-1/GIP dual agonist, Phase 1-ready (no clinical data yet)\n   - $300M upfront, up to $2.6B total + royalties; rights ex mainland China/HK/Macao/Taiwan; closing Q4 2026 subject to HSR\n   - With the Sep 25 Nanexa deal (up to €1.165B; upfront UNCONFIRMED — see story-078) Motley Fool tallies 'nearly $4B' in potential deal value\n\n2. LILLY — ELORATZP DATA AND SHARE MOVE (Sep 30 - Oct 2)\n   - EloraTZP top dose 23.3% weight loss at 48 wks vs 14.8% tirzepatide 15mg (see pipeline-trials)\n   - AE discontinuation reported 10.8-27.0% on combination vs 2.9% tirzepatide (HCPLive); Healio says <10% — figures vary, see pipeline-trials\n   *** SHARE-MOVE VARIANCE (reported, not resolved): ~−0.8% to ~$1,148 on Oct 1 (GuruFocus/Yahoo); $1,149.85 close Oct 1\n   (TIKR); search-snippet-only figures of −2.33% / $1,157.08 and $1,142.85 on Oct 2 were NOT confirmed. ***\n   - Q3 earnings Oct 29 (investor.lilly.com); consensus ~$22.4B (below Q2's $22.97B), FY26 ~$88.5B, avg PT ~$1,330\n   - YTD ~+7% per TIKR — this dashboard does NOT claim a new all-time high this week\n\n3. NOVO — DENECIMIG REVIEW EXTENDED; GUIDANCE UNCHANGED (Oct 2)\n   - FDA extended the haemophilia BLA review due to remediation at an unnamed manufacturing site; no clinical deficiencies\n   - US launch targeted H1 2027; 2026 outlook unchanged; no stated GLP-1 supply impact\n   - NVO ~$37.32 close Oct 2 (heygotrade); September −16.0%. Snippet-only weekly −4.1% figure not confirmed.\n   - Aggregator report that CEO Doustdar is open to a direct NYSE listing replacing ADRs — single secondary source\n   - 9M 2026 results Nov 4 (out of window)\n\n4. PRESCRIPTION DATA — none in window. Latest: Foundayo ~47,500 weekly scripts (w/e Sep 11, +8%), reported Sep 27.\n\nNothing new in window: Viking (Sep 22 data / $500M raise closed Sep 28), Structure, Roche, Pfizer/Metsera, Amgen MariTide.\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty.",
+      "tags": [
+        "revenue",
+        "novo",
+        "hengrui",
+        "hrs-1596",
+        "licensing",
+        "lilly",
+        "eloratzp",
+        "q3-dates",
+        "denecimig",
+        "figures-vary",
+        "october-2026"
+      ]
+    },
     {
       "id": "rev-entry-020",
       "timestamp": "2026-09-28T00:00:00Z",

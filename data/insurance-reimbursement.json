@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "insurance-reimbursement",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 21,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 22,
     "key_metrics": [
       {
         "label": "MFN Agreements Signed",
         "value": "26 companies"
       },
       {
-        "label": "Projected Savings Cut",
-        "value": "~80% eroded"
+        "label": "GLOBE Model Start",
+        "value": "Jan 1, 2027 (final)"
       },
       {
-        "label": "Lancet Savings Estimate",
-        "value": "$11.6bn/yr · 16–18%"
+        "label": "GUARD (Part D)",
+        "value": "Still proposed"
       },
       {
-        "label": "GLOBE / GUARD Starts",
-        "value": "Oct 1 / Jan 1 2027"
+        "label": "RI Medicaid Obesity",
+        "value": "Ended Oct 1"
+      },
+      {
+        "label": "CVS Zepbound",
+        "value": "Back on formulary Oct 1"
+      },
+      {
+        "label": "Employer Coverage",
+        "value": "72% → 60% (2026)"
       },
       {
         "label": "Medicare Bridge",
-        "value": "$50 copay · $195 fed share"
-      },
-      {
-        "label": "Insured Citing Cost",
-        "value": "55% (KFF)"
-      },
-      {
-        "label": "Watch: CVS Zepbound",
-        "value": "Preferred Oct 1, 2026"
+        "value": "$50/mo copay"
       }
     ]
   },
@@ -108,6 +108,29 @@
     }
   ],
   "entries": [
+    {
+      "id": "ins-entry-018",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.cms.gov/newsroom/press-releases/cms-finalizes-new-mandatory-drug-payment-model-deliver-lower-drug-prices-beneficiaries-original",
+      "source_name": "CMS / Federal Register / MedicalDaily / CVS Health",
+      "market": "us",
+      "summary": "CMS finalized the GLOBE Part B most-favored-nation model on Sep 30 (Federal Register Oct 2), but it did NOT start on the proposed Oct 1 date: per CMS's own pages the model launches Jan 1, 2027, with lower beneficiary coinsurance from Apr 1, 2027, covering ~25% of Original Medicare beneficiaries. GLOBE is a Part B model with no direct GLP-1 relevance; the Part D model GUARD remains only proposed. The tangible GLP-1 coverage changes took effect Oct 1: Rhode Island Medicaid ended obesity-only GLP-1 coverage with no grandfathering (~24,971 FY25 scripts, $20.3M all-funds savings), while CVS Caremark returned Zepbound to its commercial formularies, so all three big PBMs now cover Lilly's weight-loss GLP-1s.",
+      "content": "September 28 - October 5, 2026 insurance & reimbursement:\n\n1. CMS FINALIZES GLOBE (Part B MFN model) — Sep 30 press release; Federal Register Oct 2 (doc 2026-20281)\n   - CMS model page and press release: model LAUNCHES JAN 1, 2027 and ends Mar 31, 2032\n   - Final rule effective Nov 30, 2026; lower beneficiary coinsurance from Apr 1, 2027\n   - ~25% of Original Medicare beneficiaries in randomly selected areas\n   - Excludes orphan drugs, plasma-derived products, certain cell/gene therapies, biosimilars\n   - Savings estimate ~$440M over 7 years vs ~$12B in the proposal (MedicalDaily, Oct 1 — NOT a CMS figure)\n   *** SOURCE VARIANCE: some trade-press snippets describe the model period as Oct 1, 2026 - Sep 30, 2031. CMS's own\n   model page says Jan 1, 2027 - Mar 31, 2032; the CMS reading is used here. ***\n   - GLP-1 RELEVANCE: none direct — GLOBE covers clinic-administered Part B drugs.\n\n2. GUARD (Part D MFN model) — STILL PROPOSED. No final rule found in window; Jan 2027 start unconfirmed.\n\n3. RHODE ISLAND MEDICAID ENDS OBESITY GLP-1 COVERAGE — effective Oct 1, 2026 (MedicalDaily, Oct 3)\n   - Drops Wegovy, Zepbound, Saxenda, Foundayo when prescribed for weight loss only; NO grandfathering\n   - T2D coverage continues\n   - ~24,971 obesity GLP-1 scripts in FY2025 (incl. refills); $6.3M state / $20.3M all-funds savings\n   - Article lists CA, NH, PA, SC, UT and MA as also ending/not renewing such coverage in 2026\n   - Secondary source only; state budget document not located\n\n4. CVS CAREMARK RETURNS ZEPBOUND TO COMMERCIAL FORMULARIES — effective Oct 1 (announced May 28)\n   - Wegovy pill and pen keep preferred status; Foundayo new-drug block lifted Jun 1\n   - Optum, Express Scripts and CVS Caremark now all cover Lilly's weight-loss GLP-1s; member access still depends on\n     employer plan design. This resolves this section's 'Watch: CVS Zepbound' metric.\n\n5. EMPLOYER CUTS TAKING EFFECT IN OCTOBER (announced pre-window)\n   - PepsiCo: ending weight-loss GLP-1 coverage for some employees from October (Bloomberg, Aug 25; seen via search only)\n   - Starbucks: ending weight-loss GLP-1 coverage for 20+ hr/week employees from October 2026\n   - Business Group on Health (127 employers, 8.7M lives): coverage share 72% (2025) -> 60% (2026); 14% dropping by 2027\n\n6. MEDICARE GLP-1 BRIDGE — no CMS news. Lilly CEO's ~700,000 seniors started estimate (CNBC Sep 21) is out of window and\n   not a CMS figure. $50 copay unchanged.\n\nDO NOT USE: Indiana joining the BALANCE model was announced ~Jul 30, 2026, not in window, despite a Sep 29-dated repost.\n\nEmpty in window: Part D 2027 GLP-1 coverage, Express Scripts/Optum formulary changes, NHS/NICE, China NRDL, India insurance.\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty.",
+      "tags": [
+        "insurance",
+        "cms",
+        "globe-model",
+        "guard-model",
+        "mfn",
+        "medicaid",
+        "rhode-island",
+        "cvs-caremark",
+        "zepbound",
+        "employer-coverage",
+        "source-variance",
+        "october-2026"
+      ]
+    },
     {
       "id": "ins-entry-017",
       "timestamp": "2026-09-28T00:00:00Z",

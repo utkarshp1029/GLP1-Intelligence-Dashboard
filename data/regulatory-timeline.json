@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "regulatory-timeline",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 30,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 31,
     "key_metrics": [
       {
-        "label": "MHRA Orforglipron",
-        "value": "Authorised Aug 10"
+        "label": "GLP-1 Approvals in Window",
+        "value": "None found (partial sweep)"
       },
       {
-        "label": "FDA Mounjaro CV",
-        "value": "Approved Aug 28 (NI)"
+        "label": "Next CHMP",
+        "value": "Oct 12–15 · orforglipron"
       },
       {
-        "label": "India SEC GLP-1 Items",
-        "value": "11 across 3 meetings"
-      },
-      {
-        "label": "Wegovy 104-Week Cap",
-        "value": "Removal recommended"
-      },
-      {
-        "label": "New Wegovy Warnings",
-        "value": "Gastroparesis · NAION"
-      },
-      {
-        "label": "CHMP GLP-1 Opinions",
-        "value": "0 in September"
+        "label": "CagriSema FDA",
+        "value": "Decision Q4 2026"
       },
       {
         "label": "Retatrutide US Filing",
-        "value": "Targeted Q1 2027"
+        "value": "Q1 2027 (guided)"
+      },
+      {
+        "label": "MHRA Orforglipron",
+        "value": "Approved Aug 10"
+      },
+      {
+        "label": "FDA Mounjaro CV",
+        "value": "Approved Aug 28"
+      },
+      {
+        "label": "ANVISA NAION Review",
+        "value": "13 reports"
       }
     ]
   },
@@ -136,6 +136,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "reg-entry-023",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements",
+      "source_name": "FDA press announcements / EMA / cdsco.gov.in / gov.uk / Jornal de Brasília",
+      "market": "both",
+      "summary": "VERIFICATION CHECK — no GLP-1 approval, CRL, filing acceptance or label decision by FDA, EMA, MHRA, CDSCO, Health Canada, NMPA or ANVISA was found in the Sep 28 – Oct 5 window. FDA's five in-window press releases were all non-GLP-1; EMA's CHMP did not meet (Sep 14–17, next Oct 12–15, where orforglipron is on the agenda); CDSCO's endocrinology SEC posted no new meeting after Sep 8. Pending: CagriSema FDA decision guided for Q4 2026 and retatrutide filing in Q1 2027. The one regulator item was ANVISA (Brazil) investigating 13 NAION reports in GLP-1 users, with no new regulatory action.",
+      "content": "September 28 - October 5, 2026 regulatory — VERIFICATION CHECK, an honest negative.\n\nCHECKED AND EMPTY:\n   - FDA: press-announcements page for the window — five releases, none GLP-1/obesity/diabetes\n   - EMA CHMP: no meeting in window (Sep 14-17 done; next Oct 12-15 — WATCH orforglipron opinion)\n   - CDSCO SEC (Endocrinology & Metabolism): latest posted is the Sep 8 meeting (posted Sep 18). A SEC recommendation is NOT\n     a DCGI approval; DCGI approval lists were not separately swept\n   - MHRA: nothing in window (orforglipron Aug; Wegovy pill Jun 11)\n   - Health Canada: nothing in window (Sandoz generic semaglutide Sep 18 is pre-window)\n   - China NMPA: nothing found\n\nPENDING / WATCH:\n   - CagriSema US decision guided Q4 2026\n   - Orforglipron T2D filing described only as 'planned 2026'\n   - Retatrutide US filing guided Q1 2027 (biologic-classification dispute ongoing)\n   - No in-window news on Wegovy HD, oral semaglutide 25mg, or a STEP Young pediatric filing\n\nBRAZIL (borderline, secondary sources only):\n   - Sep 28: ANVISA investigating 13 NAION reports (Ozempic 5, Wegovy 3, Wegovy FlexTouch 2, Rybelsus 2, Mounjaro 1);\n     NO new regulatory action — label update dates to June 2025 (Jornal de Brasília)\n   - Oct 1: Abrafarma found 71% (1,865 of 2,624) of weight-loss listings on Mercado Livre irregular; the article's date for\n     ANVISA's notice to Mercado Livre is internally inconsistent and is not published here\n\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty.",
+      "tags": [
+        "regulatory",
+        "verification-check",
+        "fda",
+        "ema",
+        "chmp",
+        "cdsco",
+        "mhra",
+        "anvisa",
+        "naion",
+        "cagrisema-pending",
+        "october-2026"
+      ]
+    },
     {
       "id": "reg-entry-022",
       "timestamp": "2026-09-28T00:00:00Z",

@@ -1,12 +1,20 @@
 {
   "meta": {
     "section_id": "patents-ip",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 20,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 21,
     "key_metrics": [
       {
+        "label": "UPC Milan Hearing",
+        "value": "Sep 28 · EP 3 689 365"
+      },
+      {
+        "label": "EPO Oppositions",
+        "value": "18 on that patent"
+      },
+      {
         "label": "New US Patent Challenged",
-        "value": "12,551,536"
+        "value": "'536 · D. Del."
       },
       {
         "label": "That Patent Expires",
@@ -14,19 +22,11 @@
       },
       {
         "label": "US Sema Generic Entry",
-        "value": "2032 (compound)"
+        "value": "2032"
       },
       {
         "label": "India Oral Sema Patent",
-        "value": "~2031 (SNAC)"
-      },
-      {
-        "label": "Tirzepatide P-IV Suits",
-        "value": "14 · no movement"
-      },
-      {
-        "label": "India Sun Pharma Tablets",
-        "value": "Court-barred launch"
+        "value": "~2031 (asserted)"
       }
     ]
   },
@@ -88,6 +88,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "pat-entry-017",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.juve-patent.com/cases/divisional-game-under-scrutiny-as-upc-proceedings-over-semaglutide-kick-off-in-milan/",
+      "source_name": "JUVE Patent / Pearce IP",
+      "market": "both",
+      "summary": "Europe opened a new semaglutide patent front. On Sep 28 the Unified Patent Court's Milan central division heard a preliminary objection in Sandoz's revocation action against Novo's EP 3 689 365, a semaglutide dosage-regimen patent: whether the court can stop Novo from withdrawing the patent text before a validity ruling. The same patent faces 18 EPO oppositions, including Sandoz, Teva and Zentiva; no decision yet. No new Delhi High Court order, US ANDA/Paragraph IV filing or PTAB petition was found, but LiveLaw/Bar & Bench, Law360 and PTAB could not be properly swept, so treat these as unverified; and Novo's response to Mylan's Sep 23 Delaware suit could not be checked.",
+      "content": "September 28 - October 5, 2026 patents & IP:\n\n1. UPC MILAN — SANDOZ v NOVO, EP 3 689 365 (semaglutide dosage regimen) — hearing Sep 28\n   - Case UPC-CFI-0002221/2026, central division Milan\n   - Hearing addressed a PRELIMINARY OBJECTION on the 'divisional game': whether Novo can withdraw the patent text pre-ruling\n   - Sandoz's substantive grounds: added matter, lack of inventive step\n   - 18 EPO oppositions on the same patent (incl. Sandoz, Teva, Zentiva). No decision yet.\n\n2. MYLAN v NOVO (D. Del., US 12,551,536) — RECAP ONLY\n   - Pearce IP BioBlast (Sep 29) recaps the pre-window Sep 23-25 filing; patent: 2-10mg weekly SC weight-loss method, exp. Oct 2038\n   - Docket (dockets.justia.com, 1:2026cv01192) returned 403 — whether Novo has answered or counterclaimed is UNKNOWN\n\nCHECKED AND EMPTY: Delhi High Court Novo v Sun/DRL (oral semaglutide) — no new order found; new semaglutide/tirzepatide ANDA\nor Paragraph IV filings; China/Brazil rulings (latest CNIPA Sep 4); new Lilly tirzepatide challenges.\n\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty. Not properly swept: LiveLaw / Bar & Bench, Law360, PTAB, INPI Brazil.",
+      "tags": [
+        "patents",
+        "upc",
+        "milan",
+        "sandoz",
+        "novo",
+        "ep3689365",
+        "dosage-regimen",
+        "epo-oppositions",
+        "mylan",
+        "october-2026"
+      ]
+    },
     {
       "id": "pat-entry-016",
       "timestamp": "2026-09-28T00:00:00Z",

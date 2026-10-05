@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 21,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 22,
     "key_metrics": [
       {
-        "label": "MHRA Yellow Card",
-        "value": "No update in window"
+        "label": "PRAC New GLP-1 Signals",
+        "value": "2 (colitis, alopecia)"
+      },
+      {
+        "label": "Mounjaro EU Label",
+        "value": "OC interaction update"
+      },
+      {
+        "label": "Retatrutide Dysesthesia",
+        "value": "7.3% vs 0.7% placebo"
       },
       {
         "label": "Semaglutide NAION",
         "value": "HR 1.54 (1.31–1.82)"
       },
       {
-        "label": "NAION FAERS Signal",
-        "value": "ROR 94.5 · bias-prone"
+        "label": "ANVISA NAION Reports",
+        "value": "13 under review"
       },
       {
         "label": "Adolescent Suicidality",
         "value": "HR 0.74 — lower"
       },
       {
-        "label": "Lean Mass Change",
-        "value": "SMD −0.52 · low GRADE"
-      },
-      {
-        "label": "Lymphopenia on Therapy",
-        "value": "2.90% vs 1.77%"
-      },
-      {
-        "label": "Renal Benefit",
-        "value": "Only w/ albuminuria"
+        "label": "MHRA Yellow Card",
+        "value": "No update in window"
       }
     ]
   },
@@ -76,6 +76,31 @@
     }
   ],
   "entries": [
+    {
+      "id": "safety-entry-019",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.ema.europa.eu/en/documents/agenda/agenda-prac-meeting-28-september-1-october-2026_en.pdf",
+      "source_name": "EMA PRAC agenda & highlights / The Lancet (TRIUMPH-2) / News-Medical / EADV",
+      "market": "both",
+      "summary": "EMA's PRAC meeting (Sep 28 – Oct 1) opened two new GLP-1 signals per its published agenda: semaglutide and ischaemic colitis (EPITT 20309) and liraglutide and alopecia (EPITT 20311), followed up a semaglutide gastrointestinal volvulus signal, and updated the Mounjaro label on oral-contraceptive interaction. These are signal assessments, not conclusions — PRAC's recommendations are not yet public. TRIUMPH-2 added a retatrutide-specific signal: dysesthesia in up to 7.3% vs 0.7% on placebo, plus ~6% hypotension at 12mg. No new FDA Drug Safety Communication or MHRA Drug Safety Update touched GLP-1s.",
+      "content": "September 28 - October 5, 2026 safety signals:\n\n1. EMA PRAC, Sep 28 - Oct 1 (agenda EMA/PRAC/204838/2026; highlights Oct 2)\n   - NEW SIGNAL 4.1.4: semaglutide (Ozempic, Wegovy, Rybelsus, Kayshild) — ischaemic colitis; EPITT 20309; rapporteur SE\n   - NEW SIGNAL 4.1.3: liraglutide (Victoza, Saxenda, Xultophy) — alopecia; EPITT 20311; rapporteur NL\n   - FOLLOW-UP 4.2.4: semaglutide — gastrointestinal volvulus; EPITT 20260 (from May 2026)\n   - LABEL 10.1.2: tirzepatide (Mounjaro) SmPC 4.5/4.6 — oral-contraceptive interaction (delayed gastric emptying), via\n     PSUSA/00011019/202505\n   - The highlights give only totals (5 new signals, 85 PSURs). A signal on the agenda is NOT a confirmed causal finding.\n\n2. RETATRUTIDE (TRIUMPH-2, Lancet)\n   - Dysesthesia 4% / 6% / 7.3% (4/9/12mg) vs 0.7% placebo; hypotension ~6% at 12mg\n   - Diarrhoea up to 34%, nausea up to 28%\n\n3. SEX DIFFERENCES IN REPORTED SIDE EFFECTS — Franks & Meek review (Lancet Obstet Gynaecol Women's Health / EASD, ~Oct 1)\n   - Real-world reports show more headache, vomiting and dizziness in women despite similar rates in placebo-controlled\n     trials; higher drug exposure in women proposed. No pooled numbers disclosed.\n\n4. NAIL AND HAIR CHANGES — EADV congress abstract (~Oct 1), cross-sectional, borderline\n   - 575 GLP-1 users vs 1,329 controls (FR/US/BR/MX): onycholysis 39% vs 9%; nail discoloration 46% vs 17%;\n     unusual hair loss 50% vs 34%. No odds ratios; ~half had pre-existing nail issues; causation NOT shown.\n\n5. BRAZIL — ANVISA investigating 13 NAION reports in GLP-1 users (Sep 28; secondary source; no new action)\n\nCHECKED AND EMPTY: FDA Drug Safety Communications (latest Sep 15, non-GLP-1); MHRA Drug Safety Update (latest Sep 2);\nNAION MDL — no court ruling found in window. The MHRA Yellow Card 'conflicting totals' disclosure stands unchanged.\n\nNot swept (search cap): FAERS quarterly data, India PvPI, EASD safety abstracts on pancreatitis/thyroid/aspiration.\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty.",
+      "tags": [
+        "safety",
+        "ema",
+        "prac",
+        "semaglutide",
+        "ischaemic-colitis",
+        "liraglutide",
+        "alopecia",
+        "volvulus",
+        "mounjaro",
+        "oral-contraceptives",
+        "retatrutide",
+        "dysesthesia",
+        "naion",
+        "october-2026"
+      ]
+    },
     {
       "id": "safety-entry-018",
       "timestamp": "2026-09-28T00:00:00Z",

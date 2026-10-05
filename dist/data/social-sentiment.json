@@ -1,36 +1,32 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 20,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 21,
     "key_metrics": [
       {
+        "label": "Nausea: Expected vs Real",
+        "value": "67% vs 34%"
+      },
+      {
+        "label": "Expect to Stop ≤2 Yrs",
+        "value": "67% of users"
+      },
+      {
+        "label": "Worry About Regain",
+        "value": "56% of users"
+      },
+      {
+        "label": "Eat Out Less (Toast)",
+        "value": "51% of users"
+      },
+      {
+        "label": "Order Less Food (Toast)",
+        "value": "62% of users"
+      },
+      {
         "label": "Say Extremely Effective",
-        "value": "31% (Gallup)"
-      },
-      {
-        "label": "Say Effective",
-        "value": "40% (Gallup)"
-      },
-      {
-        "label": "30-Day GLP-1 Posts",
-        "value": "~420K (vendor)"
-      },
-      {
-        "label": "30-Day Impressions",
-        "value": "~10B (vendor)"
-      },
-      {
-        "label": "Reddit 1st-Person Share",
-        "value": "60% (vendor)"
-      },
-      {
-        "label": "r/Retatrutide vs Ozempic",
-        "value": "162K vs 146K"
-      },
-      {
-        "label": "Sentiment Peak",
-        "value": "Sep 17–18 · Brazil"
+        "value": "31% (Gallup Aug)"
       }
     ]
   },
@@ -122,6 +118,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-017",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.healthline.com/health/drugs/2026-healthline-glp-1-survey-findings",
+      "source_name": "Healthline (RVOH Consumer Surveys) / Toast via Stacker",
+      "market": "us",
+      "summary": "Two vendor surveys, no independent polls. Healthline's survey (n=1,007, fieldwork Feb 25–26, so seven months old) found side effects ran well below expectations: 34% of users reported nausea or vomiting against 67% of considerers expecting it. 67% of weight-loss users expect to stop within two years and 56% worry about regain. Toast's survey of 850 restaurant-going GLP-1 users (fieldwork August) found 51% eat out less often but 62% order less food and 70% order fewer desserts. Both are company-run. Gallup, KFF, Morning Consult and Pew published nothing new, and Reddit/TikTok could not be swept by date.",
+      "content": "September 28 - October 5, 2026 social sentiment:\n\n1. HEALTHLINE GLP-1 CONSUMER SURVEY 2026 — published Oct 2\n   - Run by RVOH Consumer Surveys (RVO Health, Healthline's owner); n=1,007 (720 current, 203 past, 84 considering)\n   - FIELDWORK Feb 25-26, 2026 — data ~7 months old\n   - Expectation vs experience: nausea/vomiting 67% expected vs 34% reported; injection-site 42% vs 15%; facial changes 44% vs 20%\n   - 67% of weight-loss users expect to stop within 2 years; 56% worry about regain (68% among considerers)\n\n2. TOAST SURVEY ON GLP-1 USERS AND RESTAURANTS — Oct 2 (Stacker, syndicated by KRDO)\n   - n=850 US adults on a GLP-1 who buy ≥1 restaurant meal/week; fieldwork August 2026; MoE ±3-5%\n   - 51% eat out less often; 62% order less food; 51% spend less per meal; 70% fewer desserts\n   - 87% would likely order smaller portions; 47% say menu protein counts influence choice 'a lot'\n   - Toast is a restaurant-software vendor — figures attributed to Toast\n\nCHECKED AND EMPTY: Gallup/KFF/Morning Consult/Pew (Gallup's Sep 8 re-weight is pre-window); social-listening vendor reports;\nretatrutide grey-market developments; celebrity disclosures; India generic-semaglutide chatter.\nNOT SWEPT: Reddit, TikTok, Instagram, X — web search does not index these by date.\n\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty.",
+      "tags": [
+        "social-sentiment",
+        "survey",
+        "healthline",
+        "toast",
+        "restaurants",
+        "side-effect-expectations",
+        "vendor-data",
+        "october-2026"
+      ]
+    },
     {
       "id": "sent-entry-016",
       "timestamp": "2026-09-28T00:00:00Z",

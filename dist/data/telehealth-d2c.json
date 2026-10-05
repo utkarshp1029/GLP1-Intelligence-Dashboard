@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 22,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 23,
     "key_metrics": [
+      {
+        "label": "OCTANE Pill Switch",
+        "value": "−4.1% more at 3 mo"
+      },
+      {
+        "label": "OCTANE Sample",
+        "value": "n=194 Ro patients"
+      },
+      {
+        "label": "WW Oct 1 Move",
+        "value": "−10.3% to $13.80"
+      },
+      {
+        "label": "WW YTD",
+        "value": "−56.1%"
+      },
+      {
+        "label": "HIMS Suit Deadline",
+        "value": "Nov 2 lead plaintiff"
+      },
       {
         "label": "Compounded Sema AEs",
         "value": "990 (to May 31)"
-      },
-      {
-        "label": "Compounded Tirz AEs",
-        "value": "730+"
-      },
-      {
-        "label": "HIMS on FDA Alert",
-        "value": "−4% to $28.44"
-      },
-      {
-        "label": "Hims Q2 Gross Margin",
-        "value": "~64% (was 76%)"
-      },
-      {
-        "label": "Amazon Footprint",
-        "value": "48 states + DC"
-      },
-      {
-        "label": "Amazon Oral Cash",
-        "value": "$149/mo"
       }
     ]
   },
@@ -136,6 +136,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "th-entry-017",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/ro-and-novo-announce-research-collaboration-to-generate-first-of-its-kind-real-world-evidence-on-the-wegovy-pill-302893510.html",
+      "source_name": "PR Newswire / CNBC / FinancialContent (StockStory) / GlobeNewswire / MarketBeat",
+      "market": "us",
+      "summary": "Telehealth became an evidence generator this week: Ro and Novo announced a research collaboration on Sep 30, and its first study (OCTANE, presented at EASD) found 194 Ro patients switching from injectable semaglutide or tirzepatide to the Wegovy pill lost a further 4.1% (8.8 lb) over three months — retrospective, small and limited to persistent patients. WeightWatchers fell 10.3% to $13.80 on Oct 1, now down 56% year-to-date, despite a new Google Health/Fitbit employer deal. Hims & Hers faces an investor class action (class period Aug 4, 2025 – Jul 29, 2026; lead-plaintiff deadline Nov 2) following July's FTC complaint.",
+      "content": "September 28 - October 5, 2026 telehealth / D2C:\n\n1. RO x NOVO RESEARCH COLLABORATION + OCTANE DATA — Sep 30\n   - 194 Ro patients switched from Wegovy injection (~half) or Zepbound (~half) to the Wegovy pill\n   - Additional −4.1% (8.8 lb) at 3 months; 40.7% reached ≥5% further loss; obesity-class share 87.1% -> 65.5%\n   - CAVEATS: retrospective, n=194, persistent patients only, telehealth-sourced, sponsor-affiliated\n\n2. WEIGHTWATCHERS −10.3% — Oct 1\n   - Intraday $13.80; −56.1% YTD; 60.5% below 52-wk high of $34.92\n   - Fell despite a Google Health Enterprise / Fitbit deal giving some employer-program members Fitbit Air wearables\n\n3. HIMS & HERS\n   - Investor class action notice (Sep 30): class period Aug 4, 2025 - Jul 29, 2026; lead-plaintiff deadline Nov 2, 2026\n   - Follows the Jul 29 FTC/Utah/LA County complaint (health-data sharing, charging before consult, hard-to-cancel\n     subscriptions). Day-of drop reported as −14.7% (law-firm notice) vs ~−10% (CNBC) — variance noted.\n   - HIMS +5.2% to $30.20 on Sep 30 on light volume, no catalyst named (MarketBeat)\n\nNothing found in window: Noom, LifeMD, Found, India telehealth GLP-1 launches, new FDA/FTC telehealth actions.\nNot swept (search cap): Amazon One Medical GLP-1 program, new LillyDirect/NovoCare partners, Ro pricing updates.\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty. Blocked: ro.co.",
+      "tags": [
+        "telehealth",
+        "ro",
+        "novo",
+        "wegovy-pill",
+        "octane",
+        "real-world-evidence",
+        "weightwatchers",
+        "hims",
+        "class-action",
+        "october-2026"
+      ]
+    },
     {
       "id": "th-entry-016",
       "timestamp": "2026-09-28T00:00:00Z",

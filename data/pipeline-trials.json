@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 27,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 28,
     "key_metrics": [
       {
-        "label": "VK2735 EOW Maintenance",
-        "value": "90% retained vs 61%"
+        "label": "Retatrutide TRIUMPH-2",
+        "value": "−18.8% · 80 wk (TR est.)"
       },
       {
-        "label": "CagriSema vs Tirz 5mg",
-        "value": "12.4% vs 9.1%"
+        "label": "EloraTZP Top Dose",
+        "value": "−23.3% vs −14.8% tirz"
       },
       {
-        "label": "Enicepatide 48wk",
-        "value": "15.5% wt · −2.65% A1c"
+        "label": "EloraTZP AE Dropout",
+        "value": "10.8–27% (varies)"
       },
       {
-        "label": "STEP Young Pediatric",
-        "value": "40.4% vs 0% placebo"
+        "label": "Survodutide SYNC-2",
+        "value": "−13.1% · 76 wk"
       },
       {
-        "label": "Mounjaro CV Indication",
-        "value": "Approved Aug 28"
+        "label": "Petrelintide Ph2",
+        "value": "−10.7% · 42 wk"
       },
       {
-        "label": "Amylin Ph3 Enrollment",
-        "value": "~7,000 + ~4,500"
+        "label": "ACHIEVE-4 MACE-4",
+        "value": "HR 0.84 (CI crosses 1)"
       },
       {
-        "label": "EASD 2026 in Window",
-        "value": "Day 1 of 5 only"
+        "label": "CagriSema FDA",
+        "value": "Decision Q4 2026"
       }
     ]
   },
@@ -114,6 +114,31 @@
     }
   ],
   "entries": [
+    {
+      "id": "trial-entry-023",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-substantial-weight",
+      "source_name": "Lilly / The Lancet / NEJM / HCPLive / Zealand / Boehringer / Novo (EASD 2026)",
+      "market": "both",
+      "summary": "EASD 2026 (Milan, Sep 28 – Oct 2) delivered the window's data. Lilly's retatrutide TRIUMPH-2, published in The Lancet, cut weight up to 18.8% at 80 weeks by treatment-regimen estimand (20.8% efficacy estimand) in obesity plus type 2 diabetes, with dysesthesia up to 7.3% vs 0.7%. Lilly's EloraTZP hit 23.3% vs 14.8% for tirzepatide alone but HCPLive/MedicalDaily report 10.8–27% AE discontinuation (Healio: <10%; unresolved). Boehringer's survodutide reached only 13.1% at 76 weeks (NEJM) with 18% GI dropouts. Zealand's petrelintide reached 10.7% with placebo-like GI tolerability. Orforglipron's ACHIEVE-4 was CV non-inferior to glargine (MACE-4 HR 0.84, CI crosses 1).",
+      "content": "September 28 - October 5, 2026 pipeline & trials — EASD 2026 (Milan, Allianz MiCo, Sep 28 - Oct 2; dates verified on easd-meeting.org).\n\n1. RETATRUTIDE TRIUMPH-2 (Lilly) — Lancet + EASD, Sep 29-30 — PEER-REVIEWED\n   - 80 wks, obesity/overweight + T2D, placebo vs 4/9/12 mg weekly (1:1:1:1)\n   - Treatment-regimen estimand: −11.9% / −16.8% / −18.8% vs −5.1% placebo\n   - Efficacy estimand 12mg: −20.8% (−22.5 kg) — Lilly's headline figure\n   - HbA1c −1.4 to −1.6 vs −0.2; AE discontinuation 3.8% / 11.6% / 7.7% vs 4.9%\n   - Dysesthesia 4% / 6% / 7.3% vs 0.7%; hypotension ~6% at 12mg\n   - Total n NOT confirmed (Lancet 403); one secondary source gives 1,152. US filing guided Q1 2027.\n\n2. ELORATZP (eloralintide + tirzepatide) PHASE 2b, T2D (Lilly) — EASD Sep 30 — CONFERENCE DATA\n   - n=367, 48 wks; top dose (elo 9mg + tirz 15mg) −23.3% vs −14.8% tirz 15mg alone, −3.0% placebo\n   - HbA1c up to −2.9 vs −2.4 tirz alone\n   *** DISCONTINUATION VARIANCE: HCPLive/MedicalDaily report AE discontinuation 10.8-27.0% on combination vs 2.9% tirz\n   and 16.7% placebo (the placebo figure looks anomalous); Healio reports 'less than 10%'. Possibly different measures\n   (all-cause vs AE). Reported, not resolved. *** No p-values in coverage; no journal publication. Phase 3 from Q4 2026.\n\n3. SURVODUTIDE SYNCHRONIZE-2 (Boehringer/Zealand) — NEJM Oct 1 — PEER-REVIEWED\n   - n=755, 76 wks, 3.6/6.0 mg; up to −13.1% vs −3.1% (efficacy est.); −8.2% / −9.8% vs −3.9% (treatment-regimen)\n   - HbA1c −1.21 vs −0.03; normoglycemia 29.5% vs 4.0%; GI discontinuation 18% vs 1.2%\n\n4. PETRELINTIDE ZUPREME-1 (Zealand/Roche) — Lancet Diabetes & Endocrinology Sep 30 — PEER-REVIEWED\n   - n=485, 42 wks; up to −10.7% vs −1.7% (efficacy); −10.2% vs −1.4% (treatment-policy)\n   - GI AEs similar to placebo; hsCRP up to −41%; Phase 3 ZUPREME programme started\n\n5. CAGRISEMA (Novo) — EASD late-breakers — NOT PEER-REVIEWED\n   - fMRI: reduced food-cue responses; 22.4% weight difference vs placebo at 52 wks (n/dose not disclosed)\n   - REIMAGINE 1 (n=189, T2D, 40 wks): −14.3%, reduced liver/pancreas fat (percentages not disclosed)\n   - REIMAGINE 2 (n=2,713, 68 wks): −14.2%; post-hoc bone markers 'maintained' — hypothesis-generating\n   - FDA decision guided Q4 2026\n\n6. ORFORGLIPRON ACHIEVE-4 (Lilly) — EASD Oct 1 — CONFERENCE DATA\n   - vs insulin glargine: MACE-4 HR 0.84 (0.59-1.20); MACE-3 HR 0.77 (0.52-1.13) — non-inferior; superiority NOT shown\n   - SURPASS-CVOT full data also presented: MACE-3 HR 0.92 (0.83-1.01) vs dulaglutide (approval already recorded Aug 28)\n   - DO NOT LOG: a search summary claiming ATTAIN-MAINTAIN topline on Oct 2, 2026 is wrong (topline was Dec 18, 2025)\n\n7. ZENAGAMTIDE (amycretin) Phase 2b oral presentation scheduled Sep 30 — NEW NUMBERS NOT CONFIRMED.\n   Last known: T2D n=262, up to −14.6% at 36 wks (ADA, June).\n\nNot swept (search cap): MariTide, aleniglipron and enicepatide at EASD; CagriSema REDEFINE; ClinicalTrials.gov starts/stops.\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty.",
+      "tags": [
+        "pipeline",
+        "easd-2026",
+        "retatrutide",
+        "triumph-2",
+        "eloratzp",
+        "eloralintide",
+        "survodutide",
+        "petrelintide",
+        "cagrisema",
+        "orforglipron",
+        "achieve-4",
+        "peer-reviewed",
+        "figures-vary",
+        "october-2026"
+      ]
+    },
     {
       "id": "trial-entry-022",
       "timestamp": "2026-09-28T00:00:00Z",

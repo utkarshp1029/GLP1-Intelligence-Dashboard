@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 18,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 19,
     "key_metrics": [
       {
         "label": "GLP-1 Warning Letters",
-        "value": "1 (Empower, Sep 18)"
+        "value": "None new in window"
       },
       {
-        "label": "Letter Reference",
-        "value": "MARCS-CMS 738238"
+        "label": "Counterfeit Ozempic",
+        "value": "2 charged (M.D. Fla.)"
       },
       {
-        "label": "FDA's New Doctrine",
-        "value": "Volume ⇒ 'pretextual'"
+        "label": "Max Sentence Each",
+        "value": "Up to 71 years"
       },
       {
-        "label": "Violation Categories",
-        "value": "4 cited"
+        "label": "Saudi SFDA Peptides",
+        "value": "Up to SAR 5M fines"
       },
       {
         "label": "503B Bulks Final Action",
-        "value": "None as of Sep 28"
+        "value": "Still pending"
       },
       {
-        "label": "New Compounder Suits",
-        "value": "0 verified in window"
+        "label": "Empower Letter",
+        "value": "Sep 18 · pretextual"
       }
     ]
   },
@@ -71,6 +71,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-016",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug",
+      "source_name": "FDA / Saudi FDA / MedicalDaily",
+      "market": "both",
+      "summary": "No new GLP-1 compounding warning letter, 503B bulks-list final action or court ruling was found in the window; FDA's ten warning letters posted Sep 29 contained none involving GLP-1s. The enforcement news was counterfeit, not compounded: an FDA investigation led to federal charges in M.D. Florida (announced Sep 29) against two Indian nationals accused of selling China-sourced counterfeit Ozempic to US distributors from July 2023 to April 2024, each facing up to 71 years per MedicalDaily. Saudi Arabia's SFDA separately began legal proceedings against online sellers of unregistered peptides, with penalties up to SAR 5M.",
+      "content": "September 28 - October 5, 2026 compounding / illicit supply:\n\n1. COUNTERFEIT OZEMPIC CHARGES — FDA press release Sep 29 (primary-source verified)\n   - Swapnadip Roy (33) and Vicky Ramancha (37); USAO M.D. Florida + DOJ Criminal Division\n   - Charges: one conspiracy, three smuggling and two counterfeit-drug counts (per MedicalDaily, Oct 1); up to 71 years each (per MedicalDaily — NOT stated in FDA's release)\n   - Alleged China-sourced counterfeit Ozempic with fake packaging/labels/inserts/needles sold to US distributors\n     Jul 2023 - Apr 2024, continuing after FDA's Dec 2023 seizure and alerts\n   - No quantities or dollar values disclosed. Reports differ on the charging date (Sep 29 vs Oct 1).\n   - NOTE: counterfeit enforcement, NOT a compounding action.\n\n2. SAUDI SFDA ACTS AGAINST ONLINE UNREGISTERED-PEPTIDE SELLERS — Sep 29 (sfda.gov.sa, primary)\n   - Legal proceedings started; cases being prepared for prosecution; penalties up to SAR 5M and/or 5 years\n   - NO specific product named — retatrutide is NOT named in the release\n\nCHECKED AND EMPTY:\n   - FDA warning letters posted Sep 29: 10 letters, none GLP-1/compounding/peptide\n   - 503B bulks list exclusion of semaglutide/tirzepatide/liraglutide: still not final (comments closed Jul 30)\n   - OFA v FDA: Fifth Circuit upheld FDA in both cases Aug 27 (pre-window)\n   - Lilly/Novo compounder suits: nothing new; Empower letter (Sep 18) is pre-window and already recorded\n\nNot swept (search cap): state pharmacy board actions, new Lilly/Novo suits, DOJ compounding cases beyond FDA's page.\nFDA usually posts warning letters on Tuesdays, so Oct 6 postings fall after this window.\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty.",
+      "tags": [
+        "compounding",
+        "counterfeit",
+        "ozempic",
+        "fda",
+        "doj",
+        "sfda",
+        "peptides",
+        "verified-negatives",
+        "october-2026"
+      ]
+    },
     {
       "id": "comp-entry-015",
       "timestamp": "2026-09-28T00:00:00Z",

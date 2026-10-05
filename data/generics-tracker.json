@@ -1,8 +1,8 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-09-28T00:00:00Z",
-    "entry_count": 34,
+    "last_updated": "2026-10-05T00:00:00Z",
+    "entry_count": 35,
     "key_metrics": [
       {
         "label": "India GLP-1 August",
@@ -241,6 +241,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-021",
+      "timestamp": "2026-10-05T00:00:00Z",
+      "source_url": "https://www.benefitsandpensionsmonitor.com/benefits/pharma/semaglutide-swallows-66of-greenshields-3bn-drug-bill/394221",
+      "source_name": "Benefits and Pensions Monitor / Insurance Business / Free Press Journal (CNBC-TV18) / Montreal Gazette",
+      "market": "both",
+      "summary": "A thin week for generics. No September India sales print was found, so August's ₹247 crore remains the latest. In Canada, GreenShield's 2025 claims data put semaglutide at 6.6% of its $3B drug spend, up 47.7% year-on-year, before any generic effect. The Montreal Gazette reported generic semaglutide out of stock at Quebec pharmacies around Sep 29 (article not fetched). That fits a supply base narrowed to effectively Apotex while Dr Reddy's API remediation runs to late Oct–Nov. No Sandoz Canada launch was confirmed. Lilly's CEO said Foundayo could reach India in 2027.",
+      "content": "September 28 - October 5, 2026 generics:\n\n1. CANADA — GREENSHIELD CLAIMS DATA (Sep 30)\n   - Semaglutide (Ozempic/Rybelsus/Wegovy) = 6.6% of GreenShield's $3B 2025 drug spend across 38.7M claims; +47.7% YoY\n   - 2025 data — predates generic approvals, so no generic effect yet\n\n2. CANADA — QUEBEC GENERIC SEMAGLUTIDE STOCK-OUTS (~Sep 29) — NOT FETCHED, snippet only\n   - Montreal Gazette: Apotex generic out of stock at Familiprix; generic priced under half of brand\n   - Pre-window context (verified): three Health Canada Type II semaglutide recalls Aug 12-27 (incl. Apotex lot 7000599A,\n     2 mg/pen, incorrect dose display); Dr Reddy's Canadian supply paused by an API impurity, fix expected late Oct-early Nov;\n     Aspen depends on DRL supply -> Apotex effectively sole generic supplier\n   - Sandoz (approved Sep 18): NO evidence of launch yet\n   - Vimy Pharmaceuticals (generic Ozempic/Wegovy filings at Health Canada): financing headline $8.5M conflicts with a\n     reported $12.06M placement — NOT reconciled, not published as fact\n\n3. INDIA — LILLY FOUNDAYO MAY LAUNCH IN 2027 (Oct 2, Free Press Journal citing CNBC-TV18)\n   - Subject to approval; Lilly has committed $1B to Indian contract manufacturing\n   - Background price cited for Dr Reddy's Obeda: ₹4,200 — matches this dashboard's VERIFIED pricing record (₹4,200 per 2mg pen, 4 × 0.5mg doses; doses_verified: true)\n   - A LinkedIn post attributes to Ricks that ultra-low generic semaglutide prices are 'a bit of a fake signal' — UNVERIFIED\n\nCHECKED AND EMPTY: India September sales data (Pharmarack/PharmaTrac/IQVIA); new India brand launches; Brazil launch/price;\nChina NMPA generic approval; US liraglutide; Kenya/Africa. Hikma Saudi launch (Sep 16) is pre-window.\nCONSISTENCY: India tirzepatide remains a Mounjaro + Cipla Yurpeak duopoly; brand counts apply to semaglutide only.\n\nSWEEP LIMITATION: the research session hit a hard 200-call web-search cap mid-sweep and several domains refused automated fetches. Topics listed as 'not swept' above are UNVERIFIED, not confirmed empty. Blocked: Economic Times, Mint, Moneycontrol, BusinessLine, Financial Express, Reuters, Montreal Gazette.",
+      "tags": [
+        "generics",
+        "canada",
+        "greenshield",
+        "apotex",
+        "stock-out",
+        "quebec",
+        "sandoz",
+        "india",
+        "foundayo-india",
+        "october-2026"
+      ]
+    },
     {
       "id": "gen-entry-020",
       "timestamp": "2026-09-28T00:00:00Z",
