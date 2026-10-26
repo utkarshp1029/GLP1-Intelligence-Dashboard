@@ -1,32 +1,36 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-10-05T00:00:00Z",
-    "entry_count": 19,
+    "last_updated": "2026-10-26T00:00:00Z",
+    "entry_count": 20,
     "key_metrics": [
       {
-        "label": "GLP-1 Warning Letters",
-        "value": "None new in window"
+        "label": "Chinese API Plants",
+        "value": "2 on import alert"
       },
       {
-        "label": "Counterfeit Ozempic",
-        "value": "2 charged (M.D. Fla.)"
+        "label": "Apothecary Recall",
+        "value": "22 lots · Class II"
       },
       {
-        "label": "Max Sentence Each",
-        "value": "Up to 71 years"
+        "label": "Reta Poison Exposures",
+        "value": "862 in Q3 (vs 460 Q2)"
       },
       {
-        "label": "Saudi SFDA Peptides",
-        "value": "Up to SAR 5M fines"
+        "label": "Reta Death Reports",
+        "value": "2 (FAERS, unverified)"
       },
       {
-        "label": "503B Bulks Final Action",
-        "value": "Still pending"
+        "label": "UK Fake Pen Seizure",
+        "value": ">12,000 pens · ~£2m"
       },
       {
-        "label": "Empower Letter",
-        "value": "Sep 18 · pretextual"
+        "label": "Lilly Reta Suits (Oct)",
+        "value": "5 new · 2 settled"
+      },
+      {
+        "label": "503B Bulks Exclusion",
+        "value": "Still proposed"
       }
     ]
   },
@@ -71,6 +75,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-017",
+      "timestamp": "2026-10-26T00:00:00Z",
+      "source_url": "https://www.gov.uk/government/news/counterfeit-weight-loss-pens-worth-2-million-seized-by-mhra-and-west-mids-police",
+      "source_name": "MHRA / Bloomberg (via reprint) / FDA / Boston Globe / pharmaphorum / Alliance for Pharmacy Compounding / CBS News",
+      "market": "us",
+      "summary": "FDA Form 483s obtained by Bloomberg (Oct 15) describe black mold, insects and destroyed samples at Chengdu Shengnuo. They also describe relabeled third-party API at Nanjing Chengong. Both Chinese plants supplied semaglutide and tirzepatide API to US compounders and are now on FDA import alert. Apothecary Pharma's 22-lot compounded tirzepatide recall was classified Class II on Oct 8. CBS News reported two FDA death reports tied to black-market retatrutide, and poison-center exposures rose to 862 in Q3. The MHRA seized over 12,000 counterfeit retatrutide and tirzepatide pens worth about £2m in Birmingham on Oct 14. An FDA interim access policy for compounded peptides is reportedly under White House review.",
+      "content": "October 5 - October 26, 2026 compounding & illicit supply.\n\n1. FDA INSPECTIONS OF CHINESE GLP-1 API PLANTS (Bloomberg, Oct 15; LA Times reprint Oct 19)\n   - Chengdu Shengnuo Biopharm (inspected August): black mold on equipment, \"gross contamination\" on floors,\n     \"significant insect activity\"; staff allegedly hid documents and poured samples down sinks\n   - Nanjing Chengong Pharmaceutical (inspected September): bought API from other factories and relabeled it\n     with its own seal without reviewing test data\n   - Both on FDA import alert (Chengdu added Sep 19; Nanjing Oct 1). Amphastar holds 11.5% of parent Nanjing Hanxin.\n   - Bloomberg original was paywalled (403); details from a verified reprint:\n     https://dnyuz.com/2026/10/19/black-mold-bugs-found-at-chinese-plants-making-glp-1-compounding-agents/\n\n2. APOTHECARY PHARMA COMPOUNDED TIRZEPATIDE RECALL — CLASS II (classified Oct 8; recall started Sep 24)\n   - Apothecary Pharma LLC (Cary, NC; 503A): compounded tirzepatide 18mg/mL, 4mL multi-dose vials; lots AP-202622\n     to AP-202644 (AP-202626 excluded); sterility cannot be assured; no injuries reported\n   - Discrepancy: pharmaphorum says \"22 vials\" while Boston Globe says 22 lots. FDA records show a Form 483 (May 2025)\n     and a warning letter (Dec 1, 2025).\n   - https://www.bostonglobe.com/2026/10/21/business/glp-1-alternative-drugs-face-nationwide-recall/\n\n3. BLACK-MARKET RETATRUTIDE — DEATH REPORTS AND POISON-CENTER DATA (CBS News, Oct 13)\n   - Two FAERS death reports: a 41-year-old woman (cardiac arrest, July) and a 49-year-old (September; vials from\n     online vendor AlphaLabs via a licensed nurse). FDA declined to say whether it verified either.\n   - America's Poison Centers retatrutide exposures: 249 (Jan–Mar) → 460 (Apr–Jun) → 862 (Jul–Sep 2026)\n   - https://www.cbsnews.com/news/deaths-reported-fda-bootleg-reta-weight-loss-drug/\n\n4. LILLY SUES FIVE MORE RETATRUTIDE SELLERS (Oct 8)\n   - American Peptides LLC, LiveWell Peptides, Cenexa Labs LLC, Medrein Health & Aesthetics, Medshape Weight Loss Clinic\n   - Lilly says it settled two of the six August suits, including Texas Peptides\n   - https://news.bloomberglaw.com/health-law-and-business/eli-lilly-sues-more-vendors-selling-illicit-weight-loss-drugs\n\n5. UK — MHRA SEIZES >12,000 COUNTERFEIT PENS (raid Oct 14; release Oct 15)\n   - >12,000 fake retatrutide and tirzepatide pens plus packaging for ~30,000 more; value ~£2m; no arrests reported\n   - https://www.gov.uk/government/news/counterfeit-weight-loss-pens-worth-2-million-seized-by-mhra-and-west-mids-police\n\n6. US PEPTIDE POLICY — REPORTED, NOT VERIFIED AGAINST PRIMARY SOURCE\n   - Washington Post (Oct 7, paywalled) and APC (Oct 16) report FDA sent an \"Interim Access Policy for Compounding Using\n     Certain Peptides\" to OMB for review. Text not public; whether GLP-1s or retatrutide are covered is unknown.\n   - STAT (Oct 20, paywalled, headline only): a bipartisan group of lawmakers urged FDA to \"close a peptide loophole\".\n   - https://a4pc.org/news/peptide-policy-now-under-white-house-review\n\n7. NEW JERSEY ASSEMBLY HEALTH COMMITTEE GLP-1 HEARING (week of Oct 23)\n   - About 3 hours; compounders argued \"Counterfeiting is fraud. Lawful compounding is pharmacy practice.\" No bill number cited.\n   - https://a4pc.org/news/apc-njpha-weigh-in-on-glp-1-access\n\n8. NO NEWS FOUND IN WINDOW\n   - FDA warning letters or 483s on compounded GLP-1s dated Oct 5–26 (September 483s to Olympia, RC Outsourcing and\n     others pre-date the window)\n   - 503B bulks-list exclusion of semaglutide/tirzepatide/liraglutide: still proposed (Apr 30); no final decision\n   - OFA v. FDA: Fifth Circuit affirmed FDA on Aug 27; no further activity found\n   - Novo v. Hims (D. Del.); state board actions; CBP, Interpol, India or Brazil seizures\n",
+      "tags": [
+        "compounding",
+        "chinese-api",
+        "import-alert",
+        "recall",
+        "apothecary-pharma",
+        "retatrutide",
+        "counterfeit",
+        "mhra",
+        "peptide-policy",
+        "october-2026"
+      ]
+    },
     {
       "id": "comp-entry-016",
       "timestamp": "2026-10-05T00:00:00Z",

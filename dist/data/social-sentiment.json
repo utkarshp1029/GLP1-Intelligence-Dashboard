@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-10-05T00:00:00Z",
-    "entry_count": 21,
+    "last_updated": "2026-10-26T00:00:00Z",
+    "entry_count": 22,
     "key_metrics": [
       {
-        "label": "Nausea: Expected vs Real",
-        "value": "67% vs 34%"
+        "label": "US Search: Zepbound",
+        "value": "87 vs Ozempic 60"
       },
       {
-        "label": "Expect to Stop ≤2 Yrs",
-        "value": "67% of users"
+        "label": "India Search Leader",
+        "value": "Ozempic 67 · Mounjaro 63"
       },
       {
-        "label": "Worry About Regain",
-        "value": "56% of users"
+        "label": "Rising US Theme",
+        "value": "Cost + NAION lawsuits"
       },
       {
-        "label": "Eat Out Less (Toast)",
-        "value": "51% of users"
+        "label": "Rising India Theme",
+        "value": "Mounjaro side effects"
       },
       {
-        "label": "Order Less Food (Toast)",
-        "value": "62% of users"
+        "label": "India Breakout",
+        "value": "'natural ozempic'"
       },
       {
-        "label": "Say Extremely Effective",
-        "value": "31% (Gallup Aug)"
+        "label": "Reddit Data",
+        "value": "Blocked this window"
       }
     ]
   },
@@ -118,6 +118,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-018",
+      "timestamp": "2026-10-26T00:00:00Z",
+      "source_url": "https://trends.google.com/trends/explore?date=2026-10-05%202026-10-26&geo=US&q=Ozempic,Mounjaro,Zepbound,semaglutide",
+      "source_name": "Google Trends (pulled live Oct 26) / CBS News / Korea Herald",
+      "market": "both",
+      "summary": "This window's sentiment read comes from Google Trends only, because Reddit was blocked on every access route tried and no survey was published in the window. In the US, Zepbound out-searched Ozempic by about 45% (average index 87 vs 60). Rising queries centered on cost ('cheapest way to get zepbound without insurance' +70%) and the NAION vision-loss litigation. In India, Ozempic and Mounjaro searched at near parity, and 'mounjaro brides', 'natural ozempic' and Mounjaro hair-loss queries broke out. Celebrity-linked spikes (Billie Eilish, Kelly Osbourne) appeared, but no news source confirms what drove them.",
+      "content": "October 5 - October 26, 2026 social sentiment. VERIFICATION NOTE: this window rests on Google Trends only.\nReddit (old.reddit.com, www.reddit.com) was blocked on every access route tried, so no thread, upvote or comment\ndata is available. TikTok, Instagram and X were not reachable. KFF, Epic Research and Truveta published no GLP-1\nsurvey or usage data in the window; Gallup, Pew and Morning Consult were not reached.\n\n1. US — GOOGLE TRENDS (Oct 5–26, pulled live Oct 26)\n   - Average interest: Zepbound 87 | Ozempic 60 | Mounjaro 35 | semaglutide 23. Zepbound peaked at 100 on Oct 21.\n   - Zepbound out-searching Ozempic by ~45% in the US is the headline structural signal.\n   - Cost queries rising: \"cheapest way to get zepbound without insurance\" +70%; \"mounjaro savings card\" +70%;\n     \"mounjaro out of pocket cost\" +50%\n   - Side-effect and appearance queries: \"ozempic face\" in the top 10; \"ozempic face before and after\" +50%\n   - Litigation-linked: \"ozempic and vision loss naion\" breakout; \"todd engel ozempic claim\" +700%\n     (Engel is a named NAION plaintiff; no news source retrieved to explain the spike)\n   - Oral semaglutide is now mainstream vocabulary: \"ozempic pill\" in the top 20\n   - Celebrity spikes: \"billie eilish ozempic\" breakout (US and India); \"kelly osbourne\" +80%. UNVERIFIED. No news\n     source confirms any disclosure, and these may be rumor-driven.\n   - Measurement caveat: AI-prompt-style queries (\"explain how mounjaro works…\") now dominate rising lists.\n\n2. INDIA — GOOGLE TRENDS (Oct 5–26)\n   - Average interest: Ozempic 67 | Mounjaro 63 | semaglutide 59 | Wegovy 15. Ozempic spiked to 100 on Oct 23.\n   - The generic name \"semaglutide\" nearly matching Mounjaro is distinctive to India's post-March generic market.\n   - Breakouts: \"mounjaro brides\" (wedding season), \"side effects of mounjaro injection\", \"does mounjaro cause hair loss\",\n     \"mounjaro 7.5 mg price\", \"semaglutide vs mounjaro\", \"natural ozempic\"\n   - Brand searches rising: \"sun pharma semaglutide\" +250%; \"semaglutide tablets price in india\" +400%; \"glipiq\"\n     (Glenmark) and \"noveltreat\" (Sun) breakouts; \"yurpeak\" (Cipla tirzepatide) +170%\n   - https://trends.google.com/trends/explore?date=2026-10-05%202026-10-26&geo=IN&q=Mounjaro,semaglutide,Ozempic,Wegovy\n\n3. CONTEXT FROM OTHER SECTIONS\n   - Black-market retatrutide harms (CBS News, Oct 13) and rising \"retatrutide\" searches point to consumer pull toward\n     unapproved next-generation peptides.\n   - South Korea's clinic-diversion data (Korea Herald, Oct 24) shows strong cash-pay demand for Mounjaro there.\n\n4. NOT REACHED\n   - Reddit, TikTok, Instagram, X; Sprout, Brandwatch, Talkwalker; restaurant, alcohol and apparel Q3 GLP-1 commentary;\n     India influencer and Bollywood coverage\n",
+      "tags": [
+        "social-sentiment",
+        "verification-check",
+        "google-trends",
+        "zepbound",
+        "naion",
+        "india",
+        "mounjaro-brides",
+        "reddit-blocked",
+        "october-2026"
+      ]
+    },
     {
       "id": "sent-entry-017",
       "timestamp": "2026-10-05T00:00:00Z",

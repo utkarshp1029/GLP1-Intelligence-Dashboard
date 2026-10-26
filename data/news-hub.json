@@ -1,40 +1,550 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-10-05T00:00:00Z",
-    "entry_count": 104,
+    "last_updated": "2026-10-26T00:00:00Z",
+    "entry_count": 122,
     "key_metrics": [
       {
         "label": "Stories This Window",
         "value": "17 + 1 coverage note"
       },
       {
+        "label": "Top Regulatory",
+        "value": "Foundayo CHMP positive"
+      },
+      {
         "label": "Top Readout",
-        "value": "Retatrutide −18.8% (TR)"
+        "value": "CagriSema −25% (women)"
       },
       {
-        "label": "Biggest Deal",
-        "value": "Novo–Hengrui ≤$2.6bn"
+        "label": "Compounding Alarm",
+        "value": "Mold at China API plants"
       },
       {
-        "label": "Lilly/Novo 232 Tariff",
-        "value": "0% likely (MFN, to 2029)"
+        "label": "Retatrutide Status",
+        "value": "Drug, not biologic (FDA)"
       },
       {
-        "label": "GLOBE Model",
-        "value": "Final · starts Jan 2027"
-      },
-      {
-        "label": "New EU Safety Signals",
-        "value": "Sema colitis · lira hair"
+        "label": "India Generics Share",
+        "value": "58.8% of sema value"
       },
       {
         "label": "Window Character",
-        "value": "EASD data week"
+        "value": "Pre-earnings · safety"
       }
     ]
   },
   "stories": [
+    {
+      "id": "story-122",
+      "headline": "VERIFICATION CHECK — Oct 5 to Oct 26 Sweep Hit a Shared Search Cap; Several Topics Unverified Rather Than Empty",
+      "summary": "This three-week window's research hit a shared web-search cap partway through, and Reuters, Bloomberg, Endpoints, FiercePharma, Economic Times, Mint, Business Standard and Reddit refused automated fetches. Topics NOT fully swept and therefore unverified: the September India GLP-1 ₹-crore total, Lupin's Q2 status, PTAB and Federal Circuit GLP-1 patent rulings, China NMPA approvals, UK/EU supply, and Reddit/TikTok sentiment. Items seen only in snippets are flagged in section entries rather than published as stories. These include the STAT peptide-loophole letter, celebrity search spikes and the CDSCO Mounjaro not-of-standard-quality report.",
+      "market": "global",
+      "category": "policy",
+      "timestamp": "2026-10-26",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "ObesityWeek",
+          "title": "ObesityWeek 2026 (Nov 14–17, National Harbor MD) — outside this window",
+          "url": "https://obesityweek.org/",
+          "date": "2026-10-26"
+        }
+      ],
+      "tags": [
+        "verification-check",
+        "coverage-gap",
+        "search-cap",
+        "methodology",
+        "global",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-121",
+      "headline": "Apothecary Pharma Compounded Tirzepatide Recall Classified Class II",
+      "summary": "FDA classified Apothecary Pharma's recall of 22 lots of compounded tirzepatide 18mg/mL multi-dose vials as Class II on Oct 8, because sterility cannot be assured; no injuries were reported. The Cary, NC 503A pharmacy received an FDA warning letter in December 2025. Separately, NexLife's October index puts median online compounded tirzepatide at $222/month and compounded semaglutide at $175/month.",
+      "market": "us",
+      "category": "safety",
+      "timestamp": "2026-10-08",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "Boston Globe",
+          "title": "GLP-1 alternative drugs face nationwide recall",
+          "url": "https://www.bostonglobe.com/2026/10/21/business/glp-1-alternative-drugs-face-nationwide-recall/",
+          "date": "2026-10-21"
+        }
+      ],
+      "tags": [
+        "compounding",
+        "recall",
+        "tirzepatide",
+        "apothecary-pharma",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-120",
+      "headline": "Earnings Calendar: Lilly Q3 on Oct 29 (Consensus ~$22.6bn); Novo Expected Nov 3–4",
+      "summary": "Lilly confirmed Q3 results for Oct 29, outside this window. Consensus revenue is about $22.6bn (+28.5%), and it will be the first full quarter of the $50 Medicare GLP-1 Bridge. Novo's Q3 date is reported as Nov 3 or Nov 4 but is not confirmed by the company. Citi (Oct 9) raised its peak oral Wegovy sales estimate to $13bn while cutting its price target. Novo's ADR traded near its 52-week low at about $39.",
+      "market": "global",
+      "category": "commercial",
+      "timestamp": "2026-10-15",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "PR Newswire (Lilly)",
+          "title": "Lilly confirms date for Q3 2026 results",
+          "url": "https://www.prnewswire.com/news-releases/lilly-confirms-date-and-conference-call-for-third-quarter-2026-financial-results-announcement-302909019.html",
+          "date": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "earnings",
+        "lilly",
+        "novo-nordisk",
+        "calendar",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-119",
+      "headline": "UK Seizes 12,000+ Counterfeit Retatrutide and Tirzepatide Pens; Lilly Sues Five More Retatrutide Sellers",
+      "summary": "The MHRA and West Midlands Police seized more than 12,000 fake retatrutide and tirzepatide pens, plus packaging for about 30,000 more, in a Birmingham raid on Oct 14. The haul was worth about £2m. In the US, Lilly sued five more retatrutide sellers on Oct 8: American Peptides, LiveWell Peptides, Cenexa Labs, Medrein Health & Aesthetics and Medshape Weight Loss Clinic. It said two of six August suits have settled.",
+      "market": "global",
+      "category": "legal",
+      "timestamp": "2026-10-15",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "MHRA (gov.uk)",
+          "title": "Counterfeit weight-loss pens worth £2 million seized",
+          "url": "https://www.gov.uk/government/news/counterfeit-weight-loss-pens-worth-2-million-seized-by-mhra-and-west-mids-police",
+          "date": "2026-10-15"
+        },
+        {
+          "publication": "Bloomberg Law",
+          "title": "Eli Lilly sues more vendors selling illicit weight-loss drugs",
+          "url": "https://news.bloomberglaw.com/health-law-and-business/eli-lilly-sues-more-vendors-selling-illicit-weight-loss-drugs",
+          "date": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "counterfeit",
+        "retatrutide",
+        "mhra",
+        "lilly",
+        "litigation",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-118",
+      "headline": "EPO Board of Appeal Revokes Novo Semaglutide Cardiovascular Patent; Novo Drops West Virginia Viatris Suit",
+      "summary": "Generics Bulletin reported on Oct 13 that an EPO Board of Appeal revoked EP 3,448,416, Novo's patent on semaglutide for reducing stroke risk, which would have run to 2037. Novo expects no significant business impact. In the US, Novo voluntarily dismissed its Wegovy ANDA suit against Viatris in West Virginia (Oct 13–15), consistent with consolidating into its parallel Pennsylvania case. The US compound patent still runs to Dec 5, 2031.",
+      "market": "global",
+      "category": "legal",
+      "timestamp": "2026-10-13",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Generics Bulletin",
+          "title": "Novo's semaglutide patent iceberg keeps shrinking in Europe",
+          "url": "https://insights.citeline.com/generics-bulletin/legalandip/novos-semaglutide-patent-iceberg-keeps-shrinking-in-europe-KIJSKFWG6FDZ7AQ6JTUFE3JIRY/",
+          "date": "2026-10-13"
+        },
+        {
+          "publication": "CourtListener",
+          "title": "Novo Nordisk Inc. v. Viatris Inc. (N.D. W.Va.)",
+          "url": "https://www.courtlistener.com/docket/73739916/novo-nordisk-inc-v-viatris-inc/",
+          "date": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "patents",
+        "epo",
+        "novo-nordisk",
+        "viatris",
+        "anda",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-117",
+      "headline": "South Korea Inspects Clinics After 56% of Mounjaro and 62% of Wegovy Supply Bypassed Pharmacies",
+      "summary": "South Korea's health ministry ordered on-site clinic inspections after HIRA data showed 56% of ~18.0M Mounjaro units (Aug 2025–Jul 2026) went to medical institutions rather than pharmacies. For Wegovy, 62% of ~3.1M units went the same way. One Seoul-area clinic received 219,944 Mounjaro units, more than all 174 tertiary and general hospitals combined. Sanctions under the Pharmaceutical Affairs Act are threatened.",
+      "market": "global",
+      "category": "policy",
+      "timestamp": "2026-10-24",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Korea Herald",
+          "title": "Clinics bypassing pharmacies on obesity injectables",
+          "url": "https://biz.heraldcorp.com/article/10912327",
+          "date": "2026-10-24"
+        }
+      ],
+      "tags": [
+        "korea",
+        "mounjaro",
+        "wegovy",
+        "diversion",
+        "supply-chain",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-116",
+      "headline": "Petrelintide Hits 7.4–9.2% Weight Loss in Type 2 Diabetes (ZUPREME-2); Zealand Inks Up-to-$1.2bn AI Deal",
+      "summary": "Zealand and Roche's amylin analogue petrelintide produced 7.4–9.2% weight loss at 28 weeks versus 2.0% on placebo in 220 adults with type 2 diabetes. HbA1c fell 0.61–0.88 points versus placebo, and GI-related discontinuation was low at 1.9% versus 1.7%. Zealand shares fell about 5% on Oct 7. On Oct 13, Zealand signed a $30m-upfront, up-to-~$1.2bn deal with Generate:Biomedicines for AI-designed obesity proteins.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-10-07",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "HCPLive",
+          "title": "ZUPREME-2: petrelintide outperforms placebo in T2D and obesity",
+          "url": "https://www.hcplive.com/view/zupreme-2-petrelintide-outperforms-placebo-for-weight-loss-in-t2d-and-obesity",
+          "date": "2026-10-07"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "Zealand pens up to $1.2B deal with Generate",
+          "url": "https://www.biospace.com/deals/zealand-pens-up-to-1-2b-deal-with-generate-for-ai-designed-obesity-metabolic-drugs",
+          "date": "2026-10-14"
+        }
+      ],
+      "tags": [
+        "petrelintide",
+        "zealand",
+        "roche",
+        "amylin",
+        "deal",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-115",
+      "headline": "Ten New Phase 3 Trials Across Six Obesity Programs: Oral VK2735, EloraTZP, MariTide vs Semaglutide, Zenagamtide CVOT",
+      "summary": "ClinicalTrials.gov registrations first posted Oct 5–26 include Viking's SUNRISE-1 and SUNRISE-2 for oral VK2735 (560 patients each, 68 weeks). Lilly's AMPLIFY-1 (n=2,115) and AMPLIFY-2 test an eloralintide-tirzepatide co-formulation. Also registered: Amgen's MARITIME-T2D-3 (monthly MariTide vs weekly semaglutide), Novo's 8,500-patient AMBIENCE cardiovascular outcomes trial for zenagamtide, Roche's enicepatide head-to-head with tirzepatide, and two Pfizer berobenatide trials.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-10-19",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Viking Therapeutics",
+          "title": "Initiation of VK2735 oral Phase 3 program",
+          "url": "https://ir.vikingtherapeutics.com/2026-10-14-Viking-Therapeutics-Announces-Initiation-of-VK2735-Oral-Phase-3-Clinical-Program-in-Patients-with-Obesity",
+          "date": "2026-10-14"
+        },
+        {
+          "publication": "ClinicalTrials.gov",
+          "title": "AMPLIFY-1 (NCT07881432)",
+          "url": "https://clinicaltrials.gov/study/NCT07881432",
+          "date": "2026-10-19"
+        },
+        {
+          "publication": "ClinicalTrials.gov",
+          "title": "AMBIENCE (NCT07861100)",
+          "url": "https://clinicaltrials.gov/study/NCT07861100",
+          "date": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "pipeline",
+        "phase-3",
+        "vk2735",
+        "eloralintide",
+        "maritide",
+        "zenagamtide",
+        "enicepatide",
+        "berobenatide",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-114",
+      "headline": "KFF: Employer GLP-1 Weight-Loss Coverage Flat at 18%; 12% of Non-Covering Firms Recently Dropped It",
+      "summary": "KFF's 2026 Employer Health Benefits Survey (Oct 22) found 18% of firms with 200+ workers cover GLP-1s for weight loss, versus 19% last year. Coverage rises to 33% at firms with 5,000+ workers. Of firms not covering, 12% stopped in the past year and 79% say they are not likely to add coverage. Among covering firms, 40% now require a lifestyle-program step, up from 34%.",
+      "market": "us",
+      "category": "policy",
+      "timestamp": "2026-10-22",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "KFF",
+          "title": "2026 Employer Health Benefits Survey",
+          "url": "https://www.kff.org/health-costs/2026-employer-health-benefits-survey/",
+          "date": "2026-10-22"
+        }
+      ],
+      "tags": [
+        "insurance",
+        "kff",
+        "employer-coverage",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-113",
+      "headline": "CDSCO Panel Defers Novo's Oral Wegovy in India, Clears Oral Semaglutide Trials for Dr Reddy's and Torrent",
+      "summary": "CDSCO's endocrinology expert committee minutes, posted Oct 19 and Oct 23, show Novo's import application for Wegovy tablets (1.5–25mg) was not yet recommended. The committee asked for Indian bioequivalence data on the R2 formulation and justification for varying SNAC concentrations. It recommended trials of oral semaglutide by Dr Reddy's (versus Rybelsus) and Torrent, a LevimLifetech biosimilar semaglutide pen trial, Virchow's liraglutide approval, and a Lilly orforglipron Phase III amendment.",
+      "market": "india",
+      "category": "regulatory",
+      "timestamp": "2026-10-23",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "CDSCO",
+          "title": "SEC Endocrinology & Metabolism recommendations, 23.09.2026",
+          "url": "https://cdsco.gov.in/opencms/opencms/resources/UploadCDSCOWeb/2018/UploadCommitteeFiles/Recommendations%20Endocrinology%20and%20Metabolism%2023.09.2026.pdf",
+          "date": "2026-10-19"
+        },
+        {
+          "publication": "CDSCO",
+          "title": "SEC Endocrinology & Metabolism recommendations, 07.10.2026",
+          "url": "https://cdsco.gov.in/opencms/opencms/resources/UploadCDSCOWeb/2018/UploadCommitteeFiles/Recommendations%20Endocrinology%20and%20Metabolism%2007.10.2026%20%281%29.pdf",
+          "date": "2026-10-23"
+        }
+      ],
+      "tags": [
+        "cdsco",
+        "india",
+        "oral-wegovy",
+        "dr-reddys",
+        "torrent",
+        "orforglipron",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-112",
+      "headline": "Dr Reddy's Q2: Profit Down 36%, Semaglutide Relaunch Targeted for November After API Recall",
+      "summary": "Dr Reddy's reported Q2 FY27 revenue of ₹8,671 crore (−1.5%) and PAT of ₹925 crore (−36%) on Oct 23. India sales grew 17%, with semaglutide a 'significant contributor'. It booked a ₹71 crore revenue reduction for its August Canada semaglutide recall over an impurity. Supply is due to resume 'by November 2026', subject to validation, with most early volume going to Canada. It also disclosed FDA Form 483s from October inspections at two Andhra Pradesh sites; neither is stated to be a semaglutide site.",
+      "market": "india",
+      "category": "commercial",
+      "timestamp": "2026-10-23",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "SEC EDGAR (Dr Reddy's 6-K)",
+          "title": "Q2 FY27 investor presentation",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001135951/000157587226000721/rdy0951_ex99-1.pdf",
+          "date": "2026-10-23"
+        }
+      ],
+      "tags": [
+        "dr-reddys",
+        "earnings",
+        "semaglutide",
+        "canada",
+        "recall",
+        "form-483",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-111",
+      "headline": "Retatrutide Cuts Sleep Apnea Severity by Up to 34 Events/Hour in NEJM-Published TRIUMPH-OSA Trials",
+      "summary": "NEJM published two Phase 3 trials on Oct 21. In TRIUMPH-1-OSA (n=243, no diabetes), retatrutide 9mg and 12mg cut the apnea-hypopnea index by 34.3 and 31.7 events/hour, versus 9.9 on placebo, at 80 weeks. Weight fell by up to 22.2%. In TRIUMPH-2-OSA (n=448, with type 2 diabetes), the AHI fell by 24.7–25.4 versus 10.3 on placebo. GI events were the most common adverse effects.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-10-21",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "NEJM",
+          "title": "Retatrutide in obstructive sleep apnea (TRIUMPH-1-OSA / TRIUMPH-2-OSA)",
+          "url": "https://doi.org/10.1056/NEJMoa2611477",
+          "date": "2026-10-21"
+        }
+      ],
+      "tags": [
+        "retatrutide",
+        "osa",
+        "nejm",
+        "lilly",
+        "triumph",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-110",
+      "headline": "India Generic Semaglutide at Six Months: 12 Companies, ~20 Brands, ₹1,290/Month Floor; Generics Take 58.8% of Value",
+      "summary": "BioPharma APAC's six-month tally (Oct 9) counts 12 companies selling about 20 generic semaglutide brands in India. Prices start at ₹1,290/month for vials and run to about ₹8,000 at top pen strengths. Pharmarack data relayed by Adgully (Oct 23) shows generics took 58.8% of semaglutide value in September, with GLP-1 value up 72% year on year. Reuters puts Dr Reddy's at ~442k units through September versus Sun's ~151k. China still has zero generic approvals.",
+      "market": "india",
+      "category": "commercial",
+      "timestamp": "2026-10-09",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "BioPharma APAC",
+          "title": "Semaglutide generics six months in",
+          "url": "https://biopharmaapac.com/analysis/23/8540/semaglutide-generics-six-months-in-every-launch-in-india-every-price-and-where-china-stands.html",
+          "date": "2026-10-09"
+        },
+        {
+          "publication": "Reuters (via KSL)",
+          "title": "Dr Reddy's rolls out new generic Ozempic brands amid Obeda supply disruption",
+          "url": "https://www.ksl.com/article/51640064/exclusive-dr-reddys-rolls-out-new-generic-ozempic-brands-amid-obeda-supply-disruption",
+          "date": "2026-10-23"
+        }
+      ],
+      "tags": [
+        "india",
+        "generics",
+        "semaglutide",
+        "pharmarack",
+        "dr-reddys",
+        "sun-pharma",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-109",
+      "headline": "FDA Again Rules Retatrutide Is a Drug, Not a Biologic; Lilly Presses 7th Circuit Appeal Over Exclusivity",
+      "summary": "On remand, FDA concluded on Oct 2 that retatrutide is neither a 'protein' nor an 'analogous product'. It must therefore be filed as an NDA rather than a BLA, which would carry 12-year exclusivity. Lilly's Oct 8 supplemental brief in Eli Lilly v. Kennedy (7th Cir. No. 26-1301) argues the appeal is the only forum that can resolve the issue. No appellate ruling has been issued, and Lilly guides to a US retatrutide filing in early 2027.",
+      "market": "us",
+      "category": "regulatory",
+      "timestamp": "2026-10-08",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "CourtListener (FDA letter)",
+          "title": "FDA remand decision on retatrutide",
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.ca7.55916/gov.uscourts.ca7.55916.46.2.pdf",
+          "date": "2026-10-02"
+        },
+        {
+          "publication": "CourtListener (Lilly brief)",
+          "title": "Lilly supplemental brief, 7th Cir. No. 26-1301",
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.ca7.55916/gov.uscourts.ca7.55916.47.0.pdf",
+          "date": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "retatrutide",
+        "fda",
+        "biologic",
+        "exclusivity",
+        "lilly",
+        "7th-circuit",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-108",
+      "headline": "Two FDA Death Reports Tied to Black-Market Retatrutide; Poison-Center Exposures Nearly Double in Q3",
+      "summary": "CBS News reported on Oct 13, via a records request, that FDA received two adverse-event reports of deaths linked to black-market retatrutide. One was a 41-year-old woman in July and one a 49-year-old in September, both involving cardiac arrest; FDA has not said whether it verified them. America's Poison Centers logged 862 retatrutide exposures in July–September, versus 460 in April–June and 249 in January–March. Retatrutide is unapproved, and Lilly called the products 'black-market'.",
+      "market": "us",
+      "category": "safety",
+      "timestamp": "2026-10-13",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "CBS News",
+          "title": "Deaths reported to FDA tied to bootleg 'reta' weight-loss drug",
+          "url": "https://www.cbsnews.com/news/deaths-reported-fda-bootleg-reta-weight-loss-drug/",
+          "date": "2026-10-13"
+        }
+      ],
+      "tags": [
+        "retatrutide",
+        "black-market",
+        "faers",
+        "poison-centers",
+        "lilly",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-107",
+      "headline": "FDA Inspections Find Black Mold and Relabeled API at Chinese Plants Supplying US Compounded GLP-1s",
+      "summary": "Bloomberg (Oct 15) obtained FDA Form 483s for two Chinese semaglutide and tirzepatide API suppliers to US compounders. At Chengdu Shengnuo, inspectors found black mold, 'significant insect activity', and staff who allegedly hid documents and poured samples down sinks. At Nanjing Chengong, workers relabeled API bought from other factories as their own without reviewing test data. Both plants are on FDA import alert. Amphastar holds 11.5% of Nanjing's parent, Hanxin.",
+      "market": "us",
+      "category": "safety",
+      "timestamp": "2026-10-15",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Bloomberg (reprint)",
+          "title": "Black mold, bugs found at Chinese plants making GLP-1 compounding agents",
+          "url": "https://dnyuz.com/2026/10/19/black-mold-bugs-found-at-chinese-plants-making-glp-1-compounding-agents/",
+          "date": "2026-10-19"
+        }
+      ],
+      "tags": [
+        "compounding",
+        "china",
+        "api",
+        "import-alert",
+        "fda",
+        "semaglutide",
+        "tirzepatide",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-106",
+      "headline": "CagriSema Delivers 25.0% Weight Loss in Women in REDEFINE 1 Post Hoc; FDA Decision Still Due Q4 2026",
+      "summary": "Novo presented post hoc REDEFINE 1 analyses at The Menopause Society on Oct 20. Among 2,309 women, CagriSema 2.4/2.4mg produced 25.0% weight loss at week 68 versus 3.0% on placebo, and 68.7% of women reached ≥20% loss. Results were similar across menopausal stages: pre −26.7%, peri −24.8%, post −23.1%. GI adverse events occurred in 79.6% versus 39.9% on placebo. The full-trial result remains 20.4% (treatment-policy estimand), and Novo still guides to an FDA decision in Q4 2026.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-10-20",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Novo Nordisk",
+          "title": "CagriSema post hoc analyses in women",
+          "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=918569",
+          "date": "2026-10-20"
+        }
+      ],
+      "tags": [
+        "cagrisema",
+        "novo-nordisk",
+        "redefine-1",
+        "women",
+        "menopause",
+        "october-2026"
+      ]
+    },
+    {
+      "id": "story-105",
+      "headline": "CHMP Recommends EU Approval of Lilly's Foundayo (Orforglipron) for Obesity and Type 2 Diabetes",
+      "summary": "EMA's CHMP adopted a positive opinion on Oct 15 for Lilly's oral GLP-1 Foundayo in six strengths (0.8–17.2mg), for weight management (BMI ≥30, or ≥27 with a comorbidity) and for type 2 diabetes. EMA cited 72-week weight loss of ~5–11% versus ~2–2.5% on placebo across 4,740 adults, and HbA1c reductions of 1.2–1.9 points across 3,765 adults. A European Commission decision typically follows in about 67 days, putting Foundayo up against Novo's Wegovy pill in Europe.",
+      "market": "global",
+      "category": "regulatory",
+      "timestamp": "2026-10-15",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "EMA",
+          "title": "New oral GLP-1 medicine for weight management and type 2 diabetes",
+          "url": "https://www.ema.europa.eu/en/news/new-oral-glp-1-medicine-weight-management-type-2-diabetes",
+          "date": "2026-10-16"
+        },
+        {
+          "publication": "EMA",
+          "title": "CHMP meeting highlights 12–15 October 2026",
+          "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026",
+          "date": "2026-10-16"
+        }
+      ],
+      "tags": [
+        "foundayo",
+        "orforglipron",
+        "ema",
+        "chmp",
+        "lilly",
+        "eu",
+        "october-2026"
+      ]
+    },
     {
       "id": "story-104",
       "headline": "VERIFICATION CHECK — Sep 28 to Oct 5 Sweep Was Search-Capped; Several Topics Unverified Rather Than Empty",

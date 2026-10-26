@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-10-05T00:00:00Z",
-    "entry_count": 22,
+    "last_updated": "2026-10-26T00:00:00Z",
+    "entry_count": 23,
     "key_metrics": [
       {
-        "label": "PRAC New GLP-1 Signals",
-        "value": "2 (colitis, alopecia)"
+        "label": "FDA GLP-1 Safety Action",
+        "value": "None in window"
       },
       {
-        "label": "Mounjaro EU Label",
-        "value": "OC interaction update"
+        "label": "Reta Black-Market Deaths",
+        "value": "2 FAERS reports"
       },
       {
-        "label": "Retatrutide Dysesthesia",
-        "value": "7.3% vs 0.7% placebo"
+        "label": "Suicidality (Medicare)",
+        "value": "HR 0.81 — lower"
       },
       {
-        "label": "Semaglutide NAION",
-        "value": "HR 1.54 (1.31–1.82)"
+        "label": "Post-Anesthesia Pulm AEs",
+        "value": "HR 0.68 — lower"
       },
       {
-        "label": "ANVISA NAION Reports",
-        "value": "13 under review"
+        "label": "Pregnancy Malformations",
+        "value": "OR 0.99 (no signal)"
       },
       {
-        "label": "Adolescent Suicidality",
-        "value": "HR 0.74 — lower"
+        "label": "MDL 3094 Pending",
+        "value": "4,025 · 702 ruling due"
       },
       {
-        "label": "MHRA Yellow Card",
-        "value": "No update in window"
+        "label": "NAION MDL 3163",
+        "value": "247 pending (+31)"
       }
     ]
   },
@@ -76,6 +76,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "safety-entry-020",
+      "timestamp": "2026-10-26T00:00:00Z",
+      "source_url": "https://www.cbsnews.com/news/deaths-reported-fda-bootleg-reta-weight-loss-drug/",
+      "source_name": "CBS News / FDA / EMA PRAC / PubMed-indexed journals / MDL 3094 trackers",
+      "market": "both",
+      "summary": "No FDA Drug Safety Communication or GLP-1 label safety change appeared in the window. MHRA's October Drug Safety Update has no GLP-1 item, and EMA's PRAC is meeting Oct 26–29. Two black-market retatrutide death reports reached FDA (CBS News, Oct 13). Published studies mostly lean reassuring. A Medicare type 2 diabetes cohort found suicidal ideation and self-harm HR 0.81, while depression was slightly higher at HR 1.11. A 21,948-patient study found lower post-anesthesia pulmonary events (HR 0.68), and pregnancy meta-analyses show no malformation signal. In MDL 3094, closing arguments on expert admissibility were heard Oct 13, with no ruling yet and 4,025 cases pending.",
+      "content": "October 5 - October 26, 2026 safety signals.\n\n1. REGULATORS — NO NEW GLP-1 ACTION IN WINDOW\n   - FDA Drug Safety Communications: none on GLP-1s (index current Sep 15)\n   - Drugs@FDA: no Wegovy, Ozempic, Zepbound or Mounjaro label supplements dated Sep 15 – Oct 26\n   - MHRA Drug Safety Update, October: no GLP-1 article\n   - Health Canada: no October GLP-1 alert (latest is the Sep 24 Apo-Semaglutide dose-display recall)\n   - India PvPI / CDSCO alerts: no semaglutide or tirzepatide alert found\n   - EMA PRAC Sep 28 – Oct 1 agenda (pre-window) carried: semaglutide ischaemic colitis (EPITT 20309), liraglutide\n     alopecia (EPITT 20311), follow-up on semaglutide GI volvulus, and a Mounjaro oral-contraceptive SmPC variation.\n     Outcomes were not retrievable. PRAC Oct 26–29 is in session; no agenda posted.\n\n2. BLACK-MARKET RETATRUTIDE DEATHS (CBS News, Oct 13)\n   - Two FAERS death reports (41-year-old woman, cardiac arrest, July; 49-year-old, September, cardiac arrest after\n     severe dehydration and malnutrition). Not verified by FDA.\n   - Poison-center retatrutide exposures 862 in Jul–Sep vs 460 in Apr–Jun (America's Poison Centers)\n   - JAMA Medical News (Oct 9): FDA has issued 21 warning letters to retatrutide sellers since Dec 2024\n   - https://www.cbsnews.com/news/deaths-reported-fda-bootleg-reta-weight-loss-drug/\n\n3. PUBLISHED SAFETY STUDIES IN WINDOW\n   - Psychiatric (Diabetes Obes Metab, Oct 25; Medicare T2D, PS-matched): any psychiatric disorder HR 1.04;\n     depression HR 1.11; suicidal ideation/self-harm HR 0.81; substance use HR 0.84. https://doi.org/10.1111/dom.71459\n   - Anesthesia/aspiration (Am J Med, Oct 21; n=21,948 matched): post-anesthetic pulmonary AEs HR 0.68 (0.50–0.94);\n     GI AEs HR 1.03\n   - Retinal vein occlusion (J Vitreoretin Dis, Oct 17; 53,413 per arm): HR 0.66 at 1 year\n   - Pregnancy: meta-analysis of ≥46,341 exposed pregnancies (Front Pharmacol, Oct 16) found major malformations\n     OR 0.99 (0.77–1.27), GRADE very low. A separate 2.1M-woman periconceptional meta-analysis (Med, Oct 9) found\n     no increase in miscarriage or anomalies.\n   - NAION: two small cohorts (n=100 Thai; n=121 Abu Dhabi) found no NAION events. Underpowered; does not\n     displace the prior HR 1.54 signal.\n   - FAERS semaglutide disproportionality (Clin Nutr ESPEN, Oct 12; 43,754 reports): signals for optic ischaemic\n     neuropathy and DKA; hypothesis-generating\n   - Recurrent pancreatitis systematic review (Acta Diabetol, Oct 14): vs SGLT2i OR 0.57 (0.52–0.64)\n\n4. LITIGATION\n   - MDL 3094 (GI injuries, E.D. Pa., Judge Marston): closing arguments on Rule 702 expert issues Oct 13; no ruling as\n     of Oct 23; no bellwether date. 4,025 pending actions as of Oct 1. Next status conferences Nov 17 and Dec 15.\n   - MDL 3163 (NAION, E.D. Pa.): 247 pending as of Oct 1 (216 on Sep 1); 20+ new transfers Oct 6–23\n   - Google Trends US shows \"ozempic and vision loss naion\" as a breakout query and \"todd engel ozempic claim\" +700%\n     in window. No news source was retrieved to explain it, so treat it as a lead, not an event.\n   - Sources are secondary trackers: https://lawsuitstatusguide.com/lawsuits/ozempic/\n",
+      "tags": [
+        "safety",
+        "retatrutide",
+        "black-market",
+        "faers",
+        "psychiatric",
+        "anesthesia",
+        "pregnancy",
+        "naion",
+        "mdl-3094",
+        "mdl-3163",
+        "october-2026"
+      ]
+    },
     {
       "id": "safety-entry-019",
       "timestamp": "2026-10-05T00:00:00Z",

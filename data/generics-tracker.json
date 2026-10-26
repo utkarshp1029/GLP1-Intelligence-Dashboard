@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-10-05T00:00:00Z",
-    "entry_count": 35,
+    "last_updated": "2026-10-26T00:00:00Z",
+    "entry_count": 36,
     "key_metrics": [
       {
-        "label": "India GLP-1 August",
-        "value": "₹247cr (flat vs ₹245)"
+        "label": "India Generic Sema",
+        "value": "12 cos · ~20 brands"
       },
       {
-        "label": "India GLP-1 MAT-Aug",
-        "value": "₹2,333cr"
+        "label": "Generics Share (Sep)",
+        "value": "58.8% of sema value"
       },
       {
-        "label": "Generic Inj. Brands",
-        "value": "33 · 11 = 80% units"
+        "label": "India GLP-1 Latest ₹",
+        "value": "₹247cr (Aug; Sep n/a)"
       },
       {
-        "label": "Sun Pharma Pen Share",
-        "value": "21% (displaced Torrent)"
+        "label": "DRL vs Sun Units",
+        "value": "442k vs 151k (to Sep)"
       },
       {
-        "label": "Generic Sema Users",
-        "value": "~290,000 · +16% MoM"
+        "label": "Brazil Sema Generics",
+        "value": "10 registered · 2 sold"
       },
       {
-        "label": "New Generic Markets",
-        "value": "Canada·Saudi·Kenya·SA"
+        "label": "China Generic Sema",
+        "value": "0 approved"
       },
       {
         "label": "India Tirzepatide",
@@ -241,6 +241,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-022",
+      "timestamp": "2026-10-26T00:00:00Z",
+      "source_url": "https://biopharmaapac.com/analysis/23/8540/semaglutide-generics-six-months-in-every-launch-in-india-every-price-and-where-china-stands.html",
+      "source_name": "BioPharma APAC / Reuters / Dr Reddy's 6-K / Adgully (Pharmarack) / Exame / Generics Bulletin",
+      "market": "both",
+      "summary": "Six months into India's generic semaglutide market, 12 companies sell about 20 brands, with prices from ₹1,290/month for vials. Generics took 58.8% of semaglutide value in September, per Pharmarack figures relayed by Adgully. The September ₹-crore GLP-1 total was not found, so August's ₹247 crore remains the latest print. Dr Reddy's leads on units (~442k through September versus Sun's ~151k) and targets a November relaunch after an API recall. In Brazil, Anvisa has registered 10 semaglutide products, but only EMS Ozivy and Hypera Semavy are on sale. China still has zero generic approvals. No new India brand launches were confirmed in the window.",
+      "content": "October 5 - October 26, 2026 generics.\n\n1. INDIA — SIX-MONTH STATUS (BioPharma APAC, Oct 9; data to Oct 8)\n   - 12 companies with public launches selling ~20 brands (other estimates range 13–40 players)\n   - Prices: vials from ₹1,290/month (Natco, Eris); pens ₹1,800 (Alkem) to ₹4,200 (Dr Reddy's Obeda);\n     Sun Noveltreat up to ~₹8,000 at top strengths\n   - April 2026: semaglutide market ₹88 crore, generics ₹44 crore (50% of value, ~80% of units)\n   - Dr Reddy's paused supply Jul 9 after batches failed spec; Torrent recalled DRL-made Semalix batches and\n     sourced an alternative supplier with the full range back by end-August\n\n2. INDIA — SEPTEMBER MARKET DATA (partial)\n   - Adgully (citing Pharmarack, Oct 23): GLP-1 value +72% YoY; generics took 58.8% of semaglutide value in September.\n     Single secondary source; the September GLP-1 ₹-crore total was NOT found, so August's ₹247 crore remains latest.\n   - Reuters (Oct 23, citing Pharmarack): Dr Reddy's ~442,000 units sold in India through September; Sun Pharma ~151,000.\n     \"Units\" is not defined, so the pen/vial dose count is unverified.\n   - Dr Reddy's launched Hetero-made Obeda Pro / Obeda Plus after the original Obeda (OneSource-made) was halted\n   - https://www.ksl.com/article/51640064/exclusive-dr-reddys-rolls-out-new-generic-ozempic-brands-amid-obeda-supply-disruption\n\n3. DR REDDY'S — RELAUNCH AND APPROVALS (Q2 FY27 results, Oct 23)\n   - \"Subject to successful validation\", supply to resume by November 2026; most early volume goes to Canada,\n     then LatAm and Africa\n   - Generic semaglutide approved in 10 countries including Canada and India\n   - Canada recall for \"elevated levels of unspecified impurity\" booked as a ₹71 crore revenue reduction\n   - https://www.sec.gov/Archives/edgar/data/1135951/000157587226000725/rdy0952_ex99-3.htm\n\n4. INDIA TIRZEPATIDE — UNCHANGED\n   - Still a Mounjaro + Cipla Yurpeak duopoly (patent ~2033–36). The brand count above applies to semaglutide only.\n   - No Mounjaro India price cut found (MRP ₹13,125–25,781/month by strength, per a clinic site reviewed Oct 19)\n\n5. BRAZIL (Exame, Oct 23)\n   - Anvisa has registered 10 synthetic/similar semaglutide products; only EMS Ozivy (on sale since June) and Hypera\n     Semavy (since September) are on shelves\n   - Approved but not launched: Owozy (Ávita Care), Seemasun (Sun), Zempneo (Brainfarma/Hypera), Orsema (Ranbaxy),\n     EMS Semaglutida, Germed Semaclique\n   - Pricing: Ozivy launched at R$452–498/pen; EMS and Hypera both run 3-for-R$999 promos (~R$333/unit)\n   - Health Ministry asked Conitec to assess SUS inclusion. Exame's \"R$13.54 billion\" Mounjaro first-year figure\n     looks implausible as printed and is not used here.\n   - https://exame.com/negocios/ozempic-patente-quem-disputa-mercado-canetas/\n\n6. CHINA — STILL ZERO GENERIC APPROVALS\n   - 10–12 applications pending; Jiuyuan's review suspended over data protection (Novo asserts protection to Apr 2027)\n\n7. CANADA — NO CONFIRMED IN-WINDOW NEWS\n   - Sandoz NOC Sep 18 (pre-window); Apotex on market since May. No confirmed October launch, provincial listing or\n     shortage update (Health Canada databases returned 403).\n   - A pCPA tiered generic pricing framework was described by a secondary price tracker (Oct 8). Unverified.\n\n8. EU — EPO BOARD OF APPEAL REVOKES NOVO SEMAGLUTIDE CV PATENT EP 3,448,416 (Generics Bulletin, Oct 13)\n   - See patents-ip. Novo says \"no significant business impact is expected\".\n\n9. NOT FOUND / NOT REACHED\n   - New India brand launches in October; Novo India price cuts; US liraglutide generics data; new US semaglutide\n     ANDA filings; Turkey, Kenya, Mexico, Indonesia, South Africa; Hikma Saudi (no update since the Sep 16 launch)\n",
+      "tags": [
+        "generics",
+        "india",
+        "semaglutide",
+        "pharmarack",
+        "dr-reddys",
+        "obeda",
+        "brazil",
+        "anvisa",
+        "china",
+        "canada",
+        "october-2026"
+      ]
+    },
     {
       "id": "gen-entry-021",
       "timestamp": "2026-10-05T00:00:00Z",

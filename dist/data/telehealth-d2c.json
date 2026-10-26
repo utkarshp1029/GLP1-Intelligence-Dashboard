@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-10-05T00:00:00Z",
-    "entry_count": 23,
+    "last_updated": "2026-10-26T00:00:00Z",
+    "entry_count": 24,
     "key_metrics": [
       {
-        "label": "OCTANE Pill Switch",
-        "value": "−4.1% more at 3 mo"
+        "label": "Hims FTC Hearing",
+        "value": "Jan 7, 2027"
       },
       {
-        "label": "OCTANE Sample",
-        "value": "n=194 Ro patients"
+        "label": "Hims Class Action",
+        "value": "Lead-plaintiff Nov 2"
       },
       {
-        "label": "WW Oct 1 Move",
-        "value": "−10.3% to $13.80"
+        "label": "Wegovy Pill via Hims/Ro",
+        "value": "$448/mo"
       },
       {
-        "label": "WW YTD",
-        "value": "−56.1%"
+        "label": "Wegovy Pill via NovoCare",
+        "value": "$299/mo maintenance"
       },
       {
-        "label": "HIMS Suit Deadline",
-        "value": "Nov 2 lead plaintiff"
+        "label": "Hims Q3 Guide",
+        "value": "$880–900m revenue"
       },
       {
-        "label": "Compounded Sema AEs",
-        "value": "990 (to May 31)"
+        "label": "New GLP-1 D2C Deals",
+        "value": "None found in window"
       }
     ]
   },
@@ -136,6 +136,24 @@
     }
   ],
   "entries": [
+    {
+      "id": "th-entry-018",
+      "timestamp": "2026-10-26T00:00:00Z",
+      "source_url": "https://www.claimsjournal.com/news/national/2026/10/26/340896.htm",
+      "source_name": "Claims Journal (Bloomberg) / Hims & Hers newsroom / SEC EDGAR / glpchart.com / TrumpRx.gov",
+      "market": "us",
+      "summary": "A quiet window for GLP-1 telehealth. Hims & Hers moved to dismiss the FTC, Utah and LA County subscription and data-sharing suit; the hearing is set for Jan 7, 2027. A securities class action against Hims has a Nov 2 lead-plaintiff deadline. Hims expanded to Australia and Germany but made no GLP-1 product or pricing announcement. A third-party price index (Oct 19) shows the Wegovy pill at $299 maintenance via NovoCare or Amazon versus $448 via Hims, Ro or LifeMD. No new LillyDirect, NovoCare, TrumpRx or India D2C partnerships were found.",
+      "content": "October 5 - October 26, 2026 telehealth & D2C.\n\n1. HIMS & HERS — FTC SUIT MOTION TO DISMISS (Oct 26)\n   - FTC v. Hims & Hers Health, N.D. Cal. No. 26-cv-7871 (Judge Chhabria); co-plaintiffs Utah and LA County\n   - Hims argues its privacy policy discloses ad-sharing and that the Restore Online Shoppers' Confidence Act was misapplied\n   - Hearing Jan 7, 2027. GLP-1s are not specifically referenced beyond \"obesity\" as a treated condition.\n   - https://www.claimsjournal.com/news/national/2026/10/26/340896.htm\n\n2. HIMS — SECURITIES CLASS ACTION (law-firm notices Oct 8 and Oct 23)\n   - Lead-plaintiff deadline Nov 2, 2026; class period Aug 4, 2025 – Jul 29, 2026 (stock −14.7% to $25.00 on Jul 29)\n   - Allegations track the FTC complaint; no compounded-semaglutide or Novo allegations in the notices\n\n3. HIMS — CORPORATE AND INTERNATIONAL\n   - New Chief Accounting Officer Jonathan Franklin (8-K Oct 7; effective Oct 9)\n   - Hers launched in Australia (Oct 12) and Hims in Germany (Oct 20); \"clinician-led care\" post (Oct 15)\n   - No GLP-1 product, pricing or compounding-status announcement in window\n   - Q3 guidance (prior): revenue $880–900m. Q3 date Nov 9 per Quartr; not company-confirmed.\n\n4. D2C PRICE SNAPSHOT (glpchart.com, verified Oct 19; aggregator data)\n   - Wegovy pill maintenance: $299 NovoCare/Amazon | $448 Hims, Ro, LifeMD | $373 WW (12-month lock)\n     | $398 Costco/Sesame | $338 GoodRx | $328 CVS MinuteClinic\n   - Noom lists compounded semaglutide at $249\n   - https://glpchart.com/price-index/\n\n5. NO NEWS FOUND IN WINDOW\n   - Ro, Noom, WeightWatchers, LifeMD, Calibrate, Found, Sesame (press pages 403 or not rendering)\n   - LillyDirect / NovoCare new partnerships; TrumpRx telehealth integrations\n   - FTC or state attorney-general actions on GLP-1 telehealth ads; FDA telehealth warning letters\n   - India D2C: no item for Tata 1mg, PharmEasy, Apollo 24|7 or Fitterfly, and no CDSCO action on online GLP-1 sales\n",
+      "tags": [
+        "telehealth",
+        "hims-hers",
+        "ftc",
+        "class-action",
+        "price-index",
+        "wegovy-pill",
+        "october-2026"
+      ]
+    },
     {
       "id": "th-entry-017",
       "timestamp": "2026-10-05T00:00:00Z",

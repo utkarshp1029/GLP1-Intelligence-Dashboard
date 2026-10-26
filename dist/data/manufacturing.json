@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-10-05T00:00:00Z",
-    "entry_count": 24,
+    "last_updated": "2026-10-26T00:00:00Z",
+    "entry_count": 25,
     "key_metrics": [
+      {
+        "label": "DRL Sema Relaunch",
+        "value": "Nov 2026 (pending)"
+      },
+      {
+        "label": "DRL Oct FDA 483s",
+        "value": "2 sites · 2 + 3 obs."
+      },
+      {
+        "label": "Samsung–PolyPeptide",
+        "value": "87.59% tendered"
+      },
+      {
+        "label": "Lilly Virginia Site",
+        "value": "$5B · oncology ADCs"
+      },
       {
         "label": "Lilly Houston Capex",
         "value": "$6.5B · 236 acres"
       },
       {
-        "label": "Houston Jobs",
-        "value": "615 permanent"
+        "label": "Novo Mfg News",
+        "value": "None in window"
       },
       {
-        "label": "Novo Top-5 Site Capex",
-        "value": "143 bDKK (~$22B)"
-      },
-      {
-        "label": "Novo 2026 Capex",
-        "value": "~55 bDKK (was 60)"
-      },
-      {
-        "label": "Novo Fill-Finish Sites",
-        "value": "11 · 7 API sites"
-      },
-      {
-        "label": "Oral Capacity Target",
-        "value": "10x by 2030"
-      },
-      {
-        "label": "Wegovy Pill Scripts",
-        "value": "7M in 34 weeks"
+        "label": "Section 232 (Lilly/Novo)",
+        "value": "0% to Jan 2029"
       }
     ]
   },
@@ -90,6 +90,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "mfg-entry-021",
+      "timestamp": "2026-10-26T00:00:00Z",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1135951/000157587226000721/rdy0951_ex99-1.pdf",
+      "source_name": "Dr Reddy's 6-K / Lilly (PR Newswire) / PolyPeptide Group / Pharmabiz / SEC EDGAR",
+      "market": "both",
+      "summary": "Dr Reddy's says its semaglutide API remediation is 'on track', with relaunch targeted for November pending validation. It disclosed FDA Form 483s with 2 and 3 observations from October inspections at two Andhra Pradesh sites; neither is confirmed as a semaglutide site. Samsung Biologics' tender for peptide maker PolyPeptide reached 87.59% acceptance. Lilly broke ground on a $5bn Virginia plant on Oct 22, but it is for oncology ADCs, not incretins. Novo's only filings in the window were buyback updates. No new GLP-1 capacity was announced by Lilly or Novo.",
+      "content": "October 5 - October 26, 2026 manufacturing.\n\n1. DR REDDY'S — SEMAGLUTIDE API REMEDIATION AND FDA INSPECTIONS (Q2 FY27 deck, Oct 23)\n   - \"On track to resolve issue associated with semaglutide API, where certain batches were found to be out of specification\"\n   - Revised API shipped to the fill-finish partner; validation pending; relaunch targeted November 2026\n   - API (PSAI) revenue ₹831 crore, −12% YoY on \"lower API volume offtake\"\n   - FDA Form 483s from October 2026 pre-approval inspections: FTO-11 Pydibhimavaram (2 observations) and FTO-9\n     Visakhapatnam (3 observations). The deck does NOT say these sites make semaglutide; do not infer it.\n   - https://www.sec.gov/Archives/edgar/data/1135951/000157587226000721/rdy0951_ex99-1.pdf\n\n2. SAMSUNG BIOLOGICS — POLYPEPTIDE TENDER CLEARS THRESHOLD (Oct 13 / Oct 16)\n   - 29,014,418 shares tendered = 87.59% of share capital; with concert parties 87.92%\n   - Additional acceptance period Oct 19–30; EGM Oct 26; remaining conditions are regulatory approvals\n   - PolyPeptide runs 6 GMP peptide sites (Europe, US, India) with \"significant exposure to GLP-1\"\n   - Total offer value (~CHF 1.46bn) seen only in a search snippet. UNVERIFIED.\n   - https://www.polypeptide.com/news/provisional-interim-result-of-the-public-tender-offer-of-samsung-biologics-co-ltd/\n\n3. LILLY — $5BN VIRGINIA SITE GROUNDBREAKING (Oct 22) — NOT GLP-1\n   - Goochland County, 227 acres, ~650 permanent jobs; first Lilly site making API and finished product in one plant\n   - Product focus is antibody-drug conjugates for oncology, not incretins. Site #10 of Lilly's >$50bn US buildout.\n   - No other Lilly manufacturing, orforglipron capacity or CDMO releases were found in window.\n   - https://www.prnewswire.com/news-releases/lilly-breaks-ground-in-richmond-to-expand-american-manufacturing-of-next-generation-cancer-medicines-advancing-its-build-out-of-10-new-us-sites-since-2020-302916266.html\n\n4. NOVO NORDISK — NO MANUFACTURING NEWS\n   - All 6-Ks filed Oct 5–19 are share-buyback reports\n   - Pre-window (Oct 2): FDA review of denecimig (haemophilia A) delayed by site remediation; Novo says other marketed\n     products are unaffected\n\n5. INDIA — CONTEXT\n   - Bulk Drug PLI tally (Pharmabiz, Oct 26): 29 projects, ~57,900 MT capacity. No GLP-1 or peptide API named.\n   - Kilitch Drugs redeploying $14m from an Ethiopian divestment into GLP-1 manufacturing at Pen, Maharashtra (Oct 24)\n   - South Korea's clinic-diversion inspections are covered in supply-chain\n\n6. NO NEWS FOUND IN WINDOW\n   - Bachem, CordenPharma, Ypsomed, SHL, Stevanato (no material items); Novo Catalent sites, Clayton, Kalundborg\n   - Section 232: no in-window change. CBP guidance of Sep 28 keeps 0% for onshoring + MFN signatories to Jan 20, 2029.\n",
+      "tags": [
+        "manufacturing",
+        "dr-reddys",
+        "form-483",
+        "semaglutide-api",
+        "polypeptide",
+        "samsung-biologics",
+        "lilly-virginia",
+        "cdmo",
+        "october-2026"
+      ]
+    },
     {
       "id": "mfg-entry-020",
       "timestamp": "2026-10-05T00:00:00Z",
