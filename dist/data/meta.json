@@ -12,8 +12,8 @@
           "value": "$149–299/mo (unchanged)"
         },
         {
-          "label": "Ozempic Pill (new)",
-          "value": "$149 / $199 / $299"
+          "label": "Ozempic Pill",
+          "value": "$149 intro / $199 / $299"
         },
         {
           "label": "Wegovy HD 7.2mg",
@@ -44,11 +44,11 @@
       "key_metrics": [
         {
           "label": "India Generic Sema",
-          "value": "12 cos · ~20 brands"
+          "value": "12 cos (APAC) · 33 brands"
         },
         {
           "label": "Generics Share (Sep)",
-          "value": "58.8% of sema value"
+          "value": "58.8% of value (Adgully)"
         },
         {
           "label": "India GLP-1 Latest ₹",
@@ -134,7 +134,7 @@
         },
         {
           "label": "Generics Share of Sema",
-          "value": "58.8% of value (Sep)"
+          "value": "58.8% of value (Adgully)"
         },
         {
           "label": "CN/IN/BR GLP-1 2035",
@@ -195,8 +195,8 @@
           "value": "$5B · oncology ADCs"
         },
         {
-          "label": "Lilly Houston Capex",
-          "value": "$6.5B · 236 acres"
+          "label": "DRL API Revenue",
+          "value": "₹831cr (−12% YoY)"
         },
         {
           "label": "Novo Mfg News",
@@ -421,7 +421,7 @@
         },
         {
           "label": "Suicidality (Medicare)",
-          "value": "HR 0.81 — lower"
+          "value": "HR 0.81 (depression 1.11)"
         },
         {
           "label": "Post-Anesthesia Pulm AEs",
@@ -452,7 +452,7 @@
         },
         {
           "label": "Coverage at 5,000+ Firms",
-          "value": "33%"
+          "value": "33% (43% in 2025)"
         },
         {
           "label": "Dropped in Last 12 Mo",
@@ -471,8 +471,8 @@
           "value": "On hold (since Apr 21)"
         },
         {
-          "label": "MFN Agreements Signed",
-          "value": "26 companies"
+          "label": "MFN Agreements",
+          "value": "26 companies (Sep)"
         }
       ]
     },
@@ -503,7 +503,7 @@
         },
         {
           "label": "India Generics Share",
-          "value": "58.8% of sema value"
+          "value": "58.8% of sema (Adgully)"
         },
         {
           "label": "Window Character",

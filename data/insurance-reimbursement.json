@@ -10,7 +10,7 @@
       },
       {
         "label": "Coverage at 5,000+ Firms",
-        "value": "33%"
+        "value": "33% (43% in 2025)"
       },
       {
         "label": "Dropped in Last 12 Mo",
@@ -29,8 +29,8 @@
         "value": "On hold (since Apr 21)"
       },
       {
-        "label": "MFN Agreements Signed",
-        "value": "26 companies"
+        "label": "MFN Agreements",
+        "value": "26 companies (Sep)"
       }
     ]
   },
@@ -114,7 +114,7 @@
       "source_url": "https://www.kff.org/health-costs/2026-employer-health-benefits-survey/",
       "source_name": "KFF / UK Commons Health Committee (via PA) / CMS / RxLineup",
       "market": "both",
-      "summary": "KFF's 2026 Employer Health Benefits Survey (Oct 22) found GLP-1 weight-loss coverage flat at 18% of firms with 200+ workers, versus 19% last year. Coverage rises to 33% at firms with 5,000+ workers, and 12% of non-covering firms dropped coverage in the past year. In the UK, the Commons Health Committee called the NHS Mounjaro rollout 'unambitious': 220,000 patients by 2028 is about 6% of 2.8 million eligible. CMS issued no new Medicare GLP-1 Bridge or BALANCE guidance in the window. The Bridge still runs to Dec 31, 2027 at a $50 copay, and BALANCE Part D remains on hold.",
+      "summary": "KFF's 2026 Employer Health Benefits Survey (Oct 22) found GLP-1 weight-loss coverage flat at 18% of firms with 200+ workers, versus 19% last year. Coverage is 33% at firms with 5,000+ workers, down from the 43% KFF 2025 figure this dashboard carried, so the largest employers did pull back, and 12% of non-covering firms dropped coverage in the past year. In the UK, the Commons Health Committee called the NHS Mounjaro rollout 'unambitious': 220,000 patients by 2028 is about 6% of 2.8 million eligible. CMS issued no new Medicare GLP-1 Bridge or BALANCE guidance in the window. The Bridge still runs to Dec 31, 2027 at a $50 copay, and BALANCE Part D remains on hold.",
       "content": "October 5 - October 26, 2026 insurance & reimbursement.\n\n1. KFF 2026 EMPLOYER HEALTH BENEFITS SURVEY (Oct 22)\n   - Firms with 200+ workers covering GLP-1s for weight loss: 18% (19% last year)\n     - 200–999 workers 16% | 1,000–4,999 29% | 5,000+ 33%\n   - 12% of non-covering firms stopped covering in the past 12 months\n   - Non-covering firms: 1% \"very likely\" and 13% \"somewhat likely\" to add within 12 months; 79% \"not likely\"\n   - 40% of covering firms require a dietitian, case-manager or lifestyle-program step (59% at 5,000+; 34% last year)\n   - 29% of covering firms call the drug-spend impact \"significant\" (61% at 5,000+)\n   - https://www.kff.org/health-costs/2026-employer-health-benefits-survey/\n\n2. UK — COMMONS HEALTH COMMITTEE CALLS NHS MOUNJARO ROLLOUT \"UNAMBITIOUS\" (Oct 22)\n   - Planned 220,000 patients by 2028 ≈ 6% of ~2.8M eligible\n   - £15.2bn five-year NHS cost if all eligible treated immediately, versus £75bn/yr economic cost of obesity\n   - >1 million people paying privately; 12-year rollout timeline under review\n   - Source is PA/AOL secondary coverage; the committee report itself was not fetched.\n   - https://www.aol.co.uk/articles/more-people-weight-loss-jabs-230609000.html\n\n3. MEDICARE — NO NEW CMS GUIDANCE IN WINDOW\n   - GLP-1 Bridge page last modified 07/13/2026: $50 copay, Jul 1, 2026 – Dec 31, 2027; outside deductible/TrOOP.\n   - BALANCE model page last modified 09/29/2026. Part D BALANCE is on indefinite hold since Apr 21, 2026\n     (plan participation below the 80% threshold). The Medicaid track continues, but no participating states are named.\n   - GLOBE (Part B MFN, final, starts Jan 1, 2027) is not a GLP-1 model. GUARD (Part D MFN) is still proposed.\n   - https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge\n\n4. MEDICAID — NO STATE CHANGE IN WINDOW\n   - Rhode Island's obesity-coverage drop took effect Oct 1 (reported in the prior window).\n   - A third-party tracker (RxLineup, Oct 18) counts 10 state Medicaid programs covering GLP-1s for obesity.\n     This count is tracker-derived and not verified against state preferred-drug lists.\n   - No October changes found for California, North Carolina, Pennsylvania or Michigan.\n\n5. NO NEWS FOUND IN WINDOW\n   - Germany GKV, Canada provincial coverage, Australia PBS (Wegovy/Mounjaro still unlisted as of Oct 1)\n   - India: no IRDAI action or insurer coverage announcement\n   - Mercer/Marsh and Business Group on Health GLP-1 data were published in September (pre-window).\n",
       "tags": [
         "insurance",
