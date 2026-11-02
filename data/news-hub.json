@@ -149,7 +149,7 @@
     {
       "id": "story-126",
       "headline": "Sun Pharma Gets CDSCO Approval for Generic Oral Semaglutide Tablets (3/7/14mg, T2D) — Approval, Not Launch",
-      "summary": "Medical Dialogues (citing Economic Times) reports CDSCO approved Sun Pharma to manufacture and market once-daily semaglutide tablets in 3mg, 7mg and 14mg, the Rybelsus strengths, for type 2 diabetes only. Formulation is at Sun's Kamrup (Assam) plant with API from Zhongmeihuadong (Hangzhou). No brand name, price or launch date was given and the approval letter was not retrieved. Launch is not automatic: the Delhi High Court on Aug 11 ordered Sun to seek court permission before launching tablets over Novo's SNAC formulation patent, with the matter next listed Nov 4. Torrent launched oral generics first after a non-infringement finding; Dr Reddy's Obeda tablets list at ₹99/135/225.",
+      "summary": "Medical Dialogues (citing Economic Times) reports CDSCO approved Sun Pharma to manufacture and market once-daily semaglutide tablets in 3mg, 7mg and 14mg, the Rybelsus strengths, for type 2 diabetes only. Formulation is at Sun's Kamrup (Assam) plant with API from Zhongmeihuadong (Hangzhou). No brand name, price or launch date was given and the approval letter was not retrieved. Launch is not automatic: per prior tracking (see patents-ip), the Delhi High Court on Aug 11 ordered Sun to seek court permission before launching tablets over Novo's SNAC formulation patent, with the matter next listed Nov 4. Torrent launched oral generics first after a non-infringement finding; Dr Reddy's Obeda tablets list at ₹99/135/225.",
       "market": "india",
       "category": "regulatory",
       "timestamp": "2026-11-01",
@@ -421,8 +421,8 @@
     },
     {
       "id": "story-135",
-      "headline": "UK Commons Health Committee Calls NHS Tirzepatide Rollout 'Unambitious': 220,000 Over Three Years Is 6% of 2.8m Eligible",
-      "summary": "The House of Commons Health and Social Care Committee's report 'Food and Weight Management: Modernising obesity treatment' urges NHS England to reassess its Mounjaro plan, use digital providers, hold a provider summit and build a national obesity pathway modelled on diabetes care. The current model implies about 21 GP and 4 nurse appointments per patient per year at a servicing cost of about £3.1bn. Chair Layla Moran said a 'two-tier system has emerged'. The report puts the UK cost of obesity at £74.3bn or more a year. Nursing Times covered it Oct 27; the report itself published about a week earlier.",
+      "headline": "UK Commons Health Committee Calls NHS Tirzepatide Rollout 'Unambitious': 220,000 Over Three Years, About 6% of Eligible Patients",
+      "summary": "The House of Commons Health and Social Care Committee's report 'Food and Weight Management: Modernising obesity treatment' urges NHS England to reassess its Mounjaro plan, use digital providers, hold a provider summit and build a national obesity pathway modelled on diabetes care. The committee puts the 220,000-patient plan at about 6% of those eligible. The current model implies about 21 GP and 4 nurse appointments per patient per year at a servicing cost of about £3.1bn. Chair Layla Moran said a 'two-tier system has emerged'. The report puts the UK cost of obesity at £74.3bn or more a year. Nursing Times covered it Oct 27; the report itself published about a week earlier.",
       "market": "eu",
       "category": "policy",
       "timestamp": "2026-10-27",
