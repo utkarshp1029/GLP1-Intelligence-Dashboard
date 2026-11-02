@@ -1,28 +1,24 @@
 {
   "meta": {
     "section_id": "safety-signals",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 23,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 24,
     "key_metrics": [
+      {
+        "label": "PRAC New Signal",
+        "value": "Sema ischaemic colitis"
+      },
+      {
+        "label": "Novo Response Due",
+        "value": "Dec 1, 2026 (EPITT 20309)"
+      },
       {
         "label": "FDA GLP-1 Safety Action",
         "value": "None in window"
       },
       {
-        "label": "Reta Black-Market Deaths",
-        "value": "2 FAERS reports"
-      },
-      {
-        "label": "Suicidality (Medicare)",
-        "value": "HR 0.81 (depression 1.11)"
-      },
-      {
-        "label": "Post-Anesthesia Pulm AEs",
-        "value": "HR 0.68 — lower"
-      },
-      {
-        "label": "Pregnancy Malformations",
-        "value": "OR 0.99 (no signal)"
+        "label": "Gallbladder Risk (RCTs)",
+        "value": "+37% RR (76 trials)"
       },
       {
         "label": "MDL 3094 Pending",
@@ -30,7 +26,11 @@
       },
       {
         "label": "NAION MDL 3163",
-        "value": "247 pending (+31)"
+        "value": "247 pending (Oct 1)"
+      },
+      {
+        "label": "Reta Black-Market Deaths",
+        "value": "2 FAERS (no update)"
       }
     ]
   },
@@ -76,6 +76,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "safety-entry-021",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://www.ema.europa.eu/en/documents/prac-recommendation/prac-recommendations-signals-adopted-28-september-1-october-2026-prac-meeting_en.pdf",
+      "source_name": "EMA PRAC signal recommendations / EMA PRAC Oct 26–29 highlights / AboutLawsuits / MDL Update trackers / News-Medical (J Intern Med review) / FDA compounded-GLP-1 page / CDSCO notices / MHRA news",
+      "market": "both",
+      "summary": "EMA's PRAC opened new pharmacovigilance signals on GLP-1s: for semaglutide (Ozempic, Wegovy, Rybelsus) it requested supplementary information on ischaemic colitis (EPITT 20309, Sweden lead) by Dec 1, 2026 and will reassess gastrointestinal volvulus (EPITT 20260) in the next PSUR; for liraglutide it will assess alopecia (EPITT 20311) in the next PSUR. No product-information change was ordered, and the PRAC's Oct 26–29 meeting had no GLP-1 items. In US litigation, a new NAION failure-to-warn suit (Patten v. Novo, filed Oct 19 in E.D. Pa.) was reported; the NAION MDL 3163 tracker still shows 247 pending cases as of Oct 1, and no Rule 702 ruling in the gastroparesis MDL 3094 (4,025 pending) was found. A Journal of Internal Medicine review ranks gallbladder disease (+37% relative risk across 76 RCTs) as the firmest serious-harm signal, with NAION, pancreatitis, thyroid cancer and suicidality unproven. FDA's compounded-GLP-1 adverse-event counts are unchanged, and FDA, CDSCO and MHRA posted no GLP-1 safety actions or counterfeit alerts in the window.",
+      "content": "October 26 - November 2, 2026 safety signals.\n\n1. EMA PRAC — NEW SIGNALS (document EMA/PRAC/206892/2026 dated Oct 26; adopted at the Sep 28–Oct 1 meeting)\n   - Semaglutide (Ozempic/Wegovy/Rybelsus) — ischaemic colitis (EPITT 20309; Sweden lead): 'Supplementary information requested'; MAH submission by Dec 1, 2026\n   - Semaglutide; insulin icodec/semaglutide — gastrointestinal volvulus (EPITT 20260): 'Reassess in the next PSUR'; submission by Aug 29, 2027\n   - Liraglutide; liraglutide/insulin degludec — alopecia (EPITT 20311; Netherlands lead): 'Assess in the next PSUR'; submission by Mar 31, 2027\n   - No product-information change at this stage. Text extracted from the PDF; secondary summary at https://europepharmatoday.com/news/prac-new-signals-no-referrals-october-2026\n   - PRAC Oct 26–29 highlights (Oct 30): Deanxit review and an immunoglobulin batch signal only; no semaglutide/tirzepatide/NAION/pancreatitis items\n     https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026\n\n2. US LITIGATION\n   - Patten v. Novo Nordisk (E.D. Pa., before Judge Marston; complaint filed Oct 19, reported Oct 30): Nevada plaintiff, Ozempic from Aug 2022, NAION diagnosis Oct 2023, permanent vision loss; failure to warn, fraudulent concealment, punitive damages\n     https://www.aboutlawsuits.com/ozempic-wegovy-mounjaro-lawsuit/ozempic-blindness-lawsuit-novo-nordisk-naion-risks/\n   - NAION MDL 3163 tracker: 247 pending as of Oct 1 (up from 86 in May); status conferences Oct 13, Nov 17, Dec 15; court floated mid-2027 for causation/preemption briefing (third-party tracker, not docket)\n     https://mdlupdate.com/mdl/3163-glp-1-naion-products-liability-litigation/\n   - Gastroparesis/GI MDL 3094: 4,025 pending / 4,139 filed as of Oct 1; Rule 702 hearing Sep 14–18, closing arguments Oct 13; no ruling, bellwether schedule or settlement found dated Oct 26–Nov 2 (no docket-level check possible; treat as 'not found', not 'did not happen')\n     https://mdlupdate.com/mdl/3094-glucagon-like-peptide-1-receptor-agonists/\n\n3. EVIDENCE REVIEW — JOURNAL OF INTERNAL MEDICINE (Ueda P.; DOI 10.1111/joim.70170; News-Medical Oct 26)\n   - Gallbladder/biliary disease strongest signal: +37% relative risk (meta-analysis of 76 RCTs); retinopathy complications +76% in SUSTAIN-6 (early worsening with rapid HbA1c drop)\n   - NAION: causal link uncertain, absolute risk small; EMA lists as 'very rare' for semaglutide\n   - Pancreatitis: most meta-analyses null, one 2025 meta-analysis positive; thyroid cancer: two 2025 meta-analyses conflict; suicidality: FDA/EMA found no causal association; intestinal obstruction: no convincing link\n   - AE discontinuation 4–16% vs 3–8% placebo; Wiley DOI page returned 403 so the review's online date is unverified\n   - https://www.news-medical.net/news/20261026/Taking-a-GLP-1-drug-Heres-what-the-safety-evidence-really-shows.aspx\n\n4. SOCIAL / BEHAVIOURAL (MIT Technology Review, Oct 30)\n   - 'Eating disorders are on the rise. GLP-1s could make things worse': cites JAMA Psychiatry anorexia/bulimia incidence +71% 1990–2023 (18.1M cases 2023, 21.8M projected 2050); small study — 30% of eating-disorder patients had used GLP-1s, 10% appeared to misuse; calls for ED screening before prescribing\n     https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs\n\n5. NO SIGNAL / NO ACTION IN WINDOW (checked)\n   - FDA label changes (NAION, suicidal ideation, pancreatitis, gastroparesis, aspiration, muscle loss, thyroid): none; FDA has not requested a NAION label change and is running its own study (NPR, Oct 10)\n   - FAERS/MedWatch new signals: none; JAMA/BMJ/Lancet pharmacovigilance papers dated in window: none surfaced\n   - FDA compounded-GLP-1 concerns page: 'current as of 10/01/2026'; 990 semaglutide / >730 tirzepatide AE reports as of May 31 — unchanged\n   - CDSCO public notices Oct 26–28: WHO falsified Defibrotide alert, raw-material testing, ONDLS solvent monitoring, Central Compounding Authority order — nothing on GLP-1s; latest GLP-1 notice remains May 18\n   - MHRA news Oct 26–Nov 2: no GLP-1 or counterfeit items; nearest is the Oct 15 £2M counterfeit pen seizure (pre-window)\n   - Counterfeit seizures (customs/Interpol/Novo/Lilly), India/US fake-pen reports: none dated in window\n   - Retatrutide black-market deaths: no update to the 2 FAERS reports tracked previously; a claimed Oct 29 Lilly statement on the retatrutide black market could not be verified (investor.lilly.com 403)\n",
+      "tags": [
+        "safety",
+        "ema",
+        "prac",
+        "ischaemic-colitis",
+        "volvulus",
+        "alopecia",
+        "naion",
+        "mdl-3163",
+        "mdl-3094",
+        "gallbladder",
+        "november-2026"
+      ]
+    },
     {
       "id": "safety-entry-020",
       "timestamp": "2026-10-26T00:00:00Z",

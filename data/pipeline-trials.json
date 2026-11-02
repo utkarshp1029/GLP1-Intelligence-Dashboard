@@ -1,28 +1,28 @@
 {
   "meta": {
     "section_id": "pipeline-trials",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 29,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 30,
     "key_metrics": [
       {
-        "label": "Reta OSA AHI Drop",
-        "value": "−34.3 vs −9.9 placebo"
+        "label": "Reta vs Ozempic (T2D)",
+        "value": "−20.9% vs −9.4% · 80 wk"
       },
       {
-        "label": "CagriSema in Women",
-        "value": "−25.0% (post hoc)"
+        "label": "Reta A1C vs Ozempic",
+        "value": "−2.2 vs −1.8 pts"
       },
       {
-        "label": "Petrelintide T2D",
-        "value": "−7.4 to −9.2% at wk 28"
+        "label": "EloraTZP Phase 3",
+        "value": "Starts Q4 2026"
       },
       {
         "label": "New Phase 3 Trials",
-        "value": "10 trials · 6 programs"
+        "value": "2 (n=3,000 each)"
       },
       {
-        "label": "Zenagamtide CVOT",
-        "value": "n=8,500 · to 2030"
+        "label": "VK2735 Maintenance",
+        "value": "82–97% retained (wk 33)"
       },
       {
         "label": "ObesityWeek 2026",
@@ -114,6 +114,32 @@
     }
   ],
   "entries": [
+    {
+      "id": "trial-entry-025",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/lillys-retatrutide-delivered-greater-a1c-reduction-and-more-than-double-the-weight-loss-of-ozempics-highest-approved-dose-in-head-to-head-trial-302921328.html",
+      "source_name": "Lilly (PR Newswire) / Lilly Q3 call (Motley Fool) / ClinicalTrials.gov v2 API / Viking 8-K / Novo Nordisk / Hengrui / Vanda / Ascletis / AbbVie",
+      "market": "both",
+      "summary": "Retatrutide's sixth positive Phase 3, TRANSCEND-T2D-2, beat Ozempic 2mg head-to-head in 1,298 adults with type 2 diabetes over 80 weeks: A1C −2.2 points on both 9mg and 12mg vs −1.8, weight −19.5% and −20.9% vs −9.4%, with adverse-event discontinuations of 4.8% and 7.9% vs 2.7%. Lilly's Q3 call added that EloraTZP (eloralintide plus tirzepatide) starts Phase 3 in Q4 after 23.3% weight loss at 48 weeks in Phase 2, with slower titration planned, and that ACHIEVE-4 showed orforglipron non-inferior to insulin glargine with a prespecified 16% lower MACE-4. Two new Phase 3 registrations: Lilly's ENLIGHTEN-10 (eloralintide monotherapy, n=3,000, obesity plus T2D plus CV risk) and Regeneron's RISE-1 (olatorepatide, n=3,000, obesity). Viking has both VANQUISH trials fully enrolled and oral SUNRISE Phase 3 under way, with maintenance dosing retaining 82–97% of weight loss. Novo lined up REDEFINE 9 low-dose CagriSema and STEP YOUNG for ObesityWeek (Nov 14–17, National Harbor) and MASH real-world data for AASLD (Nov 5–9). Smaller readouts came from Vanda (tradipitant cut semaglutide-induced vomiting from 58.5% to 43.0%), Ascletis (oral ASC30 HbA1c −1.7% at 12 weeks) and AbbVie (ABBV-295 amylin to Phase 2). MariTide and Metsera updates wait for Amgen and Pfizer on Nov 3.",
+      "content": "October 26 - November 2, 2026 pipeline and trials.\n\n1. RETATRUTIDE — TRANSCEND-T2D-2 TOPLINE (Oct 28)\n   - NCT06260722; n=1,298 adults with T2D on metformin ± SGLT2i (baseline A1C 8.3%, BMI 36.8); randomized 2:2:1 to retatrutide 9mg / 12mg / semaglutide 2mg; open-label; 80 weeks\n   - Efficacy estimand: A1C −2.2% / −2.2% / −1.8%; weight −19.5% (−44.3 lb) / −20.9% (−47.4 lb) / −9.4% (−20.9 lb); 12mg met primary non-inferiority on A1C; all key secondaries met\n   - AE discontinuation 4.8% / 7.9% / 2.7%; nausea 21.2% / 23.8% / 21.3%; dysesthesia 4.8% / 6.5% / 2.7%\n   - Sixth positive retatrutide Phase 3; TRIUMPH-5 (vs tirzepatide) ongoing; no submission date in release (BioSpace: filing expected Q1 2027)\n   - https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/\n\n2. LILLY Q3 CALL — PIPELINE (Oct 29)\n   - EloraTZP (eloralintide + tirzepatide): Phase 3 to start Q4 2026 after Phase 2 in obesity+T2D (Sep 30 readout) — 23.3% weight loss at 48 weeks, highest-dose A1C −2.9%; slower titration planned because of higher AE discontinuations at the top dose\n   - ACHIEVE-4 orforglipron CVOT: non-inferior vs insulin glargine; prespecified 16% lower MACE-4\n   - Foundayo T2D FDA action expected Q4 2026; Innovation Day Dec 7, 2026\n   - Bimagrumab and mazdutide not mentioned\n   - https://www.fool.com/earnings/call-transcripts/2026/10/29/eli-lilly-lly-q3-2026-earnings-call-transcript/\n\n3. NEW PHASE 3 REGISTRATIONS (ClinicalTrials.gov v2 API)\n   - ENLIGHTEN-10 (NCT07900633; first posted Oct 28): Lilly, eloralintide monotherapy, randomized double-blind placebo-controlled, n=3,000 est.; BMI ≥25, HbA1c 6.5–9.5%, age ≥45, increased CV risk; co-primary % body-weight change at week 64 and HbA1c change at week 36; start Dec 2026; primary completion Nov 2029; dose not disclosed. First registered Phase 3 of eloralintide as monotherapy in a T2D population.\n     https://clinicaltrials.gov/study/NCT07900633\n   - RISE-1 (NCT07896265; first posted Oct 26): Regeneron, olatorepatide (HS-20094, GLP-1/GIP, Hansoh-originated), obesity without diabetes, double-blind placebo-controlled, n=3,000 est.; three active dose arms (undisclosed); primary % body-weight change at week 72; start Nov 18, 2026; primary completion Dec 2028\n     https://clinicaltrials.gov/study/NCT07896265\n   - Mazdutide AF ablation RCT (NCT07897305; first posted Oct 27): Beijing Anzhen Hospital, investigator-initiated, open-label, n=700; mazdutide 2mg titrated q4w to max 6mg vs conventional care; primary atrial-arrhythmia recurrence at 12 months post-ablation\n     https://clinicaltrials.gov/study/NCT07897305\n\n4. VIKING — VK2735 (8-K Oct 28)\n   - VANQUISH-1 (~4,500 adults with obesity) and VANQUISH-2 (~1,000 obesity+T2D): 78-week, SC 7.5/12.5/17.5mg vs placebo; fully enrolled; completion 2027; extensions (every-other-week, monthly) begin 1Q27, data 2028\n   - SUNRISE-1/-2 (oral; n=560 each; 27.5/35/55mg daily; 68 weeks) initiated October 2026\n   - Maintenance Part 1 (n=180): 16–19% loss at week 21; 82–97% retained at week 33 on monthly or every-other-week dosing vs 61% placebo; exploratory 17.5mg weekly ~22% at week 33. Part 2 (n≈195, incl. daily oral maintenance) started; data 2027\n   - VK3019 amylin Phase 1 SAD completes Q4 2026; management: launch ~2.5 years away\n   - https://www.sec.gov/Archives/edgar/data/0001607678/000119312526436145/vktx-ex99_1.htm\n\n5. NOVO — CONFERENCE LINE-UP (no numbers released)\n   - ObesityWeek 2026 (Nov 14–17, Gaylord National, National Harbor, MD — verified at obesityweek.org): 26 abstracts; REDEFINE 9 primary results for low-dose CagriSema (1.7/1.7mg, 1.0/1.0mg; poster Nov 15); REDEFINE 1 post hocs (BMI/complications, function, early response, CV primary prevention); STEP YOUNG full results in children 6–<12 (oral Nov 16, simultaneous publication); Wegovy pill telehealth analyses (OCTANE, SIGNAL via Ro; SWEEP); ORACLE cost-of-control oral semaglutide vs orforglipron; cagrilintide and bone mass\n     https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919290\n   - AASLD (Nov 5–9, Denver): PLATINUM-Truveta (2,873 semaglutide vs 2,285 resmetirom; 30 US health systems; Poster of Distinction); RHODIUM-2 (2,479 initiators vs 70,702 non-initiators); ESSENCE post hoc in MASH with BMI <27 (oral Nov 8); efruxifermin SYMMETRY post hocs\n     https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919208\n   - CagriSema FDA decision still guided to Q4 2026 (Q2 6-K); Novo Q3 report Nov 4\n\n6. OTHER READOUTS\n   - Hengrui (Oct 27): CDE accepted NDAs for HRS-7535 oral small-molecule GLP-1 (T2D and weight management) and ribupatide GLP-1/GIP (T2D); HRS-1596 oral GLP-1R/GIPR licensed to Novo ($300M upfront, up to $2.6B; closing Q4)\n   - Vanda (Oct 27): Study 3601, n=306 (142 tradipitant/NEREUS, 164 placebo), single un-titrated 1mg semaglutide dose; any vomiting 43.0% vs 58.5% (p=0.006); sNDA planned for prevention of GLP-1-associated vomiting\n     https://www.prnewswire.com/news-releases/vanda-pharmaceuticals-announces-positive-results-from-study-3601-of-nereus-tradipitant-for-prevention-of-glp-1induced-vomiting-302920054.html\n   - Ascletis ASC30 (Oct 28): US Phase 2 in T2D, n=100; 40/60/80mg daily; placebo-adjusted HbA1c −1.7/−1.6/−1.7% at 12 weeks (baseline 8.3%); weight −4.4/−3.8/−4.0% at 13 weeks; one AE discontinuation; obesity Phase 3 AURORA-1/-2 (~4,600) enrolling, topline Q3 2028; company topline, not peer-reviewed\n     https://www.prnewswire.com/news-releases/ascletis-oral-small-molecule-glp-1--asc30--demonstrated-placebo-adjusted-hba1c-reduction-of-1-7-at-12-weeks-from-its-us-phase-ii-study-in-participants-with-diabetes-302922287.html\n   - AbbVie Q3 (Oct 30): ABBV-295 long-acting amylin (11–12 day half-life) advancing to Phase 2 for weight management; Phase 1 (EASD) showed 'meaningful' weight reduction at all doses (no % given)\n   - Nature Medicine real-world: SheMed/UCL 8,127 UK women on tirzepatide, −15.5% at 6 months (see telehealth-d2c)\n   - Ascletis ASC48 (oral GIPR agonist) and ASC37 (triple agonist) ObesityWeek abstracts announced Nov 2\n\n7. CONFERENCE DATES VERIFIED\n   - ObesityWeek 2026: Nov 14–17, National Harbor, MD (obesityweek.org fetched; Novo release)\n   - AASLD The Liver Meeting: Nov 5–9, Denver (Novo release)\n   - AHA Scientific Sessions: Nov 6–9, Chicago (search snippet only; professional.heart.org returned 403)\n\n8. NO NEWS IN WINDOW (checked)\n   - Orforglipron ATTAIN/ACHIEVE beyond Q3 recap; CagriSema/amycretin data; oral semaglutide 25mg; Wegovy 7.2mg\n   - MariTide (Amgen Q3 Nov 3); berobenatide/MET-097i (Pfizer Q3 Nov 3: 10 planned Phase 3s, 3 started, first approval targeted 2028)\n   - Survodutide, petrelintide (ZUPREME-3/4/5 recruiting since Sep 30), aleniglipron, enicepatide/CT-388, zenagamtide, ecnoglutide, HRS9531/Kailera, bimagrumab\n   - Indian pipelines (Sun, Biocon, Glenmark, Zydus): IR sites blocked\n   - NEJM / Lancet / Nature Medicine: no new GLP-1 primary paper dated in window surfaced (NEJM TOC fetch blocked)\n",
+      "tags": [
+        "pipeline",
+        "retatrutide",
+        "transcend-t2d-2",
+        "eloratzp",
+        "eloralintide",
+        "regeneron",
+        "olatorepatide",
+        "viking",
+        "vk2735",
+        "novo",
+        "obesityweek",
+        "hengrui",
+        "vanda",
+        "ascletis",
+        "november-2026"
+      ]
+    },
     {
       "id": "trial-entry-024",
       "timestamp": "2026-10-26T00:00:00Z",

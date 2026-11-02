@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "telehealth-d2c",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 24,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 25,
     "key_metrics": [
       {
-        "label": "Hims FTC Hearing",
-        "value": "Jan 7, 2027"
-      },
-      {
-        "label": "Hims Class Action",
-        "value": "Lead-plaintiff Nov 2"
-      },
-      {
-        "label": "Wegovy Pill via Hims/Ro",
-        "value": "$448/mo"
-      },
-      {
-        "label": "Wegovy Pill via NovoCare",
-        "value": "$299/mo maintenance"
-      },
-      {
-        "label": "Hims Q3 Guide",
-        "value": "$880–900m revenue"
+        "label": "Walgreens GLP-1 Visit",
+        "value": "$49 · ~8,000 stores"
       },
       {
         "label": "New GLP-1 D2C Deals",
-        "value": "None found in window"
+        "value": "Andel–Novo (employer)"
+      },
+      {
+        "label": "Hims Q3 Report",
+        "value": "Nov 9 · Truist Hold $32"
+      },
+      {
+        "label": "Self-Pay Zepbound Rx",
+        "value": "~45% (Q2)"
+      },
+      {
+        "label": "Digital Tirz Retention",
+        "value": "91.4% at 6 mo (n=8,127)"
+      },
+      {
+        "label": "Hims FTC Hearing",
+        "value": "Jan 7, 2027"
       }
     ]
   },
@@ -136,6 +136,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "th-entry-019",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://corporate.walgreens.com/news-and-stories/press-releases/pharmacy-healthcare/walgreens-expands-access-to-weight-management-care-and-introduces-new-glp-1-support-services",
+      "source_name": "Walgreens / PR Newswire (Andel) / AJMC / Investing.com (Hims) / StockTitan (Teladoc, Hims) / GlobeNewswire (WW) / PR Newswire (SheMed) / Investing.com (Lilly call)",
+      "market": "both",
+      "summary": "Retail and employer channels moved while the telehealth earnings calendar waited: Walgreens launched $49 no-subscription GLP-1 virtual visits across about 8,000 stores with prior-authorization help and Medicare Bridge navigation, and Andel partnered with Novo to sell Wegovy injection and pill direct to employers alongside its existing Lilly Employer Connect channel. Lilly said on its Q3 call that self-pay Zepbound adherence is close to the covered market and that about 4 in 10 oral-obesity starts choose Foundayo. Hims & Hers drew a Truist Hold at $32 citing a September decline in GLP-1 billings and transactions, its chief legal officer sold shares, and the company sits in Visa's acquirer monitoring program after weight-loss subscription chargebacks; Hims reports Nov 9. Teladoc's Q3 ($605.1m revenue, −3%) had no weight-management disclosure. A Nature Medicine paper on SheMed's digital-first tirzepatide cohort (8,127 UK women, −15.5% at six months, 91.4% retention) is the window's clinical datapoint for telehealth models. WW reports Nov 5, LifeMD Nov 9. No Ro, Noom, Found, FTC or Indian D2C news was found; those searches did not run.",
+      "content": "October 26 - November 2, 2026 telehealth and D2C.\n\n1. WALGREENS (Oct 27)\n   - $49 virtual visit, no subscription, medication not included; clinicians may prescribe FDA-approved GLP-1s\n   - Prior-auth and savings-card support for Wegovy (injection and pill), Zepbound, Foundayo; Medicare Bridge enrollment help (unavailable AL, DC, DE, KS, LA, MS, NM, RI, WV); virtual care all states except Alabama; pharmacist outreach after first fill\n   - ~8,000 stores vs CVS ~9,000 (MinuteClinic $29 visits since August); cites >50% of weight-management starters discontinuing within a year\n   - https://www.pharmaceuticalcommerce.com/view/walgreens-expands-glp1-access-with-prior-authorization-pharmacist-support\n\n2. ANDEL + NOVO (Oct 28)\n   - Direct-to-employer marketplace for Wegovy injection, HD and pill alongside PBMs; employer contribution month-to-month (~$100/fill up to 100% per AJMC) toward $149 pill / $199 pen self-pay; Andel runs Lilly Employer Connect since May 2026; $4.5M initial funding; no member counts\n   - https://www.prnewswire.com/news-releases/andel-collaborates-with-novo-to-bring-wegovy-injection-and-wegovy-pill-direct-to-employers-302921477.html\n   - Context: WTW — 8% of employers moved workers to DTC purchase, 28% considering; self-pay ~45% of Zepbound Rx in Q2\n\n3. LILLY DTC DATAPOINTS (Q3 call, Oct 29)\n   - LillyDirect named as patient-engagement platform; no volume disclosed\n   - Self-pay Zepbound adherence 'close to the covered market'; self-pay expected to lower net price per Rx in 2027\n   - Foundayo >500K TRx in Q3; ~4 in 10 oral-obesity starts; Medicare Bridge >500K Lilly fills\n\n4. HIMS & HERS (pre-earnings)\n   - Truist reiterated Hold, PT $32 (raised from $27), citing 'a decline in GLP-1 billings and transactions in September' (no figures); KeyBanc Sector Weight\n   - CLO Soleil Boughton sold 3,462 shares at $27.60 on Oct 28 ($95,551; 10b5-1 plan)\n   - Hims placed in Visa's Acquirer Monitoring Program after surge in weight-loss subscription chargebacks ($8/dispute, ~$75K)\n   - Branded GLP-1s launching in Australia via Pilot (post-Eucalyptus acquisition); date not given\n   - Q3 results Nov 9 after close, call 5:00 pm ET\n   - https://investing.com/news/insider-trading-news/hims--hers-chief-legal-officer-sells-95551-in-company-stock-93CH-4985849\n\n5. TELADOC Q3 (Oct 28)\n   - Revenue $605.1M (−3%); net loss $26.9M; adj. EBITDA $79.4M (+14%); FY26 revenue guide raised to $2,395–2,441M; US Integrated Care members 100.1M (−2%); no weight-management / GLP-1 disclosure\n   - https://www.stocktitan.net/news/TDOC/teladoc-health-reports-third-quarter-2026-dxwvgv2fqi4n.html\n\n6. SHEMED / UCL — NATURE MEDICINE (announced Oct 26; paper online Oct 16)\n   - 8,127 UK women, 18–79, mean baseline BMI 38.2; nearly all on tirzepatide at ~63% of max licensed dose by month 6; mean −16.1kg (−15.5%); >83% achieved ≥10%; retention 91.4%; company-sponsored, led by Prof. John Deanfield\n   - https://www.prnewswire.com/news-releases/nature-medicine-study-of-8-000-women-finds-significant-weight-loss-and-91-treatment-retention-with-digital-glp-1-care-302919479.html\n\n7. CALENDAR\n   - WW International Q3: Nov 5 pre-market, call 8:30 am ET (GlobeNewswire Oct 26; direct fetch 403, time from snippet)\n   - LifeMD Q3: Nov 9 pre-market\n   - Hims Q3: Nov 9 after close\n\n8. NO NEWS / NOT SEARCHED (search cap)\n   - Ro, Noom, Found, Calibrate: no dated announcements found; Noom appears only as a vendor name in CNBC's employer piece\n   - NovoCare Pharmacy / LillyDirect / TrumpRx: no official announcements\n   - FTC / state AG actions vs telehealth GLP-1 marketers: nothing in window; latest is the September 20-state AG letter on compounded sourcing\n   - Amazon Pharmacy / Costco: no announcements\n   - India D2C (Elevate Now, Fitterfly, Tata 1mg, Apollo, PharmEasy): company-specific searches not run; PharmEasy's GLP-1 hub updated Nov 1 (see pricing)\n   - Serena Williams / Arbor item (Archynewsy, Oct 30): advertorial rehash of 2025 Ro disclosures; no primary source; disregarded\n",
+      "tags": [
+        "telehealth",
+        "walgreens",
+        "andel",
+        "hims",
+        "teladoc",
+        "shemed",
+        "lillydirect",
+        "november-2026"
+      ]
+    },
     {
       "id": "th-entry-018",
       "timestamp": "2026-10-26T00:00:00Z",

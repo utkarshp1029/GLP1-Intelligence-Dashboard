@@ -1,40 +1,665 @@
 {
   "meta": {
     "section_id": "news-hub",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 122,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 142,
     "key_metrics": [
       {
         "label": "Stories This Window",
-        "value": "17 + 1 coverage note"
+        "value": "19 + 1 coverage note"
       },
       {
-        "label": "Top Regulatory",
-        "value": "Foundayo CHMP positive"
+        "label": "Lilly Q3 Revenue",
+        "value": "$24.4bn (+39%)"
       },
       {
         "label": "Top Readout",
-        "value": "CagriSema −25% (women)"
+        "value": "Reta −20.9% vs Oz −9.4%"
       },
       {
-        "label": "Compounding Alarm",
-        "value": "Mold at China API plants"
+        "label": "Employer Coverage",
+        "value": "53% (from 57%, WTW)"
       },
       {
-        "label": "Retatrutide Status",
-        "value": "Drug, not biologic (FDA)"
+        "label": "India Regulatory",
+        "value": "Sun oral sema approved"
       },
       {
-        "label": "India Generics Share",
-        "value": "58.8% of sema (Adgully)"
+        "label": "Medicare Bridge (Lilly)",
+        "value": ">500k fills since Jul"
       },
       {
         "label": "Window Character",
-        "value": "Pre-earnings · safety"
+        "value": "Earnings · reta · access"
       }
     ]
   },
   "stories": [
+    {
+      "id": "story-123",
+      "headline": "Lilly Q3 2026: Revenue +39% to $24.4B, Mounjaro + Zepbound $16.1B, Guidance Raised to $91–92B",
+      "summary": "Lilly reported Q3 revenue of $24.4bn (+39%), with Mounjaro at $10.7bn (+65%; ex-US $5.7bn, +93% on China NRDL inclusion) and Zepbound at $5.35bn (+49%). Foundayo (orforglipron) booked $184m, below the ~$229m consensus, though Lilly said prescriptions and new patients roughly doubled quarter on quarter and over 500,000 TRx were written. Full-year revenue guidance rose to $91–92bn from $85–87bn. Worldwide realized price fell 15% (US −7%, driven by Zepbound). Lilly cited 63% US obesity-plus-diabetes share vs Novo's 36.6%. Shares rose ~7% on the day.",
+      "market": "us",
+      "category": "financial",
+      "timestamp": "2026-10-29",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "SEC (Lilly 8-K)",
+          "title": "Lilly Q3 2026 sales and earnings",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000059478/000005947826000104/q326lillysalesandearningsp.htm",
+          "date": "2026-10-29"
+        },
+        {
+          "publication": "CNBC",
+          "title": "Eli Lilly Q3 2026 earnings",
+          "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+          "date": "2026-10-29"
+        },
+        {
+          "publication": "PR Newswire (Lilly)",
+          "title": "Lilly reports third-quarter 2026 financial results",
+          "url": "https://www.prnewswire.com/news-releases/lilly-reports-third-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-regulatory-progress-across-the-portfolio-302922907.html",
+          "date": "2026-10-29"
+        }
+      ],
+      "tags": [
+        "lilly",
+        "q3-2026",
+        "earnings",
+        "mounjaro",
+        "zepbound",
+        "foundayo",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-124",
+      "headline": "Retatrutide Beats Ozempic 2mg Head-to-Head in T2D: −20.9% Weight, −2.2 pt A1C at 80 Weeks",
+      "summary": "Lilly's Phase 3 TRANSCEND-T2D-2 (NCT06260722; n=1,298 adults with type 2 diabetes on metformin ± SGLT2i; open-label, 80 weeks) showed A1C reductions of 2.2 points on both 9mg and 12mg retatrutide vs 1.8 on Ozempic 2mg, and weight loss of 19.5% and 20.9% vs 9.4%. Adverse-event discontinuations were 4.8% and 7.9% vs 2.7%; dysesthesia 4.8% and 6.5% vs 2.7%. Lilly calls it the sixth positive retatrutide Phase 3. The release gives no submission date; BioSpace reports a filing expected in Q1 2027.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-10-28",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "PR Newswire (Lilly)",
+          "title": "Lilly's retatrutide delivered greater A1C reduction and more than double the weight loss of Ozempic's highest approved dose",
+          "url": "https://www.prnewswire.com/news-releases/lillys-retatrutide-delivered-greater-a1c-reduction-and-more-than-double-the-weight-loss-of-ozempics-highest-approved-dose-in-head-to-head-trial-302921328.html",
+          "date": "2026-10-28"
+        },
+        {
+          "publication": "STAT",
+          "title": "Retatrutide vs Ozempic diabetes study",
+          "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/",
+          "date": "2026-10-28"
+        },
+        {
+          "publication": "BioSpace",
+          "title": "Lilly's retatrutide trounces Novo's Ozempic in diabetes, weight loss",
+          "url": "https://www.biospace.com/drug-development/lillys-retatrutide-trounces-novos-ozempic-in-diabetes-weight-loss",
+          "date": "2026-10-28"
+        }
+      ],
+      "tags": [
+        "retatrutide",
+        "transcend-t2d-2",
+        "phase-3",
+        "lilly",
+        "head-to-head",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-125",
+      "headline": "Employer GLP-1 Weight-Loss Coverage Falls for First Time in Three Years: 53% vs 57% (WTW)",
+      "summary": "WTW's 2026 Best Practices in Healthcare Survey (471 US employers with 100+ workers, fielded June–August) found 53% cover GLP-1s for weight loss, down from 57%; 16% are considering dropping coverage (9% last year); 8% have moved workers to direct-to-consumer purchasing and 28% are planning or considering it. Marsh projects 8.2% employer health-cost growth in 2027, the largest since 2003, with GLP-1s about one point of that. Gallagher estimates 20–30% of its clients dropped coverage for 2027. Novo and Lilly's self-pay prices ($149 Wegovy pill, $199 pen, $299 Zepbound) are the fallback.",
+      "market": "us",
+      "category": "insurance",
+      "timestamp": "2026-10-27",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "CNBC",
+          "title": "Employers scale back GLP-1 weight-loss drug coverage",
+          "url": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
+          "date": "2026-10-27"
+        },
+        {
+          "publication": "24/7 Wall St",
+          "title": "16% of employers are thinking about cutting weight-loss drug coverage",
+          "url": "https://247wallst.com/investing/2026/10/28/16-of-employers-are-thinking-about-cutting-weight-loss-drug-coverage/",
+          "date": "2026-10-28"
+        },
+        {
+          "publication": "Medical Daily",
+          "title": "Employer coverage of Wegovy, Zepbound cuts",
+          "url": "https://www.medicaldaily.com/employer-coverage-wegovy-zepbound-glp-1-cuts-480565",
+          "date": "2026-10-29"
+        }
+      ],
+      "tags": [
+        "employer-coverage",
+        "wtw",
+        "insurance",
+        "self-pay",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-126",
+      "headline": "Sun Pharma Gets CDSCO Approval for Generic Oral Semaglutide Tablets (3/7/14mg, T2D) — Approval, Not Launch",
+      "summary": "Medical Dialogues (citing Economic Times) reports CDSCO approved Sun Pharma to manufacture and market once-daily semaglutide tablets in 3mg, 7mg and 14mg, the Rybelsus strengths, for type 2 diabetes only. Formulation is at Sun's Kamrup (Assam) plant with API from Zhongmeihuadong (Hangzhou). No brand name, price or launch date was given and the approval letter was not retrieved. Launch is not automatic: the Delhi High Court on Aug 11 ordered Sun to seek court permission before launching tablets over Novo's SNAC formulation patent, with the matter next listed Nov 4. Torrent launched oral generics first after a non-infringement finding; Dr Reddy's Obeda tablets list at ₹99/135/225.",
+      "market": "india",
+      "category": "regulatory",
+      "timestamp": "2026-11-01",
+      "importance": "high",
+      "sources": [
+        {
+          "publication": "Medical Dialogues",
+          "title": "Sun Pharma gets CDSCO nod for generic semaglutide pill",
+          "url": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-gets-cdsco-nod-for-generic-semaglutide-pill-182463",
+          "date": "2026-11-01"
+        }
+      ],
+      "tags": [
+        "sun-pharma",
+        "oral-semaglutide",
+        "cdsco",
+        "india",
+        "generics",
+        "delhi-hc",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-127",
+      "headline": "Lilly Medicare GLP-1 Bridge: >500,000 Lilly Fills Since July; 7 in 10 New Bridge Patients Choose Lilly",
+      "summary": "On its Q3 call Lilly said more than 500,000 prescriptions for Lilly medicines have been filled through the $50/month Medicare GLP-1 Bridge since it began July 1. About 70% of new Bridge participants chose a Lilly product, roughly 75% of Bridge scripts are injectables and about 80% of patients are new to incretins. CEO Ricks called it 'a program that's really working' and voiced hope for a Medicare Part D pathway in 2028, which has no CMS action behind it. Lilly also flagged that broader Medicare and Medicaid coverage in 2027 will shift sales toward lower net-price channels.",
+      "market": "us",
+      "category": "policy",
+      "timestamp": "2026-10-29",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Yahoo Finance (Zacks)",
+          "title": "LLY Q3 earnings call highlights",
+          "url": "https://finance.yahoo.com/healthcare/articles/lly-q3-earnings-call-highlights-130000647.html",
+          "date": "2026-10-30"
+        },
+        {
+          "publication": "Investing.com",
+          "title": "Earnings call transcript: Eli Lilly beats Q3 2026 estimates and lifts outlook",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-eli-lilly-beats-q3-2026-estimates-and-lifts-outlook-93CH-4984606",
+          "date": "2026-10-29"
+        }
+      ],
+      "tags": [
+        "medicare-bridge",
+        "lilly",
+        "cms",
+        "part-d",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-128",
+      "headline": "HHS Publishes Enforcement-Discretion Policy for 503A Compounding of Six Non-GLP-1 Peptides",
+      "summary": "A Federal Register notice (91 FR 68526, Oct 30; docket HHS-OASH-2026-0496) announces a draft interim policy under which HHS does not intend to take enforcement action against state-licensed pharmacies or physicians compounding with peptide bulk substances listed in its Appendix A, pending 503A bulks-list rulemaking. RAPS and pharmaphorum identify the six as BPC-157, Epitalon, KPV, MOTS-c, Semax and TB-500, with conditions of FDA-registered sourcing, a valid certificate of analysis and serious adverse-event reporting. Semaglutide, tirzepatide and retatrutide are not covered, and 503B outsourcing facilities are excluded. Comments close two weeks after publication. Public Citizen called for rescission.",
+      "market": "us",
+      "category": "policy",
+      "timestamp": "2026-10-30",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Federal Register (govinfo)",
+          "title": "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+          "date": "2026-10-30"
+        },
+        {
+          "publication": "RAPS",
+          "title": "HHS will permit compounding of six peptides ahead of formal rulemaking",
+          "url": "https://www.raps.org/resource/hhs-will-permit-compounding-of-six-peptides-ahead-of-formal-rulemaking.html",
+          "date": "2026-10-29"
+        },
+        {
+          "publication": "STAT",
+          "title": "HHS enforcement discretion policy allows peptide compounding",
+          "url": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/",
+          "date": "2026-10-28"
+        }
+      ],
+      "tags": [
+        "hhs",
+        "compounding",
+        "peptides",
+        "503a",
+        "federal-register",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-129",
+      "headline": "Viking Q3: VANQUISH Trials Fully Enrolled, Oral VK2735 Phase 3 Started, Maintenance Dosing Retains 82–97% of Weight Loss",
+      "summary": "Viking reported a Q3 net loss of $183.2m with $960m in cash after a ~$575m raise. VANQUISH-1 (~4,500 adults with obesity) and VANQUISH-2 (~1,000 with obesity and T2D) are fully enrolled and complete in 2027; extensions testing every-other-week and monthly dosing begin in Q1 2027. Oral SUNRISE-1 and -2 (560 patients each, 27.5/35/55mg daily, 68 weeks) began in October. In the maintenance study, after 16–19% induction loss, every-other-week dosing retained 83–97% and monthly dosing 82–90% of weight loss at week 33 vs 61% on placebo. Management puts launch about 2.5 years out.",
+      "market": "us",
+      "category": "clinical",
+      "timestamp": "2026-10-28",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "SEC (Viking 8-K)",
+          "title": "Viking Therapeutics Q3 2026 results and corporate update",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001607678/000119312526436145/vktx-ex99_1.htm",
+          "date": "2026-10-28"
+        },
+        {
+          "publication": "Viking Therapeutics",
+          "title": "Viking reports third quarter 2026 financial results",
+          "url": "https://ir.vikingtherapeutics.com/2026-10-28-Viking-Therapeutics-Reports-Third-Quarter-2026-Financial-Results-and-Provides-Corporate-Update",
+          "date": "2026-10-28"
+        }
+      ],
+      "tags": [
+        "viking",
+        "vk2735",
+        "vanquish",
+        "sunrise",
+        "phase-3",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-130",
+      "headline": "Novo to Present 26 Obesity Abstracts at ObesityWeek (Nov 14–17): Low-Dose CagriSema REDEFINE 9, STEP YOUNG, Wegovy Pill Real-World Data",
+      "summary": "Novo announced 26 abstracts for ObesityWeek 2026 at National Harbor, Maryland (Nov 14–17). Headline items are REDEFINE 9 primary results for low-dose CagriSema (1.7/1.7mg and 1.0/1.0mg, poster Nov 15), full STEP YOUNG results in children aged 6 to under 12 (oral Nov 16 with simultaneous publication), REDEFINE 1 post hocs, and Wegovy pill telehealth analyses (OCTANE and SIGNAL via Ro, plus SWEEP). Separately Novo will present PLATINUM-Truveta (2,873 semaglutide vs 2,285 resmetirom patients) and RHODIUM-2 real-world MASH data at AASLD (Nov 5–9, Denver). No efficacy numbers were released. Novo's Q3 report is due Nov 4.",
+      "market": "global",
+      "category": "clinical",
+      "timestamp": "2026-10-29",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Novo Nordisk",
+          "title": "Novo to present new CagriSema and Wegovy data at ObesityWeek 2026",
+          "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919290",
+          "date": "2026-10-29"
+        },
+        {
+          "publication": "Novo Nordisk",
+          "title": "Novo to present new liver data at AASLD 2026",
+          "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919208",
+          "date": "2026-10-28"
+        }
+      ],
+      "tags": [
+        "novo-nordisk",
+        "obesityweek",
+        "cagrisema",
+        "redefine-9",
+        "step-young",
+        "aasld",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-131",
+      "headline": "Walgreens Launches $49 GLP-1 Virtual Visits and Medicare Bridge Navigation Across ~8,000 Stores",
+      "summary": "Walgreens introduced a $49 virtual visit with no subscription (medication not included) in which clinicians may prescribe FDA-approved GLP-1s, plus prior-authorization and savings-card support for Wegovy (injection and pill), Zepbound and Foundayo, Medicare GLP-1 Bridge enrollment help, and pharmacist outreach after every new GLP-1 fill. Virtual care is available in all states except Alabama; Bridge navigation is unavailable in AL, DC, DE, KS, LA, MS, NM, RI and WV. Walgreens cites data that more than half of weight-management GLP-1 starters discontinue within a year. CVS MinuteClinic has offered $29 visits since August.",
+      "market": "us",
+      "category": "commercial",
+      "timestamp": "2026-10-27",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Walgreens",
+          "title": "Walgreens expands access to weight management care and introduces new GLP-1 support services",
+          "url": "https://corporate.walgreens.com/news-and-stories/press-releases/pharmacy-healthcare/walgreens-expands-access-to-weight-management-care-and-introduces-new-glp-1-support-services",
+          "date": "2026-10-27"
+        },
+        {
+          "publication": "Pharmaceutical Commerce",
+          "title": "Walgreens expands GLP-1 access with prior authorization, pharmacist support",
+          "url": "https://www.pharmaceuticalcommerce.com/view/walgreens-expands-glp1-access-with-prior-authorization-pharmacist-support",
+          "date": "2026-10-27"
+        }
+      ],
+      "tags": [
+        "walgreens",
+        "telehealth",
+        "retail-pharmacy",
+        "medicare-bridge",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-132",
+      "headline": "Andel–Novo Deal Puts Wegovy Injection and Pill Direct to Employers Outside Insurance",
+      "summary": "Andel announced a collaboration with Novo Nordisk to offer Wegovy injection, Wegovy HD and the Wegovy pill through a direct-to-employer marketplace that runs alongside PBMs. Employers choose a month-to-month contribution (AJMC cites about $100 per fill up to 100%) toward Novo's self-pay prices of $149 for the pill and $199 for the pen at the lowest dose; Novo has said self-pay pricing may change in 2027. Andel already works with Lilly Employer Connect (since May 2026) and disclosed $4.5m initial funding. The deal lands the same week WTW reported the first drop in employer GLP-1 coverage in three years.",
+      "market": "us",
+      "category": "deal",
+      "timestamp": "2026-10-28",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "PR Newswire (Andel)",
+          "title": "Andel collaborates with Novo to bring Wegovy injection and Wegovy pill direct to employers",
+          "url": "https://www.prnewswire.com/news-releases/andel-collaborates-with-novo-to-bring-wegovy-injection-and-wegovy-pill-direct-to-employers-302921477.html",
+          "date": "2026-10-28"
+        },
+        {
+          "publication": "AJMC",
+          "title": "As employers pull back on GLP-1s, Andel and Novo offer a workaround",
+          "url": "https://ajmc.com/view/as-employers-pull-back-on-glp-1s-andel-and-novo-offer-a-workaround",
+          "date": "2026-11-01"
+        }
+      ],
+      "tags": [
+        "andel",
+        "novo-nordisk",
+        "employer",
+        "direct-to-employer",
+        "wegovy",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-133",
+      "headline": "UPC Milan Claims Power to Stop Novo's 'Divisional Game' in Sandoz Semaglutide Revocation Case",
+      "summary": "In Sandoz's revocation action against Novo's EP 3 689 365 (once-weekly 1.0mg semaglutide for T2D, a divisional of the already revoked EP 2 866 825), the Milan Central Division largely dismissed Novo's preliminary objection in an Oct 22 order reported Oct 26. The court held it has inherent jurisdiction under Art. 32 UPCA, admitted an Arrow-type declaration against re-emergence of the same protection via divisionals, and held it may restrain Novo from withdrawing approval of the patent text at the EPO; leave to appeal was granted. EP 365 separately faces 18 accelerated EPO oppositions. MLex also reported the EPO Board of Appeal's written decision revoking EP 3 448 416 (cardiovascular use), already tracked last week.",
+      "market": "eu",
+      "category": "legal",
+      "timestamp": "2026-10-26",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "JUVE Patent",
+          "title": "UPC claims power to stop patentees escaping validity decisions via withdrawal",
+          "url": "https://www.juve-patent.com/cases/upc-claims-power-to-stop-patentees-escaping-validity-decisions-via-withdrawal/",
+          "date": "2026-10-26"
+        },
+        {
+          "publication": "Prasa IP",
+          "title": "UPC 'divisional game': Sandoz v Novo Nordisk",
+          "url": "https://www.prasaip.com/upc-divisional-game-sandoz-v-novo-nordisk/",
+          "date": "2026-10-28"
+        }
+      ],
+      "tags": [
+        "upc",
+        "sandoz",
+        "novo-nordisk",
+        "semaglutide-patent",
+        "ep-3689365",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-134",
+      "headline": "Judge Denies Novo's Bid to Halt Lilly's Comparative Zepbound/Mounjaro Ads",
+      "summary": "Judge Zahid Quraishi (D.N.J., Trenton) on Oct 26 denied Novo Nordisk's motion for a preliminary injunction against Lilly's comparative advertising, finding Novo had not shown irreparable harm because prescriptions stayed stable during the campaign, and noting Novo's own history of comparative ads. The Lanham Act merits remain open and the case continues. This was the only Novo–Lilly court ruling in the window; it does not involve compounders.",
+      "market": "us",
+      "category": "legal",
+      "timestamp": "2026-10-26",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "pharmaphorum",
+          "title": "Judge backs Lilly in Novo lawsuit over weight-loss drug ads",
+          "url": "https://pharmaphorum.com/news/judge-backs-lilly-novo-lawsuit-over-weight-loss-drug-ads",
+          "date": "2026-10-27"
+        }
+      ],
+      "tags": [
+        "novo-nordisk",
+        "lilly",
+        "lanham-act",
+        "advertising",
+        "litigation",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-135",
+      "headline": "UK Commons Health Committee Calls NHS Tirzepatide Rollout 'Unambitious': 220,000 Over Three Years Is 6% of 2.8m Eligible",
+      "summary": "The House of Commons Health and Social Care Committee's report 'Food and Weight Management: Modernising obesity treatment' urges NHS England to reassess its Mounjaro plan, use digital providers, hold a provider summit and build a national obesity pathway modelled on diabetes care. The current model implies about 21 GP and 4 nurse appointments per patient per year at a servicing cost of about £3.1bn. Chair Layla Moran said a 'two-tier system has emerged'. The report puts the UK cost of obesity at £74.3bn or more a year. Nursing Times covered it Oct 27; the report itself published about a week earlier.",
+      "market": "eu",
+      "category": "policy",
+      "timestamp": "2026-10-27",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "Nursing Times",
+          "title": "MPs call for wider access to weight-loss drugs for people with obesity",
+          "url": "https://nursingtimes.net/public-health/mps-call-for-wider-access-to-weight-loss-drugs-for-people-with-obesity-27-10-2026",
+          "date": "2026-10-27"
+        },
+        {
+          "publication": "Nutrition Insight",
+          "title": "UK MPs urge NHS obesity care overhaul",
+          "url": "https://www.nutritioninsight.com/news/uk-mps-nhs-obesity-care-overhaul-glp-1.html",
+          "date": "2026-10-23"
+        }
+      ],
+      "tags": [
+        "nhs",
+        "uk",
+        "mounjaro",
+        "health-committee",
+        "access",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-136",
+      "headline": "EMA PRAC Opens Signals on Semaglutide (Ischaemic Colitis) and Liraglutide (Alopecia); October Meeting Has No GLP-1 Items",
+      "summary": "EMA's PRAC signal recommendations adopted at its Sep 28–Oct 1 meeting (document dated Oct 26) request supplementary information from Novo on ischaemic colitis with semaglutide (EPITT 20309, Sweden lead) by Dec 1, 2026; gastrointestinal volvulus with semaglutide and icodec/semaglutide (EPITT 20260) is to be reassessed in the next PSUR (Aug 2027); alopecia with liraglutide (EPITT 20311) is to be assessed in the next PSUR (Mar 2027). No product-information change was ordered. The PRAC's Oct 26–29 meeting highlights contain no GLP-1 items. Separately, a Journal of Internal Medicine review covered by News-Medical puts gallbladder disease (+37% relative risk across 76 RCTs) as the firmest serious-harm signal, with NAION, pancreatitis, thyroid cancer and suicidality unproven.",
+      "market": "eu",
+      "category": "safety",
+      "timestamp": "2026-10-26",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "EMA",
+          "title": "PRAC recommendations on signals adopted at the 28 September–1 October 2026 PRAC meeting",
+          "url": "https://www.ema.europa.eu/en/documents/prac-recommendation/prac-recommendations-signals-adopted-28-september-1-october-2026-prac-meeting_en.pdf",
+          "date": "2026-10-26"
+        },
+        {
+          "publication": "EMA",
+          "title": "Meeting highlights from PRAC 26–29 October 2026",
+          "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026",
+          "date": "2026-10-30"
+        },
+        {
+          "publication": "News-Medical",
+          "title": "Taking a GLP-1 drug? Here's what the safety evidence really shows",
+          "url": "https://www.news-medical.net/news/20261026/Taking-a-GLP-1-drug-Heres-what-the-safety-evidence-really-shows.aspx",
+          "date": "2026-10-26"
+        }
+      ],
+      "tags": [
+        "ema",
+        "prac",
+        "safety",
+        "ischaemic-colitis",
+        "semaglutide",
+        "liraglutide",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-137",
+      "headline": "Hengrui: Oral GLP-1 HRS-7535 NDAs Accepted in China for T2D and Weight Management; HRS-1596 Licensed to Novo for up to $2.6bn",
+      "summary": "Hengrui's nine-month report (revenue RMB 24.41bn, +5.3%; Q3 RMB 8.95bn, +20.6%) says China's CDE has accepted NDAs for HRS-7535 tablets, an oral small-molecule GLP-1, in both type 2 diabetes and long-term weight management, and for ribupatide (GLP-1/GIP) injection in T2D. These are filing acceptances, not approvals. HRS-1596, an oral GLP-1R/GIPR agonist, was licensed to Novo Nordisk on Sep 29 for $300m upfront and up to $2.6bn in milestones, with closing expected in Q4 2026.",
+      "market": "global",
+      "category": "regulatory",
+      "timestamp": "2026-10-27",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "PR Newswire (Hengrui)",
+          "title": "Hengrui Pharma reports steady growth in the first nine months of 2026",
+          "url": "https://www.prnewswire.com/news-releases/hengrui-pharma-reports-steady-growth-in-the-first-nine-months-of-2026-302920563.html",
+          "date": "2026-10-27"
+        }
+      ],
+      "tags": [
+        "hengrui",
+        "china",
+        "oral-glp-1",
+        "hrs-7535",
+        "novo-nordisk",
+        "nda",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-138",
+      "headline": "India Earnings Week: Cipla's Yurpeak Now #2 GLP-1 Brand, Torrent Claims 32% Semaglutide Share, Sun Silent on Semaglutide",
+      "summary": "Cipla (Q2 FY27 revenue ₹7,404cr, −2.4%; PAT ₹878cr, −35%) said domestic anti-diabetes grew 50% including GLP-1s, with Yurpeak (co-marketed tirzepatide) now the second-largest GLP-1 brand and GLP-1s roughly 10% of India sales per PhillipCapital. Torrent (revenue ₹4,979cr, +51%) claims a 32% combined oral-plus-injectable semaglutide share per PharmaTrac and over 90% of the oral generic segment, after an injectable supply disruption of about two months was restored in September; it sizes generic semaglutide at ₹800cr in year one and ₹2,000–2,500cr in 3–5 years, with a Brazil launch in 6–9 months. Sun (revenue ₹16,199cr, +11.9%) gave no semaglutide figures. Mankind (₹4,338cr, +17.3%) had no GLP-1 commentary. Natco reports Nov 13.",
+      "market": "india",
+      "category": "financial",
+      "timestamp": "2026-10-30",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "APAC News Network",
+          "title": "Cipla Q2 results FY27: net profit falls 35%",
+          "url": "https://apacnewsnetwork.com/2026/10/cipla-q2-results-fy27-net-profit-falls-35-percent/",
+          "date": "2026-10-27"
+        },
+        {
+          "publication": "Medical Dialogues",
+          "title": "Torrent Pharma eyes Brazil semaglutide launch as Q2 revenue surges",
+          "url": "https://medicaldialogues.in/news/industry/pharma/torrent-pharma-eyes-brazil-semaglutide-launch-as-q2-revenue-surges-38-182008",
+          "date": "2026-10-26"
+        },
+        {
+          "publication": "Elets eHealth",
+          "title": "Sun Pharma Q2 FY27 results",
+          "url": "https://ehealth.eletsonline.com/2026/11/sun-pharma-q2-fy27-results-india-formulations-us-sales/",
+          "date": "2026-10-30"
+        }
+      ],
+      "tags": [
+        "cipla",
+        "torrent",
+        "sun-pharma",
+        "mankind",
+        "q2-fy27",
+        "india",
+        "yurpeak",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-139",
+      "headline": "Dr Reddy's Books ₹71cr for Canada Semaglutide Recall; November Relaunch Hinges on API Validation",
+      "summary": "Dr Reddy's Q2 FY27 filing (6-K, Note 2) discloses that an August 2026 recall of semaglutide batches in Canada, for an impurity above specification plus an unrelated packaging and labelling error, cost Rs 710 million (₹71cr) in expected returns, on top of a Q1 provision of ₹239.7cr for out-of-specification API batches. CEO Erez Israeli said the core problem was scaling up API production for the partner and the company is 'on track to resume semaglutide supply in November 2026', subject to validation, with Canada first, then Latin America. FY27 semaglutide revenue guidance is unchanged at $6–7m. Obeda Pro and Obeda Plus, made by Hetero, remain on sale in India. The results were Oct 23; the transcript filing and brokerage coverage fell in this window.",
+      "market": "india",
+      "category": "manufacturing",
+      "timestamp": "2026-10-29",
+      "importance": "medium",
+      "sources": [
+        {
+          "publication": "SEC (Dr Reddy's 6-K)",
+          "title": "Dr Reddy's Q2 FY27 results and notes",
+          "url": "https://www.sec.gov/Archives/edgar/data/1135951/000157587226000725/rdy0952_ex99-4.htm",
+          "date": "2026-10-23"
+        },
+        {
+          "publication": "GuruFocus",
+          "title": "Dr Reddy's Q2 2027 earnings call highlights: semaglutide relaunch nears",
+          "url": "https://www.gurufocus.com/news/9141392/dr-reddys-laboratories-ltd-rdy-q2-2027-earnings-call-highlights-margin-recovery-in-focus-as-semaglutide-relaunch-nears",
+          "date": "2026-10-26"
+        },
+        {
+          "publication": "Trade Brains",
+          "title": "Dr Reddy's Q2 results: can semaglutide recovery justify its PE?",
+          "url": "https://tradebrains.in/indian-markets/dr-reddys-q2-results-can-semaglutide-recovery-and-domestic-growth-justify-its-39x-pe-12752561",
+          "date": "2026-10-26"
+        }
+      ],
+      "tags": [
+        "dr-reddys",
+        "canada",
+        "recall",
+        "semaglutide-api",
+        "relaunch",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-140",
+      "headline": "Nature Medicine: 8,127 UK Women on Digital-First Tirzepatide Lost 15.5% at Six Months with 91.4% Retention",
+      "summary": "A company-sponsored real-world cohort from SheMed, led by Prof. John Deanfield (UCL) and published in Nature Medicine (online Oct 16, announced Oct 26), followed 8,127 UK women aged 18–79 with mean baseline BMI 38.2, nearly all on tirzepatide at about 63% of the maximum licensed dose by month six. Mean weight loss was 16.1kg (15.5%), more than 83% lost at least 10%, and retention was 91.4%. Separately, Lilly India partner data were not available this window.",
+      "market": "eu",
+      "category": "clinical",
+      "timestamp": "2026-10-26",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "PR Newswire (SheMed)",
+          "title": "Nature Medicine study of 8,000 women finds significant weight loss and 91% treatment retention with digital GLP-1 care",
+          "url": "https://www.prnewswire.com/news-releases/nature-medicine-study-of-8-000-women-finds-significant-weight-loss-and-91-treatment-retention-with-digital-glp-1-care-302919479.html",
+          "date": "2026-10-26"
+        }
+      ],
+      "tags": [
+        "tirzepatide",
+        "real-world",
+        "uk",
+        "telehealth",
+        "nature-medicine",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-141",
+      "headline": "Lilly Leadership: Jonsson Retires, Yuffa to Lead Global Markets, Laura Steele Takes Lilly USA",
+      "summary": "Patrik Jonsson, president of Lilly International, retires at the end of 2026 after 36 years. Ilya Yuffa becomes president of Lilly Global Markets and Laura Steele, previously group VP for US cardiometabolic health and the executive running the Zepbound and Mounjaro US business, becomes president of Lilly USA, both effective Jan 1, 2027.",
+      "market": "us",
+      "category": "corporate",
+      "timestamp": "2026-10-27",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "PR Newswire (Lilly)",
+          "title": "Patrik Jonsson to retire after 36 years; Ilya Yuffa named president, Lilly Global Markets",
+          "url": "https://www.prnewswire.com/news-releases/patrik-jonsson-to-retire-after-36-years-ilya-yuffa-named-president-lilly-global-markets-302921191.html",
+          "date": "2026-10-27"
+        }
+      ],
+      "tags": [
+        "lilly",
+        "leadership",
+        "corporate",
+        "november-2026"
+      ]
+    },
+    {
+      "id": "story-142",
+      "headline": "COVERAGE NOTE — Oct 26 to Nov 2 Sweep Again Hit a Shared Search Cap; India Business Press Blocked",
+      "summary": "All eight research passes for this window exhausted a shared web-search budget partway through and completed on direct fetches of primary pages (SEC, FDA, EMA, CDSCO, govinfo, ClinicalTrials.gov, company newsrooms). Economic Times, Mint, Business Standard, Moneycontrol, Reuters, Bloomberg, Endpoints, Fierce and Reddit refused automated fetches. Topics not fully swept and therefore unverified rather than empty: Pharmarack September and October India GLP-1 rupee totals, Indian D2C and telehealth players, Novo late-October news, FTC and state attorney-general actions on telehealth GLP-1 marketers, Halloween 'Ozempic' cultural coverage, and Google Trends data. Novo's Q3 report (Nov 4), Amgen and Pfizer (Nov 3), WW (Nov 5) and Hims (Nov 9) all fall after this window.",
+      "market": "global",
+      "category": "policy",
+      "timestamp": "2026-11-02",
+      "importance": "low",
+      "sources": [
+        {
+          "publication": "Internal",
+          "title": "Research coverage note for the Oct 26–Nov 2, 2026 window",
+          "url": "https://en-glp1-intelligence.vercel.app",
+          "date": "2026-11-02"
+        }
+      ],
+      "tags": [
+        "verification",
+        "coverage-note",
+        "november-2026"
+      ]
+    },
     {
       "id": "story-122",
       "headline": "VERIFICATION CHECK — Oct 5 to Oct 26 Sweep Hit a Shared Search Cap; Several Topics Unverified Rather Than Empty",

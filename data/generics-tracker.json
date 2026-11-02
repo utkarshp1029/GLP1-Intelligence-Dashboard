@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "generics-tracker",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 36,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 38,
     "key_metrics": [
       {
+        "label": "Sun Oral Sema (India)",
+        "value": "Approved · launch gated"
+      },
+      {
         "label": "India Generic Sema",
-        "value": "12 cos (APAC) · 33 brands"
+        "value": "35+ brands (PharmEasy)"
       },
       {
-        "label": "Generics Share (Sep)",
-        "value": "58.8% of value (Adgully)"
+        "label": "Torrent Sema Share",
+        "value": "32% (PharmaTrac)"
       },
       {
-        "label": "India GLP-1 Latest ₹",
-        "value": "₹247cr (Aug; Sep n/a)"
+        "label": "DRL Canada Recall Cost",
+        "value": "₹71cr (Q2) + ₹240cr Q1"
       },
       {
-        "label": "DRL vs Sun Units",
-        "value": "442k vs 151k (to Sep)"
+        "label": "DRL Relaunch",
+        "value": "Nov 2026 (Canada first)"
       },
       {
-        "label": "Brazil Sema Generics",
-        "value": "10 registered · 2 sold"
-      },
-      {
-        "label": "China Generic Sema",
-        "value": "0 approved"
+        "label": "India GLP-1 Sep/Oct ₹",
+        "value": "Not published"
       },
       {
         "label": "India Tirzepatide",
@@ -35,6 +35,22 @@
     ]
   },
   "launches": [
+    {
+      "id": "gen-016",
+      "molecule": "semaglutide",
+      "brand_name": "Sun Pharma oral semaglutide (brand not disclosed)",
+      "manufacturer": "Sun Pharma",
+      "market": "india",
+      "status": "approved",
+      "format": "tablet",
+      "launch_date": null,
+      "approval_date": null,
+      "price_per_unit": null,
+      "currency": null,
+      "doses_verified": false,
+      "planned_volume": "CDSCO approval to manufacture and market once-daily semaglutide tablets 3mg/7mg/14mg (Rybelsus strengths) for type 2 diabetes, reported Nov 1, 2026 (Medical Dialogues citing Economic Times); approval letter date NOT retrieved. Formulation at Kamrup, Assam; API from Zhongmeihuadong (Hangzhou). NO brand name, NO price, NO launch date. Launch gated by Delhi HC order (Aug 11) requiring court permission over Novo's SNAC formulation patent; next listed Nov 4.",
+      "source_url": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-gets-cdsco-nod-for-generic-semaglutide-pill-182463"
+    },
     {
       "id": "gen-014",
       "molecule": "semaglutide",
@@ -241,6 +257,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "gen-entry-023",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-gets-cdsco-nod-for-generic-semaglutide-pill-182463",
+      "source_name": "Medical Dialogues / Dr Reddy's 6-K (SEC) / Trade Brains / GuruFocus / Medical Dialogues (Torrent) / Investing.com (Cipla transcript) / GLP1Prices.ca / PharmEasy",
+      "market": "both",
+      "summary": "India's generic story this week was approvals and earnings rather than launches. CDSCO approved Sun Pharma's oral semaglutide tablets (3/7/14mg, T2D), reported Nov 1, but no brand, price or launch date was given and a Delhi High Court order requires Sun to seek permission before launching (next listed Nov 4). Dr Reddy's disclosed that its August Canada recall cost ₹71cr on top of a ₹239.7cr Q1 API provision, and still targets a November relaunch, Canada first, subject to validation. Torrent claims 32% of combined oral-plus-injectable semaglutide (PharmaTrac) and over 90% of oral generics after restoring injectable supply in September; Cipla says Yurpeak (tirzepatide) is now the number-two GLP-1 brand with GLP-1s about 10% of its India sales. PharmEasy's hub (Nov 1) counts over 35 generic semaglutide brands from about ₹350/week. Pharmarack's September and October rupee totals were not published. In Canada, Sandoz had still not launched as of Oct 29 and Apo-Semaglutide was tracked at CAD $83.22 at one Walmart pharmacy. No new launches in Brazil, China, MENA or the US.",
+      "content": "October 26 - November 2, 2026 generics tracker.\n\n1. INDIA — SUN PHARMA ORAL SEMAGLUTIDE APPROVAL (reported Nov 1)\n   - CDSCO approval to manufacture and market semaglutide tablets 3mg / 7mg / 14mg for T2D (Rybelsus strengths); Kamrup (Assam) plant; API from Zhongmeihuadong (Hangzhou)\n   - No brand name, price or launch date; secondary report; letter not retrieved; recorded as gen-016 with status 'approved'\n   - LAUNCH GATE: Delhi HC (Aug 11) ordered Sun to seek permission before launching tablets over Novo's SNAC formulation patent; next listed Nov 4. Torrent (Semalix/Sembolic) launched oral generics first after a non-infringement finding; Novo has a parallel suit vs Torrent. Dr Reddy's Obeda tablets list at ₹99/135/225 (3/7/14mg).\n   - Oral generic status remains contested in aggregators: some list only Torrent; Dermavue (Oct 19) says none exist. T2D only — not obesity.\n\n2. DR REDDY'S — RECALL COST AND RELAUNCH (6-K Oct 23; transcript 6-K Oct 29; coverage Oct 26)\n   - Note 2: August 2026 recall of semaglutide batches in Canada (impurity above spec plus unrelated packaging/labelling error) — Rs 710M (₹71cr) booked for expected returns against Global Generics revenue\n   - Note 5: Q1 provision Rs 2,230M inventory + Rs 167M costs (₹239.7cr) for out-of-spec API batches\n   - CEO Israeli: main problem was 'scaling up API production for the partner'; 'on track to resume semaglutide supply in November 2026', pending validation; approvals in 10 countries; launch plan 89 markets; Canada first, then LatAm (Brazil ~start Q4 FY27), small volumes Africa; FY27 semaglutide guide $6–7M unchanged; FY28/29 run-rate $12–15M 'tentative'\n   - Obeda Pro / Obeda Plus (made by Hetero) on the Indian market since late July; ₹ prices and pen formats NOT stated. DOSE COUNT NOT STATED.\n   - Pharmarack units through September: Dr Reddy's ~442k vs Sun ~151k (Reuters Oct 23, pre-window)\n   - https://www.sec.gov/Archives/edgar/data/1135951/000157587226000725/rdy0952_ex99-4.htm\n   - https://tradebrains.in/indian-markets/dr-reddys-q2-results-can-semaglutide-recovery-and-domestic-growth-justify-its-39x-pe-12752561\n\n3. INDIA — EARNINGS-CALL SHARE CLAIMS (Q2 FY27)\n   - Torrent (Oct 26/27): 32% combined oral+injectable semaglutide share (PharmaTrac); >90% of oral generic segment; injectable supply disrupted ~2 months, restored September via new manufacturing partner, some share lost; sizes generic semaglutide at ₹800cr year one, ₹2,000–2,500cr in 3–5 years; Brazil launch in 6–9 months\n     https://medicaldialogues.in/news/industry/pharma/torrent-pharma-eyes-brazil-semaglutide-launch-as-q2-revenue-surges-38-182008\n   - Cipla (Oct 27): anti-diabetes +50% including GLP; Yurpeak (co-marketed tirzepatide) second-largest GLP-1 brand; GLP-1 ~10% of domestic sales (PhillipCapital estimate); 5–10% MoM GLP growth; no India semaglutide launch timeline. India tirzepatide remains a Mounjaro + Yurpeak duopoly (patent ~2033–36).\n   - Sun (Oct 30 / Nov 1 transcript): semaglutide commercialised in India, South Africa and Brazil (via partner); no figures\n\n4. INDIA — MARKET DATA\n   - Pharmarack / IQVIA September and October ₹-crore totals and generics value share: NOT PUBLISHED / not found. Latest value print remains August ₹247cr; latest generics share 58.8% of semaglutide value (September, Adgully); units through September only\n   - PharmEasy GLP-1 hub (updated Nov 1): 'more than 35 generic semaglutide brands'; cheapest ~₹350/week (Natco Semanat cited); Ozempic starter pen from ₹5,660; Wegovy ~₹5,660–16,400/month; Rybelsus 3mg from ₹2,972 per 10-tablet strip. Aggregator grade. DOSE COUNT NOT STATED for any brand. (glp1check.in's 'Obeda = 4 weekly doses per pen' is not a product listing; do not rely on it.)\n     https://pharmeasy.in/glp-1/\n   - Reconciliation: BioPharma APAC counts ~20 brands with public launches from 12 companies; Pharmarack's August count was 33 injectable brands with sales; PharmEasy's '35+' counts listings. Different denominators, not a conflict.\n   - No new brand launches or price cuts found (Torrent, Zydus, Lupin, Glenmark, Cipla, Sun, Natco, Alkem, Eris, Mankind); Economic Times / Mint / Business Standard blocked, so India coverage may be incomplete\n\n5. CANADA (GLP1Prices.ca editorial tracker, Oct 29/30 — snippet grade)\n   - Sandoz (approved Sep 18) had not launched as of Oct 29; expects market to 'take shape in Q3 2026' after Health Canada asked Sandoz and Dr Reddy's for more data\n   - Approvals: Dr Reddy's (Apr 28), Apo-Semaglutide (May 1), Sevmia/Apotex generic Wegovy (Jun 29), Aspen-Semaglutide (Jul 17) plus two more Aspen listings (Aug 25); Health Canada Jul 31 snapshot: nine submissions from eight companies\n   - Price points: Apo-Semaglutide CAD $83.22 at Walmart Pharmacy Quebec vs brand Ozempic 0.25mg pen $215–317; Ontario formulary Sevmia CAD $325.048; pCPA: three-plus competing injectables trigger reference price of 35% of brand\n   - Aspen plans Canada and emerging markets first, then Mexico, NZ, Europe, US. Teva Canada: no news. Hims & Hers Canada offering generic semaglutide from CAD $149/month (Oct 23, pre-window; manufacturer not named)\n     https://www.glp1prices.ca/glp1-news/canada-global-test-market-generic-semaglutide-sandoz-q3-2026-october-2026\n\n6. OTHER MARKETS — NOTHING IN WINDOW\n   - Brazil: no launches; ANVISA registered EMS (Aug 17) and Germed (Aug 24) generics awaiting CMED pricing; EMS Ozivy on sale since Jun 15 from R$452; Hypera/Biomm no verified launch; Torrent guides 6–9 months; Sun's partner launched in Q2\n   - China: zero NMPA generic approvals; Jiuyuan review suspended on data protection, next milestone Q2 2027; Novo says Ozempic data protection in China runs to April 2027\n   - Saudi/MENA: nothing after Hikma Glucentra (Sep 16; DOSE COUNT NOT STATED)\n   - Mexico: COFEPRIS blocked by data protection to ~July 2029 (secondary); Turkey: nothing; Bangladesh, Pakistan: NOT SEARCHED (search cap)\n   - US: Teva/Sandoz/Viatris ANDA status unchanged; only milestone remains Apotex tentative approval (Apr 10)\n   - Novo authorized-generic moves: none\n",
+      "tags": [
+        "generics",
+        "sun-pharma",
+        "oral-semaglutide",
+        "dr-reddys",
+        "canada",
+        "torrent",
+        "cipla",
+        "yurpeak",
+        "pharmeasy",
+        "november-2026"
+      ]
+    },
     {
       "id": "gen-entry-022",
       "timestamp": "2026-10-26T00:00:00Z",

@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "revenue-financials",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 26,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 27,
     "key_metrics": [
       {
-        "label": "Lilly Q3 Report",
-        "value": "Oct 29 · ~$22.6bn est."
+        "label": "Lilly Q3 Revenue",
+        "value": "$24.4bn (+39%)"
+      },
+      {
+        "label": "Mounjaro + Zepbound Q3",
+        "value": "$10.7bn + $5.35bn"
+      },
+      {
+        "label": "Foundayo Q3",
+        "value": "$184m (est. ~$229m)"
+      },
+      {
+        "label": "Lilly FY26 Guide",
+        "value": "$91–92bn (from $85–87)"
       },
       {
         "label": "Novo Q3 Report",
-        "value": "Nov 3–4 (unconfirmed)"
+        "value": "Nov 4 (confirmed)"
       },
       {
-        "label": "Dr Reddy's Q2 PAT",
-        "value": "₹925cr (−36% YoY)"
+        "label": "Torrent Sema Share",
+        "value": "32% (PharmaTrac)"
       },
       {
-        "label": "DRL vs Sun Sema Units",
-        "value": "442k vs 151k (to Sep)"
-      },
-      {
-        "label": "India GLP-1 Sep Value",
-        "value": "+72% YoY (Pharmarack)"
-      },
-      {
-        "label": "Generics Share of Sema",
-        "value": "58.8% of value (Adgully)"
-      },
-      {
-        "label": "CN/IN/BR GLP-1 2035",
-        "value": "$22bn (J.P. Morgan)"
+        "label": "India GLP-1 Sep/Oct ₹",
+        "value": "Not published"
       }
     ]
   },
@@ -153,6 +153,27 @@
     }
   ],
   "entries": [
+    {
+      "id": "rev-entry-023",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000059478/000005947826000104/q326lillysalesandearningsp.htm",
+      "source_name": "Lilly 8-K (SEC) / CNBC / Investing.com transcript / Viking 8-K / APAC News Network / Medical Dialogues / Elets / Investing.com India / Dr Reddy's 6-K / Novo IR calendar",
+      "market": "both",
+      "summary": "Lilly's Q3 was the quarter's anchor: revenue $24.4bn (+39%; consensus $22.6bn), Mounjaro $10.7bn (+65%), Zepbound $5.35bn (+49%), Foundayo $184m (a miss vs ~$229m, $281m year to date), non-GAAP EPS $7.48 vs $6.26 expected, full-year revenue guidance raised to $91–92bn. Lilly claims 63% US obesity-plus-diabetes share vs Novo's 36.6% and 58.4% internationally; Mounjaro became the first medicine in China to exceed $1bn in its first full year. Shares rose about 7% on the day and 11% on the week. Viking lost $183.2m with $960m cash. In India's Q2 FY27 prints, Cipla said GLP-1s are about 10% of domestic sales with Yurpeak the number-two GLP-1 brand; Torrent claims 32% semaglutide share and sizes the generic market at ₹800cr in year one; Sun and Mankind gave no GLP-1 figures; Dr Reddy's booked ₹71cr for its Canada semaglutide recall. Novo reports Nov 4, Amgen and Pfizer Nov 3, WW Nov 5, Hims and LifeMD Nov 9, Natco Nov 13. Pharmarack September and October rupee totals were not published.",
+      "content": "October 26 - November 2, 2026 revenue and financials.\n\n1. ELI LILLY Q3 2026 (8-K Oct 29)\n   - Revenue $24,397M (+39%; volume +53%, price −15%); US $15.1B (+34%); ex-US $9.3B (+47%)\n   - Mounjaro $10,723M (+65%): US $5.0B (+41%), ex-US $5.7B (+93%)\n   - Zepbound $5,352M (+49%; US $5.3B, +48%, lower realized prices)\n   - Foundayo $184M (YTD $281M) vs ~$229M StreetAccount consensus; Rx and new patients ~doubled QoQ; >500K TRx in quarter; ~4 in 10 oral-obesity starts; ~25% on maintenance dose\n   - Reported EPS $7.22 (+16%); non-GAAP $7.48 (+7%) vs $6.26 LSEG consensus; both include $4.57/share acquired IPR&D; ~$900M one-time benefits incl. $410M Jardiance milestone\n   - FY2026 guidance: revenue $91.0–92.0B (from $85–87B); non-GAAP EPS $35.00–36.00 (from $35.50–36.50) on deal charges\n   - Share claims: ~6 of 10 US incretin-obesity Rx, >7 of 10 injectables; 63% US obesity+diabetes share vs Novo 36.6%; international 58.4% vs 41.6%; China revenue +62% cc; Mounjaro first medicine in China >$1B in first full year\n   - Lilly International 'holding our shares' after generic semaglutide launches in India, Brazil and Canada; ex-US focus cash pay and chronic weight management\n   - Stock: +~7% Oct 29; ~$1,418 on Oct 31, +~11% on week, above Street average target ~$1,392\n   - https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html\n   - https://www.investing.com/news/transcripts/earnings-call-transcript-eli-lilly-beats-q3-2026-estimates-and-lifts-outlook-93CH-4984606\n\n2. VIKING THERAPEUTICS Q3 (8-K Oct 28)\n   - Net loss $183.2M ($1.55/sh) vs $90.8M; R&D $166.8M; no revenue; cash $960M after ~$575M gross raise; burn ~$100M/quarter\n   - https://www.sec.gov/Archives/edgar/data/0001607678/000119312526436145/vktx-ex99_1.htm\n\n3. INDIA Q2 FY27 PRINTS IN WINDOW\n   - Cipla (Oct 27): revenue ₹7,404cr (−2.4%); PAT ₹878cr (vs ₹1,351cr); EBITDA ₹1,388cr (−26.7%), margin 18.7%; One-India +12%, record quarter; anti-diabetes +50% including GLP; Yurpeak second-largest GLP-1 brand; GLP-1 ~10% of domestic sales (PhillipCapital estimate); 5–10% month-on-month GLP growth; no India semaglutide launch timeline given\n     https://apacnewsnetwork.com/2026/10/cipla-q2-results-fy27-net-profit-falls-35-percent/\n     https://www.investing.com/news/transcripts/earnings-call-transcript-cipla-q2-2027-revenue-rises-as-stock-slips-185-93CH-4975174\n   - Torrent (Oct 26/27): revenue ₹4,979cr (+51%); PAT ₹534cr (−10%); India ₹2,181cr (+20% vs IPM 12%); semaglutide 32% combined oral+injectable share (PharmaTrac), >90% of oral generic segment; injectable supply disrupted ~2 months, restored September via new manufacturing partner; market sized ₹800cr year one, ₹2,000–2,500cr in 3–5 years; Brazil semaglutide launch in 6–9 months. Brazil revenue reported as ₹661cr (+21% cc, Trade Brains) vs ₹440cr (+38%, Medical Dialogues) — sources conflict.\n     https://medicaldialogues.in/news/industry/pharma/torrent-pharma-eyes-brazil-semaglutide-launch-as-q2-revenue-surges-38-182008\n   - Sun Pharma (Oct 30): revenue ₹16,199cr (+11.9%); adjusted PAT ₹3,162cr; reported PAT ₹1,989cr after ₹1,269cr exceptional loss; India formulations ₹5,552cr (+17.3%); India share 8.6%; US $455M (−8.3%). Call (Nov 1 transcript): semaglutide commercialised in India, South Africa and Brazil (partner); no figures; 'three, four years to build any new product'\n     https://ehealth.eletsonline.com/2026/11/sun-pharma-q2-fy27-results-india-formulations-us-sales/\n   - Mankind (Oct 26): revenue ₹4,338cr (+17.3%); PAT ₹716cr (+37.7%); no GLP-1 commentary\n     https://in.investing.com/news/stock-market-news/mankind-pharma-q2-fy27-slides-margins-expand-as-chronic-therapies-drive-growth-93CH-5654331\n   - Dr Reddy's (results Oct 23, transcript 6-K Oct 29): revenue ₹8,671cr (−1.5%); PAT ₹925cr (−36%); Canada semaglutide recall ₹71cr (Rs 710M) in Q2 on top of ₹239.7cr Q1 API provision; FY27 semaglutide guide $6–7M unchanged; relaunch November subject to validation\n     https://www.sec.gov/Archives/edgar/data/1135951/000157587226000725/rdy0952_ex99-4.htm\n   - Natco: Q2 board meeting Nov 13; rights issue allotted at ₹750 (Oct 23)\n\n4. CALENDAR (after window)\n   - Nov 3: Amgen Q3 (MariTide; consensus EPS $5.79, revenue $10.07B); Pfizer Q3 (berobenatide: 10 planned Phase 3s, 3 started, first approval targeted 2028; consensus sales $16.13B)\n   - Nov 4: Novo Nordisk 9M 2026 (confirmed on Novo IR page); Cencora Q4 FY26 (secondary)\n   - Nov 5: WW International Q3 (pre-market); Cardinal Q1 FY27\n   - Nov 9: Hims & Hers Q3 (after close); LifeMD Q3 (pre-market)\n   - Nov 12: Zealand Q3 (search snippet; not verified)\n   - Lupin (~Nov 3) and Zydus (~Nov 4): snippet dates only\n   - Hims pre-print: Truist Hold, PT $32, citing 'a decline in GLP-1 billings and transactions in September'; CLO sold 3,462 shares at $27.60 on Oct 28 (10b5-1)\n\n5. NOT FOUND / NOT VERIFIED\n   - Pharmarack / IQVIA September and October India GLP-1 ₹-crore totals: not published or not found; latest value print remains August ₹247cr; unit data through September (DRL ~442k vs Sun ~151k)\n   - Novo Q3 numbers: none — report is Nov 4\n   - Alkem Q2: nothing found; Zydus IR page 403; Zealand IR TLS error\n",
+      "tags": [
+        "revenue",
+        "lilly",
+        "q3-2026",
+        "viking",
+        "cipla",
+        "torrent",
+        "sun-pharma",
+        "dr-reddys",
+        "earnings-calendar",
+        "november-2026"
+      ]
+    },
     {
       "id": "rev-entry-022",
       "timestamp": "2026-10-26T00:00:00Z",

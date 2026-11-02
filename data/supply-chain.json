@@ -1,32 +1,36 @@
 {
   "meta": {
     "section_id": "supply-chain",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 22,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 23,
     "key_metrics": [
       {
         "label": "Sema / Tirz US Shortage",
-        "value": "Resolved (FDA, Oct 26)"
+        "value": "Not listed (FDA, Nov 2)"
       },
       {
         "label": "Liraglutide Shortage",
-        "value": "Active · Saxenda ends"
+        "value": "Active (FDA, Nov 2)"
       },
       {
-        "label": "Korea Mounjaro to Clinics",
-        "value": "56% of 18.0M units"
+        "label": "Foundayo Q3 Sales",
+        "value": "$184m · Rx 2x QoQ"
       },
       {
-        "label": "Korea Wegovy to Clinics",
-        "value": "62% of 3.1M units"
+        "label": "DRL Canada Supply",
+        "value": "Halted · Nov restart"
+      },
+      {
+        "label": "Sandoz Canada Launch",
+        "value": "Not yet (as of Oct 29)"
+      },
+      {
+        "label": "TrumpRx GLP-1 SKUs",
+        "value": "4 · no Foundayo"
       },
       {
         "label": "Mounjaro India NSQ",
         "value": "6 batches (unconfirmed)"
-      },
-      {
-        "label": "DRL Canada Supply",
-        "value": "Relaunch Nov (pending)"
       }
     ]
   },
@@ -67,6 +71,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "sc-entry-020",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://www.accessdata.fda.gov/scripts/drugshortages/",
+      "source_name": "FDA Drug Shortages database (checked 2026-11-02) / CNBC / Lilly call / Dr Reddy's 6-K / TrumpRx.gov / Cardinal Health newsroom / Stevanato IR / GLP1Prices.ca",
+      "market": "both",
+      "summary": "A direct check of FDA's shortage database on Nov 2 confirms neither semaglutide nor tirzepatide injection is listed, while liraglutide injection remains in shortage; the ingredient-level pages returned errors so the alphabetical list is the source. The Foundayo revenue miss ($184m vs ~$229m) was framed as launch-quarter channel dynamics, with prescriptions doubling quarter on quarter; a Reuters figure attributing about $30m of Q2 revenue to channel inventory could not be verified. Dr Reddy's generic semaglutide supply to Canada and Latin America remains halted until its November restart, and Sandoz had not launched in Canada as of Oct 29, leaving Apotex and Aspen as the generic supply there. TrumpRx still lists four GLP-1 SKUs without Foundayo and does not describe its fulfillment channel on the page. Distributor and device-maker results fall just after the window (Stevanato Nov 3, Cencora Nov 4, Cardinal Nov 5). No regional shortage notices, India stockouts, counterfeit interceptions or Section 232 actions were found.",
+      "content": "October 26 - November 2, 2026 supply chain.\n\n1. FDA SHORTAGE STATUS (database checked Nov 2; 'New' entries through Oct 30)\n   - Full alphabetical current-shortage list: neither 'semaglutide injection' nor 'tirzepatide injection' appears\n   - Liraglutide Injection: 'Currently in Shortage' (also carries a discontinuation entry); semaglutide tablet appears only under Discontinuations (Rybelsus-related)\n   - Ingredient-level pages (dps.fda.gov) returned HTTP 503 on three attempts\n   - Secondary cross-check (tracker updated Oct 23): no shortage for either as of Oct 16/17; Fifth Circuit affirmed FDA's shortage-resolution decisions Aug 27, 2026 (Nos. 25-10600, 25-10758)\n\n2. FOUNDAYO LAUNCH SUPPLY (Lilly Q3, Oct 29)\n   - Q3 sales $184M vs ~$229M StreetAccount consensus; CFO: US prescriptions and new patients roughly doubled QoQ; >500K TRx in quarter; T2D approval expected Q4\n   - Reuters coverage (via WHBL, 403) reportedly attributed ~$30M of Q2 revenue to channel inventory — NOT verified\n   - Ex-US: launched in UAE, UK, Saudi Arabia, Mexico; >40 markets in 2027; Houston $6.5B site builds oral API\n   - https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html\n\n3. GENERIC SEMAGLUTIDE SUPPLY\n   - Dr Reddy's: Canada supply halted since the August recall (₹71cr returns provision); restart targeted November 2026 subject to API validation; Canada first, then LatAm; approvals in 10 countries\n   - Canada: Sandoz (approved Sep 18) not launched as of Oct 29 after Health Canada asked Sandoz and Dr Reddy's for more data; Apotex (Apo-Semaglutide, Sevmia) and Aspen supplying; Apo-Semaglutide tracked at CAD $83.22 at one Walmart Quebec pharmacy (editorial tracker, snippet grade)\n   - India: Torrent's injectable supply disruption (~2 months) restored in September via a new manufacturing partner; PharmEasy lists 35+ generic brands as available (Nov 1)\n\n4. US CHANNELS\n   - TrumpRx.gov (fetched Nov 2; no as-of date): Wegovy Pill $149, Wegovy Pen $199, Ozempic $199, Zepbound $299; Foundayo not listed; fulfillment channel not described on the page (secondary sources say NovoCare Pharmacy and LillyDirect)\n   - Walgreens (Oct 27): pharmacist outreach to every new GLP-1 fill across ~8,000 stores (see telehealth-d2c)\n   - Lilly: self-pay ~45% of Zepbound Rx in Q2 (CNBC); Medicare Bridge >500K Lilly fills\n\n5. DISTRIBUTORS / DEVICES — CALENDAR\n   - Cardinal Health: no releases Oct 26–Nov 2; Q1 FY27 results Nov 5; last release Oct 1 (binding LOI to extend CVS distribution agreements)\n   - Cencora Q4 FY26: Nov 4 (snippet); McKesson IR/newsroom 403\n   - Stevanato: Q3 results Nov 3; Oct 27 PFS collaboration with Aptar (body not retrieved)\n     https://ir.stevanatogroup.com/news-events/press-releases\n\n6. NO NEWS IN WINDOW (checked)\n   - Regional shortages: UK (MHRA), EU, Australia (TGA), Canada, Japan — no regulator notices retrieved\n   - Wegovy pill supply ramp; Novo supply statements (Q3 Nov 4); India Mounjaro vial/KwikPen or Wegovy stockouts; Mankind/DRL distribution deals; CVS/Walgreens/Walmart stocking; cold-chain/logistics; Novo/Lilly inventory write-downs (Lilly 10-Q shows none)\n   - Counterfeit interceptions: none dated in window (MHRA £2M seizure Oct 15 pre-window; GB News UK fake-pen data unverified, 403)\n   - Section 232 pharma tariffs: no new action\n   - Korea distribution data (sc-entry-019) not updated\n",
+      "tags": [
+        "supply-chain",
+        "fda-shortage",
+        "foundayo",
+        "dr-reddys",
+        "canada",
+        "trumprx",
+        "distributors",
+        "november-2026"
+      ]
+    },
     {
       "id": "sc-entry-019",
       "timestamp": "2026-10-26T00:00:00Z",

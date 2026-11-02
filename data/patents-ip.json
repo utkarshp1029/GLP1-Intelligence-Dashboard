@@ -1,24 +1,24 @@
 {
   "meta": {
     "section_id": "patents-ip",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 22,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 23,
     "key_metrics": [
       {
+        "label": "UPC: Sandoz v Novo (EP 365)",
+        "value": "Novo objection dismissed"
+      },
+      {
         "label": "EP 3,448,416 (CV use)",
-        "value": "Revoked by EPO BoA"
+        "value": "Revoked (written Oct 26)"
       },
       {
-        "label": "Novo v. Viatris (WV)",
-        "value": "Dismissed Oct 15"
+        "label": "Novo v. Lilly PI (ads)",
+        "value": "Denied Oct 26 (D.N.J.)"
       },
       {
-        "label": "Novo v. Lilly PI",
-        "value": "Still undecided"
-      },
-      {
-        "label": "Lilly Lanham Suits",
-        "value": "2 clinics (Oct 8)"
+        "label": "Lilly Tirz ANDA Suits",
+        "value": "14 filers · D. Del."
       },
       {
         "label": "US Sema Compound Pat.",
@@ -92,6 +92,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "pat-entry-019",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://www.juve-patent.com/cases/upc-claims-power-to-stop-patentees-escaping-validity-decisions-via-withdrawal/",
+      "source_name": "JUVE Patent / Prasa IP / MLex / Law360 / pharmaphorum (D.N.J.) / Lilly 10-Q (SEC) / Patent Opposition Database",
+      "market": "both",
+      "summary": "Two European developments and one US ruling. In Sandoz's UPC revocation action against Novo's EP 3 689 365 (once-weekly 1.0mg semaglutide for T2D, a divisional of the revoked EP 2 866 825), the Milan Central Division's Oct 22 order, reported Oct 26, largely dismissed Novo's preliminary objection, held the court has inherent jurisdiction under Art. 32 UPCA, admitted an Arrow-type declaration against re-emergence of the same protection via further divisionals, and held it may restrain Novo from withdrawing the patent text at the EPO; leave to appeal was granted and EP 365 faces 18 accelerated EPO oppositions. MLex reported the EPO Board of Appeal's written decision revoking EP 3 448 416 (cardiovascular use), already tracked last week. In the US, Judge Quraishi (D.N.J.) on Oct 26 denied Novo's preliminary injunction against Lilly's comparative Zepbound and Mounjaro ads for lack of irreparable harm; the Lanham Act case continues. Lilly's 10-Q restates the August Delaware Hatch-Waxman suits against tirzepatide ANDA filers without naming defendants. No semaglutide ANDA rulings, PTAB decisions, Federal Circuit rulings or Indian Patent Office actions were found; Sun's Delhi High Court matter is next listed Nov 4.",
+      "content": "October 26 - November 2, 2026 patents and IP.\n\n1. UPC MILAN — SANDOZ v NOVO NORDISK (UPC_CFI_2221/2026; order Oct 22; reported Oct 26–29)\n   - Patent: EP 3 689 365 (once-weekly 1.0mg semaglutide for T2D) — divisional of EP 2 866 825 (already revoked), with a further pending divisional EP 4 406 593\n   - Panel (Postiglione, Klein, Goedeweck) largely dismissed Novo's preliminary objection: UPC has 'inherent jurisdiction' under Art. 32 UPCA; Sandoz's abstract 'obviousness of the composition' request manifestly inadmissible; Arrow-type declaration against re-emergence of the same protection via divisionals admitted; court may restrain Novo from withdrawing approval of the patent text at the EPO (merits of that interim measure reserved; no misconduct found on current evidence); leave to appeal granted\n   - EP 365 also faces 18 accelerated EPO oppositions\n   - https://www.prasaip.com/upc-divisional-game-sandoz-v-novo-nordisk/\n   - https://www.mlex.com/mlex/intellectual-property/articles/2544046 (paywalled)\n   - Order PDF on unifiedpatentcourt.org returned 403\n\n2. EPO BOARD OF APPEAL — EP 3 448 416 (follow-up; revocation already tracked in pat-entry-018)\n   - MLex (Oct 26) reported the written decision of Technical Board 3.3.04 revoking EP 3 448 416 ('Semaglutide in cardiovascular conditions'; granted Aug 2022; term to 2037), reversing the Opposition Division's Jan 21, 2025 maintenance in amended form and rejecting Novo's late claim amendments; eight opponents (Stada lead, Teva, Sandoz, Adalvo, Generics (UK) among them); no divisionals in this family; commentators say remaining EU semaglutide exclusivity could end as early as 2031; Novo expects 'no significant business impact'\n   - https://www.mlex.com/mlex/intellectual-property/articles/2542660 (paywalled)\n   - https://ipfray.com/epo-board-of-appeal-revokes-novo-nordisks-cardiovascular-semaglutide-patent-generics-could-enter-eu-as-early-as-2031/\n\n3. US — NOVO v. LILLY COMPARATIVE ADS (D.N.J., Oct 26)\n   - Judge Zahid Quraishi denied Novo's preliminary injunction against Lilly's Zepbound/Mounjaro comparative advertising: no irreparable harm shown (prescriptions stable during the campaign); Novo's own history of comparative ads noted; Lanham Act merits open; litigation continues\n   - https://pharmaphorum.com/news/judge-backs-lilly-novo-lawsuit-over-weight-loss-drug-ads\n\n4. US — LILLY 10-Q (filed Oct 29) — TIRZEPATIDE HATCH-WAXMAN\n   - Note 9: 'In July 2026, Lilly received notice that multiple generic companies had filed ANDAs seeking approval to market generic versions of Mounjaro and/or Zepbound... In August 2026, we filed patent infringement actions against these companies in the U.S. District Court for the District of Delaware.' No defendants or patents named; no IPR or compounding developments\n   - Trade press (August): 14 ANDA filers sued Aug 7 — incl. Sandoz, MSN, Alembic, Amneal, Aurobindo, Biocon, Dr Reddy's, Hikma, Macleods — on compound, composition and method-of-treatment claims running to 2041. No new ruling in window.\n   - https://www.sec.gov/Archives/edgar/data/0000059478/000005947826000108/lly-20260930.htm\n\n5. INDIA\n   - Sun Pharma oral semaglutide: CDSCO approval reported Nov 1 (see regulatory-timeline), but the Delhi HC order of Aug 11 requires Sun to seek court permission before launching tablets (Novo SNAC formulation patent); next listed Nov 4. No October order found in Novo v Sun or Novo v Torrent.\n   - Indian Patent Office: no new oppositions; the two pre-grant oppositions against tirzepatide (apps 202017050717 and divisional 202118039376) ended in grant on Mar 27, 2025; no later entries\n     https://www.patentoppositions.org/en/drugs/tirzepatide-mounjaro-zepbound-and-yurpeak\n\n6. NO NEWS IN WINDOW (checked)\n   - US semaglutide ANDA/Paragraph IV: no ruling; latest event remains Mylan's September Delaware declaratory-judgment complaint on US 12,551,536 (weekly dosing for weight reduction)\n   - PTAB IPRs (semaglutide or tirzepatide): none; BPI Labs IPR2025-01346 (tirzepatide) outcome not found\n   - Federal Circuit; Novo device patents; EU SPC decisions; China patent office/courts (compound patent expired Mar 20, 2026); licensing to generics makers; Hims/Novo IP (Feb 9 suit dismissed Mar 9); Hybio tirzepatide Paragraph IV (July): no updates\n   - Trademark/trade-secret suits and Canada PMPRB: NOT SEARCHED (search cap)\n",
+      "tags": [
+        "patents",
+        "upc",
+        "sandoz",
+        "novo-nordisk",
+        "ep-3689365",
+        "ep-3448416",
+        "lanham-act",
+        "lilly",
+        "tirzepatide-anda",
+        "delhi-hc",
+        "november-2026"
+      ]
+    },
     {
       "id": "pat-entry-018",
       "timestamp": "2026-10-26T00:00:00Z",

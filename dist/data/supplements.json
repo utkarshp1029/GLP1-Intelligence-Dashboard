@@ -1,28 +1,28 @@
 {
   "meta": {
     "section_id": "supplements",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 25,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 26,
     "key_metrics": [
       {
-        "label": "GLP-1 Claims in Launches",
-        "value": "9 of 22 (NutraIngred.)"
+        "label": "ASCI Nutra Ads (Jul–Sep)",
+        "value": "60 of 60 violated"
       },
       {
-        "label": "GLP-1 Supplement Mentions",
-        "value": "+67% (Innova)"
+        "label": "GLP-1 Lookalike Names",
+        "value": "2 flagged (ASCI)"
+      },
+      {
+        "label": "Pendulum EU Sales",
+        "value": "UPC ban · 8 countries"
       },
       {
         "label": "New Mass-Brand SKU",
         "value": "NOW GLP-1 Metabolic"
       },
       {
-        "label": "FDA Letters (Sema Sites)",
-        "value": "2 India-linked sellers"
-      },
-      {
-        "label": "PepsiCo FY26 EPS Guide",
-        "value": "Cut to +1–2%"
+        "label": "FDA Letters (GLP-1 Supp)",
+        "value": "None posted Oct 27"
       },
       {
         "label": "India 'natural ozempic'",
@@ -181,6 +181,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "supp-entry-020",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://www.medianama.com/2026/10/223-asci-flags-60-misleading-nutraceutical-ads/",
+      "source_name": "MediaNama (ASCI) / NutraIngredients (Pendulum) / Nutrition Insight / All4Nutra (SupplySide Global) / FDA warning letters / Walmart, CVS, Walgreens listings",
+      "market": "both",
+      "summary": "India's ad regulator produced the week's enforcement datapoint: ASCI found all 60 nutraceutical ads it reviewed in July–September violated its code, including two products named to resemble GLP-1 drugs ('Fitty GLP-1 Daily' and 'Bargad GLP-ONE'), five berberine ads and gummies positioned as safer alternatives to prescription therapy; 29 brands modified or withdrew, and ASCI can only refer non-compliers to FSSAI. In Europe, the Unified Patent Court provisionally banned sales of Pendulum's Metabolic Daily and Glucose Control in eight countries on a Caelus patent claim (EP2753187); Pendulum has appealed and says US business is unaffected. SupplySide Global (Las Vegas, Oct 28–30) was dominated by GLP-1 companion ingredients, and suppliers warned the category risks a credibility gap without evidence. IFF mapped ten 'GLP-1 eating moments' from 25,000+ social posts. FDA's warning letters posted Oct 27 include none on GLP-1 supplements or research-use peptides; no sales data, no berberine or fiber studies and no FSSAI action were found in the window.",
+      "content": "October 26 - November 2, 2026 supplements and 'faux-zempic'.\n\n1. INDIA — ASCI NUTRACEUTICAL SWEEP (MediaNama, Oct 30)\n   - All 60 nutraceutical ads reviewed Jul–Sep 2026 violated the ASCI code; 32 brands, mostly D2C: Wellbeing Nutrition, Fast&Up, Chicnutrix, Veera Health, Muditam, Avangii Labs (6 ads), Swiggy\n   - 'Fitty GLP-1 Daily' and 'Bargad GLP-ONE' flagged for names resembling GLP-1 drugs; five ads promoted berberine; some gummies positioned as 'safer alternatives to prescription therapies' for weight/T2D; claims included 'Lose 6 kgs in 60 days'\n   - 31 brands contested, none substantiated; 29 modified or withdrew; ASCI cannot fine and refers non-compliers to FSSAI under the 2016 MoU — article does not confirm any FSSAI referral\n\n2. EU — PENDULUM PROVISIONAL SALES BAN (NutraIngredients, Oct 28)\n   - Unified Patent Court provisionally ordered Pendulum and four online retailers (iHerb Netherlands, Hebron Nutrition, Spectrum Supplements, DetoxPeople) to stop selling Metabolic Daily and Glucose Control (Anaerobutyricum hallii / Alcaligenes faecalis biotics marketed for insulin resistance) on a claim by Dutch supplier Caelus (EP2753187, co-held with Amsterdam UMC); covers BE, DK, DE, FR, IT, NL, SE, CH\n   - CEO Colleen Cutcliffe: appealed, disputes validity, US business unaffected; Caelus must file a main action within 31 days\n   - https://nutraingredients.com/Article/2026/10/28/caelus-european-patent-dispute-pendulum-appeals-provisional-ban\n\n3. INDUSTRY — SUPPLYSIDE GLOBAL (Las Vegas, Oct 28–30) AND TRADE COMMENTARY\n   - GLP-1 companion ingredients dominated: Arla 21g/100mL beta-lactoglobulin shot; FrieslandCampina clear whey isolate; Rousselot Nextida GC collagen preload (n=30 crossover, total GLP-1 1.84x placebo, sponsor-funded); Saanroo Trpti OEA (n=37, no GLP-1 difference vs placebo); Ligand berberine-Captisol; Gateway Health Dichrostachys/Cissus extracts (n=248, active GLP-1 +38.6 to +42.2 pg/mL, registered post-start); fiber panel Oct 28 (ClonBio, Roquette, Tate & Lyle)\n     https://www.all4nutra.com/news/glp-1-companion-ssg2026-7308/\n   - Nutrition Insight (Oct 27): Roquette, Probi, FrieslandCampina Ingredients and HTBA scientists warn companion-product growth is outpacing clinical substantiation\n     https://www.nutritioninsight.com/news/glp-1-companion-products-scientific-evidence.html\n   - IFF 'GLP-1 Consumer Moments of Opportunity' (Oct 29): 10 eating occasions from 25,000+ social posts; 5-state 'Hydration Plus' framework; no survey n or % figures\n     https://www.nutritioninsight.com/news/iff-glp-1-eating-occasions-food-beverage-report.html\n   - NOW Foods 'GLP-1 Metabolic Support' (Oct 21, pre-window; already a key metric): 500mg Metabolaid, 250mg berberine HCl, 222mg Reducose; company-cited 61% higher basal GLP-1 claim unverified\n\n4. RETAIL SHELF (undated listings; snippet grade)\n   - Walmart.com 'GLP-1 Support' category: Force Factor Super GLP-1 Support chews, Metamucil 'GLP-1 Friendly' fiber beside LillyDirect Zepbound pickup; CVS: Replenza GLP-1 Daily Support $29.99; Walgreens: Supergut GLP-1 Daily Support $29.99. No retailer private-label GLP-1 supplement found.\n\n5. NO NEWS IN WINDOW (checked)\n   - FDA/FTC warning letters to GLP-1 supplement sellers: FDA index (current as of Oct 27) shows 10 letters posted Oct 27, none GLP-1/supplement/peptide-related; most recent peptide RUO letters remain the Aug 24/Sep 1 batch of five\n   - 'Research use only' sema/tirz sellers / influencer enforcement: nothing new (AG/FTC searches did not run — search cap)\n   - Lemme, Supergut, Calocurb (last blog Oct 18; 429), Arrae, Hum, Nature's Bounty, Nestlé/Boost, Abbott, Herbalife, WW, Danone: no in-window items\n   - NielsenIQ/SPINS/Circana GLP-1-adjacent sales data: none dated in window\n   - Berberine or fiber vs GLP-1 clinical studies: none; newest is the Aug 28 low-dose Metaberine RCT\n   - India: no FSSAI action, no Tata 1mg/HealthKart item, no Celevida GLP+ follow-up (FSSAI notice Oct 8, prior window)\n",
+      "tags": [
+        "supplements",
+        "asci",
+        "india",
+        "pendulum",
+        "upc",
+        "supplyside",
+        "iff",
+        "faux-zempic",
+        "november-2026"
+      ]
+    },
     {
       "id": "supp-entry-019",
       "timestamp": "2026-10-26T00:00:00Z",

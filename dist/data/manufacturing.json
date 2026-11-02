@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "manufacturing",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 25,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 26,
     "key_metrics": [
+      {
+        "label": "Lilly 9M Capex (PP&E)",
+        "value": "$8.44bn (+59% YoY)"
+      },
+      {
+        "label": "Lilly Inventories",
+        "value": "$18.2bn (WIP $10.7bn)"
+      },
+      {
+        "label": "Lilly New Sites (Q3)",
+        "value": "Houston $6.5bn · VA $5bn"
+      },
+      {
+        "label": "West GLP-1 Components",
+        "value": "+30s% · ~12% of rev"
+      },
       {
         "label": "DRL Sema Relaunch",
         "value": "Nov 2026 (pending)"
-      },
-      {
-        "label": "DRL Oct FDA 483s",
-        "value": "2 sites · 2 + 3 obs."
       },
       {
         "label": "Samsung–PolyPeptide",
         "value": "87.59% tendered"
       },
       {
-        "label": "Lilly Virginia Site",
-        "value": "$5B · oncology ADCs"
-      },
-      {
-        "label": "DRL API Revenue",
-        "value": "₹831cr (−12% YoY)"
-      },
-      {
         "label": "Novo Mfg News",
-        "value": "None in window"
-      },
-      {
-        "label": "Section 232 (Lilly/Novo)",
-        "value": "0% to Jan 2029"
+        "value": "None · Q3 on Nov 4"
       }
     ]
   },
@@ -90,6 +90,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "mfg-entry-022",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/lly-20260930.htm",
+      "source_name": "Lilly 10-Q (SEC) / Investing.com transcript / West Pharmaceutical (Motley Fool transcript) / Gerresheimer (Investing.com, GuruFocus) / Dr Reddy's call (Equentis, GuruFocus) / Sun Pharma transcript / FDA Import Alert 66-40 / Novo Q2 6-K",
+      "market": "both",
+      "summary": "Lilly's 10-Q puts hard numbers on its build-out: purchases of property and equipment were $8.44bn for the first nine months of 2026, up 59% from $5.29bn, inventories reached $18.19bn (from $13.74bn at year end, with $10.69bn work-in-process), and net PP&E rose to $32.19bn. On the call Lilly cited groundbreakings on a $6.5bn Houston facility and a $5bn Richmond, Virginia facility, ten new US sites since 2020, and an 84.4% non-GAAP gross margin helped by 'improved cost of production'; no inventory write-down was disclosed. On the supplier side, West said GLP-1 high-value components grew in the 30s percent and are just under 12% of revenue, with new finishing capacity 18–24 months out and FY capex cut to $215–220m; Gerresheimer reiterated its EUR 350m GLP-1 revenue target on the Peachtree, Georgia device ramp. In India, Dr Reddy's attributed its semaglutide failure to API scale-up for its partner and targets a November restart, while Sun said semaglutide is commercialised in India, South Africa and Brazil. FDA republished Import Alert 66-40 on Oct 27 with no new Chinese GLP-1 API firms. No Novo manufacturing, Catalent-site, CDMO or Indian API-company news was found in the window; Novo reports Nov 4.",
+      "content": "October 26 - November 2, 2026 manufacturing.\n\n1. ELI LILLY — 10-Q (filed Oct 29) AND Q3 CALL\n   - Purchases of property & equipment: $8,437M for 9M 2026 vs $5,294M for 9M 2025 (+59%)\n   - Inventories $18,194M at Sep 30 vs $13,744M at Dec 31, 2025: WIP $10,688M, finished $2,998M, raw $4,460M; no write-down disclosed\n   - PP&E net $32,188M vs $24,675M\n   - Tariffs appear only as generic risk language (no Section 232 specifics)\n   - Ricks: 'We broke ground on 2 new manufacturing facilities, a $6.5 billion facility in Houston, Texas' and 'a $5 billion facility in Richmond, Virginia' (both groundbreakings pre-window); press release references 'build-out of 10 new U.S. sites since 2020'\n   - CFO Montarce: non-GAAP gross margin 84.4% (+80 bps) on 'improved cost of production'\n   - Jonsson: Foundayo launched in 4 ex-US markets; 'ready to launch across chronic weight management and type 2 diabetes in more than 40 markets next year'; 'even after the launch of generics in India, Brazil, and Canada, we're holding our shares'\n   - No capex guidance figure; no Lebanon/Concord/Kenosha/Alzey/Limerick updates in the release or retrieved transcript\n   - https://www.investing.com/news/transcripts/earnings-call-transcript-eli-lilly-beats-q3-2026-estimates-and-lifts-outlook-93CH-4984606\n   - NOT VERIFIED (403): IBJ Oct 29 'Lilly embraces AI in $50B manufacturing expansion' ($18B committed at LEAP Lebanon per snippet); a Lilly '$6 billion API facility in Alabama' release (date/details unverified)\n\n2. DEVICE / COMPONENT SUPPLIERS\n   - West Pharmaceutical Q3 (Oct 29): HVP Components +20%, 'driven by both GLP-1 and non-GLP-1 components demand'; GLP-1 HVP grew 'well into the 30s' organically, 'just under 12% of total revenues'; HVP Components 53% of revenue; Asia Pacific +~42% partly on 'the introduction of GLP-1s in both [India and China]'; new HVP finishing capacity needs '18 to 24 months'; FY26 capex guidance cut to $215–220M from $250–275M; FY26 revenue $3.41–3.42B\n     https://www.fool.com/earnings/call-transcripts/2026/10/29/west-wst-q3-2026-earnings-call-transcript/\n   - Gerresheimer prelim Q3 (Oct 30): revenue EUR 605M (+8%); adj. EBITDA EUR 103M (−2.8%, 17.1%); Containment & Delivery EUR 313M (+9%), adj. EBITDA EUR 77M (+20%) on Peachtree (Georgia) device-site ramp; ~EUR 350M GLP-1 revenue target 'still stands', 'in the ballpark', timing depends on customer programs; Chicago Heights moulded-glass plant closed September; final Q3 figures December\n     https://www.investing.com/news/earnings/gerresheimer-revenue-rises-8-in-q3-on-demand-for-drug-delivery-devices-4985972\n   - Stevanato: Oct 27 PFS collaboration with Aptar (no GLP-1 figures); Q3 results Nov 3\n\n3. INDIA\n   - Dr Reddy's (call Oct 23; coverage Oct 26): main problem was 'scaling up API production for the partner'; relaunch November subject to validation; Canada first, LatAm next; Nomura cut FY27–29 estimates on lower semaglutide sales; Goldman (Sell) flags Canada opportunity-size uncertainty; Q2 API revenue and FDA 483s tracked in mfg-entry-021\n     https://www.gurufocus.com/news/9141392/dr-reddys-laboratories-ltd-rdy-q2-2027-earnings-call-highlights-margin-recovery-in-focus-as-semaglutide-relaunch-nears\n   - Sun Pharma (transcript Nov 1): 'we are present in India, we have approval in South Africa and Brazil, and all the market, we have commercialized the product'; partner launched semaglutide generics in Brazil during the quarter; no capacity or supply figures; 'it takes three, four years for you to build any new product'\n     https://www.investing.com/news/transcripts/earnings-call-transcript-sun-pharma-beats-q2-2026-estimates-as-shares-rise-93CH-4989661\n   - Sun oral semaglutide approval: Kamrup (Assam) formulation site; API from Zhongmeihuadong (Hangzhou) — Chinese API dependence for an Indian oral generic (see regulatory-timeline)\n   - Biocon, Natco, Glenmark, Divi's, Neuland, Aurobindo, Anthem Bio, OneSource; PLI scheme; EU GMP inspections: no in-window results before the search cap\n\n4. CHINA API — FDA IMPORT ALERT 66-40 (republished Oct 27)\n   - Chengdu Shengnuo Biopharm (listed Sep 19, 2026; all drugs), Nanjing Chengong Pharmaceutical (Oct 1, 2026; all drugs), Chengdu Brilliant Biopharmaceutical (Jul 9, 2025), Harbin Jixianglong Biotech (Feb 27, 2026); other 2026 China additions Guangdong Bangze (Sep 28), Shenzhen Benliju (Sep 30), Sanrace (Sep 21)\n   - No new China listings dated Oct 26–Nov 2 in the ~300K characters read (final ~109K not read)\n   - https://www.accessdata.fda.gov/cms_ia/importalert_189.html\n\n5. NOVO NORDISK — NOTHING IN WINDOW\n   - Q3/9M report Nov 4 (financial calendar in Q2 6-K); 2026 capex guidance ~DKK 55B vs DKK 60B in 2025; H1 capex DKK 24.0B (API and fill-finish for injectable and oral); Q2 included ~DKK 3B one-time costs for 'right-sizing manufacturing capacity agreements'\n   - No Catalent-site (Bloomington/Clayton), Kalundborg, Athlone, Chartres, Montes Claros or layoff news in window (Bloomington ~400-job cut coverage dated Oct 5)\n     https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000023/caq22026.htm\n\n6. NO NEWS (checked)\n   - CDMOs: Thermo Fisher, WuXi, Bachem, CordenPharma — nothing; Samsung Biologics / PolyPeptide tender completion not verifiable (sites 404/500)\n   - Device makers Ypsomed, SHL, BD — nothing\n   - Section 232 pharma tariffs: no new action or GLP-1-specific ruling; latest verified status remains the Sep 29 implementation and zero-rate carve-outs for Lilly/Novo to Jan 2029\n",
+      "tags": [
+        "manufacturing",
+        "lilly",
+        "capex",
+        "inventory",
+        "west",
+        "gerresheimer",
+        "dr-reddys",
+        "sun-pharma",
+        "import-alert",
+        "china-api",
+        "november-2026"
+      ]
+    },
     {
       "id": "mfg-entry-021",
       "timestamp": "2026-10-26T00:00:00Z",

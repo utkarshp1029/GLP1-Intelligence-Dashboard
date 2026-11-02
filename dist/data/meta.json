@@ -1,70 +1,70 @@
 {
-  "last_full_update": "2026-10-26T00:00:00Z",
+  "last_full_update": "2026-11-02T00:00:00Z",
   "version": "1.0.0",
   "sections": {
     "pricing": {
       "file": "pricing.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 37,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 38,
       "key_metrics": [
+        {
+          "label": "Lilly US Realized Price",
+          "value": "−7% (Q3; −15% WW)"
+        },
         {
           "label": "Wegovy Pill Ladder",
           "value": "$149–299/mo (unchanged)"
         },
         {
-          "label": "Ozempic Pill",
-          "value": "$149 intro / $199 / $299"
-        },
-        {
-          "label": "Wegovy HD 7.2mg",
-          "value": "$399/mo"
+          "label": "Zepbound Self-Pay",
+          "value": "$299–699 · $449 refill"
         },
         {
           "label": "TrumpRx GLP-1 SKUs",
-          "value": "4 · $149–299"
+          "value": "4 · no Foundayo"
         },
         {
           "label": "India Generic Sema Floor",
-          "value": "₹1,290/mo (vials)"
+          "value": "~₹350/wk (PharmEasy)"
         },
         {
-          "label": "Compounded Tirz Median",
-          "value": "$222/mo (NexLife)"
+          "label": "India Price Events",
+          "value": "None in window"
         },
         {
           "label": "Medicare Bridge",
-          "value": "$50/mo · $245 mfr net"
+          "value": "$50/mo · to Dec 2027"
         }
       ]
     },
     "generics-tracker": {
       "file": "generics-tracker.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 36,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 38,
       "key_metrics": [
         {
+          "label": "Sun Oral Sema (India)",
+          "value": "Approved · launch gated"
+        },
+        {
           "label": "India Generic Sema",
-          "value": "12 cos (APAC) · 33 brands"
+          "value": "35+ brands (PharmEasy)"
         },
         {
-          "label": "Generics Share (Sep)",
-          "value": "58.8% of value (Adgully)"
+          "label": "Torrent Sema Share",
+          "value": "32% (PharmaTrac)"
         },
         {
-          "label": "India GLP-1 Latest ₹",
-          "value": "₹247cr (Aug; Sep n/a)"
+          "label": "DRL Canada Recall Cost",
+          "value": "₹71cr (Q2) + ₹240cr Q1"
         },
         {
-          "label": "DRL vs Sun Units",
-          "value": "442k vs 151k (to Sep)"
+          "label": "DRL Relaunch",
+          "value": "Nov 2026 (Canada first)"
         },
         {
-          "label": "Brazil Sema Generics",
-          "value": "10 registered · 2 sold"
-        },
-        {
-          "label": "China Generic Sema",
-          "value": "0 approved"
+          "label": "India GLP-1 Sep/Oct ₹",
+          "value": "Not published"
         },
         {
           "label": "India Tirzepatide",
@@ -74,20 +74,24 @@
     },
     "regulatory-timeline": {
       "file": "regulatory-timeline.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 32,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 33,
       "key_metrics": [
         {
-          "label": "Foundayo EU (CHMP)",
-          "value": "Positive · Oct 15"
+          "label": "Sun Oral Sema (India)",
+          "value": "CDSCO approved (T2D)"
         },
         {
-          "label": "Oral Wegovy India",
-          "value": "SEC deferred (needs BE)"
+          "label": "Sun Launch Gate",
+          "value": "Delhi HC · Nov 4"
         },
         {
-          "label": "Retatrutide Status",
-          "value": "Drug, not biologic (FDA)"
+          "label": "Foundayo EU (EC)",
+          "value": "Pending · 'by year end'"
+        },
+        {
+          "label": "Foundayo T2D (FDA)",
+          "value": "Action expected Q4"
         },
         {
           "label": "CagriSema FDA",
@@ -95,77 +99,73 @@
         },
         {
           "label": "Retatrutide US Filing",
-          "value": "Early 2027 (guided)"
+          "value": "Q1 2027 (unchanged)"
         },
         {
           "label": "FDA GLP-1 Approvals",
           "value": "None in window"
-        },
-        {
-          "label": "India Oral Sema Trials",
-          "value": "DRL + Torrent cleared"
         }
       ]
     },
     "revenue-financials": {
       "file": "revenue-financials.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 26,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 27,
       "key_metrics": [
         {
-          "label": "Lilly Q3 Report",
-          "value": "Oct 29 · ~$22.6bn est."
+          "label": "Lilly Q3 Revenue",
+          "value": "$24.4bn (+39%)"
+        },
+        {
+          "label": "Mounjaro + Zepbound Q3",
+          "value": "$10.7bn + $5.35bn"
+        },
+        {
+          "label": "Foundayo Q3",
+          "value": "$184m (est. ~$229m)"
+        },
+        {
+          "label": "Lilly FY26 Guide",
+          "value": "$91–92bn (from $85–87)"
         },
         {
           "label": "Novo Q3 Report",
-          "value": "Nov 3–4 (unconfirmed)"
+          "value": "Nov 4 (confirmed)"
         },
         {
-          "label": "Dr Reddy's Q2 PAT",
-          "value": "₹925cr (−36% YoY)"
+          "label": "Torrent Sema Share",
+          "value": "32% (PharmaTrac)"
         },
         {
-          "label": "DRL vs Sun Sema Units",
-          "value": "442k vs 151k (to Sep)"
-        },
-        {
-          "label": "India GLP-1 Sep Value",
-          "value": "+72% YoY (Pharmarack)"
-        },
-        {
-          "label": "Generics Share of Sema",
-          "value": "58.8% of value (Adgully)"
-        },
-        {
-          "label": "CN/IN/BR GLP-1 2035",
-          "value": "$22bn (J.P. Morgan)"
+          "label": "India GLP-1 Sep/Oct ₹",
+          "value": "Not published"
         }
       ]
     },
     "supplements": {
       "file": "supplements.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 25,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 26,
       "key_metrics": [
         {
-          "label": "GLP-1 Claims in Launches",
-          "value": "9 of 22 (NutraIngred.)"
+          "label": "ASCI Nutra Ads (Jul–Sep)",
+          "value": "60 of 60 violated"
         },
         {
-          "label": "GLP-1 Supplement Mentions",
-          "value": "+67% (Innova)"
+          "label": "GLP-1 Lookalike Names",
+          "value": "2 flagged (ASCI)"
+        },
+        {
+          "label": "Pendulum EU Sales",
+          "value": "UPC ban · 8 countries"
         },
         {
           "label": "New Mass-Brand SKU",
           "value": "NOW GLP-1 Metabolic"
         },
         {
-          "label": "FDA Letters (Sema Sites)",
-          "value": "2 India-linked sellers"
-        },
-        {
-          "label": "PepsiCo FY26 EPS Guide",
-          "value": "Cut to +1–2%"
+          "label": "FDA Letters (GLP-1 Supp)",
+          "value": "None posted Oct 27"
         },
         {
           "label": "India 'natural ozempic'",
@@ -175,63 +175,63 @@
     },
     "manufacturing": {
       "file": "manufacturing.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 25,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 26,
       "key_metrics": [
+        {
+          "label": "Lilly 9M Capex (PP&E)",
+          "value": "$8.44bn (+59% YoY)"
+        },
+        {
+          "label": "Lilly Inventories",
+          "value": "$18.2bn (WIP $10.7bn)"
+        },
+        {
+          "label": "Lilly New Sites (Q3)",
+          "value": "Houston $6.5bn · VA $5bn"
+        },
+        {
+          "label": "West GLP-1 Components",
+          "value": "+30s% · ~12% of rev"
+        },
         {
           "label": "DRL Sema Relaunch",
           "value": "Nov 2026 (pending)"
-        },
-        {
-          "label": "DRL Oct FDA 483s",
-          "value": "2 sites · 2 + 3 obs."
         },
         {
           "label": "Samsung–PolyPeptide",
           "value": "87.59% tendered"
         },
         {
-          "label": "Lilly Virginia Site",
-          "value": "$5B · oncology ADCs"
-        },
-        {
-          "label": "DRL API Revenue",
-          "value": "₹831cr (−12% YoY)"
-        },
-        {
           "label": "Novo Mfg News",
-          "value": "None in window"
-        },
-        {
-          "label": "Section 232 (Lilly/Novo)",
-          "value": "0% to Jan 2029"
+          "value": "None · Q3 on Nov 4"
         }
       ]
     },
     "pipeline-trials": {
       "file": "pipeline-trials.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 29,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 30,
       "key_metrics": [
         {
-          "label": "Reta OSA AHI Drop",
-          "value": "−34.3 vs −9.9 placebo"
+          "label": "Reta vs Ozempic (T2D)",
+          "value": "−20.9% vs −9.4% · 80 wk"
         },
         {
-          "label": "CagriSema in Women",
-          "value": "−25.0% (post hoc)"
+          "label": "Reta A1C vs Ozempic",
+          "value": "−2.2 vs −1.8 pts"
         },
         {
-          "label": "Petrelintide T2D",
-          "value": "−7.4 to −9.2% at wk 28"
+          "label": "EloraTZP Phase 3",
+          "value": "Starts Q4 2026"
         },
         {
           "label": "New Phase 3 Trials",
-          "value": "10 trials · 6 programs"
+          "value": "2 (n=3,000 each)"
         },
         {
-          "label": "Zenagamtide CVOT",
-          "value": "n=8,500 · to 2030"
+          "label": "VK2735 Maintenance",
+          "value": "82–97% retained (wk 33)"
         },
         {
           "label": "ObesityWeek 2026",
@@ -245,55 +245,59 @@
     },
     "supply-chain": {
       "file": "supply-chain.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 22,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 23,
       "key_metrics": [
         {
           "label": "Sema / Tirz US Shortage",
-          "value": "Resolved (FDA, Oct 26)"
+          "value": "Not listed (FDA, Nov 2)"
         },
         {
           "label": "Liraglutide Shortage",
-          "value": "Active · Saxenda ends"
+          "value": "Active (FDA, Nov 2)"
         },
         {
-          "label": "Korea Mounjaro to Clinics",
-          "value": "56% of 18.0M units"
+          "label": "Foundayo Q3 Sales",
+          "value": "$184m · Rx 2x QoQ"
         },
         {
-          "label": "Korea Wegovy to Clinics",
-          "value": "62% of 3.1M units"
+          "label": "DRL Canada Supply",
+          "value": "Halted · Nov restart"
+        },
+        {
+          "label": "Sandoz Canada Launch",
+          "value": "Not yet (as of Oct 29)"
+        },
+        {
+          "label": "TrumpRx GLP-1 SKUs",
+          "value": "4 · no Foundayo"
         },
         {
           "label": "Mounjaro India NSQ",
           "value": "6 batches (unconfirmed)"
-        },
-        {
-          "label": "DRL Canada Supply",
-          "value": "Relaunch Nov (pending)"
         }
       ]
     },
     "patents-ip": {
       "file": "patents-ip.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 22,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 23,
       "key_metrics": [
         {
+          "label": "UPC: Sandoz v Novo (EP 365)",
+          "value": "Novo objection dismissed"
+        },
+        {
           "label": "EP 3,448,416 (CV use)",
-          "value": "Revoked by EPO BoA"
+          "value": "Revoked (written Oct 26)"
         },
         {
-          "label": "Novo v. Viatris (WV)",
-          "value": "Dismissed Oct 15"
+          "label": "Novo v. Lilly PI (ads)",
+          "value": "Denied Oct 26 (D.N.J.)"
         },
         {
-          "label": "Novo v. Lilly PI",
-          "value": "Still undecided"
-        },
-        {
-          "label": "Lilly Lanham Suits",
-          "value": "2 clinics (Oct 8)"
+          "label": "Lilly Tirz ANDA Suits",
+          "value": "14 filers · D. Del."
         },
         {
           "label": "US Sema Compound Pat.",
@@ -311,32 +315,32 @@
     },
     "compounding-pharmacy": {
       "file": "compounding-pharmacy.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 20,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 21,
       "key_metrics": [
+        {
+          "label": "HHS Peptide Policy",
+          "value": "6 peptides · no GLP-1s"
+        },
+        {
+          "label": "Policy Comments Due",
+          "value": "~Nov 13 (2 wks)"
+        },
         {
           "label": "Chinese API Plants",
           "value": "2 on import alert"
         },
         {
-          "label": "Apothecary Recall",
-          "value": "22 lots · Class II"
+          "label": "FDA GLP-1 Letters (Oct)",
+          "value": "None posted"
         },
         {
-          "label": "Reta Poison Exposures",
-          "value": "862 in Q3 (vs 460 Q2)"
+          "label": "Compounded AE Reports",
+          "value": "990 sema · 730+ tirz"
         },
         {
-          "label": "Reta Death Reports",
-          "value": "2 (FAERS, unverified)"
-        },
-        {
-          "label": "UK Fake Pen Seizure",
-          "value": ">12,000 pens · ~£2m"
-        },
-        {
-          "label": "Lilly Reta Suits (Oct)",
-          "value": "5 new · 2 settled"
+          "label": "Compounded Tirz Median",
+          "value": "$222/mo (NexLife Oct)"
         },
         {
           "label": "503B Bulks Exclusion",
@@ -346,90 +350,86 @@
     },
     "telehealth-d2c": {
       "file": "telehealth-d2c.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 24,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 25,
       "key_metrics": [
         {
-          "label": "Hims FTC Hearing",
-          "value": "Jan 7, 2027"
-        },
-        {
-          "label": "Hims Class Action",
-          "value": "Lead-plaintiff Nov 2"
-        },
-        {
-          "label": "Wegovy Pill via Hims/Ro",
-          "value": "$448/mo"
-        },
-        {
-          "label": "Wegovy Pill via NovoCare",
-          "value": "$299/mo maintenance"
-        },
-        {
-          "label": "Hims Q3 Guide",
-          "value": "$880–900m revenue"
+          "label": "Walgreens GLP-1 Visit",
+          "value": "$49 · ~8,000 stores"
         },
         {
           "label": "New GLP-1 D2C Deals",
-          "value": "None found in window"
+          "value": "Andel–Novo (employer)"
+        },
+        {
+          "label": "Hims Q3 Report",
+          "value": "Nov 9 · Truist Hold $32"
+        },
+        {
+          "label": "Self-Pay Zepbound Rx",
+          "value": "~45% (Q2)"
+        },
+        {
+          "label": "Digital Tirz Retention",
+          "value": "91.4% at 6 mo (n=8,127)"
+        },
+        {
+          "label": "Hims FTC Hearing",
+          "value": "Jan 7, 2027"
         }
       ]
     },
     "social-sentiment": {
       "file": "social-sentiment.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 22,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 23,
       "key_metrics": [
         {
-          "label": "US Search: Zepbound",
-          "value": "87 vs Ozempic 60"
+          "label": "GLP-1 Coverage = Job Perk",
+          "value": "73% say it matters (n=545)"
         },
         {
-          "label": "India Search Leader",
-          "value": "Ozempic 67 · Mounjaro 63"
+          "label": "Would Switch Jobs For It",
+          "value": "31% (9amHealth)"
+        },
+        {
+          "label": "Clinicians Fixing Misinfo",
+          "value": "73% weekly (Tebra)"
+        },
+        {
+          "label": "Top Misinfo Source",
+          "value": "TikTok (59%)"
         },
         {
           "label": "Rising US Theme",
-          "value": "Cost + NAION lawsuits"
+          "value": "Employer cuts · ED risk"
         },
         {
-          "label": "Rising India Theme",
-          "value": "Mounjaro side effects"
-        },
-        {
-          "label": "India Breakout",
-          "value": "'natural ozempic'"
-        },
-        {
-          "label": "Reddit Data",
+          "label": "Reddit / Trends Data",
           "value": "Blocked this window"
         }
       ]
     },
     "safety-signals": {
       "file": "safety-signals.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 23,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 24,
       "key_metrics": [
+        {
+          "label": "PRAC New Signal",
+          "value": "Sema ischaemic colitis"
+        },
+        {
+          "label": "Novo Response Due",
+          "value": "Dec 1, 2026 (EPITT 20309)"
+        },
         {
           "label": "FDA GLP-1 Safety Action",
           "value": "None in window"
         },
         {
-          "label": "Reta Black-Market Deaths",
-          "value": "2 FAERS reports"
-        },
-        {
-          "label": "Suicidality (Medicare)",
-          "value": "HR 0.81 (depression 1.11)"
-        },
-        {
-          "label": "Post-Anesthesia Pulm AEs",
-          "value": "HR 0.68 — lower"
-        },
-        {
-          "label": "Pregnancy Malformations",
-          "value": "OR 0.99 (no signal)"
+          "label": "Gallbladder Risk (RCTs)",
+          "value": "+37% RR (76 trials)"
         },
         {
           "label": "MDL 3094 Pending",
@@ -437,77 +437,81 @@
         },
         {
           "label": "NAION MDL 3163",
-          "value": "247 pending (+31)"
+          "value": "247 pending (Oct 1)"
+        },
+        {
+          "label": "Reta Black-Market Deaths",
+          "value": "2 FAERS (no update)"
         }
       ]
     },
     "insurance-reimbursement": {
       "file": "insurance-reimbursement.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 23,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 24,
       "key_metrics": [
         {
           "label": "Employer GLP-1 Coverage",
-          "value": "18% of 200+ firms (KFF)"
+          "value": "53% (57% in 2025, WTW)"
         },
         {
-          "label": "Coverage at 5,000+ Firms",
-          "value": "33% (43% in 2025)"
+          "label": "Considering Dropping",
+          "value": "16% (9% last year)"
         },
         {
-          "label": "Dropped in Last 12 Mo",
-          "value": "12% of non-covering"
+          "label": "Moved to DTC Purchase",
+          "value": "8% · 28% considering"
         },
         {
-          "label": "NHS Mounjaro Reach",
-          "value": "~6% of eligible by 2028"
+          "label": "Medicare Bridge (Lilly)",
+          "value": ">500k fills since Jul 1"
         },
         {
-          "label": "Medicare Bridge",
-          "value": "$50 copay to Dec 2027"
+          "label": "2027 Employer Cost",
+          "value": "+8.2% (Marsh)"
         },
         {
           "label": "BALANCE Part D",
           "value": "On hold (since Apr 21)"
         },
         {
-          "label": "MFN Agreements",
-          "value": "26 companies (Sep)"
+          "label": "CMS / MFN Action",
+          "value": "None in window"
         }
       ]
     },
     "news-hub": {
       "file": "news-hub.json",
-      "last_updated": "2026-10-26T00:00:00Z",
-      "entry_count": 122,
+      "last_updated": "2026-11-02T00:00:00Z",
+      "entry_count": 142,
       "key_metrics": [
         {
           "label": "Stories This Window",
-          "value": "17 + 1 coverage note"
+          "value": "19 + 1 coverage note"
         },
         {
-          "label": "Top Regulatory",
-          "value": "Foundayo CHMP positive"
+          "label": "Lilly Q3 Revenue",
+          "value": "$24.4bn (+39%)"
         },
         {
           "label": "Top Readout",
-          "value": "CagriSema −25% (women)"
+          "value": "Reta −20.9% vs Oz −9.4%"
         },
         {
-          "label": "Compounding Alarm",
-          "value": "Mold at China API plants"
+          "label": "Employer Coverage",
+          "value": "53% (from 57%, WTW)"
         },
         {
-          "label": "Retatrutide Status",
-          "value": "Drug, not biologic (FDA)"
+          "label": "India Regulatory",
+          "value": "Sun oral sema approved"
         },
         {
-          "label": "India Generics Share",
-          "value": "58.8% of sema (Adgully)"
+          "label": "Medicare Bridge (Lilly)",
+          "value": ">500k fills since Jul"
         },
         {
           "label": "Window Character",
-          "value": "Pre-earnings · safety"
+          "value": "Earnings · reta · access"
         }
       ]
     }

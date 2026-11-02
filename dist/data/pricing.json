@@ -1,36 +1,36 @@
 {
   "meta": {
     "section_id": "pricing",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 37,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 38,
     "key_metrics": [
+      {
+        "label": "Lilly US Realized Price",
+        "value": "−7% (Q3; −15% WW)"
+      },
       {
         "label": "Wegovy Pill Ladder",
         "value": "$149–299/mo (unchanged)"
       },
       {
-        "label": "Ozempic Pill",
-        "value": "$149 intro / $199 / $299"
-      },
-      {
-        "label": "Wegovy HD 7.2mg",
-        "value": "$399/mo"
+        "label": "Zepbound Self-Pay",
+        "value": "$299–699 · $449 refill"
       },
       {
         "label": "TrumpRx GLP-1 SKUs",
-        "value": "4 · $149–299"
+        "value": "4 · no Foundayo"
       },
       {
         "label": "India Generic Sema Floor",
-        "value": "₹1,290/mo (vials)"
+        "value": "~₹350/wk (PharmEasy)"
       },
       {
-        "label": "Compounded Tirz Median",
-        "value": "$222/mo (NexLife)"
+        "label": "India Price Events",
+        "value": "None in window"
       },
       {
         "label": "Medicare Bridge",
-        "value": "$50/mo · $245 mfr net"
+        "value": "$50/mo · to Dec 2027"
       }
     ]
   },
@@ -859,6 +859,26 @@
     }
   ],
   "entries": [
+    {
+      "id": "pricing-entry-020",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000059478/000005947826000104/q326lillysalesandearningsp.htm",
+      "source_name": "Lilly 8-K (SEC) / Zacks via Yahoo Finance / Wegovy.com, TrumpRx.gov, Zepbound.lilly.com (live checks 2026-11-02) / BioPharma APAC / PharmEasy",
+      "market": "both",
+      "summary": "Lilly's Q3 shows the price side of the volume boom: realized prices fell 15% worldwide, 7% in the US (driven by Zepbound self-pay and savings programs) and 29% outside the US (Mounjaro on China's NRDL). Lilly flagged that 2027 Medicare and Medicaid mix will push net price lower and that about $2bn of 2026 benefits are non-recurring. Live checks on Nov 2 found US cash prices unchanged: Wegovy pill $149/$199/$299, pen $199 intro (first two fills, through Dec 31) then $349, HD 7.2mg $399; TrumpRx still lists four GLP-1 SKUs at $149–299 with Foundayo and Mounjaro absent; Zepbound ladder confirmed at $299 (2.5mg) to $699, or $449 for 7.5mg and above with a 45-day refill. Foundayo cash pricing ($149 to $349, $299 with Journey refill) could only be confirmed on a secondary site. India: no new price cuts or launches in the window; PharmEasy's Nov 1 page counts over 35 generic semaglutide brands with the cheapest around ₹350/week. NexLife's November compounded index was not yet out.",
+      "content": "October 26 - November 2, 2026 pricing.\n\n1. LILLY Q3 REALIZED PRICE (8-K, Oct 29)\n   - Worldwide revenue $24,397M: volume +53%, realized price −15%\n   - US: volume +41%, price −7% ('primarily driven by Zepbound, partially offset by adjustments to estimates for rebates and discounts')\n   - Ex-US: volume +76%, price −29% (Mounjaro China NRDL inclusion)\n   - Q3 included ~$900M of non-recurring benefits incl. favorable rebate/discount estimate adjustments\n   - Call (Zacks/Yahoo, Oct 30): 'broader Medicare and Medicaid coverage in 2027 could shift sales toward channels with lower net realized prices'; ~$2B of 2026 benefits unlikely to repeat; self-pay Zepbound adherence 'close to the covered market'; self-pay expected to lower net price per Rx in 2027\n   - https://finance.yahoo.com/healthcare/articles/lly-q3-earnings-call-highlights-130000647.html\n\n2. LIVE US CASH PRICE CHECKS (Nov 2) — NO CHANGE\n   - wegovy.com/coverage-and-savings/save-on-wegovy.html: pill $149 (1.5mg) / $199 (4mg) / $299 (9mg, 25mg); pen $199/mo intro for first 2 fills at 0.25/0.5mg through Dec 31, 2026, then $349 (0.25–2.4mg); HD 7.2mg $399; commercial copay as little as $25 (max $100/mo savings); Medicare Bridge $50/mo all doses Jul 1, 2026–Dec 31, 2027. Page code dated June 2026.\n   - trumprx.gov: Wegovy Pill $149 (list $1,349); Wegovy Pen $199 (list $1,349); Ozempic $199 (list $1,028); Zepbound $299 (list $1,087). No dose/SKU detail, no as-of date. Foundayo and Mounjaro NOT listed.\n   - zepbound.lilly.com/coverage-savings: 2.5mg $299; 5mg $399; 7.5mg $499 regular / $449 with 45-day refill; 10/12.5/15mg $699 regular / $449 with 45-day refill. Savings card expires Dec 31, 2026; Medicare excluded from savings card; Bridge 'no more than $50/month'. Page's 'max monthly savings' column does not reconcile to the $449 price for 10–15mg (page inconsistency, not a price change).\n   - ozempic.com: no prices shown; lists Ozempic pill 4mg / 9mg doses.\n   - Foundayo: LillyDirect pages blocked. NowPatient (Oct 19): 0.8mg $149; 2.5mg $199; 5.5/9mg $299; 14.5/17.2mg $349 regular, $299 with Journey Program (refill within 45 days). NOT verified on a Lilly-owned page.\n     https://nowpatient.com/blog/foundayo-orforglipron-what-it-does-what-it-costs-and-how-to-access-it\n   - Employer context (Medical Daily, Oct 29): Novo 'has said its self-pay pricing may change in 2027'.\n\n3. STANDING ITEMS (pre-window, still governing)\n   - Novo WAC cut to $675 for Wegovy 2.4mg/7.2mg/25mg tablets, Ozempic and Rybelsus effective Jan 1, 2027 (announced Feb 24, 2026). Wegovy WAC still $1,349.02 as of late October.\n   - Wegovy subscription program (Mar 31): pen $329/$299/$249 for 3/6/12-month; pill 9/25mg $289/$269/$249.\n\n4. INDIA — NO NEW PRICE EVENTS IN WINDOW\n   - Latest consolidated map remains BioPharma APAC (Oct 9): generic floor ₹1,290/month for vials (Natco Semanat, Eris Sundae); Novo Ozempic/Wegovy starting dose ₹1,415/week since Apr 1; Mounjaro KwikPen ₹13,125–25,781 (Aug listings).\n   - PharmEasy GLP-1 hub (updated Nov 1): 'more than 35 generic semaglutide brands'; cheapest ~₹350/week (Natco Semanat cited); Ozempic starter pen from ₹5,660; Wegovy ~₹5,660 to ~₹16,400/month; Rybelsus 3mg from ₹2,972 per 10-tablet strip. Aggregator grade. DOSE COUNT NOT STATED for any brand.\n     https://pharmeasy.in/glp-1/\n   - Dermavue aggregator (updated Oct 19) states no manufacturer price change since Novo's April cut. Low-authority source.\n   - Earnings-call colour: Torrent prices generic semaglutide market at ₹800cr in year one; Cipla declined to give an India semaglutide launch timeline.\n\n5. COMPOUNDED / OTHER MARKETS\n   - NexLife October index (Oct 12, pre-window): compounded tirzepatide median $222/mo (range $129–399), semaglutide $175 (range $79–299). November edition not published as of Nov 2. nexlife.us returned 429; figures from BioSpace mirror.\n   - UK/EU/Canada: no official list-price change found. Canada generic retail points surfaced via an editorial tracker: Apo-Semaglutide CAD $83.22 at a Walmart Quebec pharmacy vs brand Ozempic 0.25mg pen $215–317; Ontario formulary lists Sevmia at CAD $325.048 (snippet grade).\n\n6. NOT VERIFIED (fetch blocked): investor.lilly.com, goodrx.com, lilly.com/lillydirect (header overflow), nexlife.us (429), cms.gov (403). Queries not run due to search cap: Novo Q3 date, 2027 Part D formularies, NHS/NICE October, Canada pCPA, Optum Rx.\n",
+      "tags": [
+        "pricing",
+        "lilly",
+        "realized-price",
+        "zepbound",
+        "wegovy",
+        "trumprx",
+        "foundayo",
+        "india-generics",
+        "november-2026"
+      ]
+    },
     {
       "id": "pricing-entry-019",
       "timestamp": "2026-10-26T00:00:00Z",

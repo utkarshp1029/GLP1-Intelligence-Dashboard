@@ -1,31 +1,31 @@
 {
   "meta": {
     "section_id": "social-sentiment",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 22,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 23,
     "key_metrics": [
       {
-        "label": "US Search: Zepbound",
-        "value": "87 vs Ozempic 60"
+        "label": "GLP-1 Coverage = Job Perk",
+        "value": "73% say it matters (n=545)"
       },
       {
-        "label": "India Search Leader",
-        "value": "Ozempic 67 · Mounjaro 63"
+        "label": "Would Switch Jobs For It",
+        "value": "31% (9amHealth)"
+      },
+      {
+        "label": "Clinicians Fixing Misinfo",
+        "value": "73% weekly (Tebra)"
+      },
+      {
+        "label": "Top Misinfo Source",
+        "value": "TikTok (59%)"
       },
       {
         "label": "Rising US Theme",
-        "value": "Cost + NAION lawsuits"
+        "value": "Employer cuts · ED risk"
       },
       {
-        "label": "Rising India Theme",
-        "value": "Mounjaro side effects"
-      },
-      {
-        "label": "India Breakout",
-        "value": "'natural ozempic'"
-      },
-      {
-        "label": "Reddit Data",
+        "label": "Reddit / Trends Data",
         "value": "Blocked this window"
       }
     ]
@@ -118,6 +118,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "sent-entry-019",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://cnbc.com/make-it/2026/10/29/glp-1-workforce-employer-coverage.html",
+      "source_name": "CNBC / CNBC Make It (9amHealth, Nationwide) / MIT Technology Review / Medscape (Tebra survey, snippet) / AJMC / Simply Slimmer UK roundup",
+      "market": "both",
+      "summary": "The week's sentiment turned on access rather than side effects: employer pullback (WTW's 53% coverage figure) was met by worker-side data showing GLP-1 coverage is now a job perk, with 73% of 545 respondents in a 9amHealth survey calling it important to taking or keeping a job and 31% willing to switch jobs for it, while 51% of users in a Nationwide survey fear choosing between medication and retirement savings. MIT Technology Review argued GLP-1s could worsen a rising eating-disorder burden, citing a 71% rise in anorexia and bulimia incidence since 1990 and a small study in which 30% of eating-disorder patients had used GLP-1s. A Tebra survey of 374 providers, seen only in a Medscape snippet, found 73% correct GLP-1 misinformation at least weekly, with TikTok the top source for 59%. Reddit, TikTok and Google Trends could not be fetched, no new polling (KFF, Gallup, YouGov) appeared, and no Halloween 'Ozempic' or celebrity-disclosure stories were found; a Serena Williams–Arbor item was advertorial and discarded. India consumer-press pieces on generic uptake were not retrievable.",
+      "content": "October 26 - November 2, 2026 social sentiment.\n\n1. ACCESS AS THE DOMINANT THEME\n   - WTW: employer GLP-1 weight-loss coverage 53% (from 57%); 16% considering removal; 8% moved to DTC, 28% considering (CNBC Oct 27; see insurance-reimbursement)\n   - CNBC Make It (Oct 29): 9amHealth survey (n=545) — 73% say GLP-1 coverage important to taking/keeping a job; 31% would switch jobs for it; Nationwide Retirement Institute (Oct) — 51% of users fear choosing between meds and retirement savings; Harvard working paper — unemployed women on GLP-1s 26.9 points more likely to be employed at 18 months; BofA spends $250M+/yr; Walmart to cover GLP-1s for diabetes at $0 in 2027\n   - Andel + Novo employer workaround (AJMC, Nov 1) framed explicitly as a response to the coverage decline\n   - Patient-advocacy organised backlash to employer cuts: none found; coverage was employer/benefits-side\n\n2. MISINFORMATION / MENTAL HEALTH\n   - Tebra survey of 374 providers (Medscape, Oct 27; page 402 — snippet only): 73% correct GLP-1 misinformation at least weekly, 20% daily; TikTok cited by 59% as the source, word of mouth 54%. Article body not verified.\n     https://www.medscape.com/viewarticle/glp-1-misinformation-straining-primary-care-2026a10014jk\n   - MIT Technology Review (Jessica Hamzelou, Oct 30): 'Eating disorders are on the rise. GLP-1s could make things worse' — JAMA Psychiatry: anorexia/bulimia incidence +71% 1990–2023, 18.1M cases 2023, 21.8M projected 2050; small study: 30% of ED patients had used GLP-1s, 10% appeared to misuse; University of Melbourne: ED-affected TikTok users shown 4,343% more 'toxic ED videos'; calls for ED screening before prescribing\n     https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs\n   - AI-generated 'crying women' videos marketing GLP-1 tracker apps (Futurism, Oct 19, pre-window; one Zenit post 240,000+ likes) — reference point only\n\n3. UK\n   - Commons Health Committee report: only 6% of eligible NHS patients to be offered Mounjaro; 'two-tier system' (see news-hub); Guardian piece (~Oct 27) on running marathons while on GLP-1s (via Simply Slimmer roundup, Oct 30)\n\n4. US/INDIA SEARCH AND PLATFORM DATA — NOT OBTAINABLE THIS WINDOW\n   - Reddit (r/Ozempic, r/Mounjaro, r/Zepbound, r/semaglutide, r/tirzepatidecompound, r/India): all fetches refused (www and old.); no thread-level data, not even snippets\n   - TikTok/Instagram native trends: not fetchable; only the Medscape/Futurism press coverage above\n   - Google Trends (Ozempic/Mounjaro/Wegovy/Foundayo): no retrievable data; no press piece citing search spikes. Foundayo consumer-interest proxy: Lilly Q3 — $184M revenue, ~4 in 10 US oral-obesity starts, Rx doubled QoQ\n   - Prior-window search-index metrics (Zepbound 87 vs Ozempic 60; India Ozempic 67 · Mounjaro 63) are carried forward unchanged, not refreshed\n\n5. NO NEWS IN WINDOW (checked)\n   - Celebrity disclosures: none; no Oprah or Bollywood items. Serena Williams/Arbor (Archynewsy, Oct 30) is an advertorial rehash of 2025 Ro disclosures with no primary source — discarded\n   - Halloween 2026 'Ozempic' costume/candy stories: none found (all costume results were 2024); follow-up search did not run\n   - Polling: no new KFF, Gallup or YouGov GLP-1 poll dated in window (Gallup's 11% current-use figure is May–June fieldwork, updated Sep 8; cited by 24/7 Wall St as 11% in 2026 vs 3% in 2024)\n   - YouGov BrandIndex; NYT/Atlantic/Guardian 'Ozempic era' features; India consumer pieces (ET, Mint, Indian Express, HT) on generic uptake: searches did not run (search cap) or sources blocked\n",
+      "tags": [
+        "sentiment",
+        "employer-coverage",
+        "job-perk",
+        "eating-disorders",
+        "misinformation",
+        "tiktok",
+        "reddit-blocked",
+        "november-2026"
+      ]
+    },
     {
       "id": "sent-entry-018",
       "timestamp": "2026-10-26T00:00:00Z",

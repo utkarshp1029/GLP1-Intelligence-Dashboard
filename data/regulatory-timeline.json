@@ -1,20 +1,24 @@
 {
   "meta": {
     "section_id": "regulatory-timeline",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 32,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 33,
     "key_metrics": [
       {
-        "label": "Foundayo EU (CHMP)",
-        "value": "Positive · Oct 15"
+        "label": "Sun Oral Sema (India)",
+        "value": "CDSCO approved (T2D)"
       },
       {
-        "label": "Oral Wegovy India",
-        "value": "SEC deferred (needs BE)"
+        "label": "Sun Launch Gate",
+        "value": "Delhi HC · Nov 4"
       },
       {
-        "label": "Retatrutide Status",
-        "value": "Drug, not biologic (FDA)"
+        "label": "Foundayo EU (EC)",
+        "value": "Pending · 'by year end'"
+      },
+      {
+        "label": "Foundayo T2D (FDA)",
+        "value": "Action expected Q4"
       },
       {
         "label": "CagriSema FDA",
@@ -22,15 +26,11 @@
       },
       {
         "label": "Retatrutide US Filing",
-        "value": "Early 2027 (guided)"
+        "value": "Q1 2027 (unchanged)"
       },
       {
         "label": "FDA GLP-1 Approvals",
         "value": "None in window"
-      },
-      {
-        "label": "India Oral Sema Trials",
-        "value": "DRL + Torrent cleared"
       }
     ]
   },
@@ -136,6 +136,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "reg-entry-025",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-gets-cdsco-nod-for-generic-semaglutide-pill-182463",
+      "source_name": "Medical Dialogues (CDSCO) / CDSCO SEC minutes / Lilly Q3 call / EMA (Foundayo EPAR page, PRAC highlights) / FDA newsroom / MHRA / Novo 6-K / BioSpectrum (NPPA)",
+      "market": "both",
+      "summary": "India produced the window's one regulatory decision: CDSCO approved Sun Pharma's generic oral semaglutide tablets (3/7/14mg) for type 2 diabetes, reported Nov 1 via Medical Dialogues citing Economic Times; the approval letter was not retrieved, no brand or launch date was given, and a Delhi High Court order of Aug 11 requires Sun to seek permission before launching (next listed Nov 4). CDSCO's expert committee minutes for Oct 22, released Oct 29, had no GLP-1 items; the prior meeting's clearance of Dr Reddy's oral semaglutide trial and Lilly's orforglipron Phase III was already tracked. Lilly said FDA action on Foundayo for T2D is expected in Q4 and the EU decision 'hopefully by year end'; EMA's Foundayo page still shows only the Oct 15 CHMP opinion. The CagriSema and Ozempic-pill FDA decisions remain guided to Q4 2026 with no PDUFA date. FDA, MHRA, PRAC and NPPA had no GLP-1 actions. Retatrutide's BLA plan is unchanged at Q1 2027.",
+      "content": "October 26 - November 2, 2026 regulatory timeline.\n\n1. INDIA — SUN PHARMA ORAL SEMAGLUTIDE CDSCO APPROVAL (reported Nov 1)\n   - Approval to manufacture and market once-daily semaglutide tablets 3mg / 7mg / 14mg (Rybelsus-equivalent) for type 2 diabetes only\n   - Manufacture at Kamrup, Assam; API from Zhongmeihuadong Pharmaceutical (Hangzhou, China)\n   - No brand name, price or launch date; secondary report (Medical Dialogues citing Economic Times); CDSCO letter not retrieved\n   - LAUNCH GATE: Delhi HC (Aug 11) ordered Sun to seek court permission before launching tablets (Novo SNAC formulation patent); next listed Nov 4 (see patents-ip). Torrent launched oral generics first after a non-infringement finding; Novo has a parallel suit against Torrent.\n   - This is an APPROVAL, not a launch, and not an obesity indication.\n\n2. INDIA — CDSCO SEC (ENDOCRINOLOGY & METABOLISM) MINUTES\n   - Meeting Oct 22 (released Oct 29): somatropin (Reliance), insulin degludec/aspart (G.C. Chemie Pharmie, Mankind), an inosine FDC — no GLP-1 items\n     https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadCommitteeFiles/Recommendations%20Endocrinology%20and%20Metabolism%2022.10.2026.pdf\n   - Meeting Oct 7 (released Oct 23, already in reg-entry-024): Dr Reddy's semaglutide tablets 1.5/4/9mg Phase I/III vs Rybelsus in T2D; Lilly orforglipron Phase III protocol J2A-MC-GZGY; Novo's request to waive the equal T1D/T2D enrolment condition in the Awiqli PMS study declined\n   - No endocrinologist-only or similar prescribing conditions in either set of minutes\n   - Public notices Oct 26–28: WHO falsified Defibrotide alert, raw-material testing compliance, ONDLS solvent monitoring, Central Compounding Authority order — nothing on GLP-1s. NSQ alerts page: latest Sep 18. NPPA: no semaglutide/tirzepatide pricing action (only the Oct 17 30% trade-margin cap on 137 anti-cancer drugs, effective Nov 9).\n   - Adjacent: DCGI suspended Tekno Midas Aesthetics' import registration for FatX (deoxycholic acid 'fat-dissolving' injection) to July 2027 over unauthorised fat-reduction claims (notice Oct 28). Not a GLP-1.\n     https://medicaldialogues.in/news/industry/pharma/cdsco/dcgi-suspends-fatx-import-registration-till-july-2027-over-unauthorised-fat-dissolving-claims-182212\n\n3. LILLY — FOUNDAYO / RETATRUTIDE STATUS (Q3 call Oct 29)\n   - Foundayo T2D: 'under review' in the US, 'regulatory action in Q4' expected\n   - Foundayo launched in 4 ex-US markets (UAE, UK, Saudi Arabia, Mexico); under review in >40 additional countries; all major markets 2027\n   - EU: CHMP positive opinion (Oct 15) 'should hopefully result in a regulatory approval by year end'; EMA Foundayo page (updated Oct 16) still shows only the CHMP opinion; no EC decision in window (Union Register fetch failed, so a very late decision cannot be fully excluded)\n     https://www.ema.europa.eu/en/medicines/human/EPAR/foundayo\n   - UK promotion was constrained by MHRA pre-vetting until October\n   - Retatrutide: TRANSCEND-T2D-2 release contains no submission statement; BLA/NDA plan unchanged at Q1 2027 (Jul 23 guidance). Pathway note: FDA ruled Oct 2 that retatrutide is a drug, not a biologic (reg-entry-024); Lilly's 7th Circuit appeal continues. A search summary claimed an Oct 29 Lilly statement on a retatrutide 'black market' — investor.lilly.com returned 403 and it does not appear on PR Newswire; NOT verified.\n\n4. NOVO — PENDING US DECISIONS (Q2 6-K)\n   - CagriSema (US) and oral semaglutide 25mg 'Ozempic pill' (US): Q4 2026 expected; Wegovy pill MASH (US): Q1 2027; no PDUFA dates disclosed; Q3 report Nov 4\n     https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000023/caq22026.htm\n   - No Novo press releases in window (latest Oct 23 Awiqli pediatric)\n\n5. EU / UK / US AGENCIES — NO GLP-1 ACTIONS\n   - EMA PRAC Oct 26–29 highlights: Deanxit review, immunoglobulin signal; no GLP-1 items (signal recommendations from the Sep 28–Oct 1 meeting, dated Oct 26, are in safety-signals)\n     https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026\n   - FDA newsroom Oct 24–Nov 2: only an RRP immunotherapy approval (Oct 30); no GLP-1 approvals, CRLs or AdComs\n   - MHRA news Oct 24–Nov 2: no GLP-1 items\n   - HHS peptide enforcement-discretion policy (FR Oct 30) covers six non-GLP-1 peptides — see compounding-pharmacy\n\n6. CHINA\n   - Hengrui: CDE accepted NDAs for HRS-7535 tablets (oral small-molecule GLP-1) in T2D and long-term weight management, and ribupatide (GLP-1/GIP) injection in T2D — filing acceptances, not approvals (Oct 27)\n   - NMPA: no GLP-1 approvals in window\n\n7. NOT VERIFIED / NOT SEARCHED\n   - Health Canada, Japan PMDA, WHO: primary pages not fetched; absence of news rests on pre-cap search results\n   - EU Union Register: connection reset\n",
+      "tags": [
+        "regulatory",
+        "cdsco",
+        "sun-pharma",
+        "oral-semaglutide",
+        "foundayo",
+        "ema",
+        "fda",
+        "cagrisema",
+        "retatrutide",
+        "hengrui",
+        "november-2026"
+      ]
+    },
     {
       "id": "reg-entry-024",
       "timestamp": "2026-10-26T00:00:00Z",

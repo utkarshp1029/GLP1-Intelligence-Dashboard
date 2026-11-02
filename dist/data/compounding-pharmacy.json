@@ -1,32 +1,32 @@
 {
   "meta": {
     "section_id": "compounding-pharmacy",
-    "last_updated": "2026-10-26T00:00:00Z",
-    "entry_count": 20,
+    "last_updated": "2026-11-02T00:00:00Z",
+    "entry_count": 21,
     "key_metrics": [
+      {
+        "label": "HHS Peptide Policy",
+        "value": "6 peptides · no GLP-1s"
+      },
+      {
+        "label": "Policy Comments Due",
+        "value": "~Nov 13 (2 wks)"
+      },
       {
         "label": "Chinese API Plants",
         "value": "2 on import alert"
       },
       {
-        "label": "Apothecary Recall",
-        "value": "22 lots · Class II"
+        "label": "FDA GLP-1 Letters (Oct)",
+        "value": "None posted"
       },
       {
-        "label": "Reta Poison Exposures",
-        "value": "862 in Q3 (vs 460 Q2)"
+        "label": "Compounded AE Reports",
+        "value": "990 sema · 730+ tirz"
       },
       {
-        "label": "Reta Death Reports",
-        "value": "2 (FAERS, unverified)"
-      },
-      {
-        "label": "UK Fake Pen Seizure",
-        "value": ">12,000 pens · ~£2m"
-      },
-      {
-        "label": "Lilly Reta Suits (Oct)",
-        "value": "5 new · 2 settled"
+        "label": "Compounded Tirz Median",
+        "value": "$222/mo (NexLife Oct)"
       },
       {
         "label": "503B Bulks Exclusion",
@@ -75,6 +75,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "comp-entry-018",
+      "timestamp": "2026-11-02T00:00:00Z",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+      "source_name": "Federal Register (govinfo) / RAPS / pharmaphorum / STAT / FDA warning letters / FDA Import Alert 66-40 and 66-80 / The Regulatory Review / Law360 (Strive) / FDA GLP-1 concerns page",
+      "market": "us",
+      "summary": "The compounding headline is a policy, not an enforcement action: HHS published an enforcement-discretion policy (91 FR 68526, Oct 30; docket HHS-OASH-2026-0496) under which it does not intend to act against 503A pharmacies or physicians compounding with six peptide bulk substances (BPC-157, Epitalon, KPV, MOTS-c, Semax, TB-500 per RAPS and pharmaphorum) pending bulks-list rulemaking, subject to FDA-registered sourcing, a valid certificate of analysis and serious adverse-event reporting. GLP-1s and 503B facilities are excluded; comments close two weeks after publication; Public Citizen wants it rescinded. FDA's warning letters posted Oct 27 contain no compounding or GLP-1 letters; the last 'essentially a copy' letter remains Empower (Sep 18). Import Alert 66-40 was republished Oct 27 with no new Chinese GLP-1 API firms beyond Chengdu Shengnuo (Sep 19) and Nanjing Chengong (Oct 1), the two in the Bloomberg mold story. FDA's compounded-GLP-1 adverse-event counts are unchanged (990 semaglutide, 730+ tirzepatide as of May 31). No Novo or Lilly compounder lawsuit rulings, settlements or filings were found; the one Novo–Lilly ruling (ad injunction denied Oct 26) is in patents-ip.",
+      "content": "October 26 - November 2, 2026 compounding pharmacy.\n\n1. HHS PEPTIDE ENFORCEMENT-DISCRETION POLICY (FR Oct 30; filed Oct 28)\n   - 91 FR 68526–68527; docket HHS-OASH-2026-0496; RIN 0910-ZD94; signed by Secretary Kennedy\n   - Draft interim policy: HHS 'does not intend to take enforcement action against a State-licensed pharmacy, Federal facility, or licensed physician' compounding with peptide bulk substances in Appendix A, pending 503A bulks-list rulemaking; HHS 'may revisit' if a safety signal arises\n   - Appendix A is in the HHS PDF (returned 403); RAPS/pharmaphorum identify the six as BPC-157, Epitalon, KPV, MOTS-c, Semax, TB-500; conditions: FDA-registered source, valid COA, serious-AE reporting\n   - Semaglutide / tirzepatide / retatrutide not mentioned anywhere; 503B outsourcing facilities not covered\n   - Comments via regulations.gov until two weeks after publication (~Nov 13)\n   - Reactions: Public Citizen calls for rescission; CSPI (Lurie) JAMA Viewpoint says it undermines FDA approval; Politico (via RAPS) reports states may not follow\n   - https://www.raps.org/resource/hhs-will-permit-compounding-of-six-peptides-ahead-of-formal-rulemaking.html\n   - https://pharmaphorum.com/news/hhs-doubles-down-controversial-peptides-plan\n   - https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/\n\n2. FDA ENFORCEMENT — NOTHING NEW\n   - Warning letters posted Oct 27 (10 letters, issue dates Aug 12–Oct 23): devices, OTC/CGMP, unlicensed biologics (Calibrate IV Hydration), Amgen promotional claims; no 503A/503B, telehealth or GLP-1 letters. Sanrace Biotechnology (China) is OTC drugs, not peptides.\n     https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters\n   - Most recent GLP-1 'essentially a copy' letter remains Empower Pharmacy, Sep 18, 2026\n   - Import Alert 66-40 (republished Oct 27): latest China red-list additions Nanjing Chengong Pharmaceutical (Oct 1), Shenzhen Benliju (Sep 30), Sanrace (Sep 21), Chengdu Shengnuo Biopharm (Sep 19); nothing dated Oct 26–Nov 2. FDA listings do not name semaglutide/tirzepatide; Chengdu Shengnuo and Nanjing Chengong are the two firms in Bloomberg's Oct 15 'black mold / falsified records' story. No follow-up enforcement surfaced.\n     https://www.accessdata.fda.gov/cms_ia/importalert_189.html\n   - Import Alert 66-80 green list (revised Oct 9, pre-window): added orforglipron API (3 manufacturers) and orforglipron SDD (1); firm names redacted\n   - FDA GLP-1 concerns page: 'current as of 10/01/2026'; 990 semaglutide / >730 tirzepatide compounded AE reports as of May 31, 2026 — unchanged\n     https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss\n   - 503B bulks-list final decision on semaglutide/tirzepatide/liraglutide (proposed Apr 30): nothing found; FDA 503B bulks page 404\n\n3. LITIGATION — NO COMPOUNDER RULINGS IN WINDOW\n   - Oct 23 (pre-window): W.D. Tex. (Judge Alvarez) denied Strive Specialties' bid to undo the August with-prejudice dismissal of its antitrust suit vs Lilly/Novo over telehealth exclusivity (No. 5:26-CV-1055)\n     https://www.law360.com/amp/articles/2542047\n   - Oct 26: D.N.J. denied Novo's PI against Lilly comparative ads (Lanham Act; not a compounding case) — see patents-ip\n   - Novo v. Hims status, state boards of pharmacy, state legislation: NOT searched (search cap)\n   - OFA litigation: nothing after the Fifth Circuit's late-August affirmance of FDA's shortage-list removals\n\n4. COMMENTARY / CONTEXT\n   - Penn Regulatory Review seminar 'GLP-1 Compounding After Drug Shortages' (Oct 31): no new rulings; reiterates the Apothecary Pharma Class II recall (22 lots tirzepatide 18mg/mL, NDC 85091-001-18) and an Expert Opinion on Drug Safety study (Lilly authors) finding a tirzepatide–B12 adduct impurity and wide potency variation in compounded samples\n     https://www.theregreview.org/2026/10/31/seminar-glp-1-compounding-after-drug-shortages/\n   - 20 state AGs' Sep 17 letter to Sec. Rubio on Chinese-sourced GLP-1/peptide APIs (reported Oct 21, pre-window) criticises the green-list approach\n   - NexLife October index (Oct 12, pre-window; 21 programs): compounded tirzepatide median $222/mo (range $129–399; 14 programs), semaglutide $175 (range $79–299; 16 programs). November edition not yet published.\n   - Hims/Ro compounded product changes: nothing in window\n   - India: no CDSCO raids or unlicensed-seller actions on GLP-1s; the DCGI FatX suspension (Oct 28) is the only weight-loss-adjacent action (see regulatory-timeline)\n",
+      "tags": [
+        "compounding",
+        "hhs",
+        "peptides",
+        "503a",
+        "federal-register",
+        "fda-enforcement",
+        "import-alert",
+        "november-2026"
+      ]
+    },
     {
       "id": "comp-entry-017",
       "timestamp": "2026-10-26T00:00:00Z",
